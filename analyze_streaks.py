@@ -291,23 +291,29 @@ def main() -> None:
         "  Seasons with the most total streaks (win or loss) at or above each length, plus the "
         f"current {CURRENT_SEASON} tally for context."
     )
-    for threshold in THRESHOLDS:
+    for index, threshold in enumerate(THRESHOLDS):
+        if index > 0:
+            print()
+        print(f"{threshold}+ win/loss streaks:")
+        print()
+
         counts = year_counts[threshold]
         if not counts:
-            print(f"  {threshold}+: No data available")
+            print("* Record: No data available")
+            print(f"* {CURRENT_SEASON}: No data")
             continue
 
         max_count = max(counts.values())
         winning_years = sorted(year for year, count in counts.items() if count == max_count)
         years_formatted = ", ".join(str(year) for year in winning_years)
-        print(f"  {threshold}+: {years_formatted} ({max_count} streaks)")
+        print(f"* Record: {years_formatted} ({max_count} streaks)")
 
         current_count = counts.get(CURRENT_SEASON)
         distribution_values = [float(value) for value in counts.values()]
         if current_count is not None:
             annotation = top_rank_annotation(float(current_count), distribution_values)
             annotation_text = f" — {annotation}" if annotation else ""
-            print(f"    {CURRENT_SEASON}: {current_count} streaks{annotation_text}")
+            print(f"* {CURRENT_SEASON}: {current_count} streaks{annotation_text}")
             current_percentile = percentile_rank(float(current_count), distribution_values)
             chart_lines = build_distribution_chart(
                 distribution_values,
@@ -316,11 +322,11 @@ def main() -> None:
                 current_percentile,
             )
             if chart_lines:
-                print("    Distribution:")
+                print("  Distribution:")
                 for line in chart_lines:
-                    print(f"      {line}")
+                    print(f"    {line}")
         else:
-            print(f"    {CURRENT_SEASON}: No data")
+            print(f"* {CURRENT_SEASON}: No data")
 
     base_threshold = THRESHOLDS[0]
     base_totals = team_streak_totals_by_threshold[base_threshold]

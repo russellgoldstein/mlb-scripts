@@ -23,6 +23,24 @@ def build_markdown(raw_text: str) -> str:
     markdown_lines.append("")
 
     in_code_block = False
+    last_was_heading = False
+    section_type_lookup = {
+        "yearly streak counts": "win/loss streaks",
+        "highest percentage of games in long streaks": "win/loss streaks",
+        "balanced win/loss streak counts": "matched win/loss streaks",
+        "win streak dominance across thresholds": "win streaks",
+    }
+    current_section_type = "win/loss streaks"
+
+    record_pattern = re.compile(r"^record:\s*(?P<label>.+?)\s*\((?P<count>\d+\s+streaks)\)\s*$", re.IGNORECASE)
+
+    def normalize_record(text: str) -> str:
+        match = record_pattern.match(text)
+        if not match:
+            return text
+        label = match.group("label").strip()
+        count = match.group("count").strip()
+        return f"Record: {count} ({label})"
 
     for line in lines:
         raw = line.rstrip("\n")
@@ -32,6 +50,7 @@ def build_markdown(raw_text: str) -> str:
         if in_code_block:
             if stripped and indent > 2:
                 markdown_lines.append(raw)
+                last_was_heading = False
                 continue
 
             markdown_lines.append("```")
@@ -39,12 +58,17 @@ def build_markdown(raw_text: str) -> str:
             if not stripped:
                 if markdown_lines and markdown_lines[-1] != "":
                     markdown_lines.append("")
+                last_was_heading = False
                 continue
             # fall through to regular handling for the current line
 
         if not stripped:
+            if last_was_heading:
+                last_was_heading = False
+                continue
             if markdown_lines and markdown_lines[-1] != "":
                 markdown_lines.append("")
+            last_was_heading = False
             continue
 
         lower = stripped.lower()
@@ -56,36 +80,88 @@ def build_markdown(raw_text: str) -> str:
             markdown_lines.append("")
             markdown_lines.append("```text")
             in_code_block = True
+            last_was_heading = False
+            continue
+
+        threshold_match = None
+        thresh = None
+        remainder = ""
+        if indent <= 4:
+            threshold_match = re.match(r"(?P<thresh>\d+\+)(?P<rest>.*)", stripped)
+            if threshold_match:
+                thresh = threshold_match.group("thresh")
+                remainder = threshold_match.group("rest")
+
+        if thresh:
+            if markdown_lines and markdown_lines[-1] != "":
+                markdown_lines.append("")
+            last_was_heading = False
+            rest = remainder.strip()
+            has_explicit_label = rest.startswith(":")
+            if has_explicit_label:
+                rest = rest.lstrip(":").strip()
+            heading_type = current_section_type
+            rest_no_colon = rest.rstrip(":").strip()
+            rest_is_type = (
+                bool(rest_no_colon)
+                and rest_no_colon.lower().endswith("streaks")
+                and "(" not in rest_no_colon
+                and not any(ch.isdigit() for ch in rest_no_colon)
+            )
+            if rest_is_type:
+                heading_type = rest_no_colon
+                rest = ""
+            heading_type = (heading_type or "win/loss streaks").rstrip(":").strip()
+            heading_body = f"{thresh} {heading_type}".strip()
+            if not heading_body.endswith(":"):
+                heading_body = f"{heading_body}:"
+            markdown_lines.append(f"### {heading_body}")
+            last_was_heading = True
+            if rest:
+                if rest.lower().startswith("record:"):
+                    rest = normalize_record(rest)
+                markdown_lines.append(f"- Record: {rest}")
+                last_was_heading = False
             continue
 
         if indent == 0:
+            if stripped.startswith("* "):
+                if (
+                    markdown_lines
+                    and markdown_lines[-1] != ""
+                    and not markdown_lines[-1].startswith("- ")
+                    and not markdown_lines[-1].startswith("#")
+                ):
+                    markdown_lines.append("")
+                content = stripped[2:].strip()
+                if content.lower().startswith("record:"):
+                    content = normalize_record(content)
+                markdown_lines.append(f"- {content}")
+                last_was_heading = False
+                continue
+
+            heading_text = stripped.rstrip(":")
             if markdown_lines and markdown_lines[-1] != "":
                 markdown_lines.append("")
-            markdown_lines.append(f"## {stripped.rstrip(':')}")
+            markdown_lines.append(f"## {heading_text}")
+            current_section_type = section_type_lookup.get(
+                heading_text.lower(),
+                "win/loss streaks",
+            )
+            last_was_heading = True
             continue
 
-        if indent <= 4:
-            threshold_match = re.match(r"(?P<thresh>\d+\+): (?P<rest>.*)", stripped)
-            if threshold_match:
-                if markdown_lines and markdown_lines[-1] != "":
-                    markdown_lines.append("")
-                thresh = threshold_match.group("thresh")
-                rest = threshold_match.group("rest")
-                markdown_lines.append(f"**{thresh}** {rest}")
-                continue
-
-            if (
-                re.match(r"\d{4}: ", stripped)
-                or stripped.startswith("2025")
-                or stripped.lower().startswith("current")
-            ):
-                markdown_lines.append(f"- {stripped}")
-                continue
-
-            markdown_lines.append(stripped)
+        if (
+            re.match(r"\d{4}: ", stripped)
+            or stripped.startswith("2025")
+            or stripped.lower().startswith("current")
+        ):
+            markdown_lines.append(f"- {stripped}")
+            last_was_heading = False
             continue
 
         markdown_lines.append(stripped)
+        last_was_heading = False
 
     if in_code_block:
         markdown_lines.append("```")
