@@ -1,0 +1,131 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,WIN,5,1970-04-07,1970-04-12
+California Angels,LOSS,5,1970-06-13,1970-06-19
+California Angels,LOSS,5,1970-07-27,1970-08-01
+California Angels,LOSS,9,1970-09-04,1970-09-12
+California Angels,WIN,5,1970-09-27,1970-10-01
+Baltimore Orioles,WIN,5,1970-04-07,1970-04-11
+Baltimore Orioles,WIN,5,1970-04-24,1970-04-29
+Baltimore Orioles,WIN,8,1970-05-05,1970-05-12
+Baltimore Orioles,WIN,5,1970-06-19,1970-06-22
+Baltimore Orioles,WIN,5,1970-07-31,1970-08-05
+Baltimore Orioles,WIN,6,1970-08-15,1970-08-21
+Baltimore Orioles,WIN,7,1970-09-08,1970-09-15
+Baltimore Orioles,WIN,11,1970-09-20,1970-10-01
+Boston Red Sox,WIN,5,1970-04-27,1970-05-01
+Boston Red Sox,LOSS,5,1970-05-10,1970-05-15
+Boston Red Sox,LOSS,5,1970-05-20,1970-05-24
+Boston Red Sox,WIN,5,1970-06-02,1970-06-07
+Boston Red Sox,WIN,6,1970-07-01,1970-07-05
+Boston Red Sox,LOSS,5,1970-09-11,1970-09-15
+Boston Red Sox,WIN,7,1970-09-16,1970-09-22
+Boston Red Sox,WIN,5,1970-09-24,1970-09-29
+Chicago Cubs,WIN,11,1970-04-14,1970-04-27
+Chicago Cubs,LOSS,6,1970-04-30,1970-05-07
+Chicago Cubs,LOSS,12,1970-06-21,1970-06-30
+Cincinnati Reds,WIN,8,1970-04-28,1970-05-07
+Cincinnati Reds,WIN,5,1970-05-27,1970-06-02
+Cincinnati Reds,WIN,5,1970-06-05,1970-06-10
+Cincinnati Reds,WIN,5,1970-06-23,1970-06-28
+Cleveland Indians,LOSS,5,1970-05-24,1970-05-27
+Cleveland Indians,WIN,5,1970-05-31,1970-06-04
+Cleveland Indians,WIN,7,1970-06-13,1970-06-20
+Cleveland Indians,WIN,5,1970-09-10,1970-09-15
+Detroit Tigers,WIN,8,1970-04-12,1970-04-24
+Detroit Tigers,LOSS,6,1970-05-10,1970-05-19
+Detroit Tigers,WIN,5,1970-07-16,1970-07-19
+Detroit Tigers,LOSS,5,1970-08-25,1970-08-29
+Detroit Tigers,LOSS,7,1970-09-17,1970-09-24
+Houston Astros,LOSS,8,1970-04-20,1970-04-29
+Houston Astros,LOSS,5,1970-05-19,1970-05-23
+Houston Astros,LOSS,5,1970-06-14,1970-06-19
+Houston Astros,LOSS,5,1970-07-04,1970-07-08
+Houston Astros,LOSS,5,1970-07-29,1970-08-02
+Houston Astros,WIN,6,1970-08-25,1970-08-30
+Houston Astros,LOSS,6,1970-09-18,1970-09-23
+Houston Astros,WIN,7,1970-09-25,1970-10-01
+Kansas City Royals,LOSS,7,1970-04-21,1970-04-29
+Kansas City Royals,LOSS,6,1970-06-02,1970-06-07
+Kansas City Royals,LOSS,6,1970-07-12,1970-07-19
+Kansas City Royals,LOSS,5,1970-09-02,1970-09-06
+Los Angeles Dodgers,LOSS,5,1970-04-07,1970-04-11
+Los Angeles Dodgers,WIN,5,1970-04-18,1970-04-25
+Los Angeles Dodgers,WIN,6,1970-06-22,1970-06-28
+Los Angeles Dodgers,WIN,7,1970-07-01,1970-07-08
+Los Angeles Dodgers,WIN,6,1970-08-09,1970-08-15
+Los Angeles Dodgers,LOSS,5,1970-09-08,1970-09-12
+Montreal Expos,LOSS,6,1970-04-14,1970-04-24
+Montreal Expos,LOSS,11,1970-05-23,1970-06-04
+Montreal Expos,WIN,5,1970-06-28,1970-07-02
+Montreal Expos,LOSS,5,1970-07-05,1970-07-08
+Montreal Expos,WIN,5,1970-08-16,1970-08-22
+New York Mets,LOSS,5,1970-06-02,1970-06-07
+New York Mets,WIN,5,1970-06-22,1970-06-25
+New York Mets,WIN,7,1970-07-03,1970-07-09
+New York Mets,LOSS,5,1970-07-10,1970-07-17
+Oakland Athletics,LOSS,5,1970-04-26,1970-04-30
+Oakland Athletics,WIN,5,1970-06-28,1970-07-02
+Oakland Athletics,LOSS,5,1970-07-05,1970-07-10
+Oakland Athletics,WIN,7,1970-07-20,1970-07-28
+Oakland Athletics,WIN,5,1970-08-09,1970-08-12
+Oakland Athletics,LOSS,6,1970-08-21,1970-08-27
+Oakland Athletics,WIN,8,1970-09-01,1970-09-07
+Pittsburgh Pirates,LOSS,7,1970-04-29,1970-05-06
+Pittsburgh Pirates,WIN,7,1970-06-22,1970-06-28
+Pittsburgh Pirates,WIN,5,1970-08-04,1970-08-07
+Pittsburgh Pirates,LOSS,6,1970-08-25,1970-08-30
+Pittsburgh Pirates,WIN,5,1970-09-04,1970-09-07
+Pittsburgh Pirates,WIN,5,1970-09-24,1970-09-29
+San Diego Padres,LOSS,6,1970-04-22,1970-04-28
+San Diego Padres,LOSS,8,1970-06-20,1970-06-28
+San Diego Padres,LOSS,6,1970-09-05,1970-09-09
+San Diego Padres,WIN,5,1970-09-09,1970-09-13
+San Francisco Giants,WIN,5,1970-08-28,1970-09-01
+St. Louis Cardinals,LOSS,5,1970-05-03,1970-05-09
+St. Louis Cardinals,LOSS,8,1970-07-06,1970-07-16
+St. Louis Cardinals,LOSS,8,1970-07-20,1970-07-26
+St. Louis Cardinals,WIN,6,1970-07-30,1970-08-04
+Washington Senators,LOSS,9,1970-05-06,1970-05-16
+Washington Senators,LOSS,5,1970-06-04,1970-06-09
+Washington Senators,LOSS,5,1970-06-18,1970-06-21
+Washington Senators,WIN,7,1970-08-11,1970-08-17
+Washington Senators,LOSS,14,1970-09-19,1970-10-01
+Minnesota Twins,WIN,7,1970-05-13,1970-05-20
+Minnesota Twins,WIN,5,1970-06-29,1970-07-03
+Minnesota Twins,WIN,5,1970-07-05,1970-07-09
+Minnesota Twins,LOSS,9,1970-08-09,1970-08-15
+Minnesota Twins,WIN,5,1970-09-04,1970-09-07
+Philadelphia Phillies,LOSS,7,1970-04-11,1970-04-18
+Philadelphia Phillies,WIN,6,1970-04-22,1970-04-28
+Philadelphia Phillies,LOSS,10,1970-05-07,1970-05-18
+Philadelphia Phillies,LOSS,5,1970-07-03,1970-07-07
+Philadelphia Phillies,WIN,5,1970-07-16,1970-07-19
+Philadelphia Phillies,LOSS,5,1970-08-03,1970-08-06
+Philadelphia Phillies,LOSS,6,1970-08-15,1970-08-20
+Philadelphia Phillies,WIN,5,1970-08-27,1970-09-01
+Philadelphia Phillies,LOSS,6,1970-09-02,1970-09-06
+Philadelphia Phillies,LOSS,7,1970-09-09,1970-09-16
+Atlanta Braves,LOSS,6,1970-04-16,1970-04-23
+Atlanta Braves,WIN,11,1970-04-26,1970-05-09
+Atlanta Braves,LOSS,7,1970-06-22,1970-06-28
+Atlanta Braves,LOSS,6,1970-08-27,1970-09-01
+Atlanta Braves,LOSS,5,1970-09-23,1970-09-27
+Chicago White Sox,LOSS,5,1970-05-22,1970-05-25
+Chicago White Sox,LOSS,6,1970-08-13,1970-08-18
+Chicago White Sox,LOSS,8,1970-08-30,1970-09-07
+Chicago White Sox,LOSS,7,1970-09-25,1970-10-01
+New York Yankees,WIN,5,1970-04-30,1970-05-03
+New York Yankees,WIN,5,1970-06-02,1970-06-06
+New York Yankees,WIN,6,1970-06-09,1970-06-16
+New York Yankees,WIN,6,1970-07-27,1970-08-01
+New York Yankees,WIN,5,1970-09-04,1970-09-08
+New York Yankees,LOSS,5,1970-09-09,1970-09-13
+New York Yankees,WIN,6,1970-09-18,1970-09-23
+Milwaukee Brewers,LOSS,7,1970-04-13,1970-04-22
+Milwaukee Brewers,LOSS,9,1970-04-27,1970-05-05
+Milwaukee Brewers,WIN,5,1970-05-06,1970-05-10
+Milwaukee Brewers,LOSS,7,1970-05-22,1970-05-29
+Milwaukee Brewers,LOSS,5,1970-06-02,1970-06-05
+Milwaukee Brewers,LOSS,5,1970-07-01,1970-07-04
+Milwaukee Brewers,LOSS,5,1970-08-04,1970-08-07
+Milwaukee Brewers,LOSS,6,1970-08-17,1970-08-23

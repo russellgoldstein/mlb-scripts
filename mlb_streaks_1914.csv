@@ -1,0 +1,94 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,6,1914-05-30,1914-06-05
+St. Louis Browns,LOSS,6,1914-07-27,1914-08-01
+St. Louis Browns,LOSS,6,1914-08-22,1914-08-26
+Boston Red Sox,WIN,5,1914-06-06,1914-06-10
+Boston Red Sox,LOSS,5,1914-07-04,1914-07-09
+Boston Red Sox,WIN,5,1914-07-10,1914-07-15
+Boston Red Sox,WIN,5,1914-07-22,1914-07-27
+Boston Red Sox,WIN,6,1914-08-15,1914-08-24
+Boston Red Sox,WIN,6,1914-09-02,1914-09-07
+Chicago Cubs,WIN,5,1914-05-31,1914-06-05
+Chicago Cubs,WIN,6,1914-06-19,1914-06-27
+Chicago Cubs,WIN,5,1914-06-28,1914-07-02
+Chicago Cubs,WIN,9,1914-07-15,1914-07-25
+Chicago Cubs,LOSS,5,1914-07-31,1914-08-05
+Chicago Cubs,WIN,5,1914-09-05,1914-09-08
+Chicago Cubs,LOSS,7,1914-09-24,1914-10-02
+Cincinnati Reds,WIN,5,1914-04-25,1914-04-29
+Cincinnati Reds,WIN,6,1914-05-13,1914-05-18
+Cincinnati Reds,WIN,6,1914-05-26,1914-05-31
+Cincinnati Reds,LOSS,7,1914-06-19,1914-06-27
+Cincinnati Reds,LOSS,7,1914-07-17,1914-07-23
+Cincinnati Reds,WIN,5,1914-07-27,1914-08-01
+Cincinnati Reds,LOSS,5,1914-08-14,1914-08-17
+Cincinnati Reds,WIN,6,1914-08-21,1914-08-29
+Cincinnati Reds,LOSS,19,1914-09-05,1914-09-23
+Cleveland Naps,LOSS,8,1914-04-14,1914-04-22
+Cleveland Naps,LOSS,7,1914-05-14,1914-05-21
+Cleveland Naps,LOSS,6,1914-06-04,1914-06-10
+Cleveland Naps,LOSS,5,1914-07-10,1914-07-15
+Cleveland Naps,LOSS,7,1914-07-21,1914-07-27
+Cleveland Naps,LOSS,5,1914-07-29,1914-07-31
+Cleveland Naps,LOSS,6,1914-08-07,1914-08-11
+Cleveland Naps,LOSS,5,1914-09-14,1914-09-18
+Detroit Tigers,WIN,5,1914-04-18,1914-04-23
+Detroit Tigers,LOSS,5,1914-05-22,1914-05-27
+Detroit Tigers,LOSS,6,1914-06-21,1914-06-26
+Detroit Tigers,WIN,8,1914-09-07,1914-09-16
+Brooklyn Robins,LOSS,5,1914-06-10,1914-06-16
+Brooklyn Robins,LOSS,8,1914-07-17,1914-07-25
+Brooklyn Robins,LOSS,5,1914-08-20,1914-08-24
+Brooklyn Robins,WIN,11,1914-09-18,1914-09-26
+Philadelphia Athletics,WIN,5,1914-06-12,1914-06-16
+Philadelphia Athletics,WIN,12,1914-07-11,1914-07-27
+Philadelphia Athletics,WIN,5,1914-07-29,1914-08-02
+Philadelphia Athletics,WIN,7,1914-08-04,1914-08-13
+Philadelphia Athletics,WIN,7,1914-08-22,1914-08-27
+Philadelphia Athletics,LOSS,5,1914-09-03,1914-09-07
+Philadelphia Athletics,WIN,5,1914-09-22,1914-09-27
+Pittsburgh Pirates,WIN,7,1914-04-15,1914-04-23
+Pittsburgh Pirates,WIN,8,1914-04-26,1914-05-07
+Pittsburgh Pirates,WIN,6,1914-05-19,1914-05-25
+Pittsburgh Pirates,LOSS,6,1914-05-26,1914-05-31
+Pittsburgh Pirates,LOSS,5,1914-06-09,1914-06-13
+Pittsburgh Pirates,WIN,5,1914-09-07,1914-09-12
+Pittsburgh Pirates,LOSS,12,1914-09-16,1914-09-26
+New York Giants,WIN,6,1914-05-07,1914-05-16
+New York Giants,WIN,6,1914-05-26,1914-06-01
+New York Giants,LOSS,5,1914-07-06,1914-07-10
+New York Giants,WIN,6,1914-07-18,1914-07-25
+New York Giants,LOSS,6,1914-08-18,1914-08-26
+New York Giants,LOSS,5,1914-09-21,1914-09-24
+St. Louis Cardinals,LOSS,5,1914-04-26,1914-04-30
+St. Louis Cardinals,WIN,5,1914-05-15,1914-05-19
+St. Louis Cardinals,WIN,6,1914-06-09,1914-06-16
+St. Louis Cardinals,WIN,7,1914-07-17,1914-07-23
+St. Louis Cardinals,LOSS,5,1914-07-30,1914-08-04
+St. Louis Cardinals,WIN,5,1914-09-21,1914-09-24
+Washington Senators,WIN,7,1914-05-14,1914-05-21
+Washington Senators,LOSS,7,1914-06-14,1914-06-20
+Philadelphia Phillies,LOSS,6,1914-05-18,1914-05-23
+Philadelphia Phillies,LOSS,8,1914-07-17,1914-07-24
+Philadelphia Phillies,WIN,5,1914-07-31,1914-08-05
+Philadelphia Phillies,WIN,8,1914-09-14,1914-09-19
+Boston Braves,LOSS,5,1914-04-24,1914-05-02
+Boston Braves,WIN,5,1914-06-09,1914-06-13
+Boston Braves,LOSS,5,1914-07-01,1914-07-04
+Boston Braves,WIN,6,1914-07-17,1914-07-22
+Boston Braves,WIN,9,1914-07-27,1914-08-06
+Boston Braves,WIN,5,1914-08-13,1914-08-17
+Boston Braves,WIN,5,1914-08-29,1914-09-02
+Boston Braves,WIN,7,1914-09-25,1914-09-30
+Chicago White Sox,WIN,5,1914-04-14,1914-04-18
+Chicago White Sox,LOSS,8,1914-04-23,1914-05-02
+Chicago White Sox,LOSS,5,1914-06-11,1914-06-16
+Chicago White Sox,WIN,7,1914-06-19,1914-06-26
+Chicago White Sox,WIN,7,1914-07-03,1914-07-09
+Chicago White Sox,LOSS,6,1914-07-15,1914-07-21
+Chicago White Sox,LOSS,5,1914-07-29,1914-08-02
+Chicago White Sox,LOSS,5,1914-08-16,1914-08-22
+Chicago White Sox,LOSS,5,1914-09-07,1914-09-13
+New York Yankees,LOSS,6,1914-06-11,1914-06-16
+New York Yankees,LOSS,6,1914-06-25,1914-07-01
+New York Yankees,WIN,5,1914-07-29,1914-07-31

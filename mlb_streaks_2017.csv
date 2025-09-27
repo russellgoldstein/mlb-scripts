@@ -1,0 +1,160 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,6,2017-04-12,2017-04-17
+Los Angeles Angels,WIN,5,2017-04-24,2017-04-28
+Los Angeles Angels,WIN,6,2017-08-08,2017-08-13
+Los Angeles Angels,LOSS,6,2017-09-17,2017-09-23
+Arizona Diamondbacks,WIN,5,2017-04-05,2017-04-09
+Arizona Diamondbacks,WIN,5,2017-05-15,2017-05-20
+Arizona Diamondbacks,WIN,5,2017-05-22,2017-05-26
+Arizona Diamondbacks,WIN,7,2017-06-10,2017-06-18
+Arizona Diamondbacks,LOSS,5,2017-07-08,2017-07-16
+Arizona Diamondbacks,WIN,13,2017-08-24,2017-09-06
+Baltimore Orioles,WIN,6,2017-05-04,2017-05-09
+Baltimore Orioles,LOSS,7,2017-05-21,2017-05-28
+Baltimore Orioles,LOSS,6,2017-06-08,2017-06-13
+Baltimore Orioles,LOSS,5,2017-07-03,2017-07-07
+Baltimore Orioles,WIN,5,2017-07-29,2017-08-02
+Baltimore Orioles,WIN,7,2017-08-23,2017-08-30
+Baltimore Orioles,LOSS,6,2017-09-07,2017-09-12
+Baltimore Orioles,LOSS,5,2017-09-26,2017-10-01
+Boston Red Sox,WIN,6,2017-05-21,2017-05-27
+Boston Red Sox,WIN,6,2017-06-29,2017-07-04
+Boston Red Sox,WIN,6,2017-08-03,2017-08-09
+Boston Red Sox,WIN,6,2017-09-18,2017-09-24
+Chicago Cubs,LOSS,6,2017-05-26,2017-05-31
+Chicago Cubs,WIN,5,2017-06-02,2017-06-06
+Chicago Cubs,WIN,6,2017-07-14,2017-07-19
+Chicago Cubs,WIN,5,2017-08-18,2017-08-23
+Chicago Cubs,WIN,6,2017-08-28,2017-09-02
+Chicago Cubs,WIN,7,2017-09-12,2017-09-19
+Cincinnati Reds,WIN,5,2017-05-03,2017-05-07
+Cincinnati Reds,LOSS,7,2017-05-12,2017-05-19
+Cincinnati Reds,LOSS,9,2017-06-09,2017-06-18
+Cincinnati Reds,LOSS,5,2017-07-14,2017-07-18
+Cincinnati Reds,LOSS,6,2017-07-24,2017-07-29
+Cincinnati Reds,LOSS,7,2017-09-19,2017-09-26
+Cleveland Indians,WIN,6,2017-06-15,2017-06-19
+Cleveland Indians,WIN,9,2017-07-21,2017-07-29
+Cleveland Indians,WIN,5,2017-08-11,2017-08-15
+Cleveland Indians,WIN,5,2017-08-24,2017-08-28
+Cleveland Indians,WIN,17,2017-08-30,2017-09-14
+Cleveland Indians,WIN,5,2017-09-16,2017-09-21
+Colorado Rockies,WIN,7,2017-06-03,2017-06-10
+Colorado Rockies,WIN,6,2017-06-14,2017-06-20
+Colorado Rockies,LOSS,8,2017-06-21,2017-06-28
+Colorado Rockies,WIN,6,2017-09-07,2017-09-12
+Detroit Tigers,LOSS,8,2017-06-17,2017-06-24
+Detroit Tigers,LOSS,6,2017-08-13,2017-08-19
+Detroit Tigers,LOSS,5,2017-09-01,2017-09-04
+Detroit Tigers,LOSS,6,2017-09-09,2017-09-14
+Detroit Tigers,LOSS,9,2017-09-18,2017-09-27
+Houston Astros,WIN,5,2017-05-07,2017-05-12
+Houston Astros,WIN,11,2017-05-25,2017-06-05
+Houston Astros,LOSS,5,2017-08-08,2017-08-12
+Houston Astros,WIN,6,2017-09-02,2017-09-06
+Houston Astros,WIN,6,2017-09-14,2017-09-20
+Houston Astros,WIN,5,2017-09-25,2017-09-29
+Kansas City Royals,LOSS,8,2017-04-20,2017-04-28
+Kansas City Royals,WIN,6,2017-06-10,2017-06-16
+Kansas City Royals,LOSS,5,2017-07-07,2017-07-15
+Kansas City Royals,WIN,9,2017-07-19,2017-07-28
+Kansas City Royals,LOSS,5,2017-08-07,2017-08-11
+Kansas City Royals,LOSS,5,2017-08-24,2017-08-28
+Los Angeles Dodgers,WIN,6,2017-05-25,2017-05-30
+Los Angeles Dodgers,WIN,6,2017-06-07,2017-06-14
+Los Angeles Dodgers,WIN,10,2017-06-16,2017-06-25
+Los Angeles Dodgers,WIN,11,2017-07-04,2017-07-19
+Los Angeles Dodgers,WIN,9,2017-07-22,2017-08-01
+Los Angeles Dodgers,WIN,6,2017-08-12,2017-08-19
+Los Angeles Dodgers,LOSS,5,2017-08-26,2017-08-31
+Los Angeles Dodgers,LOSS,11,2017-09-02,2017-09-11
+Washington Nationals,WIN,7,2017-04-16,2017-04-23
+Washington Nationals,WIN,6,2017-07-09,2017-07-18
+Washington Nationals,WIN,5,2017-09-04,2017-09-08
+New York Mets,WIN,5,2017-04-09,2017-04-13
+New York Mets,LOSS,7,2017-05-10,2017-05-17
+New York Mets,LOSS,5,2017-08-14,2017-08-18
+New York Mets,LOSS,5,2017-09-10,2017-09-15
+Oakland Athletics,WIN,5,2017-04-18,2017-04-22
+Oakland Athletics,LOSS,5,2017-04-23,2017-04-28
+Oakland Athletics,LOSS,6,2017-06-28,2017-07-03
+Oakland Athletics,LOSS,5,2017-07-24,2017-07-28
+Oakland Athletics,LOSS,8,2017-08-28,2017-09-05
+Oakland Athletics,WIN,5,2017-09-06,2017-09-10
+Oakland Athletics,WIN,7,2017-09-17,2017-09-24
+Pittsburgh Pirates,LOSS,6,2017-05-07,2017-05-12
+Pittsburgh Pirates,WIN,6,2017-07-16,2017-07-21
+Pittsburgh Pirates,LOSS,6,2017-08-12,2017-08-18
+Pittsburgh Pirates,LOSS,5,2017-09-06,2017-09-10
+Pittsburgh Pirates,LOSS,7,2017-09-12,2017-09-19
+San Diego Padres,LOSS,5,2017-04-14,2017-04-18
+San Diego Padres,LOSS,5,2017-05-16,2017-05-20
+San Diego Padres,WIN,5,2017-05-28,2017-06-02
+San Diego Padres,LOSS,5,2017-06-03,2017-06-08
+San Diego Padres,LOSS,5,2017-09-10,2017-09-16
+San Diego Padres,LOSS,5,2017-09-24,2017-09-29
+Seattle Mariners,LOSS,5,2017-05-19,2017-05-24
+Seattle Mariners,WIN,5,2017-06-02,2017-06-07
+Seattle Mariners,WIN,6,2017-06-18,2017-06-23
+Seattle Mariners,WIN,5,2017-07-09,2017-07-17
+Seattle Mariners,LOSS,5,2017-08-10,2017-08-14
+Seattle Mariners,LOSS,5,2017-08-26,2017-08-30
+Seattle Mariners,LOSS,6,2017-09-15,2017-09-21
+San Francisco Giants,LOSS,5,2017-05-05,2017-05-09
+San Francisco Giants,WIN,5,2017-05-12,2017-05-16
+San Francisco Giants,LOSS,7,2017-06-13,2017-06-19
+San Francisco Giants,LOSS,5,2017-06-21,2017-06-25
+San Francisco Giants,WIN,6,2017-06-26,2017-07-02
+St. Louis Cardinals,WIN,6,2017-05-05,2017-05-10
+St. Louis Cardinals,LOSS,7,2017-06-02,2017-06-08
+St. Louis Cardinals,WIN,8,2017-08-05,2017-08-12
+Tampa Bay Rays,LOSS,5,2017-07-19,2017-07-24
+Texas Rangers,WIN,10,2017-05-09,2017-05-19
+Texas Rangers,LOSS,5,2017-05-23,2017-05-27
+Texas Rangers,WIN,5,2017-06-09,2017-06-13
+Texas Rangers,LOSS,5,2017-07-16,2017-07-20
+Texas Rangers,LOSS,5,2017-09-12,2017-09-16
+Texas Rangers,LOSS,7,2017-09-22,2017-09-28
+Toronto Blue Jays,LOSS,7,2017-04-07,2017-04-14
+Toronto Blue Jays,WIN,5,2017-05-10,2017-05-14
+Toronto Blue Jays,WIN,5,2017-05-21,2017-05-27
+Toronto Blue Jays,LOSS,5,2017-06-29,2017-07-03
+Minnesota Twins,WIN,6,2017-08-06,2017-08-11
+Minnesota Twins,WIN,5,2017-09-21,2017-09-26
+Philadelphia Phillies,LOSS,5,2017-05-02,2017-05-06
+Philadelphia Phillies,LOSS,5,2017-05-20,2017-05-24
+Philadelphia Phillies,LOSS,5,2017-05-28,2017-06-02
+Philadelphia Phillies,LOSS,8,2017-06-07,2017-06-14
+Philadelphia Phillies,LOSS,5,2017-06-16,2017-06-21
+Philadelphia Phillies,LOSS,5,2017-07-04,2017-07-08
+Philadelphia Phillies,WIN,5,2017-07-26,2017-07-31
+Philadelphia Phillies,LOSS,5,2017-08-01,2017-08-05
+Philadelphia Phillies,LOSS,6,2017-08-13,2017-08-18
+Atlanta Braves,LOSS,5,2017-04-06,2017-04-11
+Atlanta Braves,WIN,5,2017-04-12,2017-04-17
+Atlanta Braves,LOSS,6,2017-04-18,2017-04-23
+Atlanta Braves,LOSS,5,2017-05-05,2017-05-10
+Atlanta Braves,LOSS,6,2017-07-26,2017-08-01
+Atlanta Braves,LOSS,5,2017-08-06,2017-08-12
+Atlanta Braves,LOSS,6,2017-09-25,2017-09-30
+Chicago White Sox,WIN,6,2017-04-23,2017-04-29
+Chicago White Sox,LOSS,5,2017-05-30,2017-06-04
+Chicago White Sox,LOSS,9,2017-07-09,2017-07-23
+Chicago White Sox,LOSS,5,2017-07-25,2017-07-29
+Chicago White Sox,LOSS,6,2017-08-01,2017-08-06
+Chicago White Sox,LOSS,5,2017-08-12,2017-08-17
+Chicago White Sox,LOSS,5,2017-09-04,2017-09-08
+Miami Marlins,LOSS,5,2017-05-08,2017-05-13
+Miami Marlins,LOSS,5,2017-05-15,2017-05-19
+Miami Marlins,LOSS,5,2017-08-28,2017-09-01
+Miami Marlins,LOSS,5,2017-09-03,2017-09-07
+Miami Marlins,LOSS,6,2017-09-09,2017-09-15
+New York Yankees,WIN,8,2017-04-09,2017-04-17
+New York Yankees,WIN,6,2017-05-02,2017-05-08
+New York Yankees,WIN,6,2017-06-07,2017-06-12
+New York Yankees,LOSS,7,2017-06-13,2017-06-20
+New York Yankees,WIN,6,2017-07-23,2017-07-29
+Milwaukee Brewers,LOSS,5,2017-05-21,2017-05-26
+Milwaukee Brewers,WIN,5,2017-07-03,2017-07-07
+Milwaukee Brewers,LOSS,6,2017-07-16,2017-07-21
+Milwaukee Brewers,LOSS,6,2017-08-06,2017-08-11

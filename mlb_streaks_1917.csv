@@ -1,0 +1,87 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,6,1917-05-14,1917-05-19
+St. Louis Browns,LOSS,8,1917-06-21,1917-06-27
+St. Louis Browns,LOSS,8,1917-07-22,1917-07-31
+St. Louis Browns,LOSS,5,1917-09-02,1917-09-05
+St. Louis Browns,LOSS,5,1917-09-14,1917-09-19
+Boston Red Sox,WIN,6,1917-04-25,1917-05-09
+Boston Red Sox,WIN,5,1917-05-20,1917-05-26
+Boston Red Sox,WIN,5,1917-05-29,1917-05-31
+Boston Red Sox,WIN,5,1917-07-03,1917-07-05
+Boston Red Sox,WIN,7,1917-07-25,1917-07-31
+Chicago Cubs,WIN,10,1917-05-06,1917-05-17
+Chicago Cubs,LOSS,5,1917-05-18,1917-05-23
+Chicago Cubs,LOSS,5,1917-07-01,1917-07-04
+Chicago Cubs,LOSS,6,1917-07-16,1917-07-23
+Chicago Cubs,WIN,5,1917-09-07,1917-09-11
+Chicago Cubs,LOSS,5,1917-09-21,1917-09-23
+Cincinnati Reds,WIN,6,1917-07-01,1917-07-04
+Cincinnati Reds,WIN,7,1917-07-20,1917-07-27
+Cincinnati Reds,LOSS,7,1917-07-28,1917-08-03
+Cincinnati Reds,LOSS,5,1917-08-22,1917-08-25
+Cincinnati Reds,LOSS,8,1917-09-02,1917-09-11
+Cleveland Indians,WIN,7,1917-07-06,1917-07-14
+Cleveland Indians,WIN,5,1917-08-19,1917-08-23
+Cleveland Indians,WIN,5,1917-08-31,1917-09-03
+Cleveland Indians,WIN,10,1917-09-14,1917-09-24
+Detroit Tigers,WIN,5,1917-06-05,1917-06-12
+Detroit Tigers,WIN,5,1917-06-21,1917-06-26
+Detroit Tigers,WIN,5,1917-07-27,1917-07-31
+Detroit Tigers,LOSS,7,1917-08-31,1917-09-06
+Detroit Tigers,WIN,6,1917-09-19,1917-09-24
+Brooklyn Robins,LOSS,7,1917-05-07,1917-05-14
+Brooklyn Robins,LOSS,5,1917-07-20,1917-07-24
+Brooklyn Robins,WIN,7,1917-07-28,1917-08-03
+Brooklyn Robins,LOSS,5,1917-09-11,1917-09-13
+Philadelphia Athletics,LOSS,5,1917-04-30,1917-05-10
+Philadelphia Athletics,LOSS,6,1917-05-12,1917-05-17
+Philadelphia Athletics,LOSS,5,1917-05-30,1917-06-05
+Philadelphia Athletics,LOSS,6,1917-06-22,1917-06-26
+Philadelphia Athletics,LOSS,5,1917-07-03,1917-07-05
+Philadelphia Athletics,LOSS,6,1917-07-27,1917-08-01
+Philadelphia Athletics,LOSS,6,1917-08-18,1917-08-23
+Philadelphia Athletics,LOSS,7,1917-09-05,1917-09-11
+Philadelphia Athletics,LOSS,6,1917-09-20,1917-09-25
+Pittsburgh Pirates,LOSS,5,1917-06-23,1917-06-27
+Pittsburgh Pirates,LOSS,7,1917-07-01,1917-07-05
+Pittsburgh Pirates,LOSS,7,1917-07-13,1917-07-17
+Pittsburgh Pirates,LOSS,6,1917-07-31,1917-08-04
+Pittsburgh Pirates,LOSS,5,1917-08-16,1917-08-18
+Pittsburgh Pirates,LOSS,6,1917-09-15,1917-09-18
+New York Giants,WIN,5,1917-05-07,1917-05-12
+New York Giants,WIN,5,1917-05-26,1917-06-02
+New York Giants,WIN,6,1917-06-11,1917-06-19
+New York Giants,WIN,5,1917-07-16,1917-07-21
+New York Giants,WIN,5,1917-07-31,1917-08-03
+New York Giants,WIN,5,1917-08-05,1917-08-10
+New York Giants,WIN,5,1917-09-13,1917-09-18
+St. Louis Cardinals,WIN,6,1917-07-01,1917-07-05
+St. Louis Cardinals,WIN,7,1917-07-21,1917-07-28
+St. Louis Cardinals,WIN,5,1917-09-05,1917-09-10
+Washington Senators,LOSS,5,1917-04-14,1917-04-20
+Washington Senators,WIN,5,1917-05-15,1917-05-19
+Washington Senators,LOSS,6,1917-05-27,1917-06-01
+Washington Senators,LOSS,5,1917-07-09,1917-07-14
+Washington Senators,LOSS,6,1917-07-17,1917-07-20
+Washington Senators,WIN,7,1917-08-10,1917-08-18
+Philadelphia Phillies,WIN,5,1917-04-27,1917-05-03
+Philadelphia Phillies,WIN,5,1917-05-10,1917-05-15
+Philadelphia Phillies,WIN,6,1917-05-17,1917-05-23
+Philadelphia Phillies,LOSS,6,1917-07-21,1917-07-27
+Philadelphia Phillies,WIN,5,1917-08-16,1917-08-18
+Philadelphia Phillies,WIN,6,1917-08-22,1917-08-27
+Philadelphia Phillies,WIN,6,1917-09-21,1917-09-24
+Boston Braves,LOSS,5,1917-05-14,1917-05-18
+Boston Braves,LOSS,5,1917-07-09,1917-07-13
+Boston Braves,WIN,5,1917-07-14,1917-07-17
+Chicago White Sox,WIN,8,1917-05-12,1917-05-19
+Chicago White Sox,WIN,5,1917-05-27,1917-06-05
+Chicago White Sox,WIN,5,1917-08-01,1917-08-04
+Chicago White Sox,WIN,9,1917-08-23,1917-08-31
+Chicago White Sox,WIN,9,1917-09-02,1917-09-14
+New York Yankees,WIN,5,1917-05-14,1917-05-18
+New York Yankees,WIN,5,1917-06-23,1917-06-26
+New York Yankees,LOSS,5,1917-06-27,1917-06-30
+New York Yankees,LOSS,7,1917-08-08,1917-08-14
+New York Yankees,LOSS,5,1917-08-26,1917-08-31
+New York Yankees,LOSS,6,1917-09-14,1917-09-20

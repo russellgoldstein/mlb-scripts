@@ -1,0 +1,86 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1933-04-22,1933-04-26
+St. Louis Browns,LOSS,5,1933-05-22,1933-05-26
+St. Louis Browns,LOSS,5,1933-06-04,1933-06-07
+St. Louis Browns,LOSS,6,1933-07-11,1933-07-15
+St. Louis Browns,LOSS,5,1933-08-18,1933-08-22
+St. Louis Browns,LOSS,5,1933-09-04,1933-09-08
+St. Louis Browns,LOSS,7,1933-09-20,1933-10-01
+Boston Red Sox,LOSS,6,1933-04-27,1933-05-02
+Boston Red Sox,LOSS,5,1933-06-02,1933-06-06
+Boston Red Sox,WIN,6,1933-06-26,1933-07-04
+Boston Red Sox,WIN,5,1933-07-20,1933-07-23
+Boston Red Sox,LOSS,9,1933-08-18,1933-08-23
+Boston Red Sox,LOSS,7,1933-09-02,1933-09-08
+Chicago Cubs,LOSS,5,1933-05-13,1933-05-18
+Chicago Cubs,WIN,5,1933-05-24,1933-05-28
+Chicago Cubs,WIN,8,1933-07-05,1933-07-13
+Chicago Cubs,WIN,6,1933-07-16,1933-07-23
+Chicago Cubs,LOSS,6,1933-07-25,1933-07-30
+Chicago Cubs,WIN,5,1933-09-04,1933-09-08
+Chicago Cubs,WIN,5,1933-09-10,1933-09-14
+Cincinnati Reds,LOSS,5,1933-06-19,1933-06-22
+Cincinnati Reds,LOSS,10,1933-07-25,1933-08-03
+Cincinnati Reds,LOSS,10,1933-08-11,1933-08-24
+Cincinnati Reds,LOSS,6,1933-09-09,1933-09-15
+Cincinnati Reds,WIN,5,1933-09-15,1933-09-17
+Cleveland Indians,LOSS,5,1933-06-04,1933-06-08
+Cleveland Indians,LOSS,6,1933-06-22,1933-06-26
+Cleveland Indians,LOSS,5,1933-07-04,1933-07-09
+Cleveland Indians,WIN,5,1933-07-25,1933-07-29
+Cleveland Indians,WIN,7,1933-08-16,1933-08-21
+Cleveland Indians,WIN,6,1933-08-29,1933-09-04
+Cleveland Indians,LOSS,6,1933-09-06,1933-09-11
+Detroit Tigers,WIN,5,1933-06-04,1933-06-08
+Detroit Tigers,LOSS,5,1933-07-09,1933-07-12
+Detroit Tigers,WIN,5,1933-09-04,1933-09-08
+Detroit Tigers,LOSS,8,1933-09-12,1933-09-20
+Detroit Tigers,WIN,6,1933-09-21,1933-10-01
+Brooklyn Dodgers,LOSS,5,1933-05-23,1933-05-27
+Brooklyn Dodgers,LOSS,6,1933-07-17,1933-07-21
+Brooklyn Dodgers,WIN,5,1933-09-23,1933-09-25
+Philadelphia Athletics,WIN,7,1933-05-18,1933-05-25
+Philadelphia Athletics,LOSS,6,1933-07-24,1933-07-30
+Philadelphia Athletics,LOSS,6,1933-08-16,1933-08-20
+Philadelphia Athletics,WIN,6,1933-09-06,1933-09-11
+Pittsburgh Pirates,WIN,8,1933-07-25,1933-08-01
+Pittsburgh Pirates,LOSS,7,1933-08-19,1933-08-26
+Pittsburgh Pirates,WIN,8,1933-08-26,1933-09-02
+New York Giants,WIN,6,1933-04-23,1933-04-29
+New York Giants,WIN,5,1933-05-12,1933-05-18
+New York Giants,LOSS,5,1933-05-18,1933-05-21
+New York Giants,WIN,6,1933-06-03,1933-06-10
+New York Giants,LOSS,7,1933-07-04,1933-07-11
+New York Giants,WIN,5,1933-07-23,1933-07-29
+New York Giants,WIN,8,1933-08-16,1933-08-26
+New York Giants,WIN,5,1933-09-08,1933-09-11
+New York Giants,WIN,5,1933-09-15,1933-09-17
+St. Louis Cardinals,WIN,5,1933-04-30,1933-05-07
+St. Louis Cardinals,WIN,5,1933-05-19,1933-05-22
+St. Louis Cardinals,WIN,7,1933-05-26,1933-06-01
+St. Louis Cardinals,WIN,6,1933-07-25,1933-07-30
+St. Louis Cardinals,WIN,6,1933-08-11,1933-08-16
+Washington Senators,WIN,7,1933-06-08,1933-06-18
+Washington Senators,WIN,8,1933-06-19,1933-06-26
+Washington Senators,WIN,7,1933-06-30,1933-07-09
+Washington Senators,WIN,5,1933-07-24,1933-07-29
+Washington Senators,WIN,13,1933-08-08,1933-08-20
+Washington Senators,WIN,5,1933-09-02,1933-09-06
+Philadelphia Phillies,LOSS,6,1933-04-26,1933-05-01
+Philadelphia Phillies,LOSS,5,1933-05-14,1933-05-18
+Philadelphia Phillies,LOSS,5,1933-05-24,1933-05-28
+Philadelphia Phillies,LOSS,5,1933-06-14,1933-06-18
+Philadelphia Phillies,WIN,7,1933-06-19,1933-06-24
+Philadelphia Phillies,LOSS,5,1933-07-18,1933-07-23
+Philadelphia Phillies,LOSS,5,1933-08-28,1933-08-31
+Boston Braves,LOSS,5,1933-05-25,1933-05-30
+Boston Braves,WIN,5,1933-06-25,1933-06-30
+Boston Braves,WIN,8,1933-08-19,1933-08-27
+Chicago White Sox,WIN,6,1933-06-03,1933-06-07
+Chicago White Sox,LOSS,5,1933-06-20,1933-06-24
+Chicago White Sox,LOSS,9,1933-07-20,1933-07-29
+Chicago White Sox,LOSS,5,1933-08-13,1933-08-18
+Chicago White Sox,LOSS,6,1933-08-31,1933-09-06
+New York Yankees,WIN,7,1933-04-13,1933-04-22
+New York Yankees,WIN,7,1933-05-31,1933-06-06
+New York Yankees,WIN,9,1933-07-09,1933-07-18

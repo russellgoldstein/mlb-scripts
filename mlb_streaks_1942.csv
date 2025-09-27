@@ -1,0 +1,80 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,9,1942-04-19,1942-04-26
+St. Louis Browns,LOSS,7,1942-06-09,1942-06-16
+St. Louis Browns,WIN,8,1942-07-11,1942-07-17
+St. Louis Browns,WIN,6,1942-08-23,1942-08-30
+St. Louis Browns,WIN,5,1942-09-04,1942-09-06
+Boston Red Sox,WIN,5,1942-05-02,1942-05-06
+Boston Red Sox,LOSS,5,1942-05-08,1942-05-14
+Boston Red Sox,WIN,9,1942-06-07,1942-06-16
+Boston Red Sox,WIN,6,1942-08-15,1942-08-19
+Boston Red Sox,WIN,9,1942-08-20,1942-08-26
+Boston Red Sox,WIN,5,1942-08-30,1942-09-03
+Chicago Cubs,WIN,5,1942-06-10,1942-06-14
+Chicago Cubs,WIN,5,1942-06-21,1942-06-26
+Cincinnati Reds,WIN,6,1942-06-05,1942-06-08
+Cincinnati Reds,WIN,6,1942-06-14,1942-06-20
+Cincinnati Reds,WIN,5,1942-07-25,1942-07-28
+Cincinnati Reds,LOSS,6,1942-08-14,1942-08-19
+Cincinnati Reds,WIN,5,1942-08-29,1942-09-01
+Cincinnati Reds,LOSS,5,1942-09-02,1942-09-06
+Cincinnati Reds,WIN,5,1942-09-11,1942-09-16
+Cleveland Indians,WIN,13,1942-04-18,1942-05-02
+Cleveland Indians,LOSS,6,1942-05-03,1942-05-10
+Cleveland Indians,LOSS,5,1942-05-21,1942-05-25
+Cleveland Indians,WIN,5,1942-06-28,1942-07-02
+Cleveland Indians,LOSS,5,1942-09-04,1942-09-06
+Cleveland Indians,LOSS,6,1942-09-09,1942-09-14
+Detroit Tigers,WIN,5,1942-04-23,1942-04-26
+Detroit Tigers,WIN,5,1942-06-17,1942-06-21
+Detroit Tigers,LOSS,6,1942-07-12,1942-07-17
+Detroit Tigers,LOSS,5,1942-07-22,1942-07-26
+Detroit Tigers,LOSS,5,1942-08-04,1942-08-08
+Detroit Tigers,LOSS,7,1942-08-29,1942-09-03
+Brooklyn Dodgers,WIN,5,1942-04-19,1942-04-23
+Brooklyn Dodgers,WIN,6,1942-04-25,1942-04-30
+Brooklyn Dodgers,WIN,8,1942-05-13,1942-05-19
+Brooklyn Dodgers,WIN,5,1942-08-10,1942-08-15
+Brooklyn Dodgers,WIN,5,1942-08-19,1942-08-23
+Brooklyn Dodgers,LOSS,5,1942-09-10,1942-09-13
+Brooklyn Dodgers,WIN,8,1942-09-20,1942-09-27
+Philadelphia Athletics,WIN,5,1942-05-08,1942-05-13
+Philadelphia Athletics,LOSS,6,1942-05-14,1942-05-19
+Philadelphia Athletics,LOSS,7,1942-05-24,1942-05-30
+Philadelphia Athletics,LOSS,6,1942-06-23,1942-06-28
+Philadelphia Athletics,LOSS,5,1942-07-15,1942-07-19
+Philadelphia Athletics,LOSS,9,1942-08-21,1942-08-30
+Pittsburgh Pirates,LOSS,10,1942-05-24,1942-06-02
+Pittsburgh Pirates,WIN,7,1942-06-05,1942-06-13
+Pittsburgh Pirates,WIN,5,1942-08-02,1942-08-07
+New York Giants,WIN,5,1942-08-06,1942-08-11
+New York Giants,WIN,6,1942-08-14,1942-08-18
+New York Giants,LOSS,5,1942-08-20,1942-08-25
+New York Giants,WIN,5,1942-08-26,1942-08-30
+Washington Senators,LOSS,5,1942-05-29,1942-05-31
+Washington Senators,LOSS,5,1942-07-05,1942-07-12
+Washington Senators,WIN,5,1942-07-13,1942-07-18
+Washington Senators,WIN,5,1942-08-04,1942-08-11
+Washington Senators,LOSS,5,1942-08-19,1942-08-22
+Philadelphia Phillies,LOSS,5,1942-04-25,1942-04-29
+Philadelphia Phillies,LOSS,9,1942-06-05,1942-06-14
+Philadelphia Phillies,LOSS,6,1942-06-28,1942-07-04
+Philadelphia Phillies,LOSS,9,1942-08-07,1942-08-16
+Philadelphia Phillies,LOSS,13,1942-08-26,1942-09-07
+Boston Braves,LOSS,8,1942-04-18,1942-04-25
+Boston Braves,WIN,5,1942-04-26,1942-04-30
+Boston Braves,LOSS,12,1942-06-04,1942-06-14
+Boston Braves,LOSS,6,1942-09-16,1942-09-26
+Chicago White Sox,LOSS,7,1942-04-23,1942-04-30
+Chicago White Sox,LOSS,6,1942-05-02,1942-05-06
+Chicago White Sox,WIN,7,1942-05-10,1942-05-18
+Chicago White Sox,LOSS,6,1942-06-29,1942-07-04
+Chicago White Sox,WIN,9,1942-07-29,1942-08-10
+Chicago White Sox,LOSS,5,1942-09-03,1942-09-08
+New York Yankees,WIN,7,1942-05-03,1942-05-10
+New York Yankees,WIN,8,1942-05-25,1942-05-31
+New York Yankees,LOSS,5,1942-06-17,1942-06-21
+New York Yankees,WIN,11,1942-07-12,1942-07-22
+New York Yankees,WIN,6,1942-08-30,1942-09-05
+New York Yankees,WIN,5,1942-09-06,1942-09-09
+New York Yankees,WIN,6,1942-09-12,1942-09-17

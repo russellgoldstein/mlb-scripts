@@ -1,0 +1,164 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,6,2022-04-24,2022-04-29
+Los Angeles Angels,LOSS,6,2022-05-25,2022-05-31
+Los Angeles Angels,LOSS,8,2022-06-02,2022-06-08
+Los Angeles Angels,LOSS,5,2022-07-07,2022-07-12
+Los Angeles Angels,LOSS,5,2022-07-14,2022-07-23
+Los Angeles Angels,LOSS,6,2022-08-20,2022-08-25
+Los Angeles Angels,WIN,7,2022-09-25,2022-10-02
+Arizona Diamondbacks,LOSS,6,2022-05-14,2022-05-18
+Arizona Diamondbacks,LOSS,5,2022-06-20,2022-06-25
+Arizona Diamondbacks,WIN,5,2022-08-26,2022-08-30
+Arizona Diamondbacks,LOSS,5,2022-09-16,2022-09-20
+Baltimore Orioles,LOSS,5,2022-04-24,2022-04-29
+Baltimore Orioles,LOSS,6,2022-05-13,2022-05-18
+Baltimore Orioles,WIN,10,2022-07-03,2022-07-13
+Baltimore Orioles,WIN,5,2022-08-01,2022-08-06
+Boston Red Sox,LOSS,5,2022-05-04,2022-05-08
+Boston Red Sox,WIN,6,2022-05-18,2022-05-24
+Boston Red Sox,WIN,7,2022-06-01,2022-06-08
+Boston Red Sox,WIN,7,2022-06-19,2022-06-26
+Boston Red Sox,LOSS,5,2022-07-16,2022-07-24
+Boston Red Sox,WIN,5,2022-08-31,2022-09-04
+Boston Red Sox,LOSS,6,2022-09-21,2022-09-26
+Chicago Cubs,LOSS,7,2022-06-10,2022-06-16
+Chicago Cubs,LOSS,7,2022-07-07,2022-07-14
+Chicago Cubs,WIN,6,2022-07-17,2022-07-26
+Chicago Cubs,WIN,5,2022-08-16,2022-08-20
+Chicago Cubs,WIN,7,2022-09-25,2022-10-02
+Cincinnati Reds,LOSS,11,2022-04-12,2022-04-23
+Cincinnati Reds,LOSS,9,2022-04-26,2022-05-05
+Cincinnati Reds,LOSS,7,2022-06-15,2022-06-23
+Cincinnati Reds,WIN,5,2022-07-07,2022-07-12
+Cincinnati Reds,LOSS,5,2022-08-08,2022-08-13
+Cincinnati Reds,LOSS,6,2022-09-10,2022-09-14
+Cincinnati Reds,LOSS,6,2022-09-26,2022-10-02
+Cleveland Guardians,LOSS,7,2022-04-22,2022-04-28
+Cleveland Guardians,WIN,5,2022-06-12,2022-06-17
+Cleveland Guardians,LOSS,5,2022-06-23,2022-06-27
+Cleveland Guardians,LOSS,5,2022-07-04,2022-07-08
+Cleveland Guardians,WIN,6,2022-08-06,2022-08-12
+Cleveland Guardians,LOSS,5,2022-08-31,2022-09-04
+Cleveland Guardians,WIN,6,2022-09-09,2022-09-14
+Cleveland Guardians,WIN,7,2022-09-19,2022-09-25
+Colorado Rockies,LOSS,5,2022-05-08,2022-05-13
+Colorado Rockies,WIN,5,2022-07-12,2022-07-16
+Colorado Rockies,LOSS,5,2022-07-31,2022-08-03
+Colorado Rockies,LOSS,5,2022-08-13,2022-08-18
+Colorado Rockies,LOSS,7,2022-09-24,2022-10-01
+Detroit Tigers,LOSS,6,2022-04-23,2022-04-29
+Detroit Tigers,LOSS,6,2022-05-04,2022-05-09
+Detroit Tigers,LOSS,6,2022-06-12,2022-06-17
+Detroit Tigers,WIN,6,2022-07-04,2022-07-08
+Detroit Tigers,LOSS,8,2022-08-07,2022-08-15
+Detroit Tigers,WIN,6,2022-09-23,2022-09-29
+Houston Astros,WIN,12,2022-05-02,2022-05-13
+Houston Astros,WIN,5,2022-05-29,2022-06-03
+Houston Astros,WIN,8,2022-06-28,2022-07-05
+Houston Astros,WIN,5,2022-07-21,2022-07-24
+Houston Astros,WIN,6,2022-09-11,2022-09-16
+Kansas City Royals,LOSS,6,2022-05-19,2022-05-24
+Kansas City Royals,LOSS,5,2022-05-29,2022-06-03
+Kansas City Royals,LOSS,5,2022-07-26,2022-07-30
+Los Angeles Dodgers,WIN,7,2022-04-12,2022-04-18
+Los Angeles Dodgers,WIN,7,2022-05-15,2022-05-21
+Los Angeles Dodgers,WIN,7,2022-07-04,2022-07-10
+Los Angeles Dodgers,WIN,8,2022-07-13,2022-07-24
+Los Angeles Dodgers,WIN,12,2022-07-31,2022-08-13
+Los Angeles Dodgers,WIN,5,2022-09-16,2022-09-20
+Washington Nationals,LOSS,8,2022-04-20,2022-04-28
+Washington Nationals,LOSS,8,2022-06-12,2022-06-18
+Washington Nationals,LOSS,6,2022-06-29,2022-07-05
+Washington Nationals,LOSS,5,2022-07-13,2022-07-16
+Washington Nationals,LOSS,6,2022-08-03,2022-08-08
+Washington Nationals,LOSS,5,2022-09-09,2022-09-14
+New York Mets,WIN,6,2022-05-27,2022-06-01
+New York Mets,WIN,7,2022-07-24,2022-08-01
+New York Mets,WIN,6,2022-08-06,2022-08-10
+New York Mets,WIN,6,2022-09-15,2022-09-20
+Oakland Athletics,LOSS,9,2022-04-29,2022-05-08
+Oakland Athletics,LOSS,10,2022-05-30,2022-06-10
+Oakland Athletics,LOSS,9,2022-08-06,2022-08-15
+Oakland Athletics,LOSS,5,2022-09-06,2022-09-10
+Oakland Athletics,LOSS,6,2022-09-25,2022-10-01
+Pittsburgh Pirates,LOSS,9,2022-06-07,2022-06-14
+Pittsburgh Pirates,LOSS,5,2022-06-24,2022-06-28
+Pittsburgh Pirates,LOSS,7,2022-07-24,2022-07-31
+Pittsburgh Pirates,LOSS,6,2022-08-11,2022-08-17
+Pittsburgh Pirates,LOSS,7,2022-08-20,2022-08-27
+Pittsburgh Pirates,LOSS,8,2022-09-15,2022-09-23
+San Diego Padres,WIN,5,2022-05-19,2022-05-23
+San Diego Padres,WIN,5,2022-07-31,2022-08-03
+San Diego Padres,LOSS,5,2022-08-04,2022-08-08
+San Diego Padres,WIN,5,2022-09-16,2022-09-21
+Seattle Mariners,LOSS,6,2022-05-02,2022-05-07
+Seattle Mariners,WIN,5,2022-06-21,2022-06-25
+Seattle Mariners,WIN,8,2022-07-02,2022-07-10
+Seattle Mariners,WIN,6,2022-07-13,2022-07-17
+Seattle Mariners,WIN,7,2022-08-28,2022-09-04
+San Francisco Giants,WIN,5,2022-04-12,2022-04-17
+San Francisco Giants,WIN,5,2022-04-22,2022-04-26
+San Francisco Giants,LOSS,5,2022-05-01,2022-05-06
+San Francisco Giants,WIN,6,2022-05-07,2022-05-13
+San Francisco Giants,LOSS,5,2022-05-18,2022-05-23
+San Francisco Giants,WIN,5,2022-06-10,2022-06-14
+San Francisco Giants,LOSS,6,2022-06-29,2022-07-05
+San Francisco Giants,LOSS,7,2022-07-21,2022-07-27
+San Francisco Giants,WIN,5,2022-08-12,2022-08-16
+San Francisco Giants,LOSS,7,2022-08-24,2022-08-31
+San Francisco Giants,LOSS,5,2022-09-06,2022-09-09
+San Francisco Giants,WIN,5,2022-09-19,2022-09-23
+San Francisco Giants,WIN,5,2022-09-25,2022-09-30
+St. Louis Cardinals,WIN,5,2022-08-04,2022-08-07
+St. Louis Cardinals,WIN,8,2022-08-14,2022-08-22
+Tampa Bay Rays,WIN,6,2022-05-02,2022-05-07
+Tampa Bay Rays,WIN,5,2022-07-11,2022-07-15
+Tampa Bay Rays,WIN,6,2022-08-20,2022-08-25
+Tampa Bay Rays,WIN,5,2022-08-28,2022-09-03
+Tampa Bay Rays,LOSS,5,2022-10-01,2022-10-05
+Texas Rangers,LOSS,5,2022-04-15,2022-04-20
+Texas Rangers,LOSS,9,2022-08-27,2022-09-05
+Texas Rangers,LOSS,7,2022-09-28,2022-10-04
+Toronto Blue Jays,LOSS,5,2022-05-07,2022-05-13
+Toronto Blue Jays,WIN,8,2022-05-24,2022-06-02
+Toronto Blue Jays,LOSS,5,2022-07-02,2022-07-05
+Toronto Blue Jays,WIN,7,2022-07-15,2022-07-26
+Toronto Blue Jays,WIN,5,2022-09-02,2022-09-05
+Minnesota Twins,WIN,7,2022-04-21,2022-04-28
+Minnesota Twins,WIN,6,2022-05-18,2022-05-24
+Minnesota Twins,LOSS,6,2022-08-20,2022-08-25
+Minnesota Twins,WIN,5,2022-08-26,2022-08-30
+Minnesota Twins,LOSS,5,2022-09-19,2022-09-23
+Philadelphia Phillies,LOSS,5,2022-05-27,2022-05-31
+Philadelphia Phillies,WIN,9,2022-06-01,2022-06-11
+Philadelphia Phillies,WIN,5,2022-06-15,2022-06-18
+Philadelphia Phillies,WIN,5,2022-07-27,2022-07-31
+Philadelphia Phillies,WIN,7,2022-08-03,2022-08-10
+Philadelphia Phillies,WIN,6,2022-08-22,2022-08-27
+Philadelphia Phillies,WIN,5,2022-09-09,2022-09-14
+Philadelphia Phillies,LOSS,5,2022-09-15,2022-09-20
+Philadelphia Phillies,LOSS,5,2022-09-24,2022-09-29
+Atlanta Braves,WIN,14,2022-06-01,2022-06-15
+Atlanta Braves,WIN,8,2022-08-09,2022-08-16
+Atlanta Braves,WIN,8,2022-08-31,2022-09-09
+Atlanta Braves,WIN,5,2022-09-16,2022-09-20
+Chicago White Sox,LOSS,7,2022-04-20,2022-04-26
+Chicago White Sox,WIN,6,2022-05-02,2022-05-08
+Chicago White Sox,WIN,5,2022-08-12,2022-08-16
+Chicago White Sox,LOSS,5,2022-08-25,2022-08-30
+Chicago White Sox,LOSS,8,2022-09-20,2022-09-28
+Miami Marlins,WIN,7,2022-04-23,2022-04-30
+Miami Marlins,LOSS,6,2022-05-01,2022-05-06
+Miami Marlins,WIN,5,2022-06-07,2022-06-11
+Miami Marlins,WIN,6,2022-06-29,2022-07-05
+Miami Marlins,LOSS,5,2022-07-29,2022-08-02
+Miami Marlins,LOSS,9,2022-08-28,2022-09-07
+New York Yankees,WIN,11,2022-04-22,2022-05-03
+New York Yankees,WIN,5,2022-05-09,2022-05-13
+New York Yankees,WIN,6,2022-06-02,2022-06-07
+New York Yankees,WIN,9,2022-06-09,2022-06-18
+New York Yankees,LOSS,5,2022-08-02,2022-08-07
+New York Yankees,WIN,5,2022-08-21,2022-08-26
+New York Yankees,WIN,7,2022-09-18,2022-09-25
+Milwaukee Brewers,WIN,5,2022-04-26,2022-04-30
+Milwaukee Brewers,LOSS,8,2022-06-03,2022-06-11

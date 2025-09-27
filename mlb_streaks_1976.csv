@@ -1,0 +1,133 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,6,1976-04-21,1976-04-30
+California Angels,LOSS,5,1976-07-09,1976-07-16
+California Angels,LOSS,5,1976-08-12,1976-08-17
+Baltimore Orioles,WIN,5,1976-05-16,1976-05-22
+Baltimore Orioles,LOSS,9,1976-06-06,1976-06-13
+Baltimore Orioles,WIN,7,1976-06-15,1976-06-21
+Baltimore Orioles,WIN,6,1976-07-08,1976-07-16
+Baltimore Orioles,WIN,5,1976-07-26,1976-07-30
+Baltimore Orioles,WIN,5,1976-08-14,1976-08-17
+Baltimore Orioles,WIN,7,1976-09-10,1976-09-15
+Baltimore Orioles,WIN,5,1976-09-21,1976-09-24
+Boston Red Sox,LOSS,10,1976-04-29,1976-05-11
+Boston Red Sox,LOSS,5,1976-07-16,1976-07-19
+Boston Red Sox,LOSS,6,1976-07-21,1976-07-26
+Boston Red Sox,WIN,7,1976-09-15,1976-09-21
+Chicago Cubs,LOSS,6,1976-04-15,1976-04-21
+Chicago Cubs,LOSS,5,1976-05-04,1976-05-09
+Chicago Cubs,LOSS,6,1976-06-04,1976-06-09
+Chicago Cubs,LOSS,9,1976-06-25,1976-07-04
+Chicago Cubs,LOSS,6,1976-07-11,1976-07-19
+Chicago Cubs,WIN,5,1976-07-30,1976-08-03
+Chicago Cubs,LOSS,5,1976-09-05,1976-09-09
+Chicago Cubs,LOSS,5,1976-09-23,1976-09-28
+Cincinnati Reds,WIN,7,1976-07-03,1976-07-09
+Cincinnati Reds,WIN,7,1976-07-29,1976-08-03
+Cleveland Indians,WIN,5,1976-06-09,1976-06-13
+Cleveland Indians,LOSS,5,1976-07-07,1976-07-15
+Cleveland Indians,LOSS,5,1976-08-05,1976-08-08
+Cleveland Indians,WIN,5,1976-08-27,1976-09-01
+Detroit Tigers,LOSS,6,1976-05-16,1976-05-22
+Detroit Tigers,LOSS,5,1976-08-01,1976-08-05
+Detroit Tigers,LOSS,6,1976-08-28,1976-09-03
+Detroit Tigers,LOSS,6,1976-09-14,1976-09-20
+Houston Astros,WIN,6,1976-04-12,1976-04-18
+Houston Astros,LOSS,5,1976-05-12,1976-05-17
+Houston Astros,LOSS,6,1976-05-21,1976-05-26
+Houston Astros,WIN,5,1976-06-03,1976-06-06
+Houston Astros,LOSS,6,1976-06-11,1976-06-18
+Houston Astros,WIN,5,1976-07-16,1976-07-19
+Houston Astros,LOSS,5,1976-08-13,1976-08-16
+Houston Astros,WIN,7,1976-08-26,1976-09-01
+Kansas City Royals,WIN,5,1976-05-11,1976-05-15
+Kansas City Royals,WIN,5,1976-05-17,1976-05-21
+Kansas City Royals,WIN,5,1976-06-01,1976-06-05
+Kansas City Royals,WIN,7,1976-06-09,1976-06-15
+Kansas City Royals,LOSS,6,1976-06-19,1976-06-24
+Kansas City Royals,WIN,5,1976-08-03,1976-08-06
+Kansas City Royals,LOSS,5,1976-08-29,1976-09-03
+Kansas City Royals,WIN,5,1976-09-16,1976-09-21
+Los Angeles Dodgers,LOSS,5,1976-04-09,1976-04-16
+Los Angeles Dodgers,WIN,12,1976-04-24,1976-05-07
+Los Angeles Dodgers,WIN,6,1976-05-18,1976-05-23
+Los Angeles Dodgers,LOSS,6,1976-08-04,1976-08-09
+Los Angeles Dodgers,WIN,6,1976-08-15,1976-08-21
+Los Angeles Dodgers,WIN,5,1976-08-29,1976-09-03
+Los Angeles Dodgers,WIN,5,1976-09-19,1976-09-24
+Montreal Expos,LOSS,6,1976-05-26,1976-06-02
+Montreal Expos,LOSS,5,1976-06-23,1976-06-26
+Montreal Expos,LOSS,7,1976-07-05,1976-07-11
+Montreal Expos,LOSS,5,1976-07-16,1976-07-19
+Montreal Expos,LOSS,6,1976-08-03,1976-08-07
+Montreal Expos,LOSS,12,1976-08-13,1976-08-27
+Montreal Expos,LOSS,6,1976-08-31,1976-09-04
+Montreal Expos,LOSS,5,1976-09-11,1976-09-15
+Montreal Expos,LOSS,5,1976-09-25,1976-09-28
+New York Mets,WIN,7,1976-04-24,1976-04-30
+New York Mets,WIN,10,1976-06-23,1976-07-04
+New York Mets,WIN,5,1976-09-06,1976-09-11
+New York Mets,WIN,6,1976-09-22,1976-09-28
+New York Mets,LOSS,5,1976-09-28,1976-10-03
+Oakland Athletics,LOSS,8,1976-05-17,1976-05-23
+Oakland Athletics,LOSS,6,1976-07-28,1976-08-02
+Oakland Athletics,WIN,9,1976-08-07,1976-08-15
+Pittsburgh Pirates,WIN,5,1976-04-10,1976-04-16
+Pittsburgh Pirates,WIN,6,1976-05-04,1976-05-09
+Pittsburgh Pirates,WIN,6,1976-06-11,1976-06-18
+Pittsburgh Pirates,WIN,10,1976-08-25,1976-09-04
+San Diego Padres,WIN,5,1976-06-05,1976-06-09
+San Diego Padres,LOSS,7,1976-07-09,1976-07-17
+San Diego Padres,LOSS,5,1976-07-29,1976-08-01
+San Diego Padres,LOSS,8,1976-08-28,1976-09-05
+San Francisco Giants,LOSS,5,1976-04-25,1976-04-30
+San Francisco Giants,LOSS,6,1976-05-02,1976-05-08
+San Francisco Giants,LOSS,7,1976-06-12,1976-06-18
+San Francisco Giants,WIN,5,1976-06-23,1976-06-26
+San Francisco Giants,LOSS,5,1976-08-27,1976-09-01
+San Francisco Giants,WIN,5,1976-09-13,1976-09-18
+San Francisco Giants,LOSS,5,1976-09-19,1976-09-24
+St. Louis Cardinals,LOSS,5,1976-07-19,1976-07-23
+St. Louis Cardinals,LOSS,5,1976-07-27,1976-08-01
+Texas Rangers,WIN,8,1976-04-29,1976-05-09
+Texas Rangers,LOSS,5,1976-06-16,1976-06-20
+Texas Rangers,LOSS,10,1976-07-07,1976-07-17
+Texas Rangers,LOSS,6,1976-07-20,1976-07-25
+Texas Rangers,LOSS,6,1976-08-15,1976-08-19
+Texas Rangers,LOSS,6,1976-08-22,1976-08-28
+Minnesota Twins,LOSS,5,1976-06-12,1976-06-16
+Minnesota Twins,WIN,5,1976-07-21,1976-07-25
+Minnesota Twins,WIN,8,1976-07-28,1976-08-02
+Minnesota Twins,LOSS,6,1976-08-23,1976-08-29
+Minnesota Twins,WIN,6,1976-09-05,1976-09-10
+Minnesota Twins,WIN,5,1976-09-19,1976-09-25
+Philadelphia Phillies,WIN,6,1976-04-28,1976-05-05
+Philadelphia Phillies,WIN,6,1976-05-14,1976-05-21
+Philadelphia Phillies,WIN,5,1976-07-09,1976-07-15
+Philadelphia Phillies,LOSS,8,1976-08-27,1976-09-04
+Atlanta Braves,LOSS,13,1976-04-26,1976-05-09
+Atlanta Braves,WIN,6,1976-06-01,1976-06-09
+Atlanta Braves,LOSS,5,1976-07-31,1976-08-02
+Atlanta Braves,LOSS,6,1976-09-01,1976-09-07
+Chicago White Sox,LOSS,5,1976-04-20,1976-04-29
+Chicago White Sox,WIN,10,1976-05-18,1976-05-26
+Chicago White Sox,LOSS,10,1976-06-11,1976-06-20
+Chicago White Sox,LOSS,9,1976-09-14,1976-09-23
+Chicago White Sox,LOSS,6,1976-09-25,1976-10-03
+New York Yankees,WIN,5,1976-04-10,1976-04-17
+New York Yankees,WIN,5,1976-05-04,1976-05-08
+New York Yankees,WIN,7,1976-06-15,1976-06-21
+New York Yankees,WIN,5,1976-06-24,1976-06-27
+New York Yankees,WIN,5,1976-07-11,1976-07-17
+New York Yankees,WIN,5,1976-08-10,1976-08-14
+New York Yankees,WIN,5,1976-08-23,1976-08-28
+New York Yankees,WIN,5,1976-09-06,1976-09-10
+New York Yankees,WIN,5,1976-09-14,1976-09-19
+New York Yankees,LOSS,6,1976-09-20,1976-09-24
+Milwaukee Brewers,LOSS,7,1976-05-08,1976-05-15
+Milwaukee Brewers,LOSS,6,1976-06-25,1976-06-29
+Milwaukee Brewers,WIN,5,1976-07-08,1976-07-11
+Milwaukee Brewers,LOSS,5,1976-08-06,1976-08-12
+Milwaukee Brewers,LOSS,7,1976-09-08,1976-09-13
+Milwaukee Brewers,LOSS,5,1976-09-15,1976-09-19
+Milwaukee Brewers,LOSS,6,1976-09-22,1976-09-28

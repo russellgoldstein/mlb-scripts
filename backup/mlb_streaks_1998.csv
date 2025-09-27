@@ -1,0 +1,168 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,6,1998-04-22,1998-04-28
+Los Angeles Angels,WIN,9,1998-05-31,1998-06-09
+Los Angeles Angels,LOSS,6,1998-07-01,1998-07-09
+Los Angeles Angels,WIN,5,1998-08-22,1998-08-26
+Arizona Diamondbacks,LOSS,5,1998-03-31,1998-04-04
+Arizona Diamondbacks,LOSS,7,1998-04-09,1998-04-16
+Arizona Diamondbacks,LOSS,6,1998-04-26,1998-05-03
+Arizona Diamondbacks,LOSS,8,1998-05-05,1998-05-13
+Arizona Diamondbacks,WIN,7,1998-08-28,1998-09-04
+Baltimore Orioles,WIN,7,1998-04-01,1998-04-09
+Baltimore Orioles,LOSS,9,1998-05-14,1998-05-22
+Baltimore Orioles,LOSS,8,1998-06-23,1998-07-01
+Baltimore Orioles,WIN,9,1998-07-09,1998-07-17
+Baltimore Orioles,WIN,5,1998-07-19,1998-07-24
+Baltimore Orioles,WIN,5,1998-08-02,1998-08-08
+Baltimore Orioles,LOSS,10,1998-08-23,1998-09-02
+Baltimore Orioles,WIN,6,1998-09-08,1998-09-14
+Baltimore Orioles,LOSS,6,1998-09-20,1998-09-25
+Boston Red Sox,WIN,7,1998-04-10,1998-04-17
+Boston Red Sox,WIN,7,1998-04-19,1998-04-27
+Boston Red Sox,LOSS,6,1998-05-23,1998-05-29
+Chicago Cubs,WIN,6,1998-04-01,1998-04-06
+Chicago Cubs,LOSS,5,1998-04-22,1998-04-26
+Chicago Cubs,WIN,10,1998-05-29,1998-06-08
+Chicago Cubs,LOSS,7,1998-06-21,1998-06-27
+Chicago Cubs,WIN,5,1998-07-01,1998-07-05
+Chicago Cubs,WIN,5,1998-07-19,1998-07-23
+Chicago Cubs,WIN,6,1998-08-30,1998-09-05
+Cincinnati Reds,LOSS,5,1998-06-06,1998-06-10
+Cincinnati Reds,LOSS,11,1998-06-14,1998-06-24
+Cincinnati Reds,WIN,5,1998-06-25,1998-06-30
+Cincinnati Reds,WIN,10,1998-07-02,1998-07-15
+Cincinnati Reds,LOSS,8,1998-07-17,1998-07-24
+Cleveland Guardians,WIN,7,1998-03-31,1998-04-06
+Cleveland Guardians,WIN,6,1998-05-01,1998-05-07
+Cleveland Guardians,LOSS,6,1998-05-08,1998-05-13
+Cleveland Guardians,WIN,6,1998-06-21,1998-06-26
+Cleveland Guardians,LOSS,5,1998-07-31,1998-08-04
+Cleveland Guardians,WIN,6,1998-09-13,1998-09-18
+Cleveland Guardians,LOSS,5,1998-09-22,1998-09-25
+Colorado Rockies,LOSS,8,1998-04-05,1998-04-12
+Colorado Rockies,LOSS,6,1998-05-11,1998-05-16
+Colorado Rockies,LOSS,5,1998-06-05,1998-06-09
+Colorado Rockies,LOSS,5,1998-07-01,1998-07-05
+Colorado Rockies,LOSS,6,1998-07-14,1998-07-20
+Colorado Rockies,WIN,5,1998-07-21,1998-07-25
+Colorado Rockies,WIN,7,1998-09-06,1998-09-12
+Detroit Tigers,LOSS,5,1998-04-01,1998-04-05
+Detroit Tigers,LOSS,7,1998-04-11,1998-04-18
+Detroit Tigers,LOSS,5,1998-04-21,1998-04-27
+Detroit Tigers,LOSS,6,1998-05-31,1998-06-05
+Detroit Tigers,LOSS,9,1998-08-04,1998-08-12
+Detroit Tigers,LOSS,5,1998-08-19,1998-08-22
+Houston Astros,WIN,8,1998-04-24,1998-05-02
+Houston Astros,WIN,5,1998-05-09,1998-05-13
+Houston Astros,WIN,5,1998-06-06,1998-06-10
+Houston Astros,WIN,7,1998-08-07,1998-08-13
+Houston Astros,WIN,5,1998-08-21,1998-08-25
+Houston Astros,WIN,8,1998-09-05,1998-09-12
+Kansas City Royals,LOSS,8,1998-05-15,1998-05-23
+Kansas City Royals,LOSS,5,1998-08-07,1998-08-11
+Kansas City Royals,LOSS,5,1998-08-15,1998-08-19
+Kansas City Royals,WIN,5,1998-08-20,1998-08-24
+Kansas City Royals,LOSS,5,1998-09-05,1998-09-11
+Washington Nationals,LOSS,7,1998-04-01,1998-04-07
+Washington Nationals,LOSS,5,1998-04-24,1998-04-29
+Washington Nationals,LOSS,8,1998-07-17,1998-07-24
+Washington Nationals,LOSS,7,1998-08-10,1998-08-17
+Washington Nationals,LOSS,9,1998-08-20,1998-08-28
+New York Mets,LOSS,6,1998-04-25,1998-05-02
+New York Mets,WIN,9,1998-05-21,1998-05-31
+New York Mets,LOSS,5,1998-07-03,1998-07-10
+New York Mets,WIN,6,1998-07-21,1998-07-24
+New York Mets,LOSS,5,1998-09-22,1998-09-27
+Oakland Athletics,LOSS,6,1998-04-10,1998-04-15
+Oakland Athletics,WIN,6,1998-04-26,1998-05-01
+Oakland Athletics,LOSS,9,1998-07-21,1998-07-29
+Oakland Athletics,WIN,6,1998-08-18,1998-08-22
+Oakland Athletics,LOSS,5,1998-09-14,1998-09-18
+Pittsburgh Pirates,LOSS,7,1998-04-13,1998-04-21
+Pittsburgh Pirates,WIN,7,1998-05-30,1998-06-06
+Pittsburgh Pirates,LOSS,6,1998-07-03,1998-07-12
+Pittsburgh Pirates,WIN,7,1998-08-16,1998-08-23
+Pittsburgh Pirates,LOSS,8,1998-08-28,1998-09-05
+Pittsburgh Pirates,LOSS,8,1998-09-20,1998-09-27
+San Diego Padres,WIN,8,1998-04-05,1998-04-13
+San Diego Padres,WIN,5,1998-05-14,1998-05-17
+San Diego Padres,WIN,11,1998-06-07,1998-06-19
+San Diego Padres,WIN,5,1998-07-14,1998-07-19
+San Diego Padres,WIN,6,1998-08-23,1998-08-28
+Seattle Mariners,LOSS,7,1998-04-07,1998-04-14
+Seattle Mariners,WIN,6,1998-04-15,1998-04-20
+Seattle Mariners,LOSS,5,1998-05-19,1998-05-23
+Seattle Mariners,LOSS,5,1998-06-13,1998-06-18
+Seattle Mariners,WIN,6,1998-07-13,1998-07-18
+Seattle Mariners,LOSS,5,1998-07-28,1998-08-01
+Seattle Mariners,WIN,5,1998-09-14,1998-09-18
+San Francisco Giants,WIN,11,1998-05-29,1998-06-09
+San Francisco Giants,LOSS,5,1998-06-10,1998-06-15
+San Francisco Giants,LOSS,5,1998-07-10,1998-07-14
+San Francisco Giants,LOSS,5,1998-08-06,1998-08-10
+San Francisco Giants,WIN,6,1998-09-21,1998-09-26
+St. Louis Cardinals,LOSS,6,1998-06-03,1998-06-08
+St. Louis Cardinals,WIN,5,1998-06-18,1998-06-22
+St. Louis Cardinals,WIN,5,1998-08-04,1998-08-09
+St. Louis Cardinals,WIN,6,1998-09-15,1998-09-22
+Tampa Bay Rays,LOSS,6,1998-04-24,1998-04-29
+Tampa Bay Rays,LOSS,5,1998-06-02,1998-06-06
+Tampa Bay Rays,LOSS,11,1998-06-30,1998-07-13
+Tampa Bay Rays,WIN,5,1998-07-22,1998-07-27
+Tampa Bay Rays,LOSS,5,1998-08-21,1998-08-26
+Tampa Bay Rays,LOSS,6,1998-09-22,1998-09-27
+Texas Rangers,WIN,5,1998-04-12,1998-04-17
+Texas Rangers,WIN,5,1998-04-25,1998-04-29
+Texas Rangers,WIN,5,1998-05-08,1998-05-12
+Texas Rangers,WIN,6,1998-05-17,1998-05-23
+Texas Rangers,LOSS,5,1998-05-24,1998-05-29
+Texas Rangers,LOSS,6,1998-06-27,1998-07-03
+Texas Rangers,WIN,5,1998-07-04,1998-07-11
+Texas Rangers,LOSS,5,1998-07-12,1998-07-16
+Texas Rangers,WIN,6,1998-08-01,1998-08-07
+Toronto Blue Jays,WIN,6,1998-06-21,1998-06-26
+Toronto Blue Jays,WIN,5,1998-08-08,1998-08-13
+Toronto Blue Jays,WIN,11,1998-08-27,1998-09-07
+Minnesota Twins,LOSS,6,1998-04-16,1998-04-21
+Minnesota Twins,WIN,5,1998-07-24,1998-07-29
+Minnesota Twins,LOSS,7,1998-08-01,1998-08-08
+Minnesota Twins,LOSS,5,1998-08-10,1998-08-14
+Minnesota Twins,LOSS,10,1998-09-09,1998-09-19
+Philadelphia Phillies,WIN,5,1998-04-05,1998-04-11
+Philadelphia Phillies,LOSS,6,1998-04-15,1998-04-21
+Philadelphia Phillies,WIN,6,1998-05-06,1998-05-12
+Philadelphia Phillies,LOSS,5,1998-05-15,1998-05-20
+Philadelphia Phillies,LOSS,5,1998-06-27,1998-07-02
+Philadelphia Phillies,WIN,6,1998-07-03,1998-07-12
+Philadelphia Phillies,LOSS,7,1998-07-30,1998-08-05
+Philadelphia Phillies,LOSS,5,1998-08-23,1998-08-27
+Atlanta Braves,WIN,5,1998-04-14,1998-04-19
+Atlanta Braves,WIN,5,1998-04-27,1998-05-02
+Atlanta Braves,WIN,7,1998-05-09,1998-05-15
+Atlanta Braves,WIN,9,1998-06-27,1998-07-09
+Atlanta Braves,WIN,7,1998-09-19,1998-09-27
+Chicago White Sox,LOSS,6,1998-08-19,1998-08-24
+Chicago White Sox,WIN,5,1998-09-18,1998-09-22
+Miami Marlins,LOSS,11,1998-04-01,1998-04-12
+Miami Marlins,LOSS,5,1998-05-10,1998-05-14
+Miami Marlins,LOSS,11,1998-05-26,1998-06-07
+Miami Marlins,LOSS,7,1998-07-19,1998-07-24
+Miami Marlins,LOSS,5,1998-08-13,1998-08-18
+Miami Marlins,LOSS,5,1998-08-20,1998-08-24
+Miami Marlins,LOSS,9,1998-08-27,1998-09-05
+Miami Marlins,LOSS,6,1998-09-07,1998-09-12
+New York Yankees,WIN,8,1998-04-07,1998-04-18
+New York Yankees,WIN,6,1998-04-20,1998-04-27
+New York Yankees,WIN,8,1998-04-29,1998-05-08
+New York Yankees,WIN,5,1998-05-16,1998-05-21
+New York Yankees,WIN,9,1998-06-01,1998-06-10
+New York Yankees,WIN,10,1998-06-30,1998-07-12
+New York Yankees,WIN,9,1998-08-07,1998-08-14
+New York Yankees,WIN,7,1998-09-22,1998-09-27
+Milwaukee Brewers,WIN,6,1998-04-02,1998-04-07
+Milwaukee Brewers,WIN,5,1998-04-16,1998-04-21
+Milwaukee Brewers,LOSS,5,1998-05-20,1998-05-24
+Milwaukee Brewers,WIN,5,1998-05-26,1998-05-31
+Milwaukee Brewers,WIN,6,1998-06-22,1998-06-27
+Milwaukee Brewers,LOSS,5,1998-07-01,1998-07-05
+Milwaukee Brewers,LOSS,6,1998-08-10,1998-08-16

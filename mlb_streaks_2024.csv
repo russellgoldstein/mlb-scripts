@@ -1,0 +1,143 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,5,2024-04-18,2024-04-22
+Los Angeles Angels,LOSS,5,2024-05-29,2024-06-02
+Los Angeles Angels,WIN,6,2024-06-24,2024-06-29
+Los Angeles Angels,LOSS,5,2024-06-30,2024-07-05
+Los Angeles Angels,LOSS,7,2024-08-21,2024-08-28
+Los Angeles Angels,LOSS,6,2024-09-10,2024-09-16
+Los Angeles Angels,LOSS,6,2024-09-24,2024-09-29
+Arizona Diamondbacks,LOSS,5,2024-04-03,2024-04-08
+Arizona Diamondbacks,LOSS,5,2024-05-26,2024-05-31
+Arizona Diamondbacks,WIN,6,2024-08-09,2024-08-14
+Arizona Diamondbacks,WIN,6,2024-08-19,2024-08-25
+Baltimore Orioles,WIN,5,2024-05-23,2024-05-27
+Baltimore Orioles,WIN,6,2024-06-07,2024-06-12
+Baltimore Orioles,LOSS,5,2024-06-21,2024-06-25
+Baltimore Orioles,LOSS,5,2024-07-09,2024-07-13
+Boston Red Sox,WIN,5,2024-03-31,2024-04-05
+Boston Red Sox,WIN,5,2024-06-15,2024-06-19
+Boston Red Sox,WIN,5,2024-06-30,2024-07-05
+Boston Red Sox,LOSS,5,2024-08-23,2024-08-26
+Boston Red Sox,LOSS,5,2024-08-31,2024-09-04
+Chicago Cubs,WIN,5,2024-03-31,2024-04-05
+Chicago Cubs,WIN,5,2024-07-07,2024-07-12
+Chicago Cubs,WIN,6,2024-08-26,2024-09-01
+Cincinnati Reds,LOSS,8,2024-04-30,2024-05-09
+Cincinnati Reds,WIN,7,2024-06-02,2024-06-08
+Cincinnati Reds,LOSS,5,2024-09-22,2024-09-28
+Cleveland Guardians,WIN,5,2024-04-18,2024-04-23
+Cleveland Guardians,WIN,9,2024-05-17,2024-05-26
+Cleveland Guardians,WIN,7,2024-06-19,2024-06-25
+Cleveland Guardians,WIN,5,2024-07-28,2024-08-02
+Cleveland Guardians,WIN,5,2024-08-10,2024-08-14
+Colorado Rockies,LOSS,5,2024-04-13,2024-04-17
+Colorado Rockies,LOSS,5,2024-04-27,2024-05-02
+Colorado Rockies,WIN,7,2024-05-09,2024-05-15
+Colorado Rockies,LOSS,5,2024-06-01,2024-06-05
+Colorado Rockies,LOSS,5,2024-06-23,2024-06-29
+Colorado Rockies,LOSS,5,2024-07-26,2024-07-30
+Detroit Tigers,LOSS,5,2024-05-19,2024-05-23
+Detroit Tigers,LOSS,5,2024-07-28,2024-08-02
+Detroit Tigers,WIN,6,2024-08-23,2024-08-28
+Detroit Tigers,WIN,6,2024-09-21,2024-09-27
+Houston Astros,LOSS,5,2024-04-20,2024-04-25
+Houston Astros,WIN,6,2024-05-12,2024-05-17
+Houston Astros,WIN,7,2024-06-19,2024-06-26
+Houston Astros,WIN,8,2024-08-06,2024-08-14
+Houston Astros,WIN,5,2024-08-28,2024-09-01
+Kansas City Royals,WIN,7,2024-04-04,2024-04-11
+Kansas City Royals,WIN,8,2024-05-17,2024-05-25
+Kansas City Royals,WIN,5,2024-07-29,2024-08-02
+Kansas City Royals,WIN,5,2024-08-14,2024-08-19
+Kansas City Royals,LOSS,7,2024-08-28,2024-09-03
+Kansas City Royals,LOSS,7,2024-09-15,2024-09-22
+Los Angeles Dodgers,WIN,6,2024-04-21,2024-04-27
+Los Angeles Dodgers,WIN,7,2024-05-01,2024-05-08
+Los Angeles Dodgers,LOSS,5,2024-05-21,2024-05-26
+Los Angeles Dodgers,WIN,5,2024-07-19,2024-07-23
+Los Angeles Dodgers,WIN,5,2024-08-09,2024-08-13
+Los Angeles Dodgers,WIN,5,2024-08-18,2024-08-23
+Los Angeles Dodgers,WIN,5,2024-09-25,2024-09-29
+Washington Nationals,LOSS,5,2024-05-14,2024-05-19
+Washington Nationals,WIN,5,2024-06-07,2024-06-12
+Washington Nationals,LOSS,5,2024-07-07,2024-07-11
+Washington Nationals,LOSS,5,2024-07-28,2024-08-02
+Washington Nationals,LOSS,5,2024-09-16,2024-09-20
+New York Mets,WIN,6,2024-04-14,2024-04-20
+New York Mets,LOSS,5,2024-05-20,2024-05-25
+New York Mets,WIN,7,2024-06-12,2024-06-18
+New York Mets,WIN,5,2024-07-09,2024-07-13
+New York Mets,WIN,5,2024-07-22,2024-07-26
+New York Mets,WIN,9,2024-08-29,2024-09-07
+Oakland Athletics,WIN,6,2024-04-28,2024-05-04
+Oakland Athletics,LOSS,8,2024-05-12,2024-05-19
+Oakland Athletics,LOSS,7,2024-06-08,2024-06-14
+Oakland Athletics,LOSS,5,2024-06-22,2024-06-26
+Pittsburgh Pirates,WIN,5,2024-03-28,2024-04-01
+Pittsburgh Pirates,LOSS,6,2024-04-15,2024-04-21
+Pittsburgh Pirates,LOSS,5,2024-04-28,2024-05-03
+Pittsburgh Pirates,WIN,6,2024-07-11,2024-07-20
+Pittsburgh Pirates,LOSS,10,2024-08-04,2024-08-14
+San Diego Padres,LOSS,5,2024-04-25,2024-04-29
+San Diego Padres,LOSS,5,2024-06-02,2024-06-06
+San Diego Padres,LOSS,5,2024-06-14,2024-06-18
+San Diego Padres,WIN,5,2024-06-24,2024-06-29
+San Diego Padres,LOSS,5,2024-07-06,2024-07-12
+San Diego Padres,WIN,7,2024-07-20,2024-07-27
+San Diego Padres,WIN,7,2024-08-03,2024-08-10
+San Diego Padres,WIN,5,2024-09-18,2024-09-24
+Seattle Mariners,LOSS,5,2024-07-12,2024-07-20
+Seattle Mariners,LOSS,5,2024-08-13,2024-08-17
+San Francisco Giants,LOSS,6,2024-05-29,2024-06-04
+San Francisco Giants,LOSS,5,2024-06-18,2024-06-23
+San Francisco Giants,WIN,5,2024-09-20,2024-09-24
+St. Louis Cardinals,LOSS,5,2024-08-10,2024-08-16
+Tampa Bay Rays,WIN,5,2024-05-03,2024-05-07
+Tampa Bay Rays,LOSS,6,2024-05-19,2024-05-25
+Texas Rangers,LOSS,5,2024-05-10,2024-05-14
+Texas Rangers,LOSS,6,2024-05-19,2024-05-25
+Texas Rangers,LOSS,5,2024-06-14,2024-06-18
+Texas Rangers,LOSS,6,2024-06-24,2024-06-29
+Texas Rangers,WIN,5,2024-07-05,2024-07-09
+Texas Rangers,WIN,5,2024-07-21,2024-07-25
+Toronto Blue Jays,LOSS,5,2024-04-23,2024-04-27
+Toronto Blue Jays,LOSS,7,2024-06-17,2024-06-24
+Toronto Blue Jays,WIN,6,2024-08-22,2024-08-26
+Toronto Blue Jays,LOSS,5,2024-09-20,2024-09-24
+Minnesota Twins,LOSS,5,2024-04-14,2024-04-19
+Minnesota Twins,WIN,12,2024-04-22,2024-05-04
+Minnesota Twins,LOSS,7,2024-05-14,2024-05-20
+Minnesota Twins,LOSS,5,2024-06-04,2024-06-08
+Minnesota Twins,WIN,5,2024-07-31,2024-08-05
+Philadelphia Phillies,WIN,7,2024-04-15,2024-04-22
+Philadelphia Phillies,WIN,7,2024-04-30,2024-05-07
+Philadelphia Phillies,WIN,6,2024-05-17,2024-05-23
+Philadelphia Phillies,LOSS,6,2024-07-28,2024-08-03
+Philadelphia Phillies,WIN,6,2024-08-31,2024-09-06
+Atlanta Braves,WIN,6,2024-04-14,2024-04-20
+Atlanta Braves,LOSS,5,2024-06-07,2024-06-12
+Atlanta Braves,LOSS,6,2024-08-03,2024-08-09
+Chicago White Sox,LOSS,5,2024-04-04,2024-04-08
+Chicago White Sox,LOSS,5,2024-04-10,2024-04-15
+Chicago White Sox,LOSS,7,2024-04-19,2024-04-25
+Chicago White Sox,LOSS,14,2024-05-22,2024-06-06
+Chicago White Sox,LOSS,21,2024-07-10,2024-08-05
+Chicago White Sox,LOSS,13,2024-08-23,2024-09-03
+Chicago White Sox,LOSS,5,2024-09-17,2024-09-22
+Miami Marlins,LOSS,9,2024-03-28,2024-04-06
+Miami Marlins,LOSS,7,2024-04-22,2024-04-29
+Miami Marlins,LOSS,5,2024-05-06,2024-05-11
+Miami Marlins,LOSS,6,2024-06-12,2024-06-17
+Miami Marlins,LOSS,5,2024-06-30,2024-07-05
+Miami Marlins,LOSS,5,2024-07-09,2024-07-13
+Miami Marlins,LOSS,5,2024-08-19,2024-08-24
+New York Yankees,WIN,5,2024-03-28,2024-04-01
+New York Yankees,WIN,5,2024-05-03,2024-05-08
+New York Yankees,WIN,7,2024-05-12,2024-05-19
+New York Yankees,WIN,8,2024-05-29,2024-06-06
+New York Yankees,WIN,5,2024-07-27,2024-07-31
+Milwaukee Brewers,WIN,5,2024-05-29,2024-06-02
+Milwaukee Brewers,WIN,5,2024-06-23,2024-06-28
+Milwaukee Brewers,WIN,5,2024-08-06,2024-08-10
+Milwaukee Brewers,WIN,6,2024-08-14,2024-08-20
+Milwaukee Brewers,WIN,5,2024-08-28,2024-08-31

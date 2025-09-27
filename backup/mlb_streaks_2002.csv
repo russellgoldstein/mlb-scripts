@@ -1,0 +1,169 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,6,2002-04-08,2002-04-13
+Los Angeles Angels,WIN,8,2002-04-24,2002-05-03
+Los Angeles Angels,WIN,7,2002-05-08,2002-05-15
+Los Angeles Angels,WIN,5,2002-07-05,2002-07-12
+Los Angeles Angels,WIN,6,2002-08-10,2002-08-16
+Los Angeles Angels,WIN,10,2002-08-29,2002-09-08
+Los Angeles Angels,WIN,6,2002-09-10,2002-09-15
+Arizona Diamondbacks,WIN,6,2002-04-11,2002-04-16
+Arizona Diamondbacks,WIN,7,2002-07-22,2002-07-28
+Arizona Diamondbacks,WIN,8,2002-08-09,2002-08-17
+Arizona Diamondbacks,LOSS,6,2002-09-20,2002-09-25
+Baltimore Orioles,LOSS,5,2002-04-03,2002-04-07
+Baltimore Orioles,LOSS,10,2002-08-24,2002-09-03
+Baltimore Orioles,LOSS,8,2002-09-05,2002-09-12
+Baltimore Orioles,LOSS,12,2002-09-18,2002-09-29
+Boston Red Sox,WIN,9,2002-04-30,2002-05-09
+Boston Red Sox,WIN,5,2002-07-01,2002-07-04
+Boston Red Sox,WIN,5,2002-09-20,2002-09-24
+Chicago Cubs,LOSS,6,2002-05-12,2002-05-18
+Chicago Cubs,WIN,5,2002-05-21,2002-05-25
+Chicago Cubs,LOSS,5,2002-06-25,2002-06-29
+Chicago Cubs,LOSS,5,2002-09-22,2002-09-27
+Cincinnati Reds,WIN,7,2002-04-20,2002-04-27
+Cincinnati Reds,LOSS,8,2002-06-16,2002-06-24
+Cincinnati Reds,LOSS,5,2002-08-19,2002-08-23
+Cleveland Guardians,WIN,10,2002-04-03,2002-04-13
+Cleveland Guardians,LOSS,6,2002-04-16,2002-04-21
+Cleveland Guardians,LOSS,6,2002-04-27,2002-05-03
+Cleveland Guardians,LOSS,5,2002-06-29,2002-07-04
+Cleveland Guardians,LOSS,5,2002-07-16,2002-07-20
+Cleveland Guardians,LOSS,5,2002-08-18,2002-08-22
+Colorado Rockies,LOSS,5,2002-04-11,2002-04-15
+Colorado Rockies,LOSS,5,2002-04-20,2002-04-25
+Colorado Rockies,WIN,6,2002-04-26,2002-05-02
+Colorado Rockies,WIN,6,2002-05-21,2002-05-26
+Colorado Rockies,WIN,5,2002-06-20,2002-06-24
+Colorado Rockies,LOSS,5,2002-06-25,2002-06-29
+Colorado Rockies,LOSS,8,2002-07-22,2002-07-31
+Colorado Rockies,LOSS,9,2002-08-24,2002-09-01
+Colorado Rockies,LOSS,5,2002-09-25,2002-09-29
+Detroit Tigers,LOSS,6,2002-04-02,2002-04-07
+Detroit Tigers,LOSS,5,2002-04-09,2002-04-14
+Detroit Tigers,LOSS,7,2002-05-08,2002-05-15
+Detroit Tigers,WIN,6,2002-05-17,2002-05-22
+Detroit Tigers,LOSS,6,2002-06-04,2002-06-09
+Detroit Tigers,LOSS,6,2002-07-16,2002-07-21
+Detroit Tigers,WIN,5,2002-07-23,2002-07-27
+Detroit Tigers,LOSS,5,2002-07-28,2002-08-01
+Detroit Tigers,LOSS,6,2002-08-21,2002-08-26
+Detroit Tigers,LOSS,5,2002-08-28,2002-09-02
+Houston Astros,LOSS,5,2002-05-07,2002-05-11
+Houston Astros,WIN,7,2002-05-12,2002-05-18
+Houston Astros,LOSS,6,2002-05-19,2002-05-25
+Houston Astros,WIN,5,2002-07-06,2002-07-13
+Houston Astros,WIN,5,2002-07-25,2002-07-30
+Kansas City Royals,LOSS,6,2002-04-30,2002-05-05
+Kansas City Royals,LOSS,8,2002-06-12,2002-06-21
+Kansas City Royals,WIN,9,2002-07-13,2002-07-20
+Kansas City Royals,LOSS,6,2002-07-23,2002-07-28
+Kansas City Royals,LOSS,6,2002-07-30,2002-08-04
+Kansas City Royals,LOSS,8,2002-09-01,2002-09-10
+Los Angeles Dodgers,WIN,5,2002-06-19,2002-06-23
+Los Angeles Dodgers,LOSS,5,2002-07-15,2002-07-19
+Los Angeles Dodgers,WIN,5,2002-08-14,2002-08-18
+Washington Nationals,WIN,6,2002-04-19,2002-04-25
+Washington Nationals,LOSS,6,2002-05-02,2002-05-08
+Washington Nationals,LOSS,5,2002-05-13,2002-05-17
+Washington Nationals,WIN,8,2002-06-12,2002-06-21
+Washington Nationals,LOSS,5,2002-07-19,2002-07-23
+Washington Nationals,WIN,7,2002-09-13,2002-09-20
+New York Mets,WIN,6,2002-04-25,2002-05-01
+New York Mets,LOSS,6,2002-05-04,2002-05-10
+New York Mets,WIN,5,2002-05-14,2002-05-18
+New York Mets,LOSS,12,2002-08-10,2002-08-23
+New York Mets,WIN,7,2002-09-03,2002-09-09
+Oakland Athletics,WIN,8,2002-06-06,2002-06-14
+Oakland Athletics,WIN,8,2002-06-16,2002-06-24
+Oakland Athletics,WIN,20,2002-08-13,2002-09-04
+Oakland Athletics,WIN,5,2002-09-18,2002-09-22
+Pittsburgh Pirates,WIN,6,2002-04-15,2002-04-21
+Pittsburgh Pirates,LOSS,6,2002-06-18,2002-06-23
+Pittsburgh Pirates,LOSS,6,2002-07-23,2002-07-28
+Pittsburgh Pirates,LOSS,7,2002-08-10,2002-08-16
+San Diego Padres,LOSS,5,2002-05-07,2002-05-11
+San Diego Padres,LOSS,5,2002-05-21,2002-05-25
+San Diego Padres,LOSS,7,2002-05-30,2002-06-05
+San Diego Padres,LOSS,6,2002-06-30,2002-07-06
+San Diego Padres,LOSS,7,2002-09-21,2002-09-28
+Seattle Mariners,WIN,10,2002-04-08,2002-04-17
+Seattle Mariners,WIN,5,2002-06-25,2002-06-29
+Seattle Mariners,WIN,6,2002-07-29,2002-08-03
+Seattle Mariners,LOSS,6,2002-09-09,2002-09-14
+San Francisco Giants,WIN,6,2002-04-02,2002-04-07
+San Francisco Giants,WIN,7,2002-05-01,2002-05-09
+San Francisco Giants,WIN,5,2002-07-06,2002-07-13
+San Francisco Giants,WIN,7,2002-08-25,2002-08-31
+San Francisco Giants,WIN,5,2002-09-06,2002-09-10
+San Francisco Giants,WIN,8,2002-09-20,2002-09-29
+St. Louis Cardinals,WIN,5,2002-04-09,2002-04-13
+St. Louis Cardinals,LOSS,5,2002-04-18,2002-04-23
+St. Louis Cardinals,WIN,5,2002-05-12,2002-05-17
+St. Louis Cardinals,WIN,5,2002-05-19,2002-05-23
+St. Louis Cardinals,WIN,5,2002-06-14,2002-06-19
+St. Louis Cardinals,LOSS,7,2002-07-31,2002-08-07
+St. Louis Cardinals,WIN,6,2002-08-10,2002-08-15
+St. Louis Cardinals,WIN,8,2002-09-03,2002-09-11
+St. Louis Cardinals,WIN,5,2002-09-22,2002-09-26
+Tampa Bay Rays,LOSS,12,2002-04-29,2002-05-10
+Tampa Bay Rays,LOSS,5,2002-05-31,2002-06-04
+Tampa Bay Rays,LOSS,6,2002-06-19,2002-06-25
+Tampa Bay Rays,LOSS,8,2002-07-02,2002-07-12
+Tampa Bay Rays,LOSS,7,2002-07-14,2002-07-20
+Tampa Bay Rays,LOSS,5,2002-09-03,2002-09-07
+Tampa Bay Rays,LOSS,6,2002-09-09,2002-09-14
+Texas Rangers,LOSS,5,2002-04-12,2002-04-16
+Texas Rangers,WIN,6,2002-04-27,2002-05-03
+Texas Rangers,LOSS,5,2002-05-16,2002-05-21
+Texas Rangers,LOSS,5,2002-05-25,2002-05-28
+Texas Rangers,WIN,8,2002-06-19,2002-06-25
+Texas Rangers,LOSS,8,2002-07-14,2002-07-20
+Texas Rangers,WIN,5,2002-08-14,2002-08-20
+Texas Rangers,LOSS,6,2002-09-13,2002-09-18
+Toronto Blue Jays,LOSS,5,2002-04-05,2002-04-09
+Toronto Blue Jays,LOSS,9,2002-04-24,2002-05-03
+Toronto Blue Jays,LOSS,6,2002-05-24,2002-05-29
+Toronto Blue Jays,WIN,5,2002-05-31,2002-06-04
+Toronto Blue Jays,WIN,5,2002-06-06,2002-06-10
+Toronto Blue Jays,LOSS,5,2002-06-11,2002-06-16
+Toronto Blue Jays,LOSS,6,2002-07-01,2002-07-05
+Toronto Blue Jays,LOSS,5,2002-08-13,2002-08-18
+Toronto Blue Jays,WIN,6,2002-09-08,2002-09-14
+Toronto Blue Jays,WIN,7,2002-09-22,2002-09-29
+Minnesota Twins,WIN,6,2002-04-29,2002-05-04
+Minnesota Twins,WIN,6,2002-07-17,2002-07-22
+Minnesota Twins,WIN,5,2002-07-31,2002-08-04
+Minnesota Twins,LOSS,5,2002-08-29,2002-09-02
+Philadelphia Phillies,LOSS,6,2002-04-24,2002-04-29
+Philadelphia Phillies,WIN,7,2002-05-03,2002-05-10
+Philadelphia Phillies,LOSS,6,2002-05-13,2002-05-18
+Philadelphia Phillies,LOSS,5,2002-07-18,2002-07-22
+Philadelphia Phillies,WIN,5,2002-08-11,2002-08-16
+Philadelphia Phillies,WIN,6,2002-08-21,2002-08-27
+Philadelphia Phillies,LOSS,6,2002-09-06,2002-09-10
+Atlanta Braves,WIN,5,2002-06-05,2002-06-09
+Atlanta Braves,WIN,6,2002-06-19,2002-06-24
+Atlanta Braves,WIN,6,2002-07-16,2002-07-21
+Atlanta Braves,WIN,7,2002-07-30,2002-08-06
+Chicago White Sox,LOSS,7,2002-05-26,2002-06-02
+Chicago White Sox,LOSS,6,2002-08-14,2002-08-20
+Chicago White Sox,WIN,7,2002-08-27,2002-09-03
+Miami Marlins,WIN,5,2002-05-05,2002-05-10
+Miami Marlins,WIN,5,2002-06-18,2002-06-22
+Miami Marlins,LOSS,8,2002-07-07,2002-07-18
+Miami Marlins,LOSS,5,2002-08-09,2002-08-13
+Miami Marlins,LOSS,5,2002-09-03,2002-09-07
+New York Yankees,WIN,7,2002-04-03,2002-04-09
+New York Yankees,WIN,7,2002-05-07,2002-05-14
+New York Yankees,WIN,6,2002-05-16,2002-05-21
+New York Yankees,WIN,5,2002-05-25,2002-05-29
+New York Yankees,WIN,5,2002-06-30,2002-07-05
+New York Yankees,WIN,6,2002-08-11,2002-08-17
+New York Yankees,WIN,5,2002-09-08,2002-09-12
+Milwaukee Brewers,LOSS,7,2002-04-06,2002-04-13
+Milwaukee Brewers,LOSS,6,2002-04-23,2002-04-28
+Milwaukee Brewers,WIN,5,2002-05-31,2002-06-04
+Milwaukee Brewers,LOSS,7,2002-06-05,2002-06-12
+Milwaukee Brewers,LOSS,9,2002-07-15,2002-07-23
+Milwaukee Brewers,LOSS,5,2002-08-21,2002-08-25

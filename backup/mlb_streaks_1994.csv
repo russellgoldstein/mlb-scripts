@@ -1,0 +1,109 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,6,1994-04-27,1994-05-03
+Los Angeles Angels,LOSS,6,1994-05-28,1994-06-04
+Los Angeles Angels,LOSS,8,1994-07-21,1994-07-29
+Boston Red Sox,WIN,6,1994-04-19,1994-04-24
+Boston Red Sox,WIN,7,1994-04-27,1994-05-04
+Boston Red Sox,LOSS,5,1994-05-06,1994-05-10
+Boston Red Sox,LOSS,11,1994-06-08,1994-06-19
+Boston Red Sox,WIN,5,1994-06-20,1994-06-25
+Chicago Cubs,LOSS,6,1994-04-14,1994-04-20
+Chicago Cubs,WIN,8,1994-05-16,1994-05-24
+Chicago Cubs,LOSS,10,1994-05-31,1994-06-10
+Cincinnati Reds,WIN,5,1994-04-08,1994-04-12
+Cincinnati Reds,LOSS,5,1994-05-21,1994-05-25
+Cincinnati Reds,WIN,6,1994-06-18,1994-06-24
+Cincinnati Reds,WIN,5,1994-07-01,1994-07-05
+Cincinnati Reds,WIN,6,1994-07-29,1994-08-03
+Cleveland Guardians,LOSS,5,1994-05-08,1994-05-12
+Cleveland Guardians,WIN,6,1994-05-13,1994-05-19
+Cleveland Guardians,WIN,8,1994-05-27,1994-06-05
+Cleveland Guardians,WIN,10,1994-06-11,1994-06-20
+Cleveland Guardians,WIN,5,1994-06-30,1994-07-04
+Colorado Rockies,LOSS,5,1994-05-18,1994-05-22
+Colorado Rockies,LOSS,5,1994-08-02,1994-08-07
+Houston Astros,WIN,6,1994-07-02,1994-07-07
+Houston Astros,WIN,6,1994-08-02,1994-08-07
+Kansas City Royals,WIN,5,1994-04-13,1994-04-18
+Kansas City Royals,WIN,14,1994-07-23,1994-08-05
+Los Angeles Dodgers,WIN,7,1994-05-09,1994-05-16
+Los Angeles Dodgers,LOSS,5,1994-07-19,1994-07-24
+Washington Nationals,WIN,5,1994-04-19,1994-04-23
+Washington Nationals,WIN,6,1994-04-26,1994-05-02
+Washington Nationals,WIN,6,1994-06-01,1994-06-07
+Washington Nationals,WIN,5,1994-07-06,1994-07-10
+Washington Nationals,WIN,8,1994-07-18,1994-07-26
+Washington Nationals,WIN,6,1994-07-29,1994-08-03
+Washington Nationals,WIN,6,1994-08-05,1994-08-10
+New York Mets,LOSS,5,1994-06-07,1994-06-11
+New York Mets,LOSS,5,1994-06-24,1994-06-28
+Oakland Athletics,LOSS,12,1994-04-19,1994-04-30
+Oakland Athletics,LOSS,5,1994-05-08,1994-05-13
+Oakland Athletics,LOSS,6,1994-05-16,1994-05-22
+Oakland Athletics,WIN,6,1994-06-14,1994-06-19
+Oakland Athletics,WIN,8,1994-06-23,1994-07-01
+Oakland Athletics,WIN,5,1994-07-03,1994-07-07
+Oakland Athletics,WIN,5,1994-07-23,1994-07-29
+Oakland Athletics,LOSS,6,1994-07-30,1994-08-04
+Pittsburgh Pirates,WIN,6,1994-04-09,1994-04-16
+Pittsburgh Pirates,LOSS,5,1994-05-29,1994-06-03
+Pittsburgh Pirates,WIN,5,1994-06-08,1994-06-12
+Pittsburgh Pirates,WIN,6,1994-06-19,1994-06-26
+San Diego Padres,LOSS,6,1994-04-09,1994-04-15
+San Diego Padres,LOSS,5,1994-04-27,1994-05-02
+San Diego Padres,LOSS,13,1994-05-08,1994-05-21
+San Diego Padres,WIN,6,1994-05-27,1994-06-01
+San Diego Padres,LOSS,5,1994-07-07,1994-07-15
+Seattle Mariners,LOSS,5,1994-04-04,1994-04-10
+Seattle Mariners,LOSS,5,1994-06-23,1994-06-27
+Seattle Mariners,LOSS,5,1994-07-10,1994-07-17
+Seattle Mariners,LOSS,7,1994-07-24,1994-07-31
+Seattle Mariners,WIN,6,1994-08-06,1994-08-11
+San Francisco Giants,LOSS,6,1994-05-18,1994-05-24
+San Francisco Giants,LOSS,5,1994-05-30,1994-06-04
+San Francisco Giants,LOSS,5,1994-06-18,1994-06-23
+San Francisco Giants,WIN,9,1994-07-07,1994-07-18
+San Francisco Giants,LOSS,6,1994-08-01,1994-08-07
+St. Louis Cardinals,WIN,5,1994-05-17,1994-05-22
+St. Louis Cardinals,WIN,5,1994-06-26,1994-07-01
+St. Louis Cardinals,LOSS,5,1994-07-02,1994-07-06
+St. Louis Cardinals,LOSS,5,1994-07-14,1994-07-18
+St. Louis Cardinals,LOSS,6,1994-07-23,1994-07-29
+Texas Rangers,LOSS,6,1994-06-14,1994-06-19
+Texas Rangers,LOSS,6,1994-08-05,1994-08-10
+Toronto Blue Jays,WIN,6,1994-04-16,1994-04-23
+Toronto Blue Jays,LOSS,5,1994-05-09,1994-05-14
+Toronto Blue Jays,LOSS,10,1994-06-18,1994-06-28
+Toronto Blue Jays,WIN,8,1994-07-17,1994-07-24
+Minnesota Twins,LOSS,5,1994-04-08,1994-04-12
+Minnesota Twins,WIN,7,1994-05-13,1994-05-21
+Minnesota Twins,WIN,7,1994-06-09,1994-06-15
+Minnesota Twins,LOSS,5,1994-07-01,1994-07-05
+Minnesota Twins,LOSS,5,1994-07-17,1994-07-21
+Minnesota Twins,LOSS,5,1994-07-29,1994-08-02
+Minnesota Twins,WIN,5,1994-08-06,1994-08-10
+Philadelphia Phillies,LOSS,5,1994-04-22,1994-04-27
+Philadelphia Phillies,WIN,5,1994-05-20,1994-05-24
+Philadelphia Phillies,LOSS,6,1994-07-05,1994-07-10
+Philadelphia Phillies,LOSS,5,1994-08-04,1994-08-08
+Atlanta Braves,WIN,7,1994-04-04,1994-04-10
+Atlanta Braves,WIN,6,1994-04-13,1994-04-18
+Atlanta Braves,WIN,6,1994-05-30,1994-06-05
+Chicago White Sox,WIN,7,1994-05-20,1994-05-28
+Chicago White Sox,LOSS,5,1994-06-14,1994-06-18
+Chicago White Sox,WIN,6,1994-06-21,1994-06-26
+Chicago White Sox,WIN,7,1994-07-05,1994-07-14
+Chicago White Sox,WIN,5,1994-07-17,1994-07-21
+Miami Marlins,WIN,5,1994-06-01,1994-06-06
+Miami Marlins,LOSS,5,1994-06-09,1994-06-13
+Miami Marlins,LOSS,6,1994-06-18,1994-06-25
+Miami Marlins,LOSS,5,1994-07-15,1994-07-19
+Miami Marlins,LOSS,7,1994-07-25,1994-08-01
+New York Yankees,WIN,6,1994-04-20,1994-04-25
+New York Yankees,WIN,10,1994-05-06,1994-05-15
+New York Yankees,WIN,9,1994-06-20,1994-06-29
+New York Yankees,WIN,5,1994-07-14,1994-07-18
+New York Yankees,WIN,5,1994-07-20,1994-07-24
+New York Yankees,WIN,8,1994-07-29,1994-08-05
+Milwaukee Brewers,WIN,5,1994-04-21,1994-04-25
+Milwaukee Brewers,LOSS,14,1994-05-11,1994-05-25

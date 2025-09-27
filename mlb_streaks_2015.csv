@@ -1,0 +1,161 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2015-05-10,2015-05-16
+Los Angeles Angels,WIN,5,2015-05-28,2015-06-01
+Los Angeles Angels,LOSS,5,2015-06-02,2015-06-07
+Los Angeles Angels,WIN,5,2015-07-03,2015-07-08
+Los Angeles Angels,LOSS,6,2015-07-28,2015-08-02
+Los Angeles Angels,WIN,7,2015-09-22,2015-09-29
+Arizona Diamondbacks,WIN,5,2015-05-18,2015-05-22
+Arizona Diamondbacks,LOSS,6,2015-07-10,2015-07-19
+Arizona Diamondbacks,WIN,6,2015-07-25,2015-07-31
+Baltimore Orioles,LOSS,5,2015-04-20,2015-04-24
+Baltimore Orioles,LOSS,5,2015-05-30,2015-06-03
+Baltimore Orioles,WIN,6,2015-06-07,2015-06-13
+Baltimore Orioles,WIN,5,2015-07-25,2015-07-29
+Baltimore Orioles,LOSS,6,2015-08-20,2015-08-25
+Baltimore Orioles,LOSS,6,2015-08-27,2015-09-01
+Boston Red Sox,LOSS,7,2015-06-09,2015-06-15
+Boston Red Sox,LOSS,5,2015-07-20,2015-07-23
+Boston Red Sox,WIN,6,2015-09-25,2015-09-30
+Chicago Cubs,WIN,6,2015-05-11,2015-05-16
+Chicago Cubs,LOSS,5,2015-06-24,2015-06-28
+Chicago Cubs,WIN,5,2015-07-29,2015-08-02
+Chicago Cubs,WIN,9,2015-08-06,2015-08-15
+Chicago Cubs,WIN,6,2015-08-20,2015-08-25
+Chicago Cubs,WIN,5,2015-09-04,2015-09-08
+Chicago Cubs,WIN,5,2015-09-15,2015-09-19
+Chicago Cubs,WIN,8,2015-09-27,2015-10-04
+Cincinnati Reds,LOSS,9,2015-05-15,2015-05-25
+Cincinnati Reds,LOSS,9,2015-08-14,2015-08-23
+Cincinnati Reds,LOSS,13,2015-09-20,2015-10-02
+Cleveland Indians,WIN,6,2015-05-19,2015-05-24
+Cleveland Indians,WIN,5,2015-06-29,2015-07-03
+Cleveland Indians,LOSS,6,2015-07-23,2015-07-28
+Cleveland Indians,WIN,6,2015-08-25,2015-08-31
+Colorado Rockies,LOSS,5,2015-04-17,2015-04-21
+Colorado Rockies,LOSS,5,2015-04-28,2015-05-03
+Colorado Rockies,LOSS,5,2015-06-15,2015-06-19
+Colorado Rockies,LOSS,6,2015-08-10,2015-08-15
+Colorado Rockies,LOSS,5,2015-09-20,2015-09-24
+Detroit Tigers,WIN,6,2015-04-06,2015-04-12
+Detroit Tigers,LOSS,8,2015-05-28,2015-06-05
+Detroit Tigers,LOSS,5,2015-08-21,2015-08-25
+Houston Astros,WIN,10,2015-04-24,2015-05-03
+Houston Astros,WIN,5,2015-05-13,2015-05-17
+Houston Astros,LOSS,7,2015-06-04,2015-06-10
+Houston Astros,WIN,5,2015-06-14,2015-06-18
+Houston Astros,WIN,5,2015-06-28,2015-07-03
+Houston Astros,LOSS,6,2015-07-07,2015-07-12
+Houston Astros,WIN,5,2015-07-19,2015-07-24
+Houston Astros,LOSS,5,2015-09-14,2015-09-18
+Kansas City Royals,WIN,7,2015-04-06,2015-04-13
+Kansas City Royals,WIN,5,2015-05-17,2015-05-23
+Kansas City Royals,WIN,5,2015-07-07,2015-07-10
+Kansas City Royals,WIN,5,2015-08-07,2015-08-11
+Kansas City Royals,WIN,5,2015-08-14,2015-08-19
+Kansas City Royals,WIN,5,2015-09-30,2015-10-04
+Los Angeles Dodgers,WIN,7,2015-04-12,2015-04-19
+Los Angeles Dodgers,LOSS,5,2015-08-18,2015-08-23
+Los Angeles Dodgers,WIN,5,2015-08-25,2015-08-29
+Los Angeles Dodgers,WIN,5,2015-09-04,2015-09-08
+Washington Nationals,LOSS,6,2015-04-22,2015-04-27
+Washington Nationals,WIN,5,2015-05-06,2015-05-11
+Washington Nationals,WIN,6,2015-05-15,2015-05-22
+Washington Nationals,WIN,7,2015-06-19,2015-06-26
+Washington Nationals,LOSS,6,2015-08-11,2015-08-16
+Washington Nationals,WIN,5,2015-09-02,2015-09-06
+Washington Nationals,LOSS,5,2015-09-07,2015-09-12
+New York Mets,WIN,11,2015-04-12,2015-04-23
+New York Mets,LOSS,5,2015-05-11,2015-05-15
+New York Mets,LOSS,7,2015-06-17,2015-06-24
+New York Mets,WIN,5,2015-06-25,2015-06-28
+New York Mets,WIN,7,2015-07-31,2015-08-07
+New York Mets,WIN,7,2015-08-21,2015-08-27
+New York Mets,WIN,8,2015-09-07,2015-09-14
+Oakland Athletics,LOSS,6,2015-05-06,2015-05-11
+Oakland Athletics,WIN,5,2015-06-20,2015-06-25
+Oakland Athletics,LOSS,7,2015-08-11,2015-08-17
+Oakland Athletics,LOSS,5,2015-09-01,2015-09-06
+Oakland Athletics,LOSS,5,2015-09-19,2015-09-24
+Pittsburgh Pirates,WIN,5,2015-04-22,2015-04-26
+Pittsburgh Pirates,LOSS,5,2015-05-01,2015-05-06
+Pittsburgh Pirates,WIN,7,2015-05-22,2015-05-28
+Pittsburgh Pirates,WIN,8,2015-06-10,2015-06-18
+Pittsburgh Pirates,WIN,5,2015-07-04,2015-07-08
+Pittsburgh Pirates,WIN,8,2015-09-19,2015-09-26
+San Diego Padres,LOSS,6,2015-07-04,2015-07-10
+San Diego Padres,LOSS,6,2015-08-04,2015-08-09
+San Diego Padres,WIN,5,2015-08-17,2015-08-22
+Seattle Mariners,LOSS,7,2015-05-30,2015-06-05
+Seattle Mariners,WIN,5,2015-09-01,2015-09-06
+Seattle Mariners,LOSS,6,2015-09-23,2015-09-28
+San Francisco Giants,LOSS,8,2015-04-10,2015-04-17
+San Francisco Giants,WIN,5,2015-05-01,2015-05-05
+San Francisco Giants,WIN,8,2015-05-15,2015-05-23
+San Francisco Giants,WIN,5,2015-05-25,2015-05-29
+San Francisco Giants,LOSS,5,2015-05-30,2015-06-03
+San Francisco Giants,LOSS,5,2015-06-11,2015-06-15
+San Francisco Giants,LOSS,7,2015-06-30,2015-07-06
+San Francisco Giants,WIN,6,2015-07-10,2015-07-19
+San Francisco Giants,WIN,6,2015-07-21,2015-07-27
+San Francisco Giants,LOSS,7,2015-08-29,2015-09-04
+St. Louis Cardinals,WIN,5,2015-04-15,2015-04-19
+St. Louis Cardinals,WIN,8,2015-04-28,2015-05-05
+St. Louis Cardinals,WIN,5,2015-05-24,2015-05-29
+St. Louis Cardinals,WIN,6,2015-06-23,2015-06-28
+St. Louis Cardinals,WIN,5,2015-07-21,2015-07-25
+St. Louis Cardinals,WIN,5,2015-08-23,2015-08-27
+St. Louis Cardinals,WIN,5,2015-09-20,2015-09-24
+Tampa Bay Rays,WIN,5,2015-04-22,2015-04-26
+Tampa Bay Rays,LOSS,6,2015-05-23,2015-05-29
+Tampa Bay Rays,LOSS,7,2015-06-28,2015-07-04
+Texas Rangers,WIN,7,2015-05-20,2015-05-26
+Texas Rangers,LOSS,6,2015-06-20,2015-06-26
+Texas Rangers,LOSS,5,2015-07-03,2015-07-08
+Texas Rangers,WIN,5,2015-08-13,2015-08-17
+Texas Rangers,WIN,5,2015-09-13,2015-09-17
+Toronto Blue Jays,LOSS,5,2015-05-13,2015-05-17
+Toronto Blue Jays,WIN,11,2015-06-02,2015-06-14
+Toronto Blue Jays,WIN,11,2015-08-02,2015-08-13
+Toronto Blue Jays,WIN,5,2015-08-21,2015-08-26
+Toronto Blue Jays,WIN,5,2015-09-23,2015-09-28
+Minnesota Twins,WIN,5,2015-04-30,2015-05-04
+Minnesota Twins,WIN,5,2015-05-23,2015-05-27
+Minnesota Twins,LOSS,5,2015-06-08,2015-06-13
+Minnesota Twins,LOSS,5,2015-08-02,2015-08-06
+Minnesota Twins,WIN,6,2015-08-20,2015-08-26
+Philadelphia Phillies,LOSS,6,2015-04-12,2015-04-17
+Philadelphia Phillies,LOSS,5,2015-04-28,2015-05-02
+Philadelphia Phillies,WIN,6,2015-05-13,2015-05-18
+Philadelphia Phillies,LOSS,7,2015-05-24,2015-05-31
+Philadelphia Phillies,LOSS,9,2015-06-08,2015-06-17
+Philadelphia Phillies,LOSS,6,2015-06-29,2015-07-04
+Philadelphia Phillies,LOSS,5,2015-07-08,2015-07-12
+Philadelphia Phillies,WIN,5,2015-07-22,2015-07-28
+Philadelphia Phillies,LOSS,5,2015-09-02,2015-09-07
+Philadelphia Phillies,LOSS,6,2015-09-14,2015-09-20
+Atlanta Braves,WIN,5,2015-04-06,2015-04-11
+Atlanta Braves,LOSS,5,2015-06-23,2015-06-27
+Atlanta Braves,LOSS,5,2015-07-08,2015-07-12
+Atlanta Braves,LOSS,6,2015-07-27,2015-08-01
+Atlanta Braves,LOSS,7,2015-08-17,2015-08-23
+Atlanta Braves,LOSS,12,2015-08-25,2015-09-06
+Chicago White Sox,LOSS,5,2015-04-29,2015-05-03
+Chicago White Sox,WIN,6,2015-05-12,2015-05-18
+Chicago White Sox,LOSS,8,2015-06-12,2015-06-19
+Chicago White Sox,WIN,7,2015-07-23,2015-07-29
+Miami Marlins,LOSS,5,2015-04-16,2015-04-21
+Miami Marlins,WIN,5,2015-04-22,2015-04-26
+Miami Marlins,LOSS,8,2015-05-15,2015-05-22
+Miami Marlins,LOSS,5,2015-06-21,2015-06-26
+Miami Marlins,LOSS,6,2015-08-03,2015-08-08
+Miami Marlins,WIN,5,2015-09-23,2015-09-27
+New York Yankees,LOSS,6,2015-05-17,2015-05-24
+New York Yankees,WIN,7,2015-06-01,2015-06-09
+New York Yankees,LOSS,5,2015-08-07,2015-08-12
+Milwaukee Brewers,LOSS,8,2015-04-15,2015-04-22
+Milwaukee Brewers,LOSS,7,2015-05-23,2015-05-30
+Milwaukee Brewers,LOSS,6,2015-06-13,2015-06-18
+Milwaukee Brewers,WIN,8,2015-06-28,2015-07-05
+Milwaukee Brewers,LOSS,6,2015-07-29,2015-08-03
+Milwaukee Brewers,LOSS,8,2015-09-11,2015-09-19

@@ -1,0 +1,88 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,9,1931-04-19,1931-05-02
+St. Louis Browns,LOSS,5,1931-05-09,1931-05-16
+St. Louis Browns,WIN,5,1931-05-20,1931-05-24
+St. Louis Browns,LOSS,5,1931-05-24,1931-05-28
+St. Louis Browns,LOSS,9,1931-06-12,1931-06-20
+St. Louis Browns,WIN,8,1931-06-23,1931-06-28
+St. Louis Browns,LOSS,6,1931-08-02,1931-08-08
+St. Louis Browns,LOSS,7,1931-09-16,1931-09-21
+Boston Red Sox,LOSS,7,1931-05-16,1931-05-24
+Boston Red Sox,LOSS,8,1931-07-08,1931-07-14
+Boston Red Sox,LOSS,5,1931-08-20,1931-08-24
+Boston Red Sox,LOSS,8,1931-08-30,1931-09-05
+Boston Red Sox,WIN,5,1931-09-18,1931-09-21
+Chicago Cubs,LOSS,9,1931-08-30,1931-09-07
+Chicago Cubs,WIN,8,1931-09-10,1931-09-17
+Cincinnati Reds,LOSS,5,1931-04-14,1931-04-19
+Cincinnati Reds,LOSS,7,1931-04-22,1931-05-03
+Cincinnati Reds,LOSS,5,1931-05-04,1931-05-12
+Cincinnati Reds,WIN,5,1931-06-03,1931-06-07
+Cincinnati Reds,LOSS,5,1931-06-14,1931-06-20
+Cincinnati Reds,LOSS,5,1931-07-05,1931-07-11
+Cincinnati Reds,LOSS,7,1931-07-31,1931-08-05
+Cincinnati Reds,LOSS,5,1931-08-25,1931-08-29
+Cincinnati Reds,WIN,6,1931-08-30,1931-09-05
+Cincinnati Reds,LOSS,5,1931-09-06,1931-09-08
+Cleveland Indians,LOSS,12,1931-05-07,1931-05-21
+Cleveland Indians,WIN,10,1931-05-25,1931-06-04
+Cleveland Indians,LOSS,6,1931-07-21,1931-07-25
+Cleveland Indians,WIN,6,1931-08-22,1931-08-29
+Cleveland Indians,WIN,7,1931-09-05,1931-09-08
+Cleveland Indians,LOSS,5,1931-09-18,1931-09-20
+Detroit Tigers,LOSS,8,1931-05-17,1931-05-24
+Detroit Tigers,LOSS,8,1931-05-27,1931-06-04
+Detroit Tigers,LOSS,6,1931-06-06,1931-06-13
+Detroit Tigers,LOSS,7,1931-07-15,1931-07-20
+Detroit Tigers,LOSS,5,1931-07-22,1931-07-26
+Detroit Tigers,LOSS,6,1931-09-11,1931-09-15
+Brooklyn Robins,LOSS,5,1931-04-14,1931-04-19
+Brooklyn Robins,WIN,5,1931-06-20,1931-06-24
+Brooklyn Robins,WIN,5,1931-06-26,1931-06-29
+Brooklyn Robins,WIN,5,1931-07-01,1931-07-05
+Brooklyn Robins,LOSS,5,1931-07-23,1931-07-26
+Brooklyn Robins,LOSS,5,1931-08-09,1931-08-14
+Brooklyn Robins,WIN,6,1931-08-19,1931-08-23
+Philadelphia Athletics,WIN,17,1931-05-05,1931-05-25
+Philadelphia Athletics,WIN,5,1931-06-15,1931-06-21
+Philadelphia Athletics,WIN,13,1931-07-15,1931-07-25
+Philadelphia Athletics,WIN,7,1931-09-14,1931-09-21
+Pittsburgh Pirates,LOSS,6,1931-06-11,1931-06-18
+Pittsburgh Pirates,LOSS,5,1931-06-22,1931-06-26
+Pittsburgh Pirates,WIN,5,1931-07-23,1931-07-27
+Pittsburgh Pirates,WIN,8,1931-09-03,1931-09-09
+New York Giants,WIN,6,1931-06-11,1931-06-18
+New York Giants,WIN,5,1931-08-01,1931-08-04
+New York Giants,WIN,5,1931-08-17,1931-08-22
+New York Giants,WIN,8,1931-08-31,1931-09-05
+St. Louis Cardinals,WIN,8,1931-04-28,1931-05-09
+St. Louis Cardinals,WIN,6,1931-06-13,1931-06-19
+St. Louis Cardinals,WIN,6,1931-07-19,1931-07-25
+St. Louis Cardinals,WIN,6,1931-08-23,1931-08-28
+St. Louis Cardinals,WIN,5,1931-09-06,1931-09-10
+St. Louis Cardinals,WIN,7,1931-09-12,1931-09-16
+Washington Senators,WIN,6,1931-05-10,1931-05-16
+Washington Senators,WIN,12,1931-06-06,1931-06-17
+Washington Senators,WIN,5,1931-07-16,1931-07-20
+Washington Senators,WIN,5,1931-08-30,1931-09-04
+Washington Senators,WIN,5,1931-09-20,1931-09-23
+Philadelphia Phillies,LOSS,7,1931-06-10,1931-06-16
+Philadelphia Phillies,LOSS,5,1931-08-08,1931-08-12
+Philadelphia Phillies,WIN,5,1931-08-30,1931-09-06
+Philadelphia Phillies,LOSS,10,1931-09-08,1931-09-16
+Boston Braves,LOSS,5,1931-08-23,1931-08-26
+Boston Braves,LOSS,9,1931-08-30,1931-09-05
+Boston Braves,LOSS,5,1931-09-12,1931-09-16
+Boston Braves,LOSS,6,1931-09-18,1931-09-27
+Chicago White Sox,WIN,5,1931-04-28,1931-05-02
+Chicago White Sox,LOSS,7,1931-05-06,1931-05-15
+Chicago White Sox,LOSS,6,1931-06-06,1931-06-13
+Chicago White Sox,LOSS,5,1931-06-23,1931-06-25
+Chicago White Sox,LOSS,7,1931-07-16,1931-07-22
+Chicago White Sox,LOSS,6,1931-08-21,1931-08-25
+Chicago White Sox,LOSS,10,1931-09-14,1931-09-22
+New York Yankees,WIN,5,1931-05-05,1931-05-14
+New York Yankees,WIN,5,1931-05-17,1931-05-23
+New York Yankees,WIN,5,1931-06-23,1931-06-25
+New York Yankees,WIN,7,1931-08-20,1931-08-25
+New York Yankees,WIN,10,1931-09-13,1931-09-20

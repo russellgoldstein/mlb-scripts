@@ -1,0 +1,134 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,6,1993-04-20,1993-04-25
+Los Angeles Angels,LOSS,5,1993-04-30,1993-05-04
+Los Angeles Angels,LOSS,6,1993-06-27,1993-07-03
+Los Angeles Angels,LOSS,10,1993-07-17,1993-07-26
+Los Angeles Angels,LOSS,6,1993-09-26,1993-10-01
+Baltimore Orioles,WIN,10,1993-06-02,1993-06-12
+Baltimore Orioles,WIN,6,1993-06-20,1993-06-26
+Baltimore Orioles,WIN,8,1993-08-02,1993-08-09
+Baltimore Orioles,LOSS,8,1993-08-10,1993-08-17
+Baltimore Orioles,WIN,8,1993-08-29,1993-09-06
+Baltimore Orioles,LOSS,5,1993-09-22,1993-09-27
+Boston Red Sox,LOSS,6,1993-04-21,1993-04-27
+Boston Red Sox,LOSS,7,1993-06-05,1993-06-12
+Boston Red Sox,WIN,7,1993-06-21,1993-06-28
+Boston Red Sox,WIN,5,1993-06-30,1993-07-05
+Boston Red Sox,WIN,10,1993-07-16,1993-07-25
+Boston Red Sox,LOSS,6,1993-08-19,1993-08-25
+Boston Red Sox,LOSS,5,1993-08-31,1993-09-05
+Boston Red Sox,LOSS,6,1993-09-28,1993-10-03
+Chicago Cubs,WIN,5,1993-07-15,1993-07-19
+Chicago Cubs,WIN,6,1993-09-03,1993-09-08
+Cincinnati Reds,LOSS,5,1993-04-12,1993-04-17
+Cincinnati Reds,WIN,7,1993-05-10,1993-05-16
+Cincinnati Reds,LOSS,5,1993-05-17,1993-05-21
+Cincinnati Reds,LOSS,7,1993-08-09,1993-08-16
+Cincinnati Reds,LOSS,12,1993-09-10,1993-09-22
+Cleveland Guardians,WIN,5,1993-05-01,1993-05-05
+Cleveland Guardians,LOSS,5,1993-05-06,1993-05-11
+Cleveland Guardians,WIN,8,1993-06-25,1993-07-03
+Cleveland Guardians,WIN,5,1993-08-19,1993-08-23
+Colorado Rockies,LOSS,5,1993-05-05,1993-05-09
+Colorado Rockies,LOSS,7,1993-05-11,1993-05-17
+Colorado Rockies,LOSS,5,1993-05-19,1993-05-23
+Colorado Rockies,LOSS,5,1993-06-27,1993-07-02
+Colorado Rockies,LOSS,5,1993-07-15,1993-07-19
+Colorado Rockies,LOSS,13,1993-07-25,1993-08-06
+Colorado Rockies,WIN,6,1993-08-08,1993-08-13
+Colorado Rockies,WIN,5,1993-08-19,1993-08-23
+Colorado Rockies,WIN,5,1993-09-14,1993-09-17
+Detroit Tigers,WIN,5,1993-04-13,1993-04-18
+Detroit Tigers,WIN,6,1993-04-20,1993-04-26
+Detroit Tigers,WIN,5,1993-06-08,1993-06-12
+Detroit Tigers,LOSS,10,1993-06-22,1993-07-01
+Detroit Tigers,LOSS,6,1993-07-19,1993-07-24
+Detroit Tigers,WIN,7,1993-08-21,1993-08-28
+Detroit Tigers,LOSS,5,1993-08-31,1993-09-05
+Houston Astros,WIN,5,1993-04-09,1993-04-14
+Houston Astros,WIN,5,1993-04-27,1993-05-01
+Houston Astros,LOSS,5,1993-05-17,1993-05-22
+Houston Astros,LOSS,5,1993-06-09,1993-06-15
+Houston Astros,LOSS,5,1993-08-26,1993-08-30
+Kansas City Royals,LOSS,5,1993-04-05,1993-04-10
+Kansas City Royals,WIN,5,1993-05-31,1993-06-04
+Los Angeles Dodgers,LOSS,6,1993-04-20,1993-04-25
+Los Angeles Dodgers,WIN,11,1993-05-17,1993-05-29
+Los Angeles Dodgers,LOSS,7,1993-08-07,1993-08-13
+Los Angeles Dodgers,WIN,6,1993-08-19,1993-08-24
+Washington Nationals,WIN,6,1993-04-18,1993-04-24
+Washington Nationals,WIN,5,1993-07-07,1993-07-11
+Washington Nationals,WIN,9,1993-08-25,1993-09-04
+Washington Nationals,WIN,7,1993-09-06,1993-09-14
+New York Mets,LOSS,7,1993-04-24,1993-05-01
+New York Mets,LOSS,5,1993-05-14,1993-05-18
+New York Mets,LOSS,6,1993-06-08,1993-06-13
+New York Mets,LOSS,6,1993-06-15,1993-06-20
+New York Mets,LOSS,5,1993-06-22,1993-06-27
+New York Mets,LOSS,5,1993-08-08,1993-08-13
+New York Mets,LOSS,8,1993-09-03,1993-09-11
+New York Mets,WIN,6,1993-09-28,1993-10-03
+Oakland Athletics,LOSS,5,1993-06-07,1993-06-12
+Oakland Athletics,WIN,7,1993-06-29,1993-07-05
+Oakland Athletics,LOSS,5,1993-07-16,1993-07-20
+Oakland Athletics,LOSS,9,1993-08-21,1993-08-28
+Oakland Athletics,LOSS,6,1993-08-30,1993-09-05
+Pittsburgh Pirates,LOSS,5,1993-04-16,1993-04-21
+Pittsburgh Pirates,LOSS,7,1993-06-10,1993-06-16
+Pittsburgh Pirates,LOSS,5,1993-09-02,1993-09-06
+Pittsburgh Pirates,WIN,5,1993-09-12,1993-09-17
+San Diego Padres,LOSS,5,1993-05-23,1993-05-28
+San Diego Padres,LOSS,7,1993-08-14,1993-08-22
+San Diego Padres,WIN,5,1993-08-23,1993-08-28
+San Diego Padres,LOSS,5,1993-09-02,1993-09-06
+San Diego Padres,LOSS,6,1993-09-21,1993-09-27
+Seattle Mariners,LOSS,5,1993-06-04,1993-06-08
+Seattle Mariners,WIN,6,1993-07-06,1993-07-15
+San Francisco Giants,WIN,6,1993-04-27,1993-05-02
+San Francisco Giants,WIN,7,1993-05-15,1993-05-21
+San Francisco Giants,WIN,6,1993-06-16,1993-06-21
+San Francisco Giants,LOSS,8,1993-09-07,1993-09-15
+San Francisco Giants,WIN,7,1993-09-22,1993-09-28
+St. Louis Cardinals,WIN,5,1993-06-23,1993-06-28
+St. Louis Cardinals,LOSS,6,1993-08-20,1993-08-25
+Texas Rangers,LOSS,6,1993-06-18,1993-06-23
+Texas Rangers,WIN,6,1993-07-08,1993-07-16
+Texas Rangers,WIN,6,1993-09-06,1993-09-11
+Toronto Blue Jays,WIN,6,1993-05-20,1993-05-25
+Toronto Blue Jays,WIN,7,1993-05-29,1993-06-05
+Toronto Blue Jays,WIN,7,1993-06-15,1993-06-22
+Toronto Blue Jays,LOSS,5,1993-06-30,1993-07-05
+Toronto Blue Jays,LOSS,5,1993-07-07,1993-07-11
+Toronto Blue Jays,WIN,5,1993-07-24,1993-07-29
+Toronto Blue Jays,WIN,5,1993-08-14,1993-08-18
+Toronto Blue Jays,LOSS,6,1993-09-03,1993-09-09
+Toronto Blue Jays,WIN,9,1993-09-10,1993-09-21
+Minnesota Twins,LOSS,8,1993-04-23,1993-04-30
+Minnesota Twins,LOSS,8,1993-05-16,1993-05-25
+Minnesota Twins,LOSS,9,1993-06-15,1993-06-23
+Minnesota Twins,WIN,5,1993-08-12,1993-08-15
+Minnesota Twins,LOSS,6,1993-08-17,1993-08-22
+Minnesota Twins,WIN,6,1993-09-25,1993-09-30
+Philadelphia Phillies,WIN,5,1993-04-10,1993-04-14
+Philadelphia Phillies,WIN,6,1993-06-09,1993-06-14
+Atlanta Braves,LOSS,5,1993-04-25,1993-04-29
+Atlanta Braves,WIN,6,1993-07-23,1993-07-28
+Atlanta Braves,WIN,9,1993-08-08,1993-08-18
+Atlanta Braves,WIN,5,1993-08-21,1993-08-25
+Atlanta Braves,WIN,5,1993-09-07,1993-09-11
+Chicago White Sox,WIN,6,1993-04-26,1993-05-01
+Chicago White Sox,WIN,5,1993-05-05,1993-05-10
+Chicago White Sox,LOSS,6,1993-05-25,1993-05-30
+Chicago White Sox,WIN,5,1993-07-11,1993-07-18
+Chicago White Sox,WIN,6,1993-07-26,1993-08-01
+Chicago White Sox,WIN,5,1993-08-28,1993-09-01
+Miami Marlins,LOSS,7,1993-07-03,1993-07-09
+Miami Marlins,LOSS,6,1993-09-28,1993-10-03
+New York Yankees,WIN,6,1993-08-11,1993-08-17
+New York Yankees,LOSS,5,1993-09-19,1993-09-25
+Milwaukee Brewers,LOSS,5,1993-06-19,1993-06-23
+Milwaukee Brewers,LOSS,7,1993-07-15,1993-07-22
+Milwaukee Brewers,LOSS,5,1993-08-02,1993-08-06
+Milwaukee Brewers,WIN,7,1993-08-22,1993-08-27
+Milwaukee Brewers,LOSS,5,1993-09-10,1993-09-14
+Milwaukee Brewers,LOSS,5,1993-09-25,1993-09-29

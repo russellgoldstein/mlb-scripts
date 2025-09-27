@@ -1,0 +1,84 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,6,1929-06-25,1929-06-29
+St. Louis Browns,LOSS,5,1929-07-24,1929-07-30
+St. Louis Browns,WIN,7,1929-08-20,1929-08-29
+Boston Red Sox,LOSS,5,1929-05-01,1929-05-06
+Boston Red Sox,LOSS,6,1929-05-18,1929-05-23
+Boston Red Sox,LOSS,8,1929-06-21,1929-06-26
+Boston Red Sox,LOSS,7,1929-06-30,1929-07-07
+Boston Red Sox,LOSS,6,1929-07-17,1929-07-23
+Boston Red Sox,LOSS,5,1929-09-22,1929-09-28
+Chicago Cubs,WIN,5,1929-06-24,1929-06-30
+Chicago Cubs,WIN,9,1929-07-23,1929-07-30
+Chicago Cubs,WIN,5,1929-07-31,1929-08-05
+Chicago Cubs,WIN,5,1929-08-20,1929-08-24
+Cincinnati Reds,LOSS,9,1929-05-17,1929-05-26
+Cincinnati Reds,LOSS,5,1929-05-29,1929-05-31
+Cincinnati Reds,LOSS,5,1929-06-11,1929-06-16
+Cincinnati Reds,WIN,5,1929-07-25,1929-07-28
+Cincinnati Reds,LOSS,5,1929-08-25,1929-09-01
+Cleveland Indians,LOSS,5,1929-04-27,1929-05-01
+Cleveland Indians,WIN,6,1929-08-31,1929-09-05
+Cleveland Indians,WIN,5,1929-09-22,1929-09-29
+Detroit Tigers,WIN,6,1929-05-03,1929-05-08
+Detroit Tigers,LOSS,6,1929-07-18,1929-07-24
+Detroit Tigers,LOSS,7,1929-09-16,1929-09-21
+Brooklyn Robins,LOSS,5,1929-04-18,1929-04-21
+Brooklyn Robins,LOSS,9,1929-05-07,1929-05-16
+Brooklyn Robins,LOSS,5,1929-08-01,1929-08-05
+Brooklyn Robins,WIN,5,1929-09-02,1929-09-06
+Brooklyn Robins,LOSS,5,1929-09-22,1929-09-26
+Philadelphia Athletics,WIN,11,1929-05-17,1929-05-26
+Philadelphia Athletics,WIN,6,1929-05-29,1929-06-03
+Philadelphia Athletics,WIN,6,1929-06-10,1929-06-15
+Philadelphia Athletics,WIN,6,1929-06-23,1929-06-27
+Philadelphia Athletics,WIN,5,1929-07-02,1929-07-04
+Philadelphia Athletics,WIN,5,1929-07-18,1929-07-23
+Philadelphia Athletics,WIN,5,1929-09-10,1929-09-14
+Pittsburgh Pirates,WIN,8,1929-05-22,1929-05-29
+Pittsburgh Pirates,WIN,5,1929-06-03,1929-06-08
+Pittsburgh Pirates,WIN,5,1929-06-30,1929-07-04
+Pittsburgh Pirates,WIN,8,1929-07-07,1929-07-15
+New York Giants,WIN,6,1929-05-22,1929-05-28
+New York Giants,WIN,5,1929-05-30,1929-06-03
+New York Giants,WIN,6,1929-06-19,1929-06-22
+New York Giants,LOSS,5,1929-07-21,1929-07-26
+New York Giants,WIN,5,1929-09-11,1929-09-15
+New York Giants,WIN,5,1929-09-21,1929-09-25
+St. Louis Cardinals,WIN,5,1929-05-08,1929-05-12
+St. Louis Cardinals,WIN,7,1929-05-29,1929-06-04
+St. Louis Cardinals,WIN,6,1929-06-08,1929-06-15
+St. Louis Cardinals,LOSS,5,1929-06-23,1929-06-30
+St. Louis Cardinals,LOSS,6,1929-07-02,1929-07-06
+St. Louis Cardinals,WIN,6,1929-09-22,1929-09-27
+Washington Senators,LOSS,5,1929-05-15,1929-05-19
+Washington Senators,LOSS,6,1929-05-23,1929-05-28
+Washington Senators,LOSS,6,1929-07-02,1929-07-07
+Washington Senators,WIN,5,1929-08-07,1929-08-12
+Washington Senators,WIN,5,1929-09-16,1929-09-19
+Philadelphia Phillies,LOSS,6,1929-06-07,1929-06-12
+Philadelphia Phillies,LOSS,9,1929-06-19,1929-06-25
+Philadelphia Phillies,LOSS,7,1929-07-09,1929-07-15
+Philadelphia Phillies,LOSS,9,1929-07-21,1929-07-29
+Philadelphia Phillies,WIN,8,1929-08-25,1929-09-01
+Philadelphia Phillies,LOSS,5,1929-09-16,1929-09-19
+Philadelphia Phillies,WIN,7,1929-09-24,1929-09-28
+Boston Braves,WIN,5,1929-04-26,1929-05-04
+Boston Braves,LOSS,11,1929-05-18,1929-05-29
+Boston Braves,LOSS,7,1929-06-25,1929-06-30
+Boston Braves,LOSS,5,1929-08-24,1929-08-31
+Boston Braves,LOSS,8,1929-09-09,1929-09-15
+Boston Braves,LOSS,9,1929-09-20,1929-09-29
+Chicago White Sox,LOSS,6,1929-05-20,1929-05-25
+Chicago White Sox,LOSS,5,1929-06-01,1929-06-05
+Chicago White Sox,LOSS,6,1929-06-27,1929-07-02
+Chicago White Sox,WIN,5,1929-07-18,1929-07-23
+Chicago White Sox,LOSS,5,1929-09-11,1929-09-15
+Chicago White Sox,LOSS,6,1929-09-22,1929-09-29
+New York Yankees,WIN,8,1929-04-30,1929-05-10
+New York Yankees,LOSS,5,1929-05-11,1929-05-17
+New York Yankees,WIN,5,1929-06-01,1929-06-05
+New York Yankees,WIN,8,1929-06-29,1929-07-06
+New York Yankees,WIN,7,1929-07-23,1929-07-31
+New York Yankees,LOSS,5,1929-08-11,1929-08-15
+New York Yankees,LOSS,5,1929-08-21,1929-08-25

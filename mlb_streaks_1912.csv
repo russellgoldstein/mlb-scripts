@@ -1,0 +1,95 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1912-04-25,1912-05-03
+St. Louis Browns,LOSS,7,1912-05-05,1912-05-17
+St. Louis Browns,LOSS,5,1912-06-09,1912-06-14
+St. Louis Browns,LOSS,6,1912-08-20,1912-08-26
+St. Louis Browns,WIN,7,1912-08-26,1912-09-02
+Boston Red Sox,WIN,5,1912-05-20,1912-05-24
+Boston Red Sox,WIN,5,1912-06-08,1912-06-12
+Boston Red Sox,WIN,9,1912-06-15,1912-06-24
+Boston Red Sox,WIN,5,1912-06-28,1912-07-01
+Boston Red Sox,WIN,6,1912-07-17,1912-07-23
+Boston Red Sox,WIN,10,1912-08-28,1912-09-06
+Boston Red Sox,LOSS,5,1912-09-17,1912-09-20
+Chicago Cubs,WIN,7,1912-05-27,1912-06-04
+Chicago Cubs,WIN,5,1912-07-01,1912-07-05
+Chicago Cubs,WIN,7,1912-07-10,1912-07-16
+Chicago Cubs,WIN,7,1912-07-31,1912-08-05
+Chicago Cubs,WIN,6,1912-08-08,1912-08-15
+Chicago Cubs,WIN,5,1912-08-18,1912-08-22
+Cincinnati Reds,WIN,6,1912-04-28,1912-05-05
+Cincinnati Reds,WIN,5,1912-05-10,1912-05-16
+Cincinnati Reds,LOSS,7,1912-05-25,1912-05-31
+Cincinnati Reds,LOSS,5,1912-06-05,1912-06-11
+Cincinnati Reds,LOSS,7,1912-07-21,1912-07-29
+Cincinnati Reds,LOSS,6,1912-07-31,1912-08-05
+Cincinnati Reds,WIN,5,1912-09-01,1912-09-03
+Cincinnati Reds,LOSS,5,1912-09-20,1912-09-26
+Cleveland Naps,LOSS,8,1912-06-09,1912-06-18
+Cleveland Naps,LOSS,5,1912-07-19,1912-07-23
+Cleveland Naps,LOSS,7,1912-07-27,1912-08-04
+Cleveland Naps,WIN,5,1912-08-08,1912-08-12
+Cleveland Naps,LOSS,7,1912-08-14,1912-08-20
+Cleveland Naps,WIN,9,1912-09-17,1912-09-27
+Detroit Tigers,LOSS,6,1912-06-08,1912-06-13
+Detroit Tigers,WIN,5,1912-08-03,1912-08-07
+Detroit Tigers,LOSS,7,1912-08-14,1912-08-21
+Brooklyn Dodgers,LOSS,6,1912-05-10,1912-05-16
+Brooklyn Dodgers,LOSS,6,1912-05-21,1912-05-28
+Brooklyn Dodgers,WIN,5,1912-06-14,1912-06-19
+Brooklyn Dodgers,LOSS,5,1912-07-05,1912-07-11
+Brooklyn Dodgers,LOSS,6,1912-07-18,1912-07-22
+Brooklyn Dodgers,LOSS,7,1912-07-30,1912-08-05
+Philadelphia Athletics,WIN,5,1912-06-09,1912-06-13
+Philadelphia Athletics,WIN,6,1912-06-26,1912-07-01
+Philadelphia Athletics,WIN,7,1912-08-10,1912-08-16
+Philadelphia Athletics,WIN,6,1912-08-22,1912-08-27
+Pittsburgh Pirates,WIN,5,1912-06-11,1912-06-15
+Pittsburgh Pirates,WIN,6,1912-08-12,1912-08-15
+Pittsburgh Pirates,WIN,12,1912-09-03,1912-09-16
+New York Giants,WIN,9,1912-04-16,1912-05-02
+New York Giants,WIN,7,1912-05-04,1912-05-11
+New York Giants,WIN,9,1912-05-20,1912-05-30
+New York Giants,WIN,6,1912-06-01,1912-06-08
+New York Giants,WIN,16,1912-06-19,1912-07-03
+New York Giants,WIN,5,1912-07-20,1912-07-24
+New York Giants,WIN,6,1912-07-30,1912-08-03
+New York Giants,WIN,5,1912-09-20,1912-09-27
+St. Louis Cardinals,LOSS,6,1912-04-18,1912-04-25
+St. Louis Cardinals,LOSS,9,1912-04-27,1912-05-09
+St. Louis Cardinals,WIN,6,1912-05-10,1912-05-16
+St. Louis Cardinals,WIN,5,1912-05-25,1912-05-30
+St. Louis Cardinals,LOSS,6,1912-06-13,1912-06-19
+St. Louis Cardinals,LOSS,5,1912-06-30,1912-07-05
+St. Louis Cardinals,LOSS,5,1912-08-26,1912-08-30
+St. Louis Cardinals,LOSS,5,1912-09-05,1912-09-10
+St. Louis Cardinals,LOSS,6,1912-09-20,1912-09-27
+Washington Senators,WIN,17,1912-05-30,1912-06-18
+Washington Senators,WIN,10,1912-07-02,1912-07-10
+Washington Senators,WIN,5,1912-07-25,1912-07-28
+Washington Senators,WIN,6,1912-08-15,1912-08-21
+Philadelphia Phillies,LOSS,6,1912-04-20,1912-05-02
+Philadelphia Phillies,LOSS,6,1912-06-21,1912-06-27
+Philadelphia Phillies,WIN,5,1912-07-14,1912-07-18
+Philadelphia Phillies,LOSS,6,1912-08-12,1912-08-15
+Philadelphia Phillies,LOSS,6,1912-09-10,1912-09-16
+Philadelphia Phillies,WIN,5,1912-09-20,1912-09-26
+Boston Braves,LOSS,5,1912-05-10,1912-05-16
+Boston Braves,LOSS,10,1912-05-28,1912-06-08
+Boston Braves,LOSS,5,1912-06-19,1912-06-22
+Boston Braves,LOSS,7,1912-06-27,1912-07-03
+Boston Braves,LOSS,7,1912-07-09,1912-07-15
+Boston Braves,LOSS,6,1912-07-18,1912-07-27
+Boston Braves,LOSS,6,1912-08-09,1912-08-16
+Chicago White Sox,WIN,6,1912-04-21,1912-04-28
+Chicago White Sox,WIN,8,1912-05-05,1912-05-14
+Chicago White Sox,LOSS,5,1912-07-17,1912-07-22
+Chicago White Sox,LOSS,6,1912-09-06,1912-09-12
+New York Highlanders,LOSS,6,1912-04-11,1912-04-20
+New York Highlanders,LOSS,7,1912-06-15,1912-06-24
+New York Highlanders,LOSS,7,1912-06-26,1912-07-01
+New York Highlanders,LOSS,8,1912-07-03,1912-07-10
+New York Highlanders,LOSS,8,1912-08-04,1912-08-11
+New York Highlanders,WIN,5,1912-08-14,1912-08-17
+New York Highlanders,LOSS,9,1912-09-12,1912-09-21
+New York Highlanders,LOSS,9,1912-09-24,1912-10-04

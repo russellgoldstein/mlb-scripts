@@ -1,0 +1,183 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,5,2019-03-30,2019-04-04
+Los Angeles Angels,WIN,6,2019-04-05,2019-04-10
+Los Angeles Angels,LOSS,6,2019-04-15,2019-04-20
+Los Angeles Angels,WIN,5,2019-07-12,2019-07-16
+Los Angeles Angels,LOSS,8,2019-07-31,2019-08-09
+Los Angeles Angels,LOSS,5,2019-08-20,2019-08-25
+Los Angeles Angels,LOSS,6,2019-09-08,2019-09-14
+Arizona Diamondbacks,WIN,5,2019-04-22,2019-04-26
+Arizona Diamondbacks,LOSS,5,2019-05-18,2019-05-22
+Arizona Diamondbacks,LOSS,5,2019-05-27,2019-05-31
+Arizona Diamondbacks,WIN,5,2019-06-05,2019-06-10
+Arizona Diamondbacks,LOSS,6,2019-06-16,2019-06-22
+Arizona Diamondbacks,WIN,6,2019-08-25,2019-08-31
+Arizona Diamondbacks,WIN,5,2019-09-02,2019-09-07
+Arizona Diamondbacks,LOSS,6,2019-09-08,2019-09-13
+Arizona Diamondbacks,WIN,5,2019-09-24,2019-09-29
+Baltimore Orioles,LOSS,7,2019-05-18,2019-05-24
+Baltimore Orioles,LOSS,10,2019-06-12,2019-06-21
+Baltimore Orioles,LOSS,5,2019-08-05,2019-08-10
+Baltimore Orioles,LOSS,8,2019-08-12,2019-08-19
+Baltimore Orioles,LOSS,6,2019-09-03,2019-09-10
+Boston Red Sox,WIN,5,2019-05-07,2019-05-12
+Boston Red Sox,WIN,6,2019-06-12,2019-06-17
+Boston Red Sox,WIN,5,2019-07-04,2019-07-12
+Boston Red Sox,LOSS,8,2019-07-28,2019-08-04
+Boston Red Sox,WIN,5,2019-08-13,2019-08-18
+Boston Red Sox,LOSS,5,2019-09-07,2019-09-11
+Chicago Cubs,LOSS,6,2019-03-30,2019-04-05
+Chicago Cubs,WIN,7,2019-04-27,2019-05-05
+Chicago Cubs,WIN,5,2019-08-17,2019-08-22
+Chicago Cubs,WIN,5,2019-09-12,2019-09-16
+Chicago Cubs,LOSS,9,2019-09-17,2019-09-26
+Cincinnati Reds,LOSS,8,2019-03-31,2019-04-07
+Cincinnati Reds,WIN,6,2019-06-16,2019-06-21
+Cincinnati Reds,LOSS,5,2019-09-22,2019-09-27
+Cleveland Guardians,WIN,5,2019-04-04,2019-04-09
+Cleveland Guardians,WIN,6,2019-06-30,2019-07-07
+Cleveland Guardians,WIN,6,2019-07-14,2019-07-19
+Cleveland Guardians,WIN,5,2019-09-15,2019-09-20
+Cleveland Guardians,LOSS,5,2019-09-25,2019-09-29
+Colorado Rockies,LOSS,5,2019-04-05,2019-04-09
+Colorado Rockies,WIN,5,2019-04-14,2019-04-19
+Colorado Rockies,WIN,8,2019-05-26,2019-06-02
+Colorado Rockies,LOSS,6,2019-06-30,2019-07-07
+Colorado Rockies,LOSS,6,2019-07-15,2019-07-20
+Colorado Rockies,LOSS,5,2019-08-06,2019-08-10
+Colorado Rockies,LOSS,9,2019-08-27,2019-09-04
+Detroit Tigers,WIN,5,2019-04-02,2019-04-07
+Detroit Tigers,LOSS,10,2019-05-13,2019-05-23
+Detroit Tigers,LOSS,8,2019-06-19,2019-06-28
+Detroit Tigers,LOSS,5,2019-07-05,2019-07-13
+Detroit Tigers,LOSS,6,2019-07-15,2019-07-20
+Detroit Tigers,LOSS,6,2019-07-23,2019-07-28
+Detroit Tigers,LOSS,5,2019-08-02,2019-08-06
+Detroit Tigers,LOSS,6,2019-08-24,2019-08-30
+Detroit Tigers,LOSS,5,2019-09-17,2019-09-21
+Houston Astros,WIN,10,2019-04-05,2019-04-16
+Houston Astros,WIN,10,2019-05-08,2019-05-18
+Houston Astros,WIN,5,2019-05-31,2019-06-04
+Houston Astros,LOSS,7,2019-06-16,2019-06-22
+Houston Astros,WIN,5,2019-06-28,2019-07-03
+Houston Astros,WIN,6,2019-07-17,2019-07-22
+Houston Astros,WIN,8,2019-08-01,2019-08-10
+Houston Astros,LOSS,5,2019-08-13,2019-08-17
+Houston Astros,WIN,6,2019-08-22,2019-08-28
+Houston Astros,WIN,5,2019-09-05,2019-09-09
+Houston Astros,WIN,6,2019-09-13,2019-09-20
+Kansas City Royals,LOSS,10,2019-03-31,2019-04-11
+Kansas City Royals,LOSS,5,2019-04-19,2019-04-23
+Kansas City Royals,LOSS,6,2019-05-31,2019-06-06
+Kansas City Royals,LOSS,7,2019-07-29,2019-08-05
+Kansas City Royals,LOSS,5,2019-08-20,2019-08-24
+Los Angeles Dodgers,WIN,5,2019-04-02,2019-04-07
+Los Angeles Dodgers,LOSS,6,2019-04-08,2019-04-13
+Los Angeles Dodgers,WIN,6,2019-04-14,2019-04-19
+Los Angeles Dodgers,WIN,7,2019-05-29,2019-06-04
+Los Angeles Dodgers,WIN,6,2019-06-18,2019-06-23
+Los Angeles Dodgers,WIN,5,2019-08-03,2019-08-07
+Los Angeles Dodgers,WIN,7,2019-09-22,2019-09-29
+Washington Nationals,LOSS,5,2019-05-19,2019-05-23
+Washington Nationals,WIN,5,2019-08-11,2019-08-16
+Washington Nationals,WIN,5,2019-08-21,2019-08-25
+Washington Nationals,WIN,8,2019-09-23,2019-09-29
+New York Mets,LOSS,5,2019-05-15,2019-05-19
+New York Mets,LOSS,7,2019-06-23,2019-06-29
+New York Mets,WIN,7,2019-07-25,2019-08-01
+New York Mets,WIN,8,2019-08-03,2019-08-10
+New York Mets,WIN,5,2019-08-17,2019-08-22
+New York Mets,LOSS,6,2019-08-23,2019-08-29
+Oakland Athletics,LOSS,6,2019-04-26,2019-05-01
+Oakland Athletics,WIN,11,2019-05-16,2019-05-27
+Oakland Athletics,LOSS,5,2019-05-28,2019-06-02
+Oakland Athletics,WIN,6,2019-07-07,2019-07-17
+Oakland Athletics,WIN,6,2019-09-10,2019-09-15
+Pittsburgh Pirates,WIN,5,2019-04-14,2019-04-20
+Pittsburgh Pirates,LOSS,8,2019-04-21,2019-04-28
+Pittsburgh Pirates,LOSS,7,2019-06-07,2019-06-13
+Pittsburgh Pirates,LOSS,9,2019-07-21,2019-07-29
+Pittsburgh Pirates,LOSS,8,2019-08-03,2019-08-11
+Pittsburgh Pirates,LOSS,9,2019-09-13,2019-09-22
+San Diego Padres,LOSS,6,2019-04-14,2019-04-20
+San Diego Padres,WIN,5,2019-04-21,2019-04-27
+San Diego Padres,WIN,5,2019-05-20,2019-05-25
+San Diego Padres,LOSS,5,2019-06-08,2019-06-13
+San Diego Padres,LOSS,5,2019-06-30,2019-07-04
+San Diego Padres,LOSS,6,2019-09-12,2019-09-17
+San Diego Padres,LOSS,6,2019-09-24,2019-09-29
+Seattle Mariners,WIN,6,2019-04-06,2019-04-11
+Seattle Mariners,LOSS,6,2019-04-12,2019-04-17
+Seattle Mariners,LOSS,6,2019-04-27,2019-05-04
+Seattle Mariners,LOSS,6,2019-05-20,2019-05-26
+Seattle Mariners,LOSS,6,2019-07-07,2019-07-17
+Seattle Mariners,WIN,6,2019-07-24,2019-07-30
+Seattle Mariners,LOSS,5,2019-07-31,2019-08-06
+Seattle Mariners,LOSS,6,2019-09-02,2019-09-08
+Seattle Mariners,WIN,5,2019-09-14,2019-09-19
+San Francisco Giants,LOSS,7,2019-05-22,2019-05-29
+San Francisco Giants,WIN,7,2019-07-14,2019-07-19
+St. Louis Cardinals,WIN,5,2019-04-07,2019-04-11
+St. Louis Cardinals,WIN,5,2019-04-20,2019-04-24
+St. Louis Cardinals,WIN,5,2019-04-27,2019-05-01
+St. Louis Cardinals,LOSS,5,2019-06-23,2019-06-29
+St. Louis Cardinals,WIN,6,2019-07-21,2019-07-26
+St. Louis Cardinals,LOSS,5,2019-08-03,2019-08-07
+St. Louis Cardinals,WIN,5,2019-08-09,2019-08-14
+St. Louis Cardinals,WIN,6,2019-08-22,2019-08-27
+St. Louis Cardinals,WIN,6,2019-09-18,2019-09-23
+Tampa Bay Rays,WIN,5,2019-03-29,2019-04-02
+Tampa Bay Rays,WIN,5,2019-04-07,2019-04-12
+Tampa Bay Rays,WIN,6,2019-05-25,2019-05-30
+Tampa Bay Rays,WIN,6,2019-07-28,2019-08-04
+Tampa Bay Rays,WIN,5,2019-08-09,2019-08-13
+Tampa Bay Rays,WIN,5,2019-08-29,2019-09-02
+Tampa Bay Rays,WIN,6,2019-09-03,2019-09-10
+Texas Rangers,LOSS,5,2019-04-22,2019-04-26
+Texas Rangers,LOSS,5,2019-05-09,2019-05-14
+Texas Rangers,WIN,5,2019-05-19,2019-05-24
+Texas Rangers,WIN,6,2019-06-22,2019-06-28
+Texas Rangers,LOSS,8,2019-07-13,2019-07-22
+Texas Rangers,WIN,5,2019-07-31,2019-08-05
+Texas Rangers,LOSS,7,2019-09-13,2019-09-21
+Toronto Blue Jays,LOSS,5,2019-05-04,2019-05-08
+Toronto Blue Jays,LOSS,6,2019-05-27,2019-06-02
+Toronto Blue Jays,LOSS,5,2019-06-06,2019-06-11
+Toronto Blue Jays,WIN,5,2019-07-29,2019-08-02
+Toronto Blue Jays,LOSS,6,2019-08-17,2019-08-23
+Toronto Blue Jays,LOSS,7,2019-09-01,2019-09-08
+Toronto Blue Jays,WIN,5,2019-09-15,2019-09-20
+Minnesota Twins,WIN,5,2019-05-14,2019-05-18
+Minnesota Twins,WIN,6,2019-08-24,2019-08-30
+Minnesota Twins,WIN,6,2019-09-22,2019-09-28
+Philadelphia Phillies,LOSS,5,2019-05-30,2019-06-03
+Philadelphia Phillies,LOSS,6,2019-06-19,2019-06-23
+Philadelphia Phillies,LOSS,6,2019-09-22,2019-09-26
+Atlanta Braves,WIN,8,2019-06-07,2019-06-14
+Atlanta Braves,WIN,5,2019-07-07,2019-07-15
+Atlanta Braves,WIN,8,2019-08-17,2019-08-25
+Atlanta Braves,WIN,9,2019-08-28,2019-09-07
+Chicago White Sox,LOSS,5,2019-04-06,2019-04-10
+Chicago White Sox,WIN,6,2019-05-27,2019-05-31
+Chicago White Sox,LOSS,7,2019-07-12,2019-07-18
+Chicago White Sox,LOSS,7,2019-08-27,2019-09-02
+Miami Marlins,LOSS,5,2019-04-07,2019-04-12
+Miami Marlins,LOSS,5,2019-05-07,2019-05-11
+Miami Marlins,WIN,6,2019-05-17,2019-05-23
+Miami Marlins,LOSS,6,2019-06-06,2019-06-11
+Miami Marlins,LOSS,5,2019-06-30,2019-07-05
+Miami Marlins,LOSS,6,2019-08-03,2019-08-07
+Miami Marlins,LOSS,6,2019-08-16,2019-08-22
+Miami Marlins,LOSS,5,2019-09-09,2019-09-13
+New York Yankees,WIN,6,2019-04-19,2019-04-24
+New York Yankees,WIN,5,2019-05-19,2019-05-23
+New York Yankees,WIN,8,2019-06-15,2019-06-22
+New York Yankees,WIN,5,2019-06-24,2019-06-30
+New York Yankees,WIN,9,2019-07-31,2019-08-08
+New York Yankees,WIN,5,2019-08-11,2019-08-14
+Milwaukee Brewers,WIN,6,2019-03-30,2019-04-05
+Milwaukee Brewers,WIN,7,2019-05-03,2019-05-10
+Milwaukee Brewers,LOSS,5,2019-06-17,2019-06-21
+Milwaukee Brewers,WIN,5,2019-08-05,2019-08-10
+Milwaukee Brewers,WIN,7,2019-09-06,2019-09-12
+Milwaukee Brewers,WIN,7,2019-09-19,2019-09-26

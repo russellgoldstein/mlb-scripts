@@ -1,0 +1,90 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,5,1919-05-13,1919-05-18
+St. Louis Browns,WIN,6,1919-05-21,1919-05-27
+St. Louis Browns,LOSS,9,1919-09-11,1919-09-19
+Boston Red Sox,LOSS,6,1919-05-21,1919-05-27
+Boston Red Sox,LOSS,5,1919-06-14,1919-06-18
+Boston Red Sox,LOSS,5,1919-07-13,1919-07-17
+Boston Red Sox,WIN,9,1919-09-01,1919-09-11
+Chicago Cubs,LOSS,6,1919-05-12,1919-05-18
+Chicago Cubs,WIN,5,1919-05-31,1919-06-03
+Chicago Cubs,WIN,6,1919-06-07,1919-06-12
+Chicago Cubs,WIN,6,1919-07-04,1919-07-09
+Chicago Cubs,WIN,5,1919-08-07,1919-08-13
+Chicago Cubs,WIN,5,1919-08-20,1919-08-23
+Chicago Cubs,WIN,7,1919-09-13,1919-09-21
+Cincinnati Reds,WIN,7,1919-04-23,1919-05-01
+Cincinnati Reds,WIN,5,1919-06-13,1919-06-20
+Cincinnati Reds,WIN,7,1919-07-02,1919-07-06
+Cincinnati Reds,WIN,5,1919-07-08,1919-07-12
+Cincinnati Reds,WIN,7,1919-07-24,1919-07-29
+Cincinnati Reds,WIN,5,1919-07-30,1919-08-02
+Cincinnati Reds,WIN,10,1919-08-19,1919-08-26
+Cleveland Indians,WIN,6,1919-05-21,1919-05-27
+Cleveland Indians,WIN,6,1919-06-14,1919-06-19
+Cleveland Indians,LOSS,6,1919-06-25,1919-06-30
+Cleveland Indians,WIN,6,1919-08-22,1919-08-27
+Cleveland Indians,WIN,10,1919-09-12,1919-09-21
+Detroit Tigers,LOSS,6,1919-05-12,1919-05-18
+Detroit Tigers,WIN,5,1919-05-19,1919-05-25
+Detroit Tigers,WIN,8,1919-06-22,1919-06-30
+Detroit Tigers,WIN,5,1919-07-11,1919-07-15
+Detroit Tigers,WIN,6,1919-08-05,1919-08-12
+Detroit Tigers,WIN,6,1919-08-18,1919-08-23
+Detroit Tigers,WIN,5,1919-09-24,1919-09-28
+Brooklyn Robins,WIN,5,1919-05-02,1919-05-08
+Brooklyn Robins,LOSS,5,1919-05-27,1919-05-30
+Brooklyn Robins,LOSS,10,1919-06-04,1919-06-14
+Brooklyn Robins,WIN,5,1919-06-24,1919-06-29
+Brooklyn Robins,WIN,6,1919-08-21,1919-08-28
+Philadelphia Athletics,LOSS,5,1919-04-30,1919-05-05
+Philadelphia Athletics,LOSS,6,1919-05-18,1919-05-25
+Philadelphia Athletics,LOSS,5,1919-05-31,1919-06-04
+Philadelphia Athletics,LOSS,6,1919-06-11,1919-06-17
+Philadelphia Athletics,LOSS,6,1919-06-23,1919-06-29
+Philadelphia Athletics,LOSS,6,1919-07-07,1919-07-11
+Philadelphia Athletics,LOSS,8,1919-07-16,1919-07-24
+Philadelphia Athletics,LOSS,6,1919-08-08,1919-08-15
+Philadelphia Athletics,LOSS,9,1919-08-17,1919-08-25
+Philadelphia Athletics,LOSS,5,1919-08-28,1919-09-01
+Philadelphia Athletics,LOSS,8,1919-09-11,1919-09-18
+Philadelphia Athletics,LOSS,5,1919-09-25,1919-09-29
+Pittsburgh Pirates,LOSS,5,1919-05-23,1919-05-27
+Pittsburgh Pirates,WIN,7,1919-06-10,1919-06-17
+Pittsburgh Pirates,WIN,5,1919-06-19,1919-06-23
+Pittsburgh Pirates,LOSS,5,1919-06-24,1919-06-28
+Pittsburgh Pirates,LOSS,5,1919-07-04,1919-07-06
+Pittsburgh Pirates,LOSS,7,1919-07-24,1919-07-29
+New York Giants,WIN,7,1919-05-11,1919-05-18
+New York Giants,WIN,6,1919-07-04,1919-07-08
+New York Giants,WIN,7,1919-07-13,1919-07-25
+New York Giants,WIN,5,1919-08-19,1919-08-22
+New York Giants,WIN,5,1919-09-09,1919-09-13
+St. Louis Cardinals,LOSS,5,1919-04-23,1919-04-27
+St. Louis Cardinals,WIN,7,1919-06-04,1919-06-10
+St. Louis Cardinals,LOSS,5,1919-06-19,1919-06-23
+St. Louis Cardinals,LOSS,7,1919-07-03,1919-07-08
+St. Louis Cardinals,LOSS,7,1919-07-13,1919-07-25
+St. Louis Cardinals,LOSS,9,1919-08-19,1919-08-26
+Washington Senators,LOSS,11,1919-05-19,1919-05-31
+Washington Senators,LOSS,5,1919-08-02,1919-08-07
+Washington Senators,LOSS,6,1919-08-18,1919-08-23
+Washington Senators,LOSS,5,1919-08-25,1919-08-29
+Philadelphia Phillies,WIN,5,1919-05-19,1919-05-24
+Philadelphia Phillies,LOSS,13,1919-06-06,1919-06-20
+Philadelphia Phillies,LOSS,13,1919-06-28,1919-07-09
+Philadelphia Phillies,WIN,5,1919-07-14,1919-07-23
+Philadelphia Phillies,LOSS,9,1919-08-20,1919-08-27
+Philadelphia Phillies,LOSS,5,1919-09-13,1919-09-16
+Boston Braves,LOSS,9,1919-04-19,1919-05-06
+Boston Braves,LOSS,5,1919-08-20,1919-08-23
+Chicago White Sox,WIN,6,1919-05-25,1919-05-31
+Chicago White Sox,WIN,6,1919-07-06,1919-07-11
+Chicago White Sox,WIN,5,1919-07-18,1919-07-21
+Chicago White Sox,WIN,10,1919-08-15,1919-08-24
+Chicago White Sox,WIN,6,1919-09-11,1919-09-17
+New York Yankees,WIN,5,1919-06-07,1919-06-12
+New York Yankees,WIN,5,1919-06-21,1919-06-25
+New York Yankees,LOSS,6,1919-07-10,1919-07-15
+New York Yankees,WIN,8,1919-08-25,1919-09-01
+New York Yankees,WIN,6,1919-09-24,1919-09-29

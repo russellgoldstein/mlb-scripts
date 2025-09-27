@@ -1,0 +1,99 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,7,1906-05-06,1906-05-15
+St. Louis Browns,LOSS,5,1906-05-16,1906-05-21
+St. Louis Browns,WIN,5,1906-05-30,1906-06-02
+St. Louis Browns,LOSS,6,1906-06-29,1906-07-03
+St. Louis Browns,WIN,6,1906-07-11,1906-07-18
+St. Louis Browns,LOSS,5,1906-07-20,1906-07-27
+St. Louis Browns,LOSS,5,1906-09-14,1906-09-17
+Boston Americans,LOSS,20,1906-05-01,1906-05-24
+Boston Americans,LOSS,6,1906-06-23,1906-06-29
+Boston Americans,LOSS,8,1906-07-10,1906-07-17
+Boston Americans,LOSS,5,1906-09-03,1906-09-06
+Boston Americans,LOSS,6,1906-09-22,1906-09-30
+Chicago Cubs,WIN,10,1906-04-26,1906-05-07
+Chicago Cubs,WIN,5,1906-05-14,1906-05-18
+Chicago Cubs,WIN,6,1906-05-31,1906-06-07
+Chicago Cubs,WIN,5,1906-07-26,1906-07-31
+Chicago Cubs,WIN,11,1906-08-06,1906-08-18
+Chicago Cubs,WIN,14,1906-08-20,1906-09-01
+Chicago Cubs,WIN,12,1906-09-03,1906-09-16
+Chicago Cubs,WIN,5,1906-09-21,1906-09-26
+Cincinnati Reds,LOSS,5,1906-04-20,1906-04-24
+Cincinnati Reds,WIN,6,1906-05-17,1906-05-22
+Cincinnati Reds,LOSS,6,1906-07-26,1906-08-01
+Cincinnati Reds,LOSS,5,1906-08-28,1906-09-01
+Cleveland Naps,WIN,6,1906-05-16,1906-05-22
+Cleveland Naps,WIN,5,1906-07-01,1906-07-04
+Cleveland Naps,LOSS,5,1906-08-21,1906-08-25
+Cleveland Naps,WIN,6,1906-09-03,1906-09-09
+Cleveland Naps,WIN,6,1906-09-18,1906-09-21
+Cleveland Naps,WIN,5,1906-09-22,1906-09-27
+Detroit Tigers,LOSS,5,1906-05-15,1906-05-19
+Detroit Tigers,WIN,6,1906-06-03,1906-06-09
+Detroit Tigers,LOSS,5,1906-07-02,1906-07-05
+Detroit Tigers,LOSS,5,1906-08-04,1906-08-08
+Detroit Tigers,LOSS,8,1906-09-02,1906-09-09
+Detroit Tigers,LOSS,5,1906-09-14,1906-09-18
+Detroit Tigers,WIN,9,1906-09-19,1906-09-27
+Brooklyn Superbas,LOSS,6,1906-04-12,1906-04-18
+Brooklyn Superbas,WIN,6,1906-05-31,1906-06-06
+Brooklyn Superbas,LOSS,7,1906-06-13,1906-06-23
+Brooklyn Superbas,LOSS,5,1906-07-04,1906-07-09
+Brooklyn Superbas,LOSS,11,1906-08-07,1906-08-21
+Brooklyn Superbas,LOSS,5,1906-09-04,1906-09-07
+Philadelphia Athletics,WIN,11,1906-05-05,1906-05-19
+Philadelphia Athletics,LOSS,5,1906-05-30,1906-06-02
+Philadelphia Athletics,WIN,6,1906-07-23,1906-07-30
+Philadelphia Athletics,LOSS,8,1906-08-05,1906-08-12
+Pittsburgh Pirates,WIN,5,1906-05-14,1906-05-18
+Pittsburgh Pirates,WIN,5,1906-05-21,1906-05-25
+Pittsburgh Pirates,WIN,5,1906-05-30,1906-06-02
+Pittsburgh Pirates,WIN,5,1906-06-05,1906-06-11
+Pittsburgh Pirates,LOSS,5,1906-07-01,1906-07-05
+Pittsburgh Pirates,LOSS,5,1906-08-09,1906-08-13
+Pittsburgh Pirates,WIN,8,1906-08-15,1906-08-23
+Pittsburgh Pirates,LOSS,5,1906-09-05,1906-09-09
+New York Giants,WIN,10,1906-04-20,1906-05-02
+New York Giants,WIN,5,1906-07-12,1906-07-16
+New York Giants,WIN,9,1906-07-25,1906-08-04
+New York Giants,WIN,8,1906-08-09,1906-08-17
+New York Giants,WIN,8,1906-09-01,1906-09-07
+St. Louis Cardinals,LOSS,5,1906-06-12,1906-06-16
+St. Louis Cardinals,LOSS,7,1906-06-20,1906-06-26
+St. Louis Cardinals,LOSS,7,1906-08-11,1906-08-19
+St. Louis Cardinals,WIN,6,1906-08-19,1906-08-27
+St. Louis Cardinals,LOSS,5,1906-08-27,1906-09-01
+St. Louis Cardinals,LOSS,9,1906-09-06,1906-09-16
+Washington Senators,LOSS,8,1906-05-22,1906-05-30
+Washington Senators,LOSS,5,1906-06-01,1906-06-07
+Washington Senators,LOSS,7,1906-07-04,1906-07-12
+Washington Senators,WIN,5,1906-07-19,1906-07-25
+Washington Senators,LOSS,7,1906-07-26,1906-08-02
+Washington Senators,WIN,6,1906-08-03,1906-08-08
+Washington Senators,LOSS,7,1906-08-30,1906-09-03
+Washington Senators,LOSS,7,1906-09-18,1906-09-22
+Philadelphia Phillies,LOSS,5,1906-04-25,1906-04-29
+Philadelphia Phillies,LOSS,5,1906-05-14,1906-05-18
+Philadelphia Phillies,WIN,5,1906-07-04,1906-07-10
+Philadelphia Phillies,LOSS,8,1906-07-21,1906-07-31
+Philadelphia Phillies,LOSS,7,1906-08-19,1906-08-28
+Boston Beaneaters,LOSS,19,1906-05-17,1906-06-08
+Boston Beaneaters,LOSS,7,1906-07-11,1906-07-18
+Boston Beaneaters,LOSS,6,1906-08-06,1906-08-10
+Boston Beaneaters,LOSS,8,1906-08-20,1906-08-29
+Boston Beaneaters,LOSS,6,1906-08-31,1906-09-05
+Boston Beaneaters,LOSS,6,1906-09-10,1906-09-15
+Chicago White Sox,LOSS,5,1906-05-07,1906-05-15
+Chicago White Sox,WIN,5,1906-05-16,1906-05-21
+Chicago White Sox,WIN,6,1906-06-16,1906-06-23
+Chicago White Sox,WIN,11,1906-08-02,1906-08-12
+Chicago White Sox,WIN,8,1906-08-15,1906-08-23
+Chicago White Sox,WIN,6,1906-09-14,1906-09-18
+Chicago White Sox,WIN,5,1906-09-24,1906-09-30
+New York Highlanders,WIN,5,1906-05-15,1906-05-19
+New York Highlanders,WIN,11,1906-05-22,1906-06-02
+New York Highlanders,WIN,5,1906-06-23,1906-06-29
+New York Highlanders,WIN,6,1906-07-23,1906-07-30
+New York Highlanders,LOSS,6,1906-08-16,1906-08-22
+New York Highlanders,WIN,15,1906-08-29,1906-09-08

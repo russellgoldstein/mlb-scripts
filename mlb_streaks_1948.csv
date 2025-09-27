@@ -1,0 +1,99 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,6,1948-06-03,1948-06-06
+St. Louis Browns,LOSS,5,1948-06-08,1948-06-12
+St. Louis Browns,LOSS,5,1948-07-17,1948-07-20
+St. Louis Browns,LOSS,6,1948-08-25,1948-08-29
+St. Louis Browns,LOSS,5,1948-09-19,1948-09-24
+Boston Red Sox,LOSS,5,1948-05-06,1948-05-10
+Boston Red Sox,WIN,5,1948-06-03,1948-06-06
+Boston Red Sox,WIN,6,1948-06-15,1948-06-22
+Boston Red Sox,WIN,13,1948-07-18,1948-07-27
+Boston Red Sox,WIN,5,1948-08-20,1948-08-24
+Boston Red Sox,WIN,9,1948-08-31,1948-09-09
+Chicago Cubs,LOSS,7,1948-06-03,1948-06-08
+Chicago Cubs,LOSS,5,1948-07-18,1948-07-21
+Chicago Cubs,LOSS,5,1948-07-28,1948-07-31
+Chicago Cubs,LOSS,10,1948-09-09,1948-09-21
+Cincinnati Reds,LOSS,8,1948-05-07,1948-05-14
+Cincinnati Reds,WIN,5,1948-05-29,1948-05-31
+Cincinnati Reds,LOSS,6,1948-07-27,1948-07-31
+Cincinnati Reds,LOSS,5,1948-08-08,1948-08-15
+Cleveland Indians,WIN,6,1948-04-20,1948-04-29
+Cleveland Indians,WIN,5,1948-05-07,1948-05-10
+Cleveland Indians,WIN,5,1948-06-04,1948-06-08
+Cleveland Indians,LOSS,5,1948-06-13,1948-06-18
+Cleveland Indians,WIN,6,1948-07-31,1948-08-06
+Cleveland Indians,WIN,8,1948-08-12,1948-08-20
+Cleveland Indians,WIN,7,1948-09-06,1948-09-12
+Cleveland Indians,WIN,7,1948-09-16,1948-09-22
+Detroit Tigers,LOSS,5,1948-04-23,1948-04-27
+Detroit Tigers,WIN,6,1948-06-11,1948-06-16
+Detroit Tigers,LOSS,5,1948-06-17,1948-06-23
+Detroit Tigers,WIN,7,1948-07-05,1948-07-11
+Brooklyn Dodgers,LOSS,8,1948-05-15,1948-05-23
+Brooklyn Dodgers,LOSS,6,1948-06-26,1948-07-02
+Brooklyn Dodgers,WIN,6,1948-07-03,1948-07-07
+Brooklyn Dodgers,WIN,5,1948-08-15,1948-08-21
+Brooklyn Dodgers,LOSS,5,1948-08-21,1948-08-25
+Brooklyn Dodgers,WIN,7,1948-08-26,1948-08-30
+Philadelphia Athletics,WIN,10,1948-04-30,1948-05-12
+Philadelphia Athletics,WIN,8,1948-05-23,1948-05-30
+Philadelphia Athletics,LOSS,5,1948-06-05,1948-06-09
+Philadelphia Athletics,WIN,7,1948-06-22,1948-06-27
+Philadelphia Athletics,LOSS,5,1948-08-20,1948-08-25
+Philadelphia Athletics,WIN,5,1948-08-26,1948-08-29
+Philadelphia Athletics,LOSS,8,1948-08-29,1948-09-06
+Philadelphia Athletics,WIN,5,1948-09-06,1948-09-10
+Philadelphia Athletics,WIN,5,1948-09-12,1948-09-18
+Philadelphia Athletics,LOSS,5,1948-09-19,1948-09-23
+Pittsburgh Pirates,WIN,6,1948-04-25,1948-05-05
+Pittsburgh Pirates,WIN,6,1948-06-13,1948-06-19
+Pittsburgh Pirates,WIN,5,1948-08-08,1948-08-13
+Pittsburgh Pirates,WIN,6,1948-08-22,1948-08-27
+Pittsburgh Pirates,WIN,7,1948-09-06,1948-09-12
+Pittsburgh Pirates,LOSS,6,1948-09-17,1948-09-20
+New York Giants,WIN,6,1948-04-23,1948-04-27
+New York Giants,LOSS,5,1948-06-13,1948-06-18
+New York Giants,WIN,7,1948-07-26,1948-07-31
+New York Giants,WIN,6,1948-08-18,1948-08-25
+New York Giants,LOSS,7,1948-08-26,1948-08-31
+New York Giants,WIN,5,1948-09-01,1948-09-04
+St. Louis Cardinals,WIN,5,1948-05-03,1948-05-09
+St. Louis Cardinals,WIN,6,1948-05-14,1948-05-20
+St. Louis Cardinals,LOSS,6,1948-05-29,1948-06-02
+St. Louis Cardinals,LOSS,5,1948-06-09,1948-06-13
+St. Louis Cardinals,LOSS,5,1948-06-29,1948-07-04
+St. Louis Cardinals,WIN,5,1948-08-01,1948-08-06
+Washington Senators,LOSS,5,1948-04-26,1948-05-02
+Washington Senators,LOSS,8,1948-06-11,1948-06-20
+Washington Senators,LOSS,5,1948-07-16,1948-07-19
+Washington Senators,LOSS,9,1948-08-15,1948-08-24
+Washington Senators,LOSS,18,1948-09-03,1948-09-18
+Washington Senators,WIN,5,1948-09-19,1948-09-28
+Philadelphia Phillies,LOSS,5,1948-06-13,1948-06-19
+Philadelphia Phillies,LOSS,7,1948-07-05,1948-07-11
+Philadelphia Phillies,WIN,5,1948-07-28,1948-07-31
+Philadelphia Phillies,LOSS,5,1948-08-08,1948-08-11
+Philadelphia Phillies,LOSS,10,1948-08-17,1948-08-27
+Philadelphia Phillies,LOSS,6,1948-09-04,1948-09-07
+Philadelphia Phillies,WIN,5,1948-09-17,1948-09-20
+Philadelphia Phillies,LOSS,5,1948-09-22,1948-09-28
+Boston Braves,WIN,6,1948-06-06,1948-06-11
+Boston Braves,WIN,6,1948-06-17,1948-06-20
+Boston Braves,WIN,5,1948-07-08,1948-07-15
+Boston Braves,WIN,5,1948-08-21,1948-08-25
+Boston Braves,WIN,6,1948-09-04,1948-09-11
+Boston Braves,WIN,8,1948-09-12,1948-09-21
+Chicago White Sox,LOSS,8,1948-05-05,1948-05-15
+Chicago White Sox,LOSS,5,1948-06-24,1948-06-27
+Chicago White Sox,LOSS,7,1948-07-06,1948-07-15
+Chicago White Sox,LOSS,6,1948-07-21,1948-07-24
+Chicago White Sox,LOSS,6,1948-08-13,1948-08-20
+Chicago White Sox,LOSS,5,1948-08-25,1948-08-29
+Chicago White Sox,LOSS,6,1948-09-06,1948-09-11
+Chicago White Sox,LOSS,5,1948-09-17,1948-09-22
+New York Yankees,WIN,5,1948-04-24,1948-04-30
+New York Yankees,WIN,5,1948-05-08,1948-05-14
+New York Yankees,WIN,5,1948-07-31,1948-08-05
+New York Yankees,WIN,7,1948-08-17,1948-08-23
+New York Yankees,WIN,9,1948-08-29,1948-09-06

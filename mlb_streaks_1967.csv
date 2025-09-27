@@ -1,0 +1,99 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,6,1967-05-12,1967-05-16
+California Angels,WIN,5,1967-06-07,1967-06-11
+California Angels,WIN,5,1967-06-13,1967-06-16
+California Angels,WIN,6,1967-07-04,1967-07-09
+California Angels,WIN,7,1967-07-17,1967-07-25
+California Angels,LOSS,5,1967-07-26,1967-07-30
+California Angels,LOSS,7,1967-08-14,1967-08-20
+Baltimore Orioles,LOSS,6,1967-05-03,1967-05-10
+Baltimore Orioles,LOSS,5,1967-06-13,1967-06-16
+Baltimore Orioles,LOSS,5,1967-07-18,1967-07-22
+Baltimore Orioles,LOSS,5,1967-09-04,1967-09-08
+Baltimore Orioles,WIN,7,1967-09-15,1967-09-20
+Boston Red Sox,LOSS,5,1967-07-04,1967-07-09
+Boston Red Sox,WIN,10,1967-07-14,1967-07-23
+Boston Red Sox,WIN,7,1967-08-18,1967-08-22
+Chicago Cubs,WIN,5,1967-06-07,1967-06-13
+Chicago Cubs,WIN,7,1967-06-20,1967-06-26
+Chicago Cubs,WIN,7,1967-06-28,1967-07-03
+Chicago Cubs,LOSS,7,1967-07-04,1967-07-09
+Chicago Cubs,WIN,5,1967-07-16,1967-07-19
+Chicago Cubs,LOSS,7,1967-08-02,1967-08-07
+Cincinnati Reds,WIN,5,1967-04-20,1967-04-24
+Cincinnati Reds,WIN,5,1967-05-14,1967-05-17
+Cincinnati Reds,WIN,5,1967-06-01,1967-06-06
+Cleveland Indians,LOSS,5,1967-07-14,1967-07-17
+Cleveland Indians,LOSS,6,1967-07-21,1967-07-25
+Cleveland Indians,LOSS,5,1967-08-30,1967-09-04
+Detroit Tigers,WIN,7,1967-05-05,1967-05-13
+Detroit Tigers,LOSS,5,1967-06-07,1967-06-12
+Detroit Tigers,WIN,7,1967-07-02,1967-07-09
+Detroit Tigers,LOSS,7,1967-07-09,1967-07-17
+Detroit Tigers,WIN,5,1967-08-20,1967-08-23
+Detroit Tigers,WIN,5,1967-09-05,1967-09-09
+Houston Astros,LOSS,10,1967-04-15,1967-04-26
+Houston Astros,LOSS,5,1967-05-10,1967-05-14
+Houston Astros,LOSS,8,1967-06-19,1967-06-27
+Houston Astros,WIN,7,1967-07-26,1967-07-31
+Houston Astros,LOSS,10,1967-08-04,1967-08-13
+Houston Astros,LOSS,9,1967-08-30,1967-09-08
+Houston Astros,WIN,6,1967-09-10,1967-09-18
+Los Angeles Dodgers,LOSS,8,1967-06-06,1967-06-13
+Los Angeles Dodgers,WIN,5,1967-06-24,1967-06-28
+Los Angeles Dodgers,LOSS,5,1967-07-31,1967-08-05
+New York Mets,LOSS,5,1967-05-16,1967-05-21
+New York Mets,LOSS,6,1967-05-28,1967-06-03
+New York Mets,LOSS,5,1967-06-07,1967-06-13
+New York Mets,LOSS,6,1967-07-27,1967-07-31
+New York Mets,WIN,5,1967-08-11,1967-08-14
+New York Mets,LOSS,8,1967-08-17,1967-08-27
+New York Mets,LOSS,6,1967-09-03,1967-09-08
+New York Mets,LOSS,5,1967-09-24,1967-09-28
+Kansas City Athletics,WIN,5,1967-05-12,1967-05-16
+Kansas City Athletics,LOSS,5,1967-06-19,1967-06-23
+Kansas City Athletics,LOSS,6,1967-07-05,1967-07-13
+Kansas City Athletics,LOSS,9,1967-09-12,1967-09-21
+Pittsburgh Pirates,WIN,5,1967-04-25,1967-05-01
+Pittsburgh Pirates,LOSS,5,1967-06-26,1967-06-29
+Pittsburgh Pirates,WIN,5,1967-08-17,1967-08-21
+San Francisco Giants,LOSS,6,1967-04-14,1967-04-19
+San Francisco Giants,WIN,5,1967-07-05,1967-07-13
+San Francisco Giants,WIN,6,1967-07-31,1967-08-06
+San Francisco Giants,WIN,7,1967-09-01,1967-09-08
+St. Louis Cardinals,WIN,6,1967-04-11,1967-04-19
+St. Louis Cardinals,WIN,5,1967-05-16,1967-05-21
+St. Louis Cardinals,WIN,5,1967-06-08,1967-06-11
+St. Louis Cardinals,WIN,7,1967-06-18,1967-06-24
+St. Louis Cardinals,WIN,6,1967-07-25,1967-07-31
+St. Louis Cardinals,WIN,5,1967-08-02,1967-08-06
+St. Louis Cardinals,WIN,8,1967-08-11,1967-08-19
+St. Louis Cardinals,WIN,5,1967-08-30,1967-09-03
+St. Louis Cardinals,WIN,5,1967-09-15,1967-09-19
+Washington Senators,LOSS,5,1967-05-09,1967-05-14
+Washington Senators,LOSS,5,1967-05-19,1967-05-24
+Washington Senators,LOSS,6,1967-06-02,1967-06-07
+Washington Senators,WIN,8,1967-07-09,1967-07-17
+Washington Senators,WIN,5,1967-07-26,1967-07-30
+Minnesota Twins,WIN,8,1967-06-28,1967-07-05
+Minnesota Twins,LOSS,6,1967-07-17,1967-07-23
+Minnesota Twins,WIN,7,1967-08-10,1967-08-16
+Minnesota Twins,WIN,5,1967-09-18,1967-09-22
+Philadelphia Phillies,WIN,6,1967-05-30,1967-06-04
+Philadelphia Phillies,WIN,8,1967-07-31,1967-08-08
+Philadelphia Phillies,WIN,8,1967-08-22,1967-08-28
+Philadelphia Phillies,LOSS,5,1967-08-29,1967-09-02
+Atlanta Braves,WIN,5,1967-04-14,1967-04-19
+Atlanta Braves,LOSS,5,1967-06-01,1967-06-05
+Atlanta Braves,WIN,5,1967-08-10,1967-08-13
+Atlanta Braves,LOSS,5,1967-08-18,1967-08-22
+Atlanta Braves,LOSS,5,1967-09-06,1967-09-10
+Atlanta Braves,LOSS,6,1967-09-15,1967-09-20
+Atlanta Braves,LOSS,5,1967-09-28,1967-10-01
+Chicago White Sox,WIN,10,1967-04-30,1967-05-14
+Chicago White Sox,WIN,5,1967-09-13,1967-09-17
+Chicago White Sox,LOSS,5,1967-09-27,1967-10-01
+New York Yankees,LOSS,5,1967-06-17,1967-06-21
+New York Yankees,LOSS,5,1967-07-02,1967-07-05
+New York Yankees,LOSS,6,1967-07-16,1967-07-22
+New York Yankees,LOSS,6,1967-09-16,1967-09-22

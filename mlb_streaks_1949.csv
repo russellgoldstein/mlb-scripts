@@ -1,0 +1,99 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,7,1949-04-20,1949-04-26
+St. Louis Browns,LOSS,10,1949-04-30,1949-05-08
+St. Louis Browns,LOSS,11,1949-05-26,1949-06-05
+St. Louis Browns,WIN,5,1949-06-05,1949-06-12
+St. Louis Browns,LOSS,5,1949-06-22,1949-06-26
+St. Louis Browns,LOSS,5,1949-07-07,1949-07-15
+St. Louis Browns,WIN,6,1949-07-16,1949-07-21
+St. Louis Browns,LOSS,7,1949-08-02,1949-08-07
+St. Louis Browns,LOSS,6,1949-08-12,1949-08-16
+St. Louis Browns,LOSS,7,1949-09-04,1949-09-10
+St. Louis Browns,LOSS,7,1949-09-14,1949-09-19
+Boston Red Sox,WIN,6,1949-06-17,1949-06-21
+Boston Red Sox,LOSS,8,1949-06-28,1949-07-04
+Boston Red Sox,WIN,8,1949-07-05,1949-07-14
+Boston Red Sox,WIN,5,1949-07-24,1949-07-29
+Boston Red Sox,WIN,7,1949-07-31,1949-08-06
+Boston Red Sox,WIN,7,1949-08-11,1949-08-15
+Boston Red Sox,WIN,5,1949-08-17,1949-08-21
+Boston Red Sox,WIN,5,1949-09-02,1949-09-05
+Boston Red Sox,WIN,11,1949-09-13,1949-09-27
+Chicago Cubs,LOSS,5,1949-05-17,1949-05-23
+Chicago Cubs,LOSS,7,1949-06-12,1949-06-18
+Chicago Cubs,LOSS,5,1949-07-05,1949-07-09
+Chicago Cubs,LOSS,5,1949-07-15,1949-07-19
+Chicago Cubs,LOSS,8,1949-07-27,1949-08-03
+Cincinnati Reds,LOSS,5,1949-05-29,1949-06-02
+Cincinnati Reds,LOSS,7,1949-06-07,1949-06-14
+Cincinnati Reds,LOSS,6,1949-07-08,1949-07-15
+Cincinnati Reds,LOSS,5,1949-07-19,1949-07-23
+Cincinnati Reds,LOSS,6,1949-08-07,1949-08-13
+Cincinnati Reds,LOSS,5,1949-09-10,1949-09-14
+Cleveland Indians,LOSS,5,1949-05-13,1949-05-18
+Cleveland Indians,WIN,6,1949-06-12,1949-06-17
+Cleveland Indians,WIN,5,1949-07-03,1949-07-05
+Cleveland Indians,WIN,5,1949-07-22,1949-07-25
+Cleveland Indians,LOSS,6,1949-09-18,1949-09-24
+Cleveland Indians,WIN,7,1949-09-25,1949-10-02
+Detroit Tigers,LOSS,6,1949-05-20,1949-05-25
+Detroit Tigers,LOSS,5,1949-07-03,1949-07-06
+Detroit Tigers,WIN,8,1949-08-21,1949-08-29
+Detroit Tigers,WIN,10,1949-09-01,1949-09-11
+Brooklyn Dodgers,WIN,8,1949-06-06,1949-06-14
+Brooklyn Dodgers,WIN,6,1949-07-31,1949-08-05
+Brooklyn Dodgers,WIN,6,1949-08-07,1949-08-11
+Brooklyn Dodgers,WIN,5,1949-08-27,1949-09-01
+Brooklyn Dodgers,WIN,6,1949-09-04,1949-09-08
+Philadelphia Athletics,LOSS,5,1949-05-30,1949-06-03
+Philadelphia Athletics,WIN,5,1949-07-01,1949-07-04
+Philadelphia Athletics,LOSS,6,1949-07-07,1949-07-14
+Philadelphia Athletics,WIN,6,1949-07-24,1949-07-29
+Philadelphia Athletics,LOSS,5,1949-08-26,1949-08-31
+Philadelphia Athletics,LOSS,6,1949-09-01,1949-09-05
+Pittsburgh Pirates,LOSS,5,1949-05-01,1949-05-06
+Pittsburgh Pirates,LOSS,7,1949-05-21,1949-05-28
+Pittsburgh Pirates,WIN,8,1949-07-02,1949-07-09
+Pittsburgh Pirates,LOSS,8,1949-08-28,1949-09-05
+Pittsburgh Pirates,LOSS,5,1949-09-06,1949-09-10
+Pittsburgh Pirates,WIN,8,1949-09-22,1949-10-02
+New York Giants,WIN,7,1949-05-03,1949-05-09
+New York Giants,LOSS,5,1949-06-06,1949-06-10
+New York Giants,WIN,6,1949-07-30,1949-08-03
+New York Giants,LOSS,5,1949-08-17,1949-08-21
+New York Giants,LOSS,6,1949-09-10,1949-09-17
+St. Louis Cardinals,WIN,5,1949-05-24,1949-05-28
+St. Louis Cardinals,WIN,6,1949-06-04,1949-06-09
+St. Louis Cardinals,WIN,5,1949-07-20,1949-07-24
+St. Louis Cardinals,WIN,5,1949-08-07,1949-08-12
+St. Louis Cardinals,WIN,5,1949-08-27,1949-08-29
+St. Louis Cardinals,WIN,6,1949-09-10,1949-09-16
+Washington Senators,LOSS,7,1949-04-19,1949-04-25
+Washington Senators,WIN,9,1949-05-03,1949-05-11
+Washington Senators,LOSS,5,1949-07-04,1949-07-08
+Washington Senators,LOSS,11,1949-07-16,1949-07-26
+Washington Senators,LOSS,7,1949-08-01,1949-08-07
+Washington Senators,LOSS,12,1949-08-12,1949-08-21
+Washington Senators,LOSS,5,1949-09-05,1949-09-09
+Washington Senators,LOSS,5,1949-09-10,1949-09-14
+Philadelphia Phillies,WIN,5,1949-04-29,1949-05-04
+Philadelphia Phillies,WIN,6,1949-06-12,1949-06-17
+Philadelphia Phillies,LOSS,5,1949-07-24,1949-07-28
+Philadelphia Phillies,LOSS,5,1949-08-02,1949-08-05
+Philadelphia Phillies,WIN,6,1949-08-16,1949-08-21
+Philadelphia Phillies,WIN,7,1949-09-02,1949-09-06
+Boston Braves,WIN,5,1949-05-09,1949-05-15
+Boston Braves,LOSS,5,1949-08-02,1949-08-06
+Boston Braves,WIN,5,1949-08-20,1949-08-24
+Boston Braves,LOSS,9,1949-09-02,1949-09-08
+Chicago White Sox,WIN,5,1949-04-21,1949-04-24
+Chicago White Sox,LOSS,5,1949-06-16,1949-06-19
+Chicago White Sox,LOSS,6,1949-07-24,1949-07-29
+Chicago White Sox,LOSS,6,1949-08-26,1949-08-30
+Chicago White Sox,LOSS,5,1949-09-02,1949-09-05
+Chicago White Sox,LOSS,5,1949-09-25,1949-10-01
+New York Yankees,WIN,6,1949-05-21,1949-05-28
+New York Yankees,WIN,6,1949-05-30,1949-06-05
+New York Yankees,WIN,5,1949-06-28,1949-07-02
+New York Yankees,WIN,5,1949-09-10,1949-09-14
+New York Yankees,WIN,5,1949-09-16,1949-09-20

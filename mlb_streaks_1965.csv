@@ -1,0 +1,94 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,1965-05-03,1965-05-07
+Los Angeles Angels,LOSS,5,1965-06-23,1965-06-27
+Baltimore Orioles,WIN,7,1965-06-10,1965-06-17
+Baltimore Orioles,WIN,5,1965-07-05,1965-07-09
+Baltimore Orioles,WIN,8,1965-09-03,1965-09-08
+Baltimore Orioles,WIN,9,1965-09-20,1965-09-28
+Boston Red Sox,LOSS,8,1965-06-10,1965-06-18
+Boston Red Sox,LOSS,5,1965-06-28,1965-07-03
+Boston Red Sox,LOSS,5,1965-07-05,1965-07-09
+Boston Red Sox,LOSS,5,1965-07-20,1965-07-23
+Boston Red Sox,LOSS,5,1965-08-14,1965-08-18
+Chicago Cubs,LOSS,5,1965-07-14,1965-07-18
+Chicago Cubs,LOSS,5,1965-08-13,1965-08-19
+Chicago Cubs,LOSS,8,1965-09-04,1965-09-12
+Cincinnati Reds,LOSS,6,1965-05-26,1965-05-31
+Cincinnati Reds,LOSS,5,1965-09-26,1965-09-30
+Cleveland Indians,WIN,5,1965-05-16,1965-05-21
+Cleveland Indians,WIN,5,1965-05-31,1965-06-07
+Cleveland Indians,WIN,10,1965-06-13,1965-06-22
+Cleveland Indians,LOSS,6,1965-07-08,1965-07-14
+Detroit Tigers,LOSS,5,1965-05-02,1965-05-05
+Detroit Tigers,WIN,6,1965-05-10,1965-05-15
+Detroit Tigers,WIN,5,1965-05-24,1965-05-29
+Detroit Tigers,WIN,8,1965-06-12,1965-06-20
+Detroit Tigers,WIN,5,1965-07-20,1965-07-24
+Detroit Tigers,WIN,5,1965-08-10,1965-08-13
+Houston Astros,WIN,10,1965-04-21,1965-05-01
+Houston Astros,LOSS,7,1965-05-12,1965-05-17
+Houston Astros,LOSS,8,1965-06-08,1965-06-15
+Houston Astros,LOSS,8,1965-07-24,1965-08-01
+Houston Astros,LOSS,5,1965-09-13,1965-09-17
+Los Angeles Dodgers,WIN,5,1965-05-04,1965-05-08
+Los Angeles Dodgers,WIN,6,1965-07-15,1965-07-20
+Los Angeles Dodgers,WIN,13,1965-09-16,1965-09-30
+New York Mets,LOSS,6,1965-04-27,1965-05-02
+New York Mets,LOSS,6,1965-05-18,1965-05-23
+New York Mets,LOSS,10,1965-06-05,1965-06-13
+New York Mets,LOSS,5,1965-06-15,1965-06-20
+New York Mets,LOSS,5,1965-06-22,1965-06-27
+New York Mets,LOSS,10,1965-07-07,1965-07-20
+New York Mets,LOSS,11,1965-08-01,1965-08-13
+New York Mets,LOSS,8,1965-09-05,1965-09-11
+Kansas City Athletics,LOSS,7,1965-04-21,1965-05-02
+Kansas City Athletics,LOSS,7,1965-05-08,1965-05-15
+Kansas City Athletics,LOSS,7,1965-05-28,1965-06-06
+Kansas City Athletics,LOSS,5,1965-06-16,1965-06-20
+Kansas City Athletics,LOSS,8,1965-07-02,1965-07-09
+Kansas City Athletics,LOSS,6,1965-08-10,1965-08-14
+Kansas City Athletics,LOSS,5,1965-08-18,1965-08-22
+Pittsburgh Pirates,LOSS,6,1965-04-21,1965-04-27
+Pittsburgh Pirates,LOSS,8,1965-05-12,1965-05-20
+Pittsburgh Pirates,WIN,12,1965-05-21,1965-06-01
+Pittsburgh Pirates,WIN,7,1965-06-05,1965-06-11
+Pittsburgh Pirates,WIN,5,1965-08-01,1965-08-05
+Pittsburgh Pirates,WIN,6,1965-09-17,1965-09-22
+San Francisco Giants,WIN,5,1965-05-13,1965-05-16
+San Francisco Giants,WIN,5,1965-05-27,1965-05-31
+San Francisco Giants,WIN,8,1965-08-03,1965-08-12
+San Francisco Giants,WIN,14,1965-09-04,1965-09-16
+St. Louis Cardinals,WIN,5,1965-04-30,1965-05-03
+St. Louis Cardinals,WIN,7,1965-05-18,1965-05-24
+St. Louis Cardinals,LOSS,5,1965-05-27,1965-05-31
+St. Louis Cardinals,WIN,7,1965-06-30,1965-07-06
+St. Louis Cardinals,LOSS,5,1965-08-06,1965-08-11
+Washington Senators,LOSS,5,1965-04-20,1965-04-24
+Minnesota Twins,WIN,5,1965-04-17,1965-04-23
+Minnesota Twins,WIN,5,1965-05-08,1965-05-12
+Minnesota Twins,WIN,9,1965-07-02,1965-07-10
+Minnesota Twins,WIN,6,1965-08-04,1965-08-10
+Minnesota Twins,WIN,7,1965-09-08,1965-09-15
+Philadelphia Phillies,LOSS,5,1965-05-18,1965-05-22
+Philadelphia Phillies,WIN,5,1965-06-09,1965-06-13
+Philadelphia Phillies,WIN,6,1965-06-27,1965-07-02
+Philadelphia Phillies,WIN,5,1965-08-10,1965-08-14
+Philadelphia Phillies,LOSS,5,1965-08-24,1965-08-28
+Philadelphia Phillies,LOSS,5,1965-09-02,1965-09-06
+Philadelphia Phillies,WIN,6,1965-09-06,1965-09-14
+Milwaukee Braves,WIN,10,1965-07-14,1965-07-22
+Milwaukee Braves,WIN,6,1965-08-13,1965-08-18
+Milwaukee Braves,LOSS,6,1965-08-24,1965-08-29
+Milwaukee Braves,LOSS,5,1965-09-18,1965-09-22
+Chicago White Sox,WIN,5,1965-04-19,1965-04-27
+Chicago White Sox,WIN,5,1965-05-02,1965-05-07
+Chicago White Sox,WIN,9,1965-05-12,1965-05-18
+Chicago White Sox,LOSS,5,1965-06-29,1965-07-03
+Chicago White Sox,WIN,5,1965-07-14,1965-07-18
+Chicago White Sox,LOSS,6,1965-07-18,1965-07-24
+Chicago White Sox,WIN,10,1965-08-14,1965-08-22
+Chicago White Sox,LOSS,5,1965-09-07,1965-09-11
+Chicago White Sox,WIN,5,1965-09-22,1965-09-28
+New York Yankees,WIN,5,1965-06-25,1965-06-28
+New York Yankees,LOSS,7,1965-09-04,1965-09-07
+New York Yankees,LOSS,7,1965-09-22,1965-09-29

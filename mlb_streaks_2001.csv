@@ -1,0 +1,183 @@
+Team,StreakType,Length,StartDate,EndDate
+Anaheim Angels,WIN,5,2001-05-31,2001-06-05
+Anaheim Angels,LOSS,7,2001-06-28,2001-07-04
+Anaheim Angels,WIN,5,2001-07-05,2001-07-12
+Anaheim Angels,LOSS,6,2001-09-11,2001-09-16
+Anaheim Angels,LOSS,7,2001-09-21,2001-09-28
+Anaheim Angels,LOSS,5,2001-09-30,2001-10-05
+Arizona Diamondbacks,WIN,5,2001-05-13,2001-05-18
+Arizona Diamondbacks,WIN,9,2001-05-25,2001-06-03
+Arizona Diamondbacks,LOSS,5,2001-07-05,2001-07-12
+Arizona Diamondbacks,WIN,9,2001-08-10,2001-08-19
+Arizona Diamondbacks,LOSS,6,2001-09-11,2001-09-16
+Baltimore Orioles,LOSS,6,2001-05-02,2001-05-08
+Baltimore Orioles,LOSS,5,2001-07-23,2001-07-26
+Baltimore Orioles,LOSS,6,2001-08-24,2001-08-30
+Baltimore Orioles,LOSS,8,2001-09-01,2001-09-09
+Baltimore Orioles,LOSS,7,2001-09-11,2001-09-16
+Boston Red Sox,WIN,5,2001-04-15,2001-04-19
+Boston Red Sox,WIN,5,2001-05-30,2001-06-03
+Boston Red Sox,LOSS,9,2001-08-25,2001-09-04
+Boston Red Sox,LOSS,8,2001-09-10,2001-09-16
+Chicago Cubs,WIN,5,2001-04-10,2001-04-15
+Chicago Cubs,LOSS,8,2001-05-10,2001-05-18
+Chicago Cubs,WIN,6,2001-05-19,2001-05-25
+Chicago Cubs,WIN,6,2001-05-27,2001-06-02
+Chicago Cubs,LOSS,5,2001-09-04,2001-09-09
+Chicago Cubs,LOSS,6,2001-09-11,2001-09-16
+Cincinnati Reds,WIN,5,2001-04-12,2001-04-17
+Cincinnati Reds,WIN,5,2001-04-24,2001-04-28
+Cincinnati Reds,LOSS,5,2001-05-02,2001-05-06
+Cincinnati Reds,LOSS,5,2001-05-13,2001-05-17
+Cincinnati Reds,LOSS,8,2001-06-12,2001-06-19
+Cincinnati Reds,LOSS,5,2001-07-06,2001-07-13
+Cincinnati Reds,WIN,7,2001-07-27,2001-08-03
+Cincinnati Reds,LOSS,8,2001-08-12,2001-08-19
+Cincinnati Reds,LOSS,6,2001-09-11,2001-09-16
+Cleveland Indians,WIN,6,2001-04-17,2001-04-22
+Cleveland Indians,WIN,10,2001-04-28,2001-05-09
+Cleveland Indians,LOSS,5,2001-06-14,2001-06-19
+Cleveland Indians,LOSS,6,2001-09-11,2001-09-16
+Colorado Rockies,LOSS,5,2001-04-06,2001-04-11
+Colorado Rockies,WIN,5,2001-04-14,2001-04-19
+Colorado Rockies,LOSS,6,2001-06-18,2001-06-23
+Colorado Rockies,LOSS,5,2001-06-29,2001-07-04
+Colorado Rockies,LOSS,5,2001-07-06,2001-07-13
+Colorado Rockies,LOSS,5,2001-07-15,2001-07-19
+Colorado Rockies,LOSS,6,2001-09-11,2001-09-16
+Detroit Tigers,LOSS,5,2001-04-09,2001-04-13
+Detroit Tigers,LOSS,7,2001-04-18,2001-04-25
+Detroit Tigers,WIN,5,2001-05-08,2001-05-12
+Detroit Tigers,LOSS,5,2001-05-23,2001-05-27
+Detroit Tigers,LOSS,8,2001-06-24,2001-07-01
+Detroit Tigers,LOSS,7,2001-07-21,2001-07-28
+Detroit Tigers,LOSS,6,2001-08-01,2001-08-06
+Detroit Tigers,LOSS,5,2001-08-09,2001-08-14
+Detroit Tigers,LOSS,5,2001-09-01,2001-09-05
+Detroit Tigers,LOSS,6,2001-09-11,2001-09-16
+Houston Astros,WIN,5,2001-05-13,2001-05-17
+Houston Astros,LOSS,8,2001-05-20,2001-05-29
+Houston Astros,WIN,5,2001-08-16,2001-08-21
+Houston Astros,WIN,5,2001-08-26,2001-08-31
+Houston Astros,LOSS,6,2001-09-11,2001-09-16
+Houston Astros,LOSS,6,2001-09-28,2001-10-04
+Kansas City Royals,LOSS,5,2001-05-25,2001-05-29
+Kansas City Royals,WIN,6,2001-06-12,2001-06-16
+Kansas City Royals,LOSS,5,2001-06-17,2001-06-22
+Kansas City Royals,WIN,6,2001-06-26,2001-07-01
+Kansas City Royals,LOSS,9,2001-07-02,2001-07-13
+Kansas City Royals,LOSS,6,2001-08-21,2001-08-26
+Kansas City Royals,LOSS,6,2001-09-11,2001-09-16
+Kansas City Royals,LOSS,5,2001-09-21,2001-09-25
+Los Angeles Dodgers,WIN,5,2001-04-25,2001-04-29
+Los Angeles Dodgers,WIN,5,2001-05-23,2001-05-28
+Los Angeles Dodgers,WIN,9,2001-06-26,2001-07-04
+Los Angeles Dodgers,WIN,6,2001-07-14,2001-07-19
+Los Angeles Dodgers,LOSS,5,2001-07-29,2001-08-03
+Los Angeles Dodgers,LOSS,5,2001-08-09,2001-08-14
+Los Angeles Dodgers,LOSS,6,2001-09-11,2001-09-16
+Montreal Expos,LOSS,6,2001-05-03,2001-05-08
+Montreal Expos,LOSS,6,2001-09-11,2001-09-16
+New York Mets,LOSS,6,2001-05-08,2001-05-13
+New York Mets,LOSS,6,2001-06-21,2001-06-26
+New York Mets,WIN,5,2001-07-14,2001-07-18
+New York Mets,LOSS,7,2001-08-10,2001-08-17
+New York Mets,WIN,6,2001-09-03,2001-09-08
+New York Mets,LOSS,6,2001-09-11,2001-09-16
+New York Mets,WIN,5,2001-09-17,2001-09-22
+Oakland Athletics,LOSS,7,2001-04-08,2001-04-15
+Oakland Athletics,WIN,7,2001-05-15,2001-05-22
+Oakland Athletics,WIN,5,2001-07-06,2001-07-13
+Oakland Athletics,WIN,11,2001-08-02,2001-08-12
+Oakland Athletics,WIN,5,2001-08-16,2001-08-20
+Oakland Athletics,WIN,6,2001-08-25,2001-08-31
+Oakland Athletics,WIN,8,2001-09-02,2001-09-10
+Oakland Athletics,LOSS,6,2001-09-11,2001-09-16
+Oakland Athletics,WIN,7,2001-09-20,2001-09-27
+Pittsburgh Pirates,LOSS,6,2001-05-12,2001-05-17
+Pittsburgh Pirates,LOSS,5,2001-05-23,2001-05-26
+Pittsburgh Pirates,LOSS,5,2001-07-14,2001-07-18
+Pittsburgh Pirates,LOSS,7,2001-08-13,2001-08-19
+Pittsburgh Pirates,LOSS,6,2001-09-11,2001-09-16
+Pittsburgh Pirates,LOSS,6,2001-09-17,2001-09-22
+San Diego Padres,LOSS,6,2001-04-15,2001-04-21
+San Diego Padres,WIN,5,2001-05-03,2001-05-08
+San Diego Padres,WIN,6,2001-05-19,2001-05-24
+San Diego Padres,LOSS,8,2001-05-30,2001-06-06
+San Diego Padres,WIN,5,2001-06-22,2001-06-26
+San Diego Padres,LOSS,5,2001-06-27,2001-07-01
+San Diego Padres,WIN,5,2001-07-19,2001-07-23
+San Diego Padres,LOSS,6,2001-09-11,2001-09-16
+Seattle Mariners,WIN,9,2001-04-19,2001-04-28
+Seattle Mariners,WIN,8,2001-05-09,2001-05-17
+Seattle Mariners,WIN,15,2001-05-23,2001-06-08
+Seattle Mariners,WIN,5,2001-06-29,2001-07-03
+Seattle Mariners,WIN,5,2001-08-21,2001-08-25
+Seattle Mariners,WIN,5,2001-09-05,2001-09-10
+Seattle Mariners,LOSS,6,2001-09-11,2001-09-16
+Seattle Mariners,WIN,5,2001-09-30,2001-10-05
+San Francisco Giants,WIN,5,2001-05-10,2001-05-15
+San Francisco Giants,WIN,6,2001-06-12,2001-06-17
+San Francisco Giants,WIN,9,2001-07-25,2001-08-03
+San Francisco Giants,WIN,5,2001-08-11,2001-08-16
+San Francisco Giants,LOSS,6,2001-09-11,2001-09-16
+St. Louis Cardinals,WIN,5,2001-04-06,2001-04-11
+St. Louis Cardinals,WIN,10,2001-05-07,2001-05-17
+St. Louis Cardinals,WIN,5,2001-06-15,2001-06-19
+St. Louis Cardinals,LOSS,6,2001-06-26,2001-07-03
+St. Louis Cardinals,WIN,11,2001-08-09,2001-08-19
+St. Louis Cardinals,LOSS,6,2001-09-11,2001-09-16
+St. Louis Cardinals,WIN,6,2001-09-17,2001-09-22
+St. Louis Cardinals,WIN,6,2001-09-25,2001-10-02
+Tampa Bay Devil Rays,LOSS,7,2001-04-04,2001-04-10
+Tampa Bay Devil Rays,LOSS,5,2001-04-16,2001-04-20
+Tampa Bay Devil Rays,LOSS,5,2001-05-15,2001-05-19
+Tampa Bay Devil Rays,LOSS,6,2001-05-30,2001-06-05
+Tampa Bay Devil Rays,LOSS,8,2001-06-15,2001-06-23
+Tampa Bay Devil Rays,LOSS,7,2001-09-11,2001-09-17
+Texas Rangers,LOSS,5,2001-04-28,2001-05-03
+Texas Rangers,LOSS,6,2001-05-06,2001-05-11
+Texas Rangers,LOSS,5,2001-06-03,2001-06-08
+Texas Rangers,WIN,5,2001-07-24,2001-07-27
+Texas Rangers,LOSS,6,2001-08-04,2001-08-08
+Texas Rangers,LOSS,5,2001-08-12,2001-08-17
+Texas Rangers,LOSS,6,2001-09-11,2001-09-16
+Toronto Blue Jays,LOSS,6,2001-05-08,2001-05-13
+Toronto Blue Jays,LOSS,5,2001-05-30,2001-06-03
+Toronto Blue Jays,LOSS,6,2001-09-11,2001-09-16
+Minnesota Twins,WIN,6,2001-04-09,2001-04-15
+Minnesota Twins,WIN,5,2001-04-17,2001-04-22
+Minnesota Twins,WIN,5,2001-06-29,2001-07-03
+Minnesota Twins,WIN,5,2001-07-05,2001-07-12
+Minnesota Twins,LOSS,5,2001-07-20,2001-07-24
+Minnesota Twins,LOSS,5,2001-07-27,2001-08-01
+Minnesota Twins,LOSS,8,2001-08-10,2001-08-17
+Minnesota Twins,LOSS,6,2001-09-11,2001-09-16
+Philadelphia Phillies,WIN,6,2001-04-20,2001-04-25
+Philadelphia Phillies,WIN,5,2001-05-28,2001-06-01
+Philadelphia Phillies,WIN,5,2001-06-28,2001-07-01
+Philadelphia Phillies,WIN,5,2001-08-10,2001-08-15
+Philadelphia Phillies,LOSS,5,2001-08-16,2001-08-21
+Philadelphia Phillies,LOSS,6,2001-09-11,2001-09-16
+Atlanta Braves,WIN,5,2001-06-03,2001-06-07
+Atlanta Braves,WIN,7,2001-06-22,2001-06-28
+Atlanta Braves,LOSS,6,2001-08-08,2001-08-14
+Atlanta Braves,LOSS,6,2001-09-11,2001-09-16
+Chicago White Sox,LOSS,8,2001-05-15,2001-05-23
+Chicago White Sox,WIN,5,2001-05-24,2001-05-28
+Chicago White Sox,WIN,5,2001-07-13,2001-07-17
+Chicago White Sox,LOSS,6,2001-09-11,2001-09-16
+Florida Marlins,WIN,5,2001-06-15,2001-06-19
+Florida Marlins,LOSS,5,2001-06-28,2001-07-01
+Florida Marlins,LOSS,8,2001-08-12,2001-08-21
+Florida Marlins,LOSS,6,2001-09-11,2001-09-16
+New York Yankees,WIN,9,2001-06-27,2001-07-06
+New York Yankees,WIN,8,2001-07-22,2001-07-29
+New York Yankees,WIN,5,2001-08-30,2001-09-03
+New York Yankees,LOSS,8,2001-09-10,2001-09-17
+Milwaukee Brewers,WIN,5,2001-05-12,2001-05-16
+Milwaukee Brewers,LOSS,11,2001-07-14,2001-07-24
+Milwaukee Brewers,LOSS,5,2001-08-04,2001-08-09
+Milwaukee Brewers,LOSS,6,2001-09-11,2001-09-16
+Milwaukee Brewers,LOSS,5,2001-09-17,2001-09-22
+Milwaukee Brewers,LOSS,6,2001-09-26,2001-10-02

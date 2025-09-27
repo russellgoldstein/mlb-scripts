@@ -1,0 +1,130 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,WIN,5,1989-04-26,1989-04-30
+California Angels,WIN,6,1989-05-03,1989-05-09
+California Angels,WIN,5,1989-05-13,1989-05-17
+California Angels,LOSS,7,1989-06-07,1989-06-14
+California Angels,LOSS,5,1989-07-14,1989-07-17
+California Angels,WIN,7,1989-07-18,1989-07-25
+California Angels,WIN,5,1989-08-15,1989-08-20
+California Angels,LOSS,5,1989-08-31,1989-09-04
+California Angels,WIN,5,1989-09-08,1989-09-13
+California Angels,LOSS,6,1989-09-21,1989-09-27
+Baltimore Orioles,LOSS,5,1989-05-03,1989-05-08
+Baltimore Orioles,WIN,5,1989-05-22,1989-05-27
+Baltimore Orioles,WIN,8,1989-05-29,1989-06-05
+Baltimore Orioles,WIN,7,1989-06-16,1989-06-22
+Baltimore Orioles,WIN,5,1989-07-14,1989-07-18
+Baltimore Orioles,LOSS,8,1989-07-19,1989-07-27
+Baltimore Orioles,LOSS,5,1989-07-29,1989-08-01
+Boston Red Sox,WIN,5,1989-07-29,1989-08-01
+Boston Red Sox,LOSS,6,1989-08-13,1989-08-18
+Boston Red Sox,WIN,9,1989-08-22,1989-08-29
+Boston Red Sox,LOSS,8,1989-09-05,1989-09-13
+Boston Red Sox,WIN,6,1989-09-20,1989-09-26
+Chicago Cubs,WIN,7,1989-04-07,1989-04-16
+Chicago Cubs,LOSS,5,1989-05-09,1989-05-14
+Chicago Cubs,WIN,5,1989-05-15,1989-05-20
+Chicago Cubs,WIN,5,1989-06-17,1989-06-22
+Chicago Cubs,LOSS,7,1989-06-23,1989-06-29
+Chicago Cubs,LOSS,6,1989-08-18,1989-08-23
+Chicago Cubs,WIN,6,1989-09-09,1989-09-15
+Cincinnati Reds,LOSS,5,1989-07-07,1989-07-14
+Cincinnati Reds,LOSS,10,1989-07-16,1989-07-26
+Cincinnati Reds,LOSS,10,1989-09-11,1989-09-21
+Cleveland Indians,LOSS,6,1989-04-13,1989-04-20
+Cleveland Indians,LOSS,5,1989-05-23,1989-05-27
+Cleveland Indians,WIN,5,1989-05-28,1989-06-02
+Cleveland Indians,LOSS,5,1989-09-01,1989-09-05
+Cleveland Indians,LOSS,6,1989-09-15,1989-09-20
+Detroit Tigers,LOSS,5,1989-06-01,1989-06-05
+Detroit Tigers,LOSS,10,1989-07-03,1989-07-15
+Detroit Tigers,LOSS,6,1989-07-18,1989-07-24
+Detroit Tigers,LOSS,12,1989-08-21,1989-08-31
+Detroit Tigers,WIN,7,1989-09-01,1989-09-08
+Detroit Tigers,LOSS,6,1989-09-19,1989-09-25
+Houston Astros,WIN,5,1989-05-12,1989-05-17
+Houston Astros,WIN,10,1989-05-26,1989-06-04
+Houston Astros,WIN,6,1989-06-06,1989-06-11
+Houston Astros,LOSS,5,1989-08-22,1989-08-26
+Houston Astros,WIN,5,1989-09-13,1989-09-17
+Kansas City Royals,WIN,5,1989-04-21,1989-04-26
+Kansas City Royals,WIN,5,1989-05-12,1989-05-16
+Kansas City Royals,LOSS,6,1989-05-17,1989-05-23
+Kansas City Royals,WIN,5,1989-05-24,1989-05-29
+Kansas City Royals,WIN,6,1989-06-07,1989-06-13
+Kansas City Royals,WIN,9,1989-08-15,1989-08-23
+Los Angeles Dodgers,WIN,5,1989-06-11,1989-06-15
+Los Angeles Dodgers,LOSS,5,1989-06-26,1989-06-30
+Los Angeles Dodgers,LOSS,5,1989-07-03,1989-07-07
+Montreal Expos,LOSS,5,1989-05-15,1989-05-20
+Montreal Expos,WIN,6,1989-06-23,1989-06-28
+Montreal Expos,WIN,6,1989-07-20,1989-07-25
+Montreal Expos,LOSS,7,1989-08-03,1989-08-09
+Montreal Expos,LOSS,5,1989-09-10,1989-09-15
+Montreal Expos,LOSS,5,1989-09-26,1989-10-01
+New York Mets,WIN,6,1989-04-22,1989-04-29
+New York Mets,WIN,6,1989-07-18,1989-07-23
+New York Mets,LOSS,7,1989-07-25,1989-07-31
+New York Mets,LOSS,5,1989-08-22,1989-08-27
+Oakland Athletics,WIN,7,1989-04-18,1989-04-25
+Oakland Athletics,WIN,5,1989-07-18,1989-07-23
+Oakland Athletics,WIN,5,1989-08-19,1989-08-23
+Oakland Athletics,WIN,5,1989-09-18,1989-09-22
+Pittsburgh Pirates,WIN,6,1989-06-24,1989-06-30
+Pittsburgh Pirates,WIN,6,1989-07-23,1989-07-28
+Pittsburgh Pirates,LOSS,6,1989-07-28,1989-08-02
+Pittsburgh Pirates,WIN,5,1989-08-20,1989-08-25
+Pittsburgh Pirates,WIN,5,1989-09-16,1989-09-20
+San Diego Padres,WIN,5,1989-05-15,1989-05-20
+San Diego Padres,LOSS,7,1989-06-06,1989-06-13
+San Diego Padres,WIN,6,1989-08-23,1989-08-29
+San Diego Padres,WIN,6,1989-08-31,1989-09-06
+Seattle Mariners,WIN,6,1989-05-01,1989-05-07
+Seattle Mariners,WIN,5,1989-07-08,1989-07-15
+Seattle Mariners,LOSS,12,1989-08-16,1989-08-28
+Seattle Mariners,LOSS,6,1989-09-05,1989-09-10
+San Francisco Giants,WIN,5,1989-05-06,1989-05-12
+San Francisco Giants,WIN,5,1989-05-26,1989-05-30
+San Francisco Giants,WIN,5,1989-06-09,1989-06-14
+San Francisco Giants,WIN,7,1989-06-17,1989-06-24
+San Francisco Giants,WIN,5,1989-07-15,1989-07-19
+San Francisco Giants,WIN,5,1989-08-30,1989-09-04
+St. Louis Cardinals,WIN,6,1989-04-26,1989-05-01
+St. Louis Cardinals,LOSS,5,1989-05-12,1989-05-17
+St. Louis Cardinals,WIN,5,1989-06-07,1989-06-11
+Texas Rangers,WIN,8,1989-04-08,1989-04-16
+Texas Rangers,WIN,5,1989-04-23,1989-04-28
+Toronto Blue Jays,WIN,5,1989-06-19,1989-06-23
+Toronto Blue Jays,WIN,6,1989-08-22,1989-08-27
+Toronto Blue Jays,WIN,5,1989-08-29,1989-09-02
+Minnesota Twins,LOSS,7,1989-04-22,1989-04-29
+Minnesota Twins,WIN,5,1989-05-08,1989-05-14
+Minnesota Twins,LOSS,8,1989-07-04,1989-07-14
+Minnesota Twins,WIN,6,1989-08-23,1989-08-28
+Minnesota Twins,WIN,5,1989-09-12,1989-09-16
+Minnesota Twins,LOSS,6,1989-09-17,1989-09-22
+Philadelphia Phillies,LOSS,11,1989-05-24,1989-06-04
+Philadelphia Phillies,LOSS,6,1989-07-21,1989-07-25
+Philadelphia Phillies,LOSS,5,1989-08-30,1989-09-04
+Atlanta Braves,LOSS,8,1989-04-24,1989-05-02
+Atlanta Braves,WIN,7,1989-05-03,1989-05-11
+Atlanta Braves,LOSS,6,1989-05-20,1989-05-26
+Atlanta Braves,LOSS,6,1989-06-07,1989-06-14
+Atlanta Braves,LOSS,5,1989-06-22,1989-06-27
+Atlanta Braves,LOSS,6,1989-07-20,1989-07-25
+Atlanta Braves,LOSS,5,1989-09-04,1989-09-08
+Chicago White Sox,LOSS,5,1989-04-16,1989-04-21
+Chicago White Sox,LOSS,7,1989-05-19,1989-05-26
+Chicago White Sox,LOSS,6,1989-05-28,1989-06-03
+Chicago White Sox,LOSS,6,1989-07-03,1989-07-09
+Chicago White Sox,WIN,8,1989-07-13,1989-07-22
+New York Yankees,LOSS,7,1989-04-05,1989-04-11
+New York Yankees,LOSS,7,1989-07-17,1989-07-24
+New York Yankees,LOSS,6,1989-08-24,1989-08-29
+New York Yankees,WIN,9,1989-08-30,1989-09-08
+New York Yankees,LOSS,5,1989-09-09,1989-09-15
+Milwaukee Brewers,LOSS,5,1989-04-28,1989-05-02
+Milwaukee Brewers,LOSS,6,1989-07-13,1989-07-18
+Milwaukee Brewers,WIN,8,1989-08-11,1989-08-18
+Milwaukee Brewers,LOSS,6,1989-08-21,1989-08-27
+Milwaukee Brewers,WIN,6,1989-09-06,1989-09-12

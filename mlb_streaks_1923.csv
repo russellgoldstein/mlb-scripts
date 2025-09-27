@@ -1,0 +1,74 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,5,1923-07-25,1923-08-01
+St. Louis Browns,LOSS,5,1923-08-02,1923-08-06
+St. Louis Browns,LOSS,5,1923-08-16,1923-08-20
+St. Louis Browns,WIN,6,1923-08-22,1923-08-26
+Boston Red Sox,LOSS,5,1923-05-06,1923-05-17
+Boston Red Sox,WIN,5,1923-08-08,1923-08-15
+Boston Red Sox,LOSS,5,1923-08-22,1923-08-25
+Chicago Cubs,WIN,7,1923-04-18,1923-04-24
+Chicago Cubs,LOSS,5,1923-04-25,1923-04-30
+Chicago Cubs,LOSS,6,1923-05-29,1923-06-02
+Chicago Cubs,WIN,7,1923-06-06,1923-06-12
+Cincinnati Reds,LOSS,5,1923-05-01,1923-05-05
+Cincinnati Reds,LOSS,6,1923-05-19,1923-05-26
+Cincinnati Reds,WIN,6,1923-05-29,1923-06-02
+Cincinnati Reds,WIN,9,1923-06-05,1923-06-16
+Cincinnati Reds,WIN,6,1923-07-10,1923-07-14
+Cincinnati Reds,LOSS,6,1923-08-04,1923-08-09
+Cincinnati Reds,WIN,9,1923-08-17,1923-08-27
+Cincinnati Reds,WIN,5,1923-09-20,1923-09-24
+Cleveland Indians,WIN,6,1923-04-18,1923-04-23
+Cleveland Indians,LOSS,5,1923-06-29,1923-07-03
+Cleveland Indians,WIN,5,1923-07-05,1923-07-08
+Cleveland Indians,WIN,5,1923-07-10,1923-07-14
+Cleveland Indians,LOSS,5,1923-09-13,1923-09-16
+Detroit Tigers,WIN,5,1923-09-25,1923-09-29
+Brooklyn Robins,LOSS,6,1923-04-19,1923-04-24
+Brooklyn Robins,LOSS,5,1923-04-28,1923-05-02
+Brooklyn Robins,WIN,5,1923-05-26,1923-05-30
+Brooklyn Robins,LOSS,10,1923-08-17,1923-08-30
+Philadelphia Athletics,WIN,6,1923-05-14,1923-05-20
+Philadelphia Athletics,LOSS,5,1923-06-28,1923-07-02
+Philadelphia Athletics,LOSS,5,1923-07-10,1923-07-14
+Philadelphia Athletics,LOSS,12,1923-07-21,1923-08-04
+Philadelphia Athletics,LOSS,5,1923-09-01,1923-09-05
+Pittsburgh Pirates,WIN,7,1923-05-18,1923-05-25
+Pittsburgh Pirates,WIN,6,1923-07-25,1923-07-30
+Pittsburgh Pirates,WIN,6,1923-08-20,1923-08-26
+Pittsburgh Pirates,LOSS,5,1923-09-19,1923-09-24
+New York Giants,WIN,5,1923-04-21,1923-04-26
+New York Giants,WIN,8,1923-05-19,1923-05-27
+New York Giants,WIN,5,1923-05-30,1923-06-05
+New York Giants,LOSS,6,1923-06-12,1923-06-17
+New York Giants,WIN,11,1923-06-18,1923-06-30
+New York Giants,WIN,6,1923-08-02,1923-08-07
+New York Giants,WIN,6,1923-09-16,1923-09-22
+St. Louis Cardinals,LOSS,6,1923-04-20,1923-04-25
+St. Louis Cardinals,LOSS,6,1923-05-19,1923-05-25
+St. Louis Cardinals,WIN,6,1923-05-31,1923-06-08
+St. Louis Cardinals,LOSS,5,1923-06-18,1923-06-22
+St. Louis Cardinals,WIN,5,1923-07-10,1923-07-13
+St. Louis Cardinals,WIN,6,1923-08-28,1923-09-03
+Washington Senators,LOSS,7,1923-05-27,1923-06-02
+Washington Senators,LOSS,5,1923-07-08,1923-07-12
+Washington Senators,WIN,6,1923-08-16,1923-08-22
+Philadelphia Phillies,LOSS,7,1923-05-04,1923-05-10
+Philadelphia Phillies,LOSS,7,1923-05-21,1923-05-27
+Philadelphia Phillies,LOSS,6,1923-06-06,1923-06-13
+Philadelphia Phillies,LOSS,5,1923-07-10,1923-07-13
+Philadelphia Phillies,LOSS,6,1923-08-17,1923-08-23
+Philadelphia Phillies,LOSS,5,1923-09-15,1923-09-19
+Philadelphia Phillies,LOSS,5,1923-09-24,1923-09-28
+Boston Braves,WIN,6,1923-04-27,1923-05-02
+Boston Braves,LOSS,12,1923-06-02,1923-06-13
+Boston Braves,LOSS,9,1923-07-07,1923-07-14
+Boston Braves,LOSS,7,1923-07-22,1923-07-29
+Boston Braves,WIN,5,1923-08-29,1923-09-02
+Boston Braves,LOSS,5,1923-09-08,1923-09-14
+Boston Braves,LOSS,5,1923-09-29,1923-10-04
+New York Yankees,WIN,9,1923-05-14,1923-05-22
+New York Yankees,WIN,6,1923-05-26,1923-05-31
+New York Yankees,WIN,9,1923-06-28,1923-07-06
+New York Yankees,WIN,5,1923-07-08,1923-07-12
+New York Yankees,WIN,6,1923-07-21,1923-07-27

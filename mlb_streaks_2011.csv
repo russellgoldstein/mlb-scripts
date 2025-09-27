@@ -1,0 +1,150 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2011-04-12,2011-04-17
+Los Angeles Angels,LOSS,5,2011-05-15,2011-05-19
+Los Angeles Angels,LOSS,6,2011-06-04,2011-06-10
+Los Angeles Angels,LOSS,5,2011-08-13,2011-08-17
+Los Angeles Angels,WIN,6,2011-08-18,2011-08-24
+Arizona Diamondbacks,LOSS,5,2011-05-08,2011-05-13
+Arizona Diamondbacks,WIN,6,2011-05-17,2011-05-22
+Arizona Diamondbacks,WIN,7,2011-05-24,2011-05-30
+Arizona Diamondbacks,WIN,7,2011-08-09,2011-08-16
+Arizona Diamondbacks,LOSS,6,2011-08-17,2011-08-22
+Arizona Diamondbacks,WIN,9,2011-08-23,2011-08-31
+Baltimore Orioles,LOSS,6,2011-04-13,2011-04-18
+Baltimore Orioles,WIN,5,2011-05-21,2011-05-26
+Baltimore Orioles,LOSS,5,2011-05-27,2011-05-31
+Baltimore Orioles,LOSS,5,2011-06-28,2011-07-02
+Baltimore Orioles,LOSS,9,2011-07-04,2011-07-15
+Baltimore Orioles,LOSS,5,2011-08-16,2011-08-21
+Baltimore Orioles,WIN,5,2011-08-22,2011-08-26
+Boston Red Sox,LOSS,6,2011-04-01,2011-04-07
+Boston Red Sox,WIN,5,2011-04-20,2011-04-24
+Boston Red Sox,WIN,9,2011-06-03,2011-06-12
+Boston Red Sox,WIN,6,2011-07-05,2011-07-10
+Boston Red Sox,LOSS,5,2011-09-07,2011-09-11
+Chicago Cubs,LOSS,8,2011-05-30,2011-06-07
+Chicago Cubs,LOSS,5,2011-07-26,2011-07-30
+Chicago Cubs,WIN,7,2011-07-31,2011-08-06
+Cincinnati Reds,WIN,5,2011-03-31,2011-04-06
+Cincinnati Reds,WIN,5,2011-05-13,2011-05-17
+Cincinnati Reds,LOSS,6,2011-05-18,2011-05-23
+Cleveland Indians,WIN,8,2011-04-03,2011-04-11
+Cleveland Indians,WIN,7,2011-04-26,2011-05-03
+Cleveland Indians,LOSS,5,2011-06-02,2011-06-06
+Colorado Rockies,LOSS,5,2011-07-03,2011-07-07
+Colorado Rockies,WIN,5,2011-08-20,2011-08-24
+Colorado Rockies,LOSS,9,2011-09-15,2011-09-23
+Detroit Tigers,LOSS,7,2011-04-26,2011-05-02
+Detroit Tigers,WIN,7,2011-05-07,2011-05-14
+Detroit Tigers,WIN,5,2011-08-19,2011-08-23
+Detroit Tigers,WIN,12,2011-09-02,2011-09-14
+Houston Astros,LOSS,5,2011-04-01,2011-04-06
+Houston Astros,LOSS,5,2011-05-15,2011-05-19
+Houston Astros,LOSS,5,2011-06-24,2011-06-29
+Houston Astros,LOSS,5,2011-07-01,2011-07-05
+Houston Astros,LOSS,5,2011-07-07,2011-07-15
+Houston Astros,LOSS,5,2011-07-22,2011-07-26
+Houston Astros,LOSS,7,2011-08-09,2011-08-15
+Kansas City Royals,LOSS,6,2011-04-22,2011-04-28
+Kansas City Royals,LOSS,5,2011-05-21,2011-05-26
+Kansas City Royals,LOSS,6,2011-06-18,2011-06-24
+Kansas City Royals,LOSS,5,2011-06-27,2011-07-02
+Kansas City Royals,WIN,7,2011-09-10,2011-09-17
+Los Angeles Dodgers,LOSS,5,2011-04-12,2011-04-16
+Los Angeles Dodgers,LOSS,5,2011-06-13,2011-06-18
+Los Angeles Dodgers,LOSS,5,2011-07-02,2011-07-06
+Los Angeles Dodgers,WIN,5,2011-07-07,2011-07-15
+Los Angeles Dodgers,WIN,5,2011-08-22,2011-08-27
+Los Angeles Dodgers,WIN,6,2011-08-29,2011-09-03
+Washington Nationals,LOSS,5,2011-05-21,2011-05-25
+Washington Nationals,WIN,8,2011-06-10,2011-06-18
+Washington Nationals,LOSS,6,2011-07-23,2011-07-29
+Washington Nationals,LOSS,6,2011-08-23,2011-08-28
+Washington Nationals,WIN,5,2011-09-11,2011-09-15
+Washington Nationals,WIN,5,2011-09-18,2011-09-22
+New York Mets,WIN,6,2011-04-21,2011-04-27
+New York Mets,WIN,5,2011-07-25,2011-07-29
+New York Mets,LOSS,5,2011-08-10,2011-08-14
+New York Mets,LOSS,5,2011-08-19,2011-08-23
+New York Mets,LOSS,6,2011-09-10,2011-09-15
+Oakland Athletics,LOSS,6,2011-05-18,2011-05-23
+Oakland Athletics,LOSS,10,2011-05-30,2011-06-09
+Oakland Athletics,WIN,6,2011-06-15,2011-06-21
+Oakland Athletics,LOSS,5,2011-08-27,2011-08-31
+Pittsburgh Pirates,LOSS,10,2011-07-29,2011-08-07
+Pittsburgh Pirates,LOSS,5,2011-08-28,2011-09-01
+San Diego Padres,LOSS,5,2011-05-20,2011-05-24
+San Diego Padres,LOSS,6,2011-06-14,2011-06-20
+San Diego Padres,LOSS,7,2011-07-06,2011-07-15
+San Diego Padres,WIN,5,2011-08-18,2011-08-23
+San Diego Padres,LOSS,9,2011-08-24,2011-09-03
+Seattle Mariners,LOSS,7,2011-04-03,2011-04-10
+Seattle Mariners,WIN,5,2011-04-26,2011-04-30
+Seattle Mariners,LOSS,6,2011-05-07,2011-05-13
+Seattle Mariners,WIN,6,2011-05-18,2011-05-23
+Seattle Mariners,LOSS,17,2011-07-06,2011-07-26
+Seattle Mariners,LOSS,5,2011-08-16,2011-08-21
+Seattle Mariners,LOSS,5,2011-09-01,2011-09-05
+San Francisco Giants,WIN,6,2011-05-06,2011-05-12
+San Francisco Giants,WIN,5,2011-05-18,2011-05-22
+San Francisco Giants,LOSS,5,2011-06-16,2011-06-21
+San Francisco Giants,WIN,7,2011-06-22,2011-06-28
+San Francisco Giants,LOSS,5,2011-07-29,2011-08-02
+San Francisco Giants,WIN,8,2011-09-11,2011-09-18
+St. Louis Cardinals,LOSS,7,2011-06-10,2011-06-17
+St. Louis Cardinals,WIN,5,2011-09-06,2011-09-11
+Tampa Bay Rays,LOSS,6,2011-04-01,2011-04-07
+Tampa Bay Rays,WIN,5,2011-08-08,2011-08-12
+Tampa Bay Rays,WIN,5,2011-08-16,2011-08-21
+Tampa Bay Rays,WIN,5,2011-09-07,2011-09-12
+Tampa Bay Rays,WIN,5,2011-09-24,2011-09-28
+Texas Rangers,WIN,6,2011-04-01,2011-04-06
+Texas Rangers,WIN,5,2011-06-01,2011-06-05
+Texas Rangers,LOSS,5,2011-06-11,2011-06-16
+Texas Rangers,WIN,12,2011-07-04,2011-07-19
+Texas Rangers,WIN,6,2011-08-12,2011-08-17
+Texas Rangers,WIN,6,2011-09-23,2011-09-28
+Toronto Blue Jays,WIN,6,2011-05-10,2011-05-16
+Toronto Blue Jays,WIN,5,2011-07-08,2011-07-15
+Minnesota Twins,LOSS,6,2011-04-27,2011-05-01
+Minnesota Twins,LOSS,9,2011-05-07,2011-05-16
+Minnesota Twins,WIN,5,2011-06-02,2011-06-06
+Minnesota Twins,WIN,6,2011-06-15,2011-06-21
+Minnesota Twins,LOSS,6,2011-06-22,2011-06-27
+Minnesota Twins,LOSS,6,2011-08-04,2011-08-09
+Minnesota Twins,LOSS,7,2011-08-21,2011-08-27
+Minnesota Twins,LOSS,5,2011-09-03,2011-09-06
+Minnesota Twins,LOSS,11,2011-09-09,2011-09-21
+Philadelphia Phillies,WIN,5,2011-04-20,2011-04-24
+Philadelphia Phillies,WIN,7,2011-06-10,2011-06-16
+Philadelphia Phillies,WIN,5,2011-07-19,2011-07-24
+Philadelphia Phillies,WIN,9,2011-07-29,2011-08-06
+Philadelphia Phillies,WIN,5,2011-08-29,2011-09-02
+Philadelphia Phillies,WIN,6,2011-09-05,2011-09-10
+Philadelphia Phillies,LOSS,6,2011-09-18,2011-09-22
+Atlanta Braves,WIN,6,2011-06-07,2011-06-12
+Atlanta Braves,WIN,5,2011-06-27,2011-07-02
+Atlanta Braves,WIN,5,2011-08-07,2011-08-12
+Atlanta Braves,WIN,6,2011-08-18,2011-08-23
+Atlanta Braves,LOSS,5,2011-09-24,2011-09-28
+Chicago White Sox,LOSS,7,2011-04-13,2011-04-20
+Chicago White Sox,LOSS,5,2011-04-27,2011-05-01
+Chicago White Sox,LOSS,6,2011-07-30,2011-08-04
+Chicago White Sox,WIN,5,2011-08-05,2011-08-09
+Chicago White Sox,WIN,5,2011-08-26,2011-08-30
+Chicago White Sox,LOSS,7,2011-09-11,2011-09-17
+Florida Marlins,LOSS,8,2011-06-01,2011-06-09
+Florida Marlins,LOSS,11,2011-06-11,2011-06-20
+Florida Marlins,WIN,6,2011-07-06,2011-07-14
+Florida Marlins,WIN,5,2011-07-23,2011-07-28
+Florida Marlins,LOSS,7,2011-08-04,2011-08-10
+Florida Marlins,LOSS,6,2011-08-17,2011-08-23
+New York Yankees,LOSS,6,2011-05-11,2011-05-16
+New York Yankees,WIN,7,2011-06-25,2011-07-02
+New York Yankees,WIN,8,2011-07-30,2011-08-05
+New York Yankees,WIN,6,2011-09-01,2011-09-06
+Milwaukee Brewers,WIN,6,2011-05-20,2011-05-25
+Milwaukee Brewers,WIN,7,2011-07-26,2011-08-01
+Milwaukee Brewers,WIN,6,2011-08-03,2011-08-10
+Milwaukee Brewers,WIN,6,2011-08-12,2011-08-17
+Milwaukee Brewers,LOSS,5,2011-09-06,2011-09-10

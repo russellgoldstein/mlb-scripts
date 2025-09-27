@@ -1,0 +1,159 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,5,2013-04-07,2013-04-12
+Los Angeles Angels,WIN,8,2013-05-18,2013-05-26
+Los Angeles Angels,WIN,7,2013-06-25,2013-07-02
+Los Angeles Angels,LOSS,6,2013-07-26,2013-07-31
+Los Angeles Angels,WIN,5,2013-08-29,2013-09-02
+Arizona Diamondbacks,WIN,5,2013-05-06,2013-05-10
+Arizona Diamondbacks,LOSS,5,2013-06-28,2013-07-02
+Arizona Diamondbacks,WIN,5,2013-07-03,2013-07-07
+Baltimore Orioles,LOSS,6,2013-05-14,2013-05-20
+Baltimore Orioles,WIN,5,2013-07-14,2013-07-22
+Baltimore Orioles,LOSS,6,2013-09-19,2013-09-24
+Boston Red Sox,WIN,6,2013-04-13,2013-04-18
+Boston Red Sox,WIN,5,2013-04-24,2013-04-28
+Boston Red Sox,WIN,5,2013-05-15,2013-05-19
+Boston Red Sox,WIN,5,2013-06-30,2013-07-05
+Boston Red Sox,WIN,5,2013-09-03,2013-09-07
+Chicago Cubs,LOSS,6,2013-05-19,2013-05-25
+Chicago Cubs,LOSS,5,2013-08-01,2013-08-06
+Chicago Cubs,LOSS,5,2013-09-14,2013-09-18
+Cincinnati Reds,LOSS,5,2013-04-09,2013-04-14
+Cincinnati Reds,WIN,5,2013-04-15,2013-04-18
+Cincinnati Reds,WIN,6,2013-05-10,2013-05-16
+Cincinnati Reds,WIN,5,2013-05-20,2013-05-25
+Cincinnati Reds,LOSS,5,2013-07-26,2013-07-30
+Cincinnati Reds,WIN,5,2013-08-11,2013-08-15
+Cincinnati Reds,LOSS,5,2013-09-24,2013-09-29
+Cleveland Indians,LOSS,5,2013-04-14,2013-04-19
+Cleveland Indians,WIN,6,2013-04-28,2013-05-04
+Cleveland Indians,WIN,5,2013-05-15,2013-05-20
+Cleveland Indians,LOSS,5,2013-05-24,2013-05-28
+Cleveland Indians,LOSS,8,2013-06-02,2013-06-10
+Cleveland Indians,WIN,5,2013-06-28,2013-07-02
+Cleveland Indians,WIN,8,2013-07-24,2013-08-01
+Cleveland Indians,LOSS,6,2013-08-05,2013-08-10
+Cleveland Indians,LOSS,5,2013-08-27,2013-08-31
+Cleveland Indians,WIN,10,2013-09-19,2013-09-29
+Colorado Rockies,WIN,5,2013-04-02,2013-04-07
+Colorado Rockies,LOSS,5,2013-06-17,2013-06-21
+Colorado Rockies,LOSS,5,2013-08-03,2013-08-08
+Detroit Tigers,WIN,5,2013-04-26,2013-04-30
+Detroit Tigers,WIN,5,2013-07-02,2013-07-06
+Detroit Tigers,WIN,12,2013-07-26,2013-08-08
+Houston Astros,LOSS,6,2013-04-02,2013-04-08
+Houston Astros,LOSS,5,2013-04-13,2013-04-17
+Houston Astros,LOSS,6,2013-04-30,2013-05-05
+Houston Astros,LOSS,6,2013-05-09,2013-05-14
+Houston Astros,WIN,6,2013-05-29,2013-06-03
+Houston Astros,LOSS,6,2013-06-06,2013-06-11
+Houston Astros,LOSS,5,2013-06-28,2013-07-02
+Houston Astros,LOSS,6,2013-07-13,2013-07-22
+Houston Astros,LOSS,6,2013-08-06,2013-08-12
+Houston Astros,LOSS,5,2013-08-27,2013-08-31
+Houston Astros,LOSS,15,2013-09-14,2013-09-29
+Kansas City Royals,LOSS,8,2013-05-22,2013-05-29
+Kansas City Royals,WIN,6,2013-06-05,2013-06-10
+Kansas City Royals,LOSS,5,2013-07-10,2013-07-14
+Kansas City Royals,WIN,9,2013-07-23,2013-08-01
+Kansas City Royals,LOSS,7,2013-08-17,2013-08-24
+Kansas City Royals,WIN,5,2013-08-25,2013-08-29
+Los Angeles Dodgers,LOSS,8,2013-05-01,2013-05-10
+Los Angeles Dodgers,WIN,6,2013-06-22,2013-06-27
+Los Angeles Dodgers,WIN,5,2013-07-07,2013-07-11
+Los Angeles Dodgers,WIN,6,2013-07-19,2013-07-24
+Los Angeles Dodgers,WIN,5,2013-08-01,2013-08-05
+Los Angeles Dodgers,WIN,10,2013-08-07,2013-08-17
+Los Angeles Dodgers,WIN,6,2013-08-28,2013-09-03
+Washington Nationals,LOSS,6,2013-07-19,2013-07-24
+Washington Nationals,WIN,5,2013-08-09,2013-08-14
+Washington Nationals,WIN,5,2013-08-20,2013-08-24
+Washington Nationals,WIN,7,2013-09-07,2013-09-13
+New York Mets,LOSS,6,2013-04-25,2013-04-30
+New York Mets,LOSS,6,2013-05-10,2013-05-15
+New York Mets,LOSS,6,2013-05-20,2013-05-25
+New York Mets,WIN,5,2013-05-26,2013-05-30
+New York Mets,LOSS,5,2013-08-21,2013-08-26
+Oakland Athletics,WIN,9,2013-04-03,2013-04-12
+Oakland Athletics,LOSS,5,2013-05-06,2013-05-10
+Oakland Athletics,WIN,5,2013-05-17,2013-05-21
+Oakland Athletics,WIN,6,2013-05-24,2013-05-29
+Oakland Athletics,WIN,5,2013-09-11,2013-09-15
+Oakland Athletics,WIN,5,2013-09-19,2013-09-23
+Pittsburgh Pirates,WIN,9,2013-06-20,2013-06-30
+Pittsburgh Pirates,WIN,5,2013-08-03,2013-08-08
+San Diego Padres,LOSS,5,2013-04-10,2013-04-14
+San Diego Padres,LOSS,5,2013-04-19,2013-04-23
+San Diego Padres,WIN,7,2013-06-10,2013-06-17
+San Diego Padres,LOSS,10,2013-06-29,2013-07-08
+Seattle Mariners,LOSS,8,2013-05-17,2013-05-25
+Seattle Mariners,WIN,8,2013-07-12,2013-07-23
+Seattle Mariners,LOSS,6,2013-08-23,2013-08-28
+Seattle Mariners,LOSS,5,2013-09-08,2013-09-13
+San Francisco Giants,LOSS,5,2013-04-23,2013-04-28
+San Francisco Giants,WIN,6,2013-04-29,2013-05-05
+San Francisco Giants,LOSS,6,2013-06-23,2013-06-29
+San Francisco Giants,LOSS,5,2013-07-24,2013-07-30
+St. Louis Cardinals,WIN,6,2013-04-30,2013-05-05
+St. Louis Cardinals,WIN,5,2013-07-05,2013-07-10
+St. Louis Cardinals,LOSS,7,2013-07-26,2013-07-31
+St. Louis Cardinals,WIN,5,2013-09-06,2013-09-11
+St. Louis Cardinals,WIN,6,2013-09-23,2013-09-29
+Tampa Bay Rays,WIN,6,2013-05-08,2013-05-14
+Tampa Bay Rays,WIN,6,2013-05-26,2013-05-31
+Tampa Bay Rays,WIN,8,2013-07-04,2013-07-11
+Tampa Bay Rays,WIN,6,2013-07-13,2013-07-22
+Tampa Bay Rays,LOSS,6,2013-08-06,2013-08-13
+Tampa Bay Rays,LOSS,5,2013-08-29,2013-09-02
+Tampa Bay Rays,WIN,7,2013-09-20,2013-09-26
+Texas Rangers,LOSS,6,2013-06-11,2013-06-16
+Texas Rangers,WIN,5,2013-06-19,2013-06-23
+Texas Rangers,WIN,5,2013-07-29,2013-08-02
+Texas Rangers,WIN,8,2013-08-04,2013-08-12
+Texas Rangers,LOSS,7,2013-09-09,2013-09-16
+Texas Rangers,WIN,7,2013-09-23,2013-09-29
+Toronto Blue Jays,WIN,10,2013-06-13,2013-06-23
+Toronto Blue Jays,LOSS,7,2013-07-14,2013-07-24
+Toronto Blue Jays,LOSS,7,2013-08-18,2013-08-24
+Minnesota Twins,LOSS,5,2013-04-08,2013-04-13
+Minnesota Twins,LOSS,10,2013-05-14,2013-05-24
+Minnesota Twins,LOSS,6,2013-06-30,2013-07-05
+Minnesota Twins,LOSS,6,2013-07-07,2013-07-12
+Minnesota Twins,LOSS,5,2013-08-24,2013-08-29
+Minnesota Twins,LOSS,6,2013-09-24,2013-09-29
+Philadelphia Phillies,LOSS,5,2013-04-15,2013-04-18
+Philadelphia Phillies,WIN,5,2013-06-02,2013-06-06
+Philadelphia Phillies,LOSS,5,2013-06-07,2013-06-12
+Philadelphia Phillies,LOSS,8,2013-07-20,2013-07-28
+Philadelphia Phillies,LOSS,5,2013-07-31,2013-08-04
+Philadelphia Phillies,LOSS,5,2013-09-18,2013-09-23
+Atlanta Braves,WIN,10,2013-04-05,2013-04-16
+Atlanta Braves,WIN,9,2013-05-17,2013-05-25
+Atlanta Braves,WIN,5,2013-06-01,2013-06-05
+Atlanta Braves,WIN,14,2013-07-26,2013-08-09
+Atlanta Braves,WIN,6,2013-08-25,2013-08-31
+Chicago White Sox,LOSS,5,2013-04-09,2013-04-13
+Chicago White Sox,LOSS,7,2013-05-29,2013-06-04
+Chicago White Sox,LOSS,5,2013-06-26,2013-06-30
+Chicago White Sox,LOSS,10,2013-07-26,2013-08-04
+Chicago White Sox,WIN,6,2013-08-16,2013-08-22
+Chicago White Sox,LOSS,9,2013-08-30,2013-09-07
+Chicago White Sox,LOSS,6,2013-09-10,2013-09-15
+Miami Marlins,LOSS,6,2013-04-06,2013-04-12
+Miami Marlins,LOSS,7,2013-05-11,2013-05-18
+Miami Marlins,LOSS,9,2013-05-21,2013-05-30
+Miami Marlins,LOSS,5,2013-07-05,2013-07-09
+Miami Marlins,LOSS,6,2013-08-03,2013-08-09
+Miami Marlins,LOSS,6,2013-08-25,2013-08-31
+New York Yankees,WIN,5,2013-05-08,2013-05-12
+New York Yankees,LOSS,5,2013-05-26,2013-05-30
+New York Yankees,LOSS,5,2013-06-11,2013-06-15
+New York Yankees,LOSS,5,2013-06-26,2013-06-30
+New York Yankees,WIN,6,2013-07-01,2013-07-06
+New York Yankees,WIN,5,2013-08-18,2013-08-22
+Milwaukee Brewers,LOSS,5,2013-04-02,2013-04-07
+Milwaukee Brewers,WIN,9,2013-04-14,2013-04-23
+Milwaukee Brewers,LOSS,5,2013-05-01,2013-05-05
+Milwaukee Brewers,LOSS,6,2013-05-25,2013-05-30
+Milwaukee Brewers,LOSS,6,2013-06-26,2013-07-01
+Milwaukee Brewers,LOSS,5,2013-08-30,2013-09-03

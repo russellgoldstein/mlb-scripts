@@ -1,0 +1,156 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,5,1990-05-03,1990-05-07
+California Angels,WIN,7,1990-05-21,1990-05-27
+California Angels,WIN,5,1990-08-13,1990-08-18
+California Angels,WIN,5,1990-08-25,1990-08-29
+California Angels,WIN,5,1990-09-10,1990-09-14
+Baltimore Orioles,LOSS,5,1990-04-24,1990-04-28
+Baltimore Orioles,LOSS,5,1990-06-13,1990-06-17
+Baltimore Orioles,LOSS,5,1990-06-21,1990-06-26
+Baltimore Orioles,WIN,5,1990-07-19,1990-07-23
+Baltimore Orioles,LOSS,5,1990-08-25,1990-08-29
+Baltimore Orioles,LOSS,6,1990-08-31,1990-09-05
+Baltimore Orioles,WIN,6,1990-09-18,1990-09-24
+Boston Red Sox,WIN,7,1990-06-03,1990-06-09
+Boston Red Sox,WIN,7,1990-06-22,1990-06-28
+Boston Red Sox,LOSS,6,1990-07-05,1990-07-14
+Boston Red Sox,WIN,6,1990-07-29,1990-08-04
+Boston Red Sox,WIN,10,1990-08-24,1990-09-02
+Chicago Cubs,LOSS,6,1990-04-19,1990-04-25
+Chicago Cubs,LOSS,5,1990-06-03,1990-06-07
+Chicago Cubs,LOSS,6,1990-06-12,1990-06-16
+Chicago Cubs,WIN,5,1990-06-27,1990-07-01
+Chicago Cubs,LOSS,6,1990-07-07,1990-07-14
+Chicago Cubs,WIN,8,1990-07-15,1990-07-23
+Chicago Cubs,WIN,5,1990-08-03,1990-08-08
+Cincinnati Reds,WIN,9,1990-04-09,1990-04-21
+Cincinnati Reds,WIN,5,1990-05-03,1990-05-07
+Cincinnati Reds,LOSS,5,1990-06-08,1990-06-12
+Cincinnati Reds,WIN,6,1990-06-13,1990-06-19
+Cincinnati Reds,LOSS,8,1990-07-24,1990-07-30
+Cincinnati Reds,LOSS,5,1990-08-17,1990-08-20
+Cleveland Indians,LOSS,6,1990-06-03,1990-06-09
+Cleveland Indians,LOSS,8,1990-08-27,1990-09-03
+Cleveland Indians,WIN,6,1990-09-17,1990-09-22
+Detroit Tigers,LOSS,5,1990-04-29,1990-05-03
+Detroit Tigers,WIN,7,1990-05-15,1990-05-21
+Detroit Tigers,LOSS,5,1990-05-26,1990-05-30
+Houston Astros,LOSS,6,1990-05-09,1990-05-16
+Houston Astros,LOSS,7,1990-06-01,1990-06-07
+Houston Astros,WIN,6,1990-06-08,1990-06-13
+Houston Astros,LOSS,7,1990-06-15,1990-06-22
+Houston Astros,LOSS,7,1990-07-01,1990-07-07
+Houston Astros,WIN,6,1990-08-02,1990-08-07
+Kansas City Royals,LOSS,6,1990-04-23,1990-04-28
+Kansas City Royals,WIN,5,1990-05-26,1990-05-30
+Kansas City Royals,LOSS,8,1990-06-05,1990-06-12
+Kansas City Royals,WIN,5,1990-08-20,1990-08-24
+Kansas City Royals,LOSS,9,1990-09-03,1990-09-11
+Los Angeles Dodgers,LOSS,6,1990-05-06,1990-05-12
+Los Angeles Dodgers,WIN,5,1990-05-23,1990-05-27
+Los Angeles Dodgers,LOSS,5,1990-06-10,1990-06-15
+Los Angeles Dodgers,WIN,6,1990-06-16,1990-06-22
+Los Angeles Dodgers,WIN,5,1990-07-26,1990-07-30
+Los Angeles Dodgers,WIN,5,1990-08-25,1990-08-30
+Montreal Expos,WIN,5,1990-05-06,1990-05-10
+Montreal Expos,LOSS,5,1990-07-16,1990-07-20
+Montreal Expos,LOSS,6,1990-08-01,1990-08-07
+Montreal Expos,WIN,7,1990-08-08,1990-08-15
+Montreal Expos,WIN,6,1990-09-14,1990-09-20
+Montreal Expos,LOSS,8,1990-09-21,1990-09-28
+New York Mets,WIN,5,1990-04-21,1990-04-27
+New York Mets,WIN,11,1990-06-17,1990-06-29
+New York Mets,WIN,5,1990-07-01,1990-07-06
+New York Mets,WIN,7,1990-08-28,1990-09-03
+New York Mets,LOSS,5,1990-09-04,1990-09-07
+New York Mets,LOSS,5,1990-09-16,1990-09-21
+Oakland Athletics,WIN,6,1990-04-13,1990-04-19
+Oakland Athletics,WIN,5,1990-04-29,1990-05-04
+Oakland Athletics,WIN,5,1990-05-06,1990-05-11
+Oakland Athletics,WIN,6,1990-05-21,1990-05-26
+Oakland Athletics,WIN,5,1990-08-09,1990-08-13
+Oakland Athletics,WIN,7,1990-09-02,1990-09-09
+Pittsburgh Pirates,WIN,6,1990-04-24,1990-04-29
+Pittsburgh Pirates,WIN,5,1990-05-06,1990-05-09
+Pittsburgh Pirates,WIN,5,1990-05-26,1990-05-30
+Pittsburgh Pirates,LOSS,5,1990-06-17,1990-06-23
+Pittsburgh Pirates,LOSS,5,1990-08-08,1990-08-12
+Pittsburgh Pirates,WIN,6,1990-08-16,1990-08-20
+Pittsburgh Pirates,WIN,6,1990-09-02,1990-09-06
+Pittsburgh Pirates,LOSS,6,1990-09-12,1990-09-18
+Pittsburgh Pirates,WIN,7,1990-09-23,1990-09-30
+San Diego Padres,WIN,5,1990-04-11,1990-04-15
+San Diego Padres,LOSS,5,1990-04-26,1990-05-01
+San Diego Padres,LOSS,7,1990-06-27,1990-07-03
+San Diego Padres,LOSS,8,1990-07-16,1990-07-23
+San Diego Padres,WIN,5,1990-07-24,1990-07-27
+San Diego Padres,LOSS,5,1990-08-28,1990-09-01
+San Diego Padres,WIN,5,1990-09-15,1990-09-19
+San Diego Padres,LOSS,8,1990-09-20,1990-09-26
+Seattle Mariners,LOSS,5,1990-04-10,1990-04-15
+Seattle Mariners,WIN,5,1990-06-27,1990-07-01
+San Francisco Giants,WIN,7,1990-06-01,1990-06-08
+San Francisco Giants,WIN,9,1990-06-10,1990-06-18
+San Francisco Giants,WIN,5,1990-07-07,1990-07-13
+San Francisco Giants,LOSS,6,1990-07-18,1990-07-24
+San Francisco Giants,WIN,5,1990-07-25,1990-07-29
+San Francisco Giants,LOSS,5,1990-08-12,1990-08-16
+San Francisco Giants,WIN,5,1990-09-08,1990-09-12
+San Francisco Giants,WIN,7,1990-09-23,1990-09-30
+St. Louis Cardinals,LOSS,5,1990-05-02,1990-05-07
+St. Louis Cardinals,LOSS,5,1990-06-11,1990-06-15
+St. Louis Cardinals,LOSS,7,1990-09-27,1990-10-03
+Texas Rangers,LOSS,5,1990-05-13,1990-05-18
+Texas Rangers,LOSS,5,1990-05-25,1990-05-29
+Texas Rangers,WIN,7,1990-07-05,1990-07-14
+Texas Rangers,WIN,6,1990-07-30,1990-08-04
+Texas Rangers,WIN,6,1990-09-05,1990-09-10
+Toronto Blue Jays,LOSS,5,1990-05-15,1990-05-19
+Toronto Blue Jays,WIN,5,1990-05-25,1990-05-29
+Toronto Blue Jays,WIN,6,1990-06-12,1990-06-17
+Toronto Blue Jays,LOSS,6,1990-06-25,1990-06-30
+Toronto Blue Jays,WIN,5,1990-07-03,1990-07-07
+Toronto Blue Jays,LOSS,5,1990-08-24,1990-08-28
+Toronto Blue Jays,WIN,6,1990-09-05,1990-09-11
+Toronto Blue Jays,WIN,6,1990-09-14,1990-09-19
+Minnesota Twins,WIN,6,1990-05-01,1990-05-08
+Minnesota Twins,WIN,5,1990-05-24,1990-05-28
+Minnesota Twins,LOSS,9,1990-06-07,1990-06-16
+Minnesota Twins,LOSS,9,1990-08-15,1990-08-24
+Philadelphia Phillies,LOSS,5,1990-05-26,1990-06-01
+Philadelphia Phillies,LOSS,5,1990-06-08,1990-06-11
+Philadelphia Phillies,LOSS,6,1990-06-22,1990-06-27
+Philadelphia Phillies,LOSS,5,1990-08-08,1990-08-12
+Atlanta Braves,LOSS,7,1990-04-12,1990-04-21
+Atlanta Braves,LOSS,5,1990-04-24,1990-04-28
+Atlanta Braves,WIN,5,1990-04-29,1990-05-03
+Atlanta Braves,LOSS,6,1990-06-13,1990-06-19
+Atlanta Braves,LOSS,5,1990-07-25,1990-07-29
+Atlanta Braves,LOSS,7,1990-07-31,1990-08-07
+Atlanta Braves,WIN,6,1990-08-31,1990-09-05
+Atlanta Braves,LOSS,5,1990-09-26,1990-09-30
+Chicago White Sox,WIN,5,1990-04-27,1990-05-01
+Chicago White Sox,WIN,6,1990-05-11,1990-05-17
+Chicago White Sox,WIN,5,1990-05-26,1990-05-30
+Chicago White Sox,LOSS,5,1990-06-15,1990-06-19
+Chicago White Sox,WIN,8,1990-06-20,1990-06-29
+Chicago White Sox,WIN,5,1990-08-02,1990-08-05
+Chicago White Sox,LOSS,5,1990-08-25,1990-08-29
+Chicago White Sox,WIN,6,1990-09-13,1990-09-18
+New York Yankees,LOSS,5,1990-04-18,1990-04-22
+New York Yankees,LOSS,5,1990-04-29,1990-05-03
+New York Yankees,LOSS,5,1990-05-26,1990-05-30
+New York Yankees,LOSS,8,1990-06-02,1990-06-09
+New York Yankees,LOSS,5,1990-07-01,1990-07-06
+New York Yankees,LOSS,5,1990-07-08,1990-07-15
+New York Yankees,WIN,5,1990-08-05,1990-08-09
+New York Yankees,LOSS,6,1990-08-10,1990-08-15
+New York Yankees,WIN,6,1990-08-17,1990-08-22
+New York Yankees,LOSS,5,1990-08-30,1990-09-03
+New York Yankees,LOSS,5,1990-09-06,1990-09-10
+New York Yankees,LOSS,7,1990-09-15,1990-09-21
+Milwaukee Brewers,LOSS,6,1990-05-23,1990-05-28
+Milwaukee Brewers,LOSS,5,1990-06-06,1990-06-10
+Milwaukee Brewers,LOSS,5,1990-06-28,1990-07-03
+Milwaukee Brewers,LOSS,8,1990-07-30,1990-08-05
+Milwaukee Brewers,LOSS,7,1990-09-17,1990-09-24

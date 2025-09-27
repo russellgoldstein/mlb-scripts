@@ -1,0 +1,174 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,7,2008-05-31,2008-06-07
+Los Angeles Angels,WIN,5,2008-06-20,2008-06-24
+Los Angeles Angels,WIN,5,2008-07-12,2008-07-20
+Los Angeles Angels,WIN,5,2008-07-28,2008-08-01
+Los Angeles Angels,WIN,5,2008-08-06,2008-08-12
+Los Angeles Angels,WIN,5,2008-09-10,2008-09-14
+Los Angeles Angels,WIN,5,2008-09-18,2008-09-22
+Arizona Diamondbacks,WIN,8,2008-04-04,2008-04-12
+Arizona Diamondbacks,LOSS,5,2008-05-26,2008-05-30
+Arizona Diamondbacks,LOSS,6,2008-09-05,2008-09-10
+Baltimore Orioles,WIN,5,2008-04-04,2008-04-08
+Baltimore Orioles,LOSS,5,2008-05-03,2008-05-07
+Baltimore Orioles,LOSS,5,2008-05-21,2008-05-25
+Baltimore Orioles,LOSS,5,2008-07-05,2008-07-10
+Baltimore Orioles,LOSS,6,2008-07-22,2008-07-26
+Baltimore Orioles,LOSS,8,2008-08-29,2008-09-06
+Baltimore Orioles,LOSS,10,2008-09-17,2008-09-26
+Boston Red Sox,WIN,6,2008-04-17,2008-04-22
+Boston Red Sox,LOSS,5,2008-04-23,2008-04-27
+Boston Red Sox,WIN,5,2008-05-02,2008-05-06
+Boston Red Sox,WIN,7,2008-05-17,2008-05-22
+Boston Red Sox,LOSS,5,2008-06-28,2008-07-02
+Chicago Cubs,WIN,5,2008-04-05,2008-04-10
+Chicago Cubs,WIN,6,2008-04-18,2008-04-23
+Chicago Cubs,WIN,9,2008-05-26,2008-06-03
+Chicago Cubs,WIN,5,2008-07-27,2008-07-31
+Chicago Cubs,WIN,7,2008-08-23,2008-08-29
+Chicago Cubs,LOSS,6,2008-08-30,2008-09-05
+Cincinnati Reds,LOSS,5,2008-04-11,2008-04-16
+Cincinnati Reds,LOSS,5,2008-04-29,2008-05-04
+Cincinnati Reds,LOSS,5,2008-06-14,2008-06-19
+Cincinnati Reds,LOSS,5,2008-07-25,2008-07-29
+Cincinnati Reds,LOSS,6,2008-08-05,2008-08-10
+Cincinnati Reds,LOSS,5,2008-09-24,2008-09-28
+Cleveland Guardians,LOSS,7,2008-05-16,2008-05-23
+Cleveland Guardians,LOSS,10,2008-06-28,2008-07-09
+Cleveland Guardians,WIN,5,2008-08-08,2008-08-12
+Cleveland Guardians,WIN,10,2008-08-17,2008-08-27
+Cleveland Guardians,WIN,7,2008-09-15,2008-09-22
+Colorado Rockies,LOSS,5,2008-04-02,2008-04-06
+Colorado Rockies,LOSS,6,2008-05-10,2008-05-16
+Colorado Rockies,LOSS,8,2008-05-26,2008-06-02
+Colorado Rockies,LOSS,8,2008-06-22,2008-06-30
+Colorado Rockies,WIN,5,2008-07-01,2008-07-05
+Colorado Rockies,WIN,5,2008-07-22,2008-07-27
+Colorado Rockies,WIN,5,2008-08-15,2008-08-20
+Colorado Rockies,LOSS,7,2008-09-06,2008-09-13
+Detroit Tigers,LOSS,7,2008-03-31,2008-04-08
+Detroit Tigers,LOSS,5,2008-05-02,2008-05-06
+Detroit Tigers,WIN,6,2008-06-10,2008-06-15
+Detroit Tigers,WIN,6,2008-06-25,2008-06-30
+Detroit Tigers,LOSS,6,2008-07-31,2008-08-06
+Detroit Tigers,LOSS,6,2008-09-19,2008-09-24
+Houston Astros,WIN,6,2008-04-20,2008-04-25
+Houston Astros,WIN,5,2008-05-02,2008-05-07
+Houston Astros,LOSS,5,2008-05-28,2008-06-01
+Houston Astros,LOSS,8,2008-06-11,2008-06-19
+Houston Astros,WIN,8,2008-08-07,2008-08-14
+Houston Astros,WIN,8,2008-08-27,2008-09-03
+Houston Astros,WIN,6,2008-09-06,2008-09-11
+Houston Astros,LOSS,5,2008-09-14,2008-09-18
+Kansas City Royals,LOSS,5,2008-04-17,2008-04-22
+Kansas City Royals,WIN,5,2008-05-11,2008-05-16
+Kansas City Royals,LOSS,12,2008-05-19,2008-05-30
+Kansas City Royals,WIN,5,2008-06-14,2008-06-19
+Kansas City Royals,WIN,6,2008-06-21,2008-06-27
+Kansas City Royals,LOSS,7,2008-08-16,2008-08-23
+Kansas City Royals,WIN,7,2008-09-13,2008-09-18
+Kansas City Royals,WIN,5,2008-09-22,2008-09-27
+Los Angeles Dodgers,WIN,8,2008-04-25,2008-05-03
+Los Angeles Dodgers,LOSS,5,2008-05-07,2008-05-13
+Los Angeles Dodgers,LOSS,5,2008-06-11,2008-06-15
+Los Angeles Dodgers,WIN,5,2008-08-11,2008-08-15
+Los Angeles Dodgers,LOSS,8,2008-08-22,2008-08-29
+Los Angeles Dodgers,WIN,8,2008-08-30,2008-09-07
+Washington Nationals,LOSS,9,2008-04-03,2008-04-12
+Washington Nationals,LOSS,6,2008-07-02,2008-07-08
+Washington Nationals,LOSS,9,2008-07-22,2008-07-31
+Washington Nationals,LOSS,12,2008-08-08,2008-08-20
+Washington Nationals,WIN,7,2008-08-26,2008-09-01
+Washington Nationals,LOSS,5,2008-09-09,2008-09-14
+Washington Nationals,LOSS,5,2008-09-17,2008-09-21
+New York Mets,WIN,5,2008-04-15,2008-04-19
+New York Mets,LOSS,5,2008-05-20,2008-05-23
+New York Mets,LOSS,5,2008-06-05,2008-06-10
+New York Mets,WIN,10,2008-07-05,2008-07-17
+New York Mets,WIN,6,2008-08-12,2008-08-17
+Oakland Athletics,WIN,5,2008-04-08,2008-04-12
+Oakland Athletics,WIN,5,2008-05-21,2008-05-27
+Oakland Athletics,LOSS,6,2008-07-12,2008-07-21
+Oakland Athletics,LOSS,10,2008-07-28,2008-08-07
+Oakland Athletics,LOSS,5,2008-09-23,2008-09-28
+Pittsburgh Pirates,LOSS,6,2008-04-15,2008-04-21
+Pittsburgh Pirates,WIN,5,2008-05-06,2008-05-10
+Pittsburgh Pirates,LOSS,5,2008-07-13,2008-07-20
+Pittsburgh Pirates,LOSS,10,2008-08-20,2008-08-31
+Pittsburgh Pirates,LOSS,6,2008-09-06,2008-09-11
+San Diego Padres,LOSS,5,2008-04-21,2008-04-25
+San Diego Padres,LOSS,5,2008-05-04,2008-05-09
+San Diego Padres,WIN,5,2008-06-04,2008-06-08
+San Diego Padres,LOSS,8,2008-06-21,2008-06-29
+San Diego Padres,LOSS,6,2008-07-12,2008-07-20
+San Diego Padres,LOSS,7,2008-08-17,2008-08-24
+Seattle Mariners,LOSS,5,2008-04-30,2008-05-04
+Seattle Mariners,LOSS,5,2008-05-06,2008-05-10
+Seattle Mariners,LOSS,7,2008-05-20,2008-05-26
+Seattle Mariners,LOSS,7,2008-07-19,2008-07-26
+Seattle Mariners,LOSS,7,2008-08-15,2008-08-21
+Seattle Mariners,LOSS,12,2008-09-11,2008-09-22
+San Francisco Giants,LOSS,5,2008-05-04,2008-05-09
+San Francisco Giants,LOSS,6,2008-05-14,2008-05-19
+San Francisco Giants,LOSS,6,2008-07-06,2008-07-12
+San Francisco Giants,WIN,5,2008-08-20,2008-08-24
+San Francisco Giants,LOSS,5,2008-08-29,2008-09-02
+San Francisco Giants,WIN,5,2008-09-06,2008-09-10
+St. Louis Cardinals,WIN,5,2008-04-02,2008-04-06
+St. Louis Cardinals,WIN,5,2008-07-13,2008-07-20
+St. Louis Cardinals,LOSS,5,2008-07-21,2008-07-25
+St. Louis Cardinals,LOSS,7,2008-09-10,2008-09-17
+St. Louis Cardinals,WIN,6,2008-09-23,2008-09-28
+Tampa Bay Rays,WIN,6,2008-04-22,2008-04-27
+Tampa Bay Rays,WIN,6,2008-05-08,2008-05-13
+Tampa Bay Rays,WIN,7,2008-06-29,2008-07-06
+Tampa Bay Rays,LOSS,7,2008-07-07,2008-07-13
+Tampa Bay Rays,WIN,5,2008-07-29,2008-08-03
+Tampa Bay Rays,WIN,5,2008-08-27,2008-08-31
+Texas Rangers,LOSS,5,2008-04-11,2008-04-15
+Texas Rangers,LOSS,7,2008-04-18,2008-04-24
+Texas Rangers,WIN,5,2008-05-06,2008-05-10
+Texas Rangers,LOSS,5,2008-09-17,2008-09-22
+Toronto Blue Jays,LOSS,6,2008-04-21,2008-04-26
+Toronto Blue Jays,WIN,5,2008-05-01,2008-05-05
+Toronto Blue Jays,WIN,5,2008-05-22,2008-05-26
+Toronto Blue Jays,LOSS,7,2008-06-14,2008-06-21
+Toronto Blue Jays,WIN,6,2008-07-22,2008-07-26
+Toronto Blue Jays,WIN,8,2008-08-30,2008-09-07
+Minnesota Twins,WIN,5,2008-04-29,2008-05-04
+Minnesota Twins,LOSS,6,2008-06-05,2008-06-10
+Minnesota Twins,WIN,10,2008-06-17,2008-06-27
+Minnesota Twins,WIN,5,2008-07-01,2008-07-06
+Minnesota Twins,LOSS,5,2008-07-20,2008-07-25
+Philadelphia Phillies,WIN,5,2008-05-25,2008-05-30
+Philadelphia Phillies,LOSS,6,2008-06-17,2008-06-24
+Philadelphia Phillies,WIN,5,2008-07-26,2008-07-31
+Philadelphia Phillies,WIN,5,2008-08-22,2008-08-26
+Philadelphia Phillies,WIN,6,2008-09-13,2008-09-18
+Atlanta Braves,WIN,5,2008-04-17,2008-04-21
+Atlanta Braves,WIN,6,2008-05-02,2008-05-08
+Atlanta Braves,WIN,5,2008-05-18,2008-05-22
+Atlanta Braves,LOSS,6,2008-06-06,2008-06-12
+Atlanta Braves,LOSS,5,2008-06-28,2008-07-03
+Atlanta Braves,LOSS,5,2008-07-26,2008-07-30
+Atlanta Braves,LOSS,6,2008-08-17,2008-08-22
+Chicago White Sox,WIN,5,2008-04-03,2008-04-07
+Chicago White Sox,LOSS,7,2008-04-28,2008-05-05
+Chicago White Sox,WIN,8,2008-05-14,2008-05-22
+Chicago White Sox,WIN,7,2008-06-03,2008-06-09
+Chicago White Sox,WIN,7,2008-06-26,2008-07-02
+Chicago White Sox,WIN,5,2008-08-16,2008-08-20
+Chicago White Sox,LOSS,5,2008-09-23,2008-09-27
+Miami Marlins,WIN,7,2008-05-04,2008-05-11
+Miami Marlins,WIN,9,2008-09-09,2008-09-19
+New York Yankees,WIN,5,2008-05-21,2008-05-25
+New York Yankees,WIN,7,2008-06-12,2008-06-19
+New York Yankees,WIN,8,2008-07-18,2008-07-26
+New York Yankees,WIN,7,2008-09-17,2008-09-24
+Milwaukee Brewers,LOSS,6,2008-05-02,2008-05-08
+Milwaukee Brewers,WIN,6,2008-05-30,2008-06-04
+Milwaukee Brewers,WIN,8,2008-07-13,2008-07-24
+Milwaukee Brewers,LOSS,5,2008-07-27,2008-07-31
+Milwaukee Brewers,WIN,8,2008-08-05,2008-08-13
+Milwaukee Brewers,WIN,5,2008-08-20,2008-08-26
+Milwaukee Brewers,WIN,5,2008-09-21,2008-09-26

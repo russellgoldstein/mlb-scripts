@@ -1,0 +1,151 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2023-04-30,2023-05-05
+Los Angeles Angels,WIN,5,2023-06-04,2023-06-09
+Los Angeles Angels,LOSS,6,2023-07-03,2023-07-14
+Los Angeles Angels,LOSS,7,2023-08-01,2023-08-07
+Los Angeles Angels,LOSS,6,2023-09-01,2023-09-06
+Los Angeles Angels,LOSS,6,2023-09-12,2023-09-19
+Arizona Diamondbacks,WIN,6,2023-05-28,2023-06-02
+Arizona Diamondbacks,LOSS,5,2023-07-20,2023-07-24
+Arizona Diamondbacks,LOSS,9,2023-08-01,2023-08-11
+Arizona Diamondbacks,WIN,6,2023-08-19,2023-08-25
+Arizona Diamondbacks,WIN,5,2023-09-15,2023-09-20
+Baltimore Orioles,WIN,7,2023-04-16,2023-04-24
+Baltimore Orioles,WIN,5,2023-06-08,2023-06-13
+Baltimore Orioles,WIN,8,2023-07-05,2023-07-16
+Baltimore Orioles,WIN,7,2023-09-02,2023-09-09
+Baltimore Orioles,WIN,5,2023-09-23,2023-09-28
+Boston Red Sox,WIN,8,2023-04-29,2023-05-06
+Boston Red Sox,LOSS,5,2023-06-24,2023-06-29
+Boston Red Sox,WIN,6,2023-07-05,2023-07-14
+Boston Red Sox,WIN,5,2023-07-22,2023-07-28
+Boston Red Sox,LOSS,5,2023-08-27,2023-09-01
+Boston Red Sox,LOSS,5,2023-09-23,2023-09-28
+Chicago Cubs,LOSS,5,2023-05-13,2023-05-17
+Chicago Cubs,WIN,5,2023-06-13,2023-06-17
+Chicago Cubs,WIN,8,2023-07-21,2023-07-29
+Chicago Cubs,LOSS,5,2023-09-12,2023-09-17
+Cincinnati Reds,LOSS,6,2023-04-18,2023-04-23
+Cincinnati Reds,WIN,5,2023-04-24,2023-04-29
+Cincinnati Reds,WIN,5,2023-05-26,2023-05-31
+Cincinnati Reds,WIN,12,2023-06-10,2023-06-23
+Cincinnati Reds,WIN,5,2023-07-02,2023-07-06
+Cincinnati Reds,LOSS,7,2023-07-09,2023-07-18
+Cincinnati Reds,WIN,5,2023-07-19,2023-07-23
+Cincinnati Reds,LOSS,6,2023-08-01,2023-08-06
+Colorado Rockies,LOSS,8,2023-04-11,2023-04-19
+Colorado Rockies,LOSS,6,2023-06-04,2023-06-10
+Colorado Rockies,LOSS,8,2023-06-14,2023-06-21
+Colorado Rockies,LOSS,5,2023-08-09,2023-08-13
+Colorado Rockies,LOSS,6,2023-08-20,2023-08-26
+Colorado Rockies,LOSS,5,2023-09-06,2023-09-11
+Colorado Rockies,LOSS,7,2023-09-17,2023-09-24
+Detroit Tigers,LOSS,6,2023-04-05,2023-04-12
+Detroit Tigers,WIN,5,2023-05-03,2023-05-06
+Detroit Tigers,LOSS,5,2023-06-02,2023-06-06
+Detroit Tigers,LOSS,5,2023-08-26,2023-08-30
+Detroit Tigers,WIN,5,2023-09-24,2023-09-28
+Houston Astros,WIN,8,2023-05-14,2023-05-22
+Houston Astros,LOSS,5,2023-06-15,2023-06-19
+Houston Astros,WIN,5,2023-08-26,2023-08-30
+Kansas City Royals,LOSS,7,2023-04-14,2023-04-21
+Kansas City Royals,LOSS,10,2023-06-05,2023-06-16
+Kansas City Royals,LOSS,6,2023-07-03,2023-07-08
+Kansas City Royals,LOSS,5,2023-07-19,2023-07-23
+Kansas City Royals,WIN,7,2023-07-28,2023-08-04
+Kansas City Royals,LOSS,6,2023-08-25,2023-08-30
+Kansas City Royals,WIN,6,2023-09-18,2023-09-24
+Los Angeles Dodgers,WIN,6,2023-04-28,2023-05-03
+Los Angeles Dodgers,WIN,6,2023-05-09,2023-05-15
+Los Angeles Dodgers,WIN,6,2023-07-05,2023-07-15
+Los Angeles Dodgers,WIN,11,2023-08-06,2023-08-17
+Los Angeles Dodgers,WIN,5,2023-09-15,2023-09-19
+Washington Nationals,LOSS,5,2023-06-16,2023-06-20
+Washington Nationals,LOSS,5,2023-07-03,2023-07-07
+Washington Nationals,LOSS,6,2023-08-30,2023-09-05
+Washington Nationals,LOSS,5,2023-09-12,2023-09-16
+New York Mets,WIN,5,2023-04-12,2023-04-17
+New York Mets,LOSS,7,2023-06-02,2023-06-09
+New York Mets,WIN,6,2023-07-01,2023-07-07
+New York Mets,LOSS,6,2023-08-01,2023-08-06
+Oakland Athletics,LOSS,6,2023-04-05,2023-04-11
+Oakland Athletics,LOSS,7,2023-04-13,2023-04-19
+Oakland Athletics,LOSS,5,2023-04-25,2023-04-29
+Oakland Athletics,LOSS,5,2023-05-07,2023-05-11
+Oakland Athletics,LOSS,11,2023-05-17,2023-05-28
+Oakland Athletics,LOSS,5,2023-05-31,2023-06-05
+Oakland Athletics,WIN,7,2023-06-06,2023-06-13
+Oakland Athletics,LOSS,8,2023-06-14,2023-06-22
+Oakland Athletics,LOSS,8,2023-07-06,2023-07-17
+Oakland Athletics,LOSS,5,2023-08-11,2023-08-15
+Oakland Athletics,LOSS,8,2023-09-13,2023-09-21
+Pittsburgh Pirates,WIN,7,2023-04-17,2023-04-23
+Pittsburgh Pirates,LOSS,7,2023-04-30,2023-05-07
+Pittsburgh Pirates,WIN,6,2023-05-30,2023-06-05
+Pittsburgh Pirates,LOSS,10,2023-06-13,2023-06-22
+Pittsburgh Pirates,LOSS,5,2023-07-14,2023-07-18
+Pittsburgh Pirates,WIN,5,2023-08-28,2023-09-02
+San Diego Padres,LOSS,5,2023-05-10,2023-05-14
+San Diego Padres,LOSS,6,2023-06-24,2023-06-30
+San Diego Padres,WIN,8,2023-09-13,2023-09-22
+San Diego Padres,WIN,5,2023-09-26,2023-10-01
+Seattle Mariners,WIN,8,2023-08-02,2023-08-11
+Seattle Mariners,WIN,8,2023-08-15,2023-08-22
+San Francisco Giants,WIN,5,2023-04-22,2023-04-26
+San Francisco Giants,WIN,10,2023-06-11,2023-06-21
+San Francisco Giants,WIN,8,2023-07-08,2023-07-18
+San Francisco Giants,LOSS,6,2023-07-19,2023-07-24
+San Francisco Giants,LOSS,6,2023-09-01,2023-09-06
+St. Louis Cardinals,LOSS,8,2023-04-28,2023-05-06
+St. Louis Cardinals,LOSS,5,2023-06-02,2023-06-06
+St. Louis Cardinals,LOSS,6,2023-06-10,2023-06-16
+St. Louis Cardinals,WIN,6,2023-07-15,2023-07-20
+Tampa Bay Rays,WIN,13,2023-03-30,2023-04-13
+Tampa Bay Rays,WIN,6,2023-04-18,2023-04-24
+Tampa Bay Rays,WIN,7,2023-06-03,2023-06-09
+Tampa Bay Rays,LOSS,7,2023-07-01,2023-07-08
+Tampa Bay Rays,LOSS,5,2023-07-16,2023-07-20
+Texas Rangers,WIN,5,2023-06-02,2023-06-06
+Texas Rangers,WIN,6,2023-07-14,2023-07-19
+Texas Rangers,WIN,8,2023-08-01,2023-08-08
+Texas Rangers,LOSS,8,2023-08-16,2023-08-25
+Texas Rangers,WIN,6,2023-09-09,2023-09-14
+Texas Rangers,WIN,6,2023-09-19,2023-09-25
+Toronto Blue Jays,WIN,6,2023-04-23,2023-04-29
+Toronto Blue Jays,LOSS,5,2023-04-30,2023-05-04
+Toronto Blue Jays,LOSS,5,2023-05-18,2023-05-22
+Toronto Blue Jays,WIN,5,2023-09-15,2023-09-20
+Minnesota Twins,LOSS,5,2023-06-03,2023-06-08
+Minnesota Twins,LOSS,5,2023-07-25,2023-07-30
+Minnesota Twins,WIN,5,2023-08-03,2023-08-07
+Philadelphia Phillies,LOSS,6,2023-04-30,2023-05-06
+Philadelphia Phillies,WIN,5,2023-05-07,2023-05-13
+Philadelphia Phillies,LOSS,5,2023-05-14,2023-05-19
+Philadelphia Phillies,LOSS,5,2023-05-28,2023-06-02
+Philadelphia Phillies,WIN,6,2023-06-13,2023-06-18
+Philadelphia Phillies,WIN,5,2023-08-25,2023-08-29
+Philadelphia Phillies,WIN,7,2023-09-20,2023-09-27
+Atlanta Braves,WIN,8,2023-04-10,2023-04-18
+Atlanta Braves,WIN,7,2023-06-03,2023-06-10
+Atlanta Braves,WIN,7,2023-06-14,2023-06-20
+Atlanta Braves,WIN,9,2023-06-24,2023-07-03
+Atlanta Braves,WIN,5,2023-08-14,2023-08-19
+Atlanta Braves,WIN,6,2023-08-28,2023-09-02
+Chicago White Sox,LOSS,10,2023-04-19,2023-04-29
+Chicago White Sox,LOSS,6,2023-07-21,2023-07-27
+Chicago White Sox,LOSS,5,2023-07-30,2023-08-04
+Chicago White Sox,LOSS,5,2023-09-01,2023-09-05
+Miami Marlins,LOSS,5,2023-05-02,2023-05-06
+Miami Marlins,WIN,6,2023-06-02,2023-06-07
+Miami Marlins,WIN,5,2023-06-14,2023-06-19
+Miami Marlins,WIN,5,2023-06-24,2023-06-29
+Miami Marlins,LOSS,8,2023-07-14,2023-07-22
+Miami Marlins,LOSS,5,2023-08-03,2023-08-07
+Miami Marlins,WIN,6,2023-08-31,2023-09-06
+New York Yankees,WIN,5,2023-05-18,2023-05-23
+New York Yankees,LOSS,9,2023-08-12,2023-08-22
+New York Yankees,WIN,5,2023-09-01,2023-09-06
+Milwaukee Brewers,WIN,6,2023-04-01,2023-04-07
+Milwaukee Brewers,LOSS,6,2023-04-30,2023-05-06
+Milwaukee Brewers,LOSS,6,2023-06-08,2023-06-14
+Milwaukee Brewers,WIN,9,2023-08-18,2023-08-28

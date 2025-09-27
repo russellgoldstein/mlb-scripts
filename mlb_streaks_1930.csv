@@ -1,0 +1,108 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,5,1930-04-22,1930-04-26
+St. Louis Browns,LOSS,5,1930-04-27,1930-05-02
+St. Louis Browns,LOSS,7,1930-07-11,1930-07-17
+St. Louis Browns,LOSS,6,1930-08-31,1930-09-06
+St. Louis Browns,WIN,6,1930-09-10,1930-09-15
+Boston Red Sox,WIN,5,1930-05-07,1930-05-11
+Boston Red Sox,LOSS,14,1930-05-17,1930-05-31
+Boston Red Sox,LOSS,6,1930-07-04,1930-07-09
+Boston Red Sox,LOSS,11,1930-07-25,1930-08-03
+Boston Red Sox,LOSS,8,1930-08-30,1930-09-06
+Boston Red Sox,LOSS,5,1930-09-11,1930-09-15
+Chicago Cubs,WIN,8,1930-04-30,1930-05-09
+Chicago Cubs,WIN,9,1930-05-28,1930-06-06
+Chicago Cubs,WIN,5,1930-06-16,1930-06-21
+Chicago Cubs,WIN,6,1930-08-07,1930-08-12
+Chicago Cubs,WIN,6,1930-09-21,1930-09-28
+Cincinnati Reds,LOSS,10,1930-05-14,1930-05-25
+Cincinnati Reds,LOSS,5,1930-06-29,1930-07-05
+Cincinnati Reds,WIN,7,1930-07-06,1930-07-12
+Cincinnati Reds,WIN,5,1930-07-15,1930-07-19
+Cincinnati Reds,LOSS,5,1930-08-01,1930-08-08
+Cincinnati Reds,LOSS,7,1930-08-13,1930-08-19
+Cincinnati Reds,WIN,5,1930-08-20,1930-08-23
+Cincinnati Reds,LOSS,6,1930-08-26,1930-08-30
+Cincinnati Reds,LOSS,13,1930-09-02,1930-09-17
+Cincinnati Reds,LOSS,5,1930-09-24,1930-09-28
+Cleveland Indians,WIN,6,1930-04-28,1930-05-04
+Cleveland Indians,WIN,7,1930-06-05,1930-06-13
+Cleveland Indians,LOSS,7,1930-06-14,1930-06-21
+Cleveland Indians,LOSS,5,1930-06-23,1930-06-26
+Cleveland Indians,LOSS,5,1930-07-01,1930-07-05
+Cleveland Indians,LOSS,5,1930-08-10,1930-08-13
+Cleveland Indians,WIN,7,1930-08-14,1930-08-22
+Cleveland Indians,WIN,7,1930-08-30,1930-09-05
+Detroit Tigers,LOSS,7,1930-04-20,1930-04-26
+Detroit Tigers,LOSS,6,1930-06-26,1930-07-01
+Detroit Tigers,WIN,5,1930-07-04,1930-07-07
+Detroit Tigers,WIN,6,1930-08-01,1930-08-06
+Detroit Tigers,WIN,5,1930-08-31,1930-09-06
+Brooklyn Robins,WIN,7,1930-04-28,1930-05-04
+Brooklyn Robins,WIN,6,1930-07-24,1930-07-28
+Brooklyn Robins,LOSS,5,1930-08-09,1930-08-12
+Brooklyn Robins,LOSS,7,1930-08-18,1930-08-23
+Brooklyn Robins,WIN,11,1930-09-06,1930-09-15
+Brooklyn Robins,LOSS,7,1930-09-16,1930-09-24
+Philadelphia Athletics,WIN,6,1930-05-01,1930-05-06
+Philadelphia Athletics,WIN,10,1930-05-25,1930-06-04
+Philadelphia Athletics,LOSS,5,1930-06-10,1930-06-14
+Philadelphia Athletics,WIN,5,1930-06-27,1930-07-01
+Philadelphia Athletics,WIN,8,1930-07-10,1930-07-18
+Philadelphia Athletics,WIN,5,1930-08-07,1930-08-09
+Pittsburgh Pirates,WIN,7,1930-04-17,1930-04-27
+Pittsburgh Pirates,WIN,5,1930-06-25,1930-06-28
+Pittsburgh Pirates,WIN,5,1930-07-27,1930-07-31
+Pittsburgh Pirates,LOSS,5,1930-08-06,1930-08-09
+Pittsburgh Pirates,WIN,7,1930-08-18,1930-08-24
+Pittsburgh Pirates,WIN,5,1930-08-27,1930-08-30
+New York Giants,WIN,7,1930-04-15,1930-04-27
+New York Giants,LOSS,5,1930-05-13,1930-05-18
+New York Giants,LOSS,5,1930-05-22,1930-05-26
+New York Giants,WIN,9,1930-06-01,1930-06-11
+New York Giants,WIN,5,1930-07-22,1930-07-26
+New York Giants,WIN,6,1930-07-28,1930-08-02
+New York Giants,WIN,5,1930-08-13,1930-08-17
+New York Giants,LOSS,5,1930-08-22,1930-08-28
+New York Giants,LOSS,5,1930-09-10,1930-09-14
+New York Giants,WIN,5,1930-09-18,1930-09-21
+St. Louis Cardinals,LOSS,5,1930-04-30,1930-05-04
+St. Louis Cardinals,WIN,9,1930-05-07,1930-05-16
+St. Louis Cardinals,WIN,8,1930-05-18,1930-05-26
+St. Louis Cardinals,LOSS,7,1930-05-27,1930-06-02
+St. Louis Cardinals,LOSS,5,1930-06-04,1930-06-08
+St. Louis Cardinals,WIN,5,1930-07-04,1930-07-06
+St. Louis Cardinals,WIN,6,1930-08-09,1930-08-14
+St. Louis Cardinals,WIN,9,1930-08-20,1930-08-28
+St. Louis Cardinals,WIN,7,1930-08-31,1930-09-07
+St. Louis Cardinals,WIN,5,1930-09-10,1930-09-14
+St. Louis Cardinals,WIN,5,1930-09-16,1930-09-20
+Washington Senators,WIN,8,1930-04-20,1930-04-29
+Washington Senators,WIN,7,1930-05-21,1930-05-27
+Washington Senators,LOSS,5,1930-05-29,1930-06-01
+Washington Senators,WIN,8,1930-06-22,1930-06-28
+Washington Senators,WIN,10,1930-06-30,1930-07-09
+Washington Senators,WIN,6,1930-08-10,1930-08-16
+Washington Senators,WIN,5,1930-08-28,1930-09-01
+Philadelphia Phillies,LOSS,6,1930-04-30,1930-05-08
+Philadelphia Phillies,LOSS,9,1930-06-22,1930-06-28
+Philadelphia Phillies,LOSS,6,1930-07-04,1930-07-07
+Philadelphia Phillies,LOSS,5,1930-07-10,1930-07-15
+Philadelphia Phillies,LOSS,11,1930-07-23,1930-07-30
+Philadelphia Phillies,LOSS,5,1930-08-21,1930-08-24
+Boston Braves,LOSS,7,1930-05-07,1930-05-13
+Boston Braves,LOSS,6,1930-06-01,1930-06-06
+Boston Braves,LOSS,5,1930-07-16,1930-07-20
+Boston Braves,LOSS,6,1930-08-08,1930-08-14
+Boston Braves,LOSS,5,1930-08-20,1930-08-27
+Chicago White Sox,LOSS,5,1930-06-13,1930-06-19
+Chicago White Sox,LOSS,5,1930-07-14,1930-07-18
+Chicago White Sox,LOSS,5,1930-08-01,1930-08-06
+Chicago White Sox,LOSS,6,1930-08-30,1930-09-05
+New York Yankees,LOSS,5,1930-04-15,1930-04-22
+New York Yankees,WIN,6,1930-06-12,1930-06-19
+New York Yankees,WIN,5,1930-06-28,1930-07-02
+New York Yankees,LOSS,7,1930-07-02,1930-07-08
+New York Yankees,WIN,5,1930-07-29,1930-08-01
+New York Yankees,WIN,6,1930-08-05,1930-08-10
+New York Yankees,LOSS,5,1930-08-24,1930-09-01

@@ -1,0 +1,106 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,7,1909-04-24,1909-05-02
+St. Louis Browns,LOSS,8,1909-05-31,1909-06-12
+St. Louis Browns,LOSS,11,1909-06-17,1909-06-26
+St. Louis Browns,LOSS,10,1909-08-12,1909-08-23
+St. Louis Browns,LOSS,5,1909-09-05,1909-09-08
+St. Louis Browns,LOSS,6,1909-09-22,1909-09-29
+Boston Red Sox,WIN,5,1909-05-08,1909-05-16
+Boston Red Sox,LOSS,6,1909-05-22,1909-05-29
+Boston Red Sox,WIN,7,1909-06-17,1909-06-24
+Boston Red Sox,WIN,5,1909-07-05,1909-07-09
+Boston Red Sox,LOSS,5,1909-07-21,1909-07-24
+Boston Red Sox,WIN,11,1909-08-04,1909-08-18
+Boston Red Sox,LOSS,5,1909-08-30,1909-09-04
+Chicago Cubs,WIN,5,1909-04-24,1909-04-29
+Chicago Cubs,LOSS,5,1909-04-29,1909-05-04
+Chicago Cubs,WIN,6,1909-05-20,1909-05-29
+Chicago Cubs,WIN,5,1909-05-31,1909-06-06
+Chicago Cubs,WIN,6,1909-06-12,1909-06-20
+Chicago Cubs,WIN,7,1909-07-10,1909-07-16
+Chicago Cubs,WIN,10,1909-07-31,1909-08-08
+Chicago Cubs,WIN,8,1909-08-15,1909-08-24
+Chicago Cubs,WIN,6,1909-09-08,1909-09-12
+Chicago Cubs,WIN,5,1909-09-23,1909-09-27
+Cincinnati Reds,WIN,5,1909-04-15,1909-04-19
+Cincinnati Reds,LOSS,5,1909-05-03,1909-05-08
+Cincinnati Reds,WIN,7,1909-06-03,1909-06-11
+Cincinnati Reds,WIN,5,1909-07-08,1909-07-12
+Cincinnati Reds,LOSS,6,1909-07-12,1909-07-17
+Cincinnati Reds,WIN,5,1909-08-12,1909-08-15
+Cincinnati Reds,WIN,6,1909-08-28,1909-09-02
+Cleveland Naps,LOSS,6,1909-05-11,1909-05-18
+Cleveland Naps,WIN,6,1909-06-05,1909-06-14
+Cleveland Naps,WIN,7,1909-07-03,1909-07-08
+Cleveland Naps,WIN,5,1909-07-10,1909-07-15
+Cleveland Naps,LOSS,5,1909-07-27,1909-07-30
+Cleveland Naps,LOSS,5,1909-09-10,1909-09-13
+Cleveland Naps,LOSS,6,1909-09-16,1909-09-22
+Cleveland Naps,LOSS,5,1909-09-28,1909-10-03
+Detroit Tigers,WIN,5,1909-04-14,1909-04-18
+Detroit Tigers,WIN,6,1909-04-25,1909-05-02
+Detroit Tigers,WIN,10,1909-06-19,1909-06-27
+Detroit Tigers,LOSS,5,1909-07-05,1909-07-09
+Detroit Tigers,WIN,5,1909-07-21,1909-07-24
+Detroit Tigers,WIN,14,1909-08-19,1909-09-02
+Brooklyn Superbas,LOSS,5,1909-06-01,1909-06-06
+Brooklyn Superbas,LOSS,10,1909-06-08,1909-06-20
+Brooklyn Superbas,LOSS,5,1909-06-30,1909-07-05
+Brooklyn Superbas,LOSS,5,1909-07-08,1909-07-12
+Brooklyn Superbas,LOSS,8,1909-08-25,1909-09-01
+Philadelphia Athletics,WIN,6,1909-05-12,1909-05-19
+Philadelphia Athletics,WIN,8,1909-07-02,1909-07-09
+Philadelphia Athletics,WIN,7,1909-07-27,1909-07-30
+Philadelphia Athletics,WIN,5,1909-08-18,1909-08-23
+Pittsburgh Pirates,WIN,7,1909-05-02,1909-05-07
+Pittsburgh Pirates,WIN,14,1909-05-30,1909-06-15
+Pittsburgh Pirates,WIN,6,1909-06-18,1909-06-26
+Pittsburgh Pirates,WIN,7,1909-08-06,1909-08-12
+Pittsburgh Pirates,WIN,5,1909-08-17,1909-08-20
+Pittsburgh Pirates,WIN,6,1909-08-26,1909-08-31
+Pittsburgh Pirates,WIN,16,1909-09-09,1909-09-27
+New York Giants,WIN,6,1909-05-31,1909-06-08
+New York Giants,WIN,8,1909-06-23,1909-06-29
+New York Giants,WIN,6,1909-06-30,1909-07-05
+New York Giants,WIN,9,1909-08-07,1909-08-14
+St. Louis Cardinals,LOSS,5,1909-05-31,1909-06-07
+St. Louis Cardinals,LOSS,5,1909-08-07,1909-08-11
+St. Louis Cardinals,LOSS,9,1909-08-24,1909-09-01
+St. Louis Cardinals,LOSS,15,1909-09-06,1909-09-24
+Washington Senators,LOSS,5,1909-04-17,1909-04-26
+Washington Senators,LOSS,5,1909-05-06,1909-05-11
+Washington Senators,LOSS,5,1909-05-14,1909-05-19
+Washington Senators,LOSS,6,1909-06-29,1909-07-03
+Washington Senators,LOSS,5,1909-07-10,1909-07-15
+Washington Senators,LOSS,5,1909-07-18,1909-07-22
+Washington Senators,LOSS,6,1909-07-24,1909-07-28
+Washington Senators,LOSS,7,1909-07-29,1909-08-03
+Washington Senators,LOSS,6,1909-08-18,1909-08-24
+Washington Senators,LOSS,11,1909-08-26,1909-09-06
+Washington Senators,LOSS,6,1909-09-08,1909-09-14
+Washington Senators,LOSS,6,1909-09-22,1909-09-28
+Philadelphia Phillies,WIN,5,1909-04-19,1909-04-27
+Philadelphia Phillies,LOSS,8,1909-05-31,1909-06-09
+Philadelphia Phillies,WIN,5,1909-06-11,1909-06-16
+Philadelphia Phillies,LOSS,5,1909-07-10,1909-07-14
+Philadelphia Phillies,WIN,7,1909-08-25,1909-08-31
+Boston Doves,LOSS,13,1909-05-14,1909-05-29
+Boston Doves,LOSS,6,1909-05-31,1909-06-09
+Boston Doves,LOSS,11,1909-06-12,1909-06-25
+Boston Doves,LOSS,5,1909-07-13,1909-07-16
+Boston Doves,LOSS,5,1909-07-27,1909-07-31
+Boston Doves,LOSS,15,1909-08-03,1909-08-15
+Boston Doves,LOSS,5,1909-09-06,1909-09-09
+Boston Doves,LOSS,9,1909-09-18,1909-09-26
+Chicago White Sox,LOSS,5,1909-05-15,1909-05-19
+Chicago White Sox,WIN,8,1909-07-18,1909-07-25
+Chicago White Sox,WIN,5,1909-07-29,1909-07-31
+Chicago White Sox,LOSS,5,1909-08-06,1909-08-11
+Chicago White Sox,LOSS,5,1909-09-18,1909-09-23
+Chicago White Sox,WIN,5,1909-09-25,1909-09-29
+New York Highlanders,WIN,5,1909-05-13,1909-05-19
+New York Highlanders,LOSS,5,1909-06-15,1909-06-19
+New York Highlanders,LOSS,6,1909-07-03,1909-07-07
+New York Highlanders,LOSS,5,1909-07-14,1909-07-18
+New York Highlanders,LOSS,5,1909-08-12,1909-08-18
+New York Highlanders,WIN,8,1909-09-15,1909-09-23

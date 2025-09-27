@@ -1,0 +1,98 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1945-04-18,1945-04-22
+St. Louis Browns,WIN,5,1945-05-13,1945-05-20
+St. Louis Browns,LOSS,5,1945-05-27,1945-05-30
+St. Louis Browns,LOSS,5,1945-06-23,1945-06-27
+St. Louis Browns,WIN,5,1945-07-16,1945-07-21
+St. Louis Browns,WIN,5,1945-08-14,1945-08-18
+St. Louis Browns,WIN,5,1945-08-24,1945-08-27
+St. Louis Browns,LOSS,6,1945-09-06,1945-09-09
+Boston Red Sox,LOSS,8,1945-04-17,1945-04-27
+Boston Red Sox,WIN,5,1945-04-28,1945-05-02
+Boston Red Sox,WIN,5,1945-05-30,1945-06-03
+Boston Red Sox,LOSS,6,1945-08-12,1945-08-16
+Boston Red Sox,LOSS,7,1945-09-10,1945-09-16
+Chicago Cubs,WIN,6,1945-04-21,1945-04-28
+Chicago Cubs,LOSS,6,1945-05-13,1945-05-18
+Chicago Cubs,WIN,5,1945-06-15,1945-06-21
+Chicago Cubs,WIN,11,1945-07-01,1945-07-12
+Chicago Cubs,WIN,5,1945-07-13,1945-07-16
+Chicago Cubs,WIN,6,1945-07-24,1945-07-29
+Chicago Cubs,LOSS,5,1945-08-20,1945-08-26
+Chicago Cubs,WIN,5,1945-09-03,1945-09-06
+Chicago Cubs,WIN,5,1945-09-27,1945-09-30
+Cincinnati Reds,LOSS,5,1945-05-06,1945-05-13
+Cincinnati Reds,LOSS,6,1945-05-20,1945-05-27
+Cincinnati Reds,WIN,9,1945-05-27,1945-06-05
+Cincinnati Reds,LOSS,5,1945-06-08,1945-06-11
+Cincinnati Reds,LOSS,6,1945-07-24,1945-07-29
+Cincinnati Reds,LOSS,13,1945-08-05,1945-08-15
+Cincinnati Reds,LOSS,6,1945-08-18,1945-08-23
+Cincinnati Reds,LOSS,5,1945-08-31,1945-09-03
+Cincinnati Reds,LOSS,6,1945-09-26,1945-09-30
+Cleveland Indians,WIN,5,1945-05-20,1945-05-27
+Cleveland Indians,WIN,5,1945-07-22,1945-07-28
+Cleveland Indians,WIN,7,1945-08-12,1945-08-18
+Cleveland Indians,LOSS,5,1945-08-20,1945-08-22
+Cleveland Indians,LOSS,5,1945-09-10,1945-09-15
+Detroit Tigers,WIN,5,1945-06-06,1945-06-10
+Detroit Tigers,WIN,6,1945-07-27,1945-08-02
+Detroit Tigers,WIN,5,1945-08-11,1945-08-13
+Brooklyn Dodgers,WIN,11,1945-05-05,1945-05-16
+Brooklyn Dodgers,LOSS,6,1945-05-20,1945-05-25
+Brooklyn Dodgers,WIN,7,1945-06-08,1945-06-15
+Brooklyn Dodgers,WIN,7,1945-06-18,1945-06-24
+Brooklyn Dodgers,WIN,5,1945-07-27,1945-08-03
+Brooklyn Dodgers,WIN,6,1945-08-08,1945-08-12
+Philadelphia Athletics,WIN,5,1945-04-20,1945-04-27
+Philadelphia Athletics,LOSS,6,1945-04-28,1945-05-05
+Philadelphia Athletics,LOSS,14,1945-06-19,1945-07-03
+Philadelphia Athletics,LOSS,10,1945-07-26,1945-08-04
+Philadelphia Athletics,LOSS,7,1945-08-12,1945-08-19
+Philadelphia Athletics,LOSS,7,1945-08-21,1945-08-29
+Philadelphia Athletics,WIN,5,1945-09-07,1945-09-09
+Pittsburgh Pirates,LOSS,5,1945-04-21,1945-04-28
+Pittsburgh Pirates,WIN,10,1945-05-20,1945-05-30
+Pittsburgh Pirates,WIN,7,1945-06-09,1945-06-15
+Pittsburgh Pirates,LOSS,5,1945-06-16,1945-06-21
+Pittsburgh Pirates,WIN,5,1945-07-21,1945-07-24
+Pittsburgh Pirates,WIN,6,1945-08-30,1945-09-03
+Pittsburgh Pirates,WIN,5,1945-09-10,1945-09-13
+New York Giants,WIN,5,1945-05-14,1945-05-20
+New York Giants,LOSS,6,1945-06-09,1945-06-14
+New York Giants,LOSS,5,1945-06-17,1945-06-20
+New York Giants,LOSS,5,1945-07-13,1945-07-16
+New York Giants,WIN,5,1945-08-11,1945-08-14
+New York Giants,LOSS,6,1945-09-09,1945-09-13
+New York Giants,LOSS,5,1945-09-23,1945-09-29
+St. Louis Cardinals,WIN,6,1945-08-19,1945-08-26
+St. Louis Cardinals,WIN,7,1945-09-06,1945-09-12
+Washington Senators,WIN,6,1945-07-03,1945-07-06
+Washington Senators,WIN,7,1945-08-01,1945-08-04
+Washington Senators,WIN,5,1945-08-20,1945-08-22
+Washington Senators,WIN,7,1945-09-06,1945-09-10
+Philadelphia Phillies,LOSS,6,1945-04-29,1945-05-06
+Philadelphia Phillies,LOSS,7,1945-05-29,1945-06-03
+Philadelphia Phillies,LOSS,9,1945-06-06,1945-06-13
+Philadelphia Phillies,LOSS,7,1945-07-04,1945-07-12
+Philadelphia Phillies,LOSS,6,1945-07-28,1945-08-08
+Philadelphia Phillies,WIN,5,1945-08-17,1945-08-21
+Philadelphia Phillies,LOSS,5,1945-09-16,1945-09-21
+Boston Braves,WIN,9,1945-06-06,1945-06-13
+Boston Braves,LOSS,10,1945-07-21,1945-07-31
+Chicago White Sox,WIN,5,1945-04-17,1945-04-22
+Chicago White Sox,LOSS,6,1945-05-23,1945-05-27
+Chicago White Sox,LOSS,5,1945-06-07,1945-06-10
+Chicago White Sox,WIN,5,1945-06-17,1945-06-20
+Chicago White Sox,LOSS,6,1945-07-02,1945-07-06
+Chicago White Sox,WIN,5,1945-08-12,1945-08-16
+Chicago White Sox,LOSS,6,1945-08-24,1945-08-28
+Chicago White Sox,LOSS,6,1945-09-07,1945-09-10
+New York Yankees,LOSS,5,1945-05-13,1945-05-20
+New York Yankees,WIN,8,1945-05-22,1945-05-29
+New York Yankees,WIN,7,1945-06-21,1945-06-27
+New York Yankees,LOSS,5,1945-06-28,1945-07-02
+New York Yankees,WIN,5,1945-07-26,1945-07-31
+New York Yankees,LOSS,9,1945-08-11,1945-08-18
+New York Yankees,WIN,5,1945-08-25,1945-08-28
+New York Yankees,LOSS,5,1945-09-06,1945-09-09

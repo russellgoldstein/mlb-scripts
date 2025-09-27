@@ -1,0 +1,136 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,5,1980-04-18,1980-04-22
+California Angels,LOSS,6,1980-05-06,1980-05-11
+California Angels,LOSS,5,1980-05-22,1980-05-26
+California Angels,LOSS,6,1980-06-03,1980-06-09
+California Angels,LOSS,9,1980-06-11,1980-06-19
+California Angels,WIN,6,1980-08-04,1980-08-09
+California Angels,LOSS,6,1980-08-17,1980-08-21
+California Angels,LOSS,5,1980-08-23,1980-08-28
+California Angels,WIN,5,1980-09-19,1980-09-23
+California Angels,LOSS,5,1980-09-30,1980-10-05
+Baltimore Orioles,LOSS,6,1980-04-19,1980-04-25
+Baltimore Orioles,WIN,5,1980-06-15,1980-06-19
+Baltimore Orioles,WIN,10,1980-08-01,1980-08-11
+Baltimore Orioles,WIN,8,1980-08-17,1980-08-24
+Baltimore Orioles,WIN,5,1980-09-08,1980-09-11
+Baltimore Orioles,WIN,5,1980-09-17,1980-09-21
+Baltimore Orioles,WIN,6,1980-09-28,1980-10-04
+Boston Red Sox,WIN,6,1980-06-10,1980-06-15
+Boston Red Sox,WIN,9,1980-08-24,1980-09-02
+Boston Red Sox,LOSS,5,1980-09-10,1980-09-14
+Chicago Cubs,LOSS,5,1980-07-05,1980-07-12
+Chicago Cubs,LOSS,5,1980-08-09,1980-08-12
+Chicago Cubs,LOSS,7,1980-08-19,1980-08-25
+Chicago Cubs,LOSS,5,1980-09-29,1980-10-03
+Cincinnati Reds,WIN,8,1980-04-09,1980-04-17
+Cincinnati Reds,LOSS,5,1980-04-29,1980-05-03
+Cincinnati Reds,WIN,5,1980-08-04,1980-08-08
+Cincinnati Reds,WIN,5,1980-08-28,1980-09-01
+Cleveland Indians,WIN,5,1980-06-11,1980-06-16
+Cleveland Indians,WIN,8,1980-07-22,1980-07-30
+Cleveland Indians,WIN,5,1980-08-03,1980-08-07
+Cleveland Indians,LOSS,7,1980-09-18,1980-09-24
+Detroit Tigers,LOSS,7,1980-04-11,1980-04-18
+Detroit Tigers,WIN,5,1980-05-09,1980-05-14
+Detroit Tigers,WIN,9,1980-06-20,1980-06-28
+Detroit Tigers,WIN,5,1980-07-31,1980-08-03
+Detroit Tigers,LOSS,6,1980-08-14,1980-08-18
+Detroit Tigers,LOSS,6,1980-09-06,1980-09-10
+Detroit Tigers,WIN,5,1980-09-27,1980-10-01
+Houston Astros,WIN,6,1980-04-25,1980-05-01
+Houston Astros,LOSS,5,1980-05-11,1980-05-17
+Houston Astros,WIN,8,1980-06-03,1980-06-11
+Houston Astros,WIN,6,1980-06-16,1980-06-21
+Houston Astros,WIN,10,1980-08-14,1980-08-24
+Houston Astros,WIN,5,1980-09-09,1980-09-14
+Kansas City Royals,WIN,8,1980-06-03,1980-06-11
+Kansas City Royals,WIN,5,1980-08-04,1980-08-08
+Kansas City Royals,WIN,8,1980-08-12,1980-08-20
+Kansas City Royals,WIN,5,1980-08-23,1980-08-27
+Kansas City Royals,LOSS,8,1980-09-20,1980-09-28
+Los Angeles Dodgers,WIN,10,1980-04-20,1980-04-30
+Los Angeles Dodgers,WIN,6,1980-05-16,1980-05-21
+Los Angeles Dodgers,WIN,7,1980-08-29,1980-09-03
+Montreal Expos,WIN,6,1980-05-10,1980-05-19
+Montreal Expos,WIN,10,1980-06-04,1980-06-13
+Montreal Expos,WIN,7,1980-07-28,1980-08-04
+Montreal Expos,LOSS,5,1980-08-27,1980-08-31
+Montreal Expos,WIN,5,1980-09-27,1980-10-01
+New York Mets,LOSS,7,1980-06-15,1980-06-21
+New York Mets,LOSS,7,1980-08-14,1980-08-20
+New York Mets,LOSS,5,1980-08-23,1980-08-29
+New York Mets,LOSS,13,1980-08-31,1980-09-12
+New York Mets,LOSS,7,1980-09-21,1980-09-27
+Oakland Athletics,WIN,7,1980-04-15,1980-04-21
+Oakland Athletics,LOSS,5,1980-06-01,1980-06-06
+Oakland Athletics,LOSS,5,1980-06-17,1980-06-21
+Oakland Athletics,WIN,6,1980-07-27,1980-08-03
+Oakland Athletics,LOSS,7,1980-08-28,1980-09-03
+Pittsburgh Pirates,WIN,5,1980-05-04,1980-05-10
+Pittsburgh Pirates,LOSS,6,1980-06-17,1980-06-21
+Pittsburgh Pirates,WIN,7,1980-07-13,1980-07-19
+Pittsburgh Pirates,LOSS,6,1980-07-29,1980-08-05
+Pittsburgh Pirates,WIN,8,1980-08-06,1980-08-11
+Pittsburgh Pirates,LOSS,8,1980-08-25,1980-09-01
+Pittsburgh Pirates,LOSS,5,1980-09-05,1980-09-09
+Pittsburgh Pirates,LOSS,6,1980-09-25,1980-09-30
+San Diego Padres,LOSS,7,1980-04-20,1980-04-27
+San Diego Padres,WIN,5,1980-04-30,1980-05-04
+San Diego Padres,LOSS,5,1980-05-26,1980-05-30
+San Diego Padres,LOSS,6,1980-06-10,1980-06-15
+San Diego Padres,LOSS,7,1980-07-02,1980-07-11
+San Diego Padres,WIN,8,1980-07-26,1980-08-03
+San Diego Padres,LOSS,8,1980-08-11,1980-08-19
+San Diego Padres,WIN,7,1980-09-03,1980-09-10
+Seattle Mariners,LOSS,5,1980-06-15,1980-06-19
+Seattle Mariners,LOSS,12,1980-07-26,1980-08-06
+Seattle Mariners,LOSS,6,1980-08-10,1980-08-16
+Seattle Mariners,WIN,6,1980-09-21,1980-09-26
+Seattle Mariners,LOSS,8,1980-09-27,1980-10-05
+San Francisco Giants,WIN,5,1980-05-16,1980-05-21
+San Francisco Giants,WIN,7,1980-07-06,1980-07-14
+San Francisco Giants,LOSS,6,1980-09-01,1980-09-06
+San Francisco Giants,LOSS,6,1980-09-09,1980-09-15
+St. Louis Cardinals,LOSS,10,1980-05-15,1980-05-25
+St. Louis Cardinals,LOSS,5,1980-06-05,1980-06-08
+St. Louis Cardinals,WIN,6,1980-06-22,1980-06-28
+St. Louis Cardinals,WIN,5,1980-07-20,1980-07-25
+Texas Rangers,WIN,5,1980-04-14,1980-04-19
+Texas Rangers,LOSS,5,1980-06-04,1980-06-08
+Texas Rangers,LOSS,5,1980-09-09,1980-09-14
+Texas Rangers,LOSS,8,1980-09-19,1980-09-26
+Toronto Blue Jays,WIN,6,1980-05-03,1980-05-08
+Toronto Blue Jays,LOSS,5,1980-05-20,1980-05-24
+Toronto Blue Jays,LOSS,5,1980-06-24,1980-06-28
+Toronto Blue Jays,LOSS,5,1980-06-30,1980-07-04
+Toronto Blue Jays,LOSS,6,1980-08-04,1980-08-08
+Toronto Blue Jays,LOSS,5,1980-08-13,1980-08-17
+Toronto Blue Jays,LOSS,8,1980-09-24,1980-10-02
+Minnesota Twins,LOSS,5,1980-04-15,1980-04-18
+Minnesota Twins,LOSS,5,1980-05-23,1980-05-27
+Minnesota Twins,WIN,6,1980-07-05,1980-07-13
+Minnesota Twins,LOSS,9,1980-08-01,1980-08-09
+Minnesota Twins,WIN,12,1980-09-19,1980-10-03
+Philadelphia Phillies,WIN,5,1980-05-21,1980-05-26
+Philadelphia Phillies,WIN,6,1980-06-13,1980-06-18
+Philadelphia Phillies,LOSS,6,1980-07-19,1980-07-23
+Philadelphia Phillies,WIN,6,1980-08-14,1980-08-19
+Philadelphia Phillies,WIN,6,1980-09-29,1980-10-04
+Atlanta Braves,LOSS,7,1980-04-09,1980-04-17
+Atlanta Braves,LOSS,5,1980-07-10,1980-07-13
+Atlanta Braves,LOSS,6,1980-07-29,1980-08-04
+Atlanta Braves,WIN,5,1980-08-23,1980-08-27
+Atlanta Braves,WIN,7,1980-08-31,1980-09-07
+Atlanta Braves,WIN,5,1980-09-12,1980-09-16
+Chicago White Sox,LOSS,6,1980-06-18,1980-06-22
+Chicago White Sox,LOSS,5,1980-09-19,1980-09-24
+New York Yankees,WIN,6,1980-05-02,1980-05-09
+New York Yankees,WIN,9,1980-06-13,1980-06-21
+New York Yankees,WIN,5,1980-06-28,1980-07-02
+New York Yankees,WIN,8,1980-09-01,1980-09-08
+New York Yankees,WIN,8,1980-09-10,1980-09-17
+Milwaukee Brewers,WIN,6,1980-05-23,1980-05-28
+Milwaukee Brewers,WIN,7,1980-08-13,1980-08-18
+Milwaukee Brewers,LOSS,7,1980-08-23,1980-08-29
+Milwaukee Brewers,WIN,5,1980-08-30,1980-09-04

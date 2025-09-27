@@ -1,0 +1,103 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,5,1968-07-01,1968-07-05
+California Angels,LOSS,5,1968-07-23,1968-07-28
+California Angels,LOSS,5,1968-08-31,1968-09-04
+California Angels,LOSS,6,1968-09-21,1968-09-27
+Baltimore Orioles,WIN,8,1968-04-28,1968-05-06
+Baltimore Orioles,LOSS,7,1968-05-07,1968-05-14
+Baltimore Orioles,WIN,6,1968-05-22,1968-05-28
+Baltimore Orioles,LOSS,5,1968-06-14,1968-06-17
+Baltimore Orioles,WIN,7,1968-07-07,1968-07-16
+Baltimore Orioles,WIN,5,1968-08-07,1968-08-10
+Boston Red Sox,WIN,7,1968-05-12,1968-05-18
+Boston Red Sox,WIN,8,1968-07-01,1968-07-07
+Boston Red Sox,WIN,5,1968-08-05,1968-08-09
+Boston Red Sox,WIN,5,1968-09-17,1968-09-22
+Chicago Cubs,LOSS,5,1968-06-04,1968-06-09
+Chicago Cubs,LOSS,5,1968-06-15,1968-06-20
+Chicago Cubs,LOSS,7,1968-06-22,1968-06-28
+Chicago Cubs,WIN,5,1968-07-13,1968-07-17
+Chicago Cubs,WIN,6,1968-07-30,1968-08-04
+Chicago Cubs,LOSS,6,1968-08-14,1968-08-18
+Chicago Cubs,WIN,5,1968-09-24,1968-09-29
+Cincinnati Reds,LOSS,5,1968-05-07,1968-05-11
+Cincinnati Reds,LOSS,7,1968-07-07,1968-07-16
+Cincinnati Reds,WIN,6,1968-07-17,1968-07-25
+Cincinnati Reds,WIN,5,1968-07-28,1968-07-31
+Cincinnati Reds,WIN,7,1968-08-13,1968-08-19
+Cincinnati Reds,LOSS,6,1968-08-29,1968-09-03
+Cleveland Indians,WIN,6,1968-05-01,1968-05-07
+Cleveland Indians,WIN,5,1968-05-10,1968-05-14
+Cleveland Indians,LOSS,7,1968-06-11,1968-06-17
+Cleveland Indians,WIN,6,1968-07-14,1968-07-21
+Cleveland Indians,LOSS,6,1968-08-06,1968-08-09
+Cleveland Indians,WIN,5,1968-08-20,1968-08-24
+Detroit Tigers,WIN,9,1968-04-11,1968-04-21
+Detroit Tigers,WIN,5,1968-05-28,1968-06-01
+Detroit Tigers,WIN,5,1968-06-04,1968-06-08
+Detroit Tigers,WIN,5,1968-06-11,1968-06-14
+Detroit Tigers,WIN,5,1968-06-23,1968-06-29
+Detroit Tigers,WIN,5,1968-07-01,1968-07-05
+Detroit Tigers,WIN,6,1968-08-04,1968-08-08
+Detroit Tigers,WIN,11,1968-09-09,1968-09-21
+Houston Astros,LOSS,6,1968-04-17,1968-04-26
+Houston Astros,LOSS,5,1968-05-14,1968-05-18
+Houston Astros,LOSS,7,1968-06-01,1968-06-07
+Houston Astros,LOSS,6,1968-06-13,1968-06-17
+Houston Astros,WIN,6,1968-08-18,1968-08-24
+Houston Astros,LOSS,5,1968-09-01,1968-09-06
+Los Angeles Dodgers,WIN,7,1968-06-03,1968-06-09
+Los Angeles Dodgers,LOSS,6,1968-07-01,1968-07-06
+Los Angeles Dodgers,LOSS,5,1968-07-11,1968-07-15
+Los Angeles Dodgers,LOSS,8,1968-08-17,1968-08-24
+New York Mets,LOSS,6,1968-07-13,1968-07-17
+New York Mets,LOSS,5,1968-07-28,1968-08-01
+Oakland Athletics,LOSS,5,1968-04-19,1968-04-23
+Oakland Athletics,LOSS,6,1968-05-16,1968-05-21
+Oakland Athletics,LOSS,7,1968-06-29,1968-07-05
+Oakland Athletics,LOSS,5,1968-08-16,1968-08-20
+Pittsburgh Pirates,LOSS,5,1968-05-17,1968-05-21
+Pittsburgh Pirates,LOSS,5,1968-06-02,1968-06-06
+Pittsburgh Pirates,WIN,9,1968-06-13,1968-06-20
+Pittsburgh Pirates,WIN,7,1968-06-26,1968-07-04
+Pittsburgh Pirates,LOSS,10,1968-07-06,1968-07-15
+San Francisco Giants,WIN,5,1968-08-10,1968-08-14
+St. Louis Cardinals,WIN,6,1968-04-21,1968-04-28
+St. Louis Cardinals,WIN,9,1968-05-30,1968-06-06
+St. Louis Cardinals,WIN,7,1968-06-15,1968-06-22
+St. Louis Cardinals,WIN,7,1968-07-01,1968-07-07
+St. Louis Cardinals,WIN,6,1968-07-11,1968-07-16
+St. Louis Cardinals,WIN,5,1968-07-22,1968-07-26
+St. Louis Cardinals,LOSS,5,1968-09-19,1968-09-24
+Washington Senators,LOSS,6,1968-05-01,1968-05-08
+Washington Senators,LOSS,5,1968-05-24,1968-05-30
+Washington Senators,LOSS,8,1968-06-10,1968-06-19
+Washington Senators,LOSS,9,1968-07-07,1968-07-16
+Washington Senators,LOSS,5,1968-09-04,1968-09-08
+Minnesota Twins,WIN,6,1968-04-10,1968-04-17
+Minnesota Twins,LOSS,5,1968-05-30,1968-06-02
+Minnesota Twins,LOSS,6,1968-06-07,1968-06-13
+Minnesota Twins,WIN,6,1968-06-14,1968-06-19
+Minnesota Twins,LOSS,6,1968-07-03,1968-07-07
+Minnesota Twins,WIN,5,1968-09-21,1968-09-25
+Philadelphia Phillies,LOSS,6,1968-04-11,1968-04-16
+Philadelphia Phillies,WIN,5,1968-04-17,1968-04-22
+Philadelphia Phillies,LOSS,5,1968-06-06,1968-06-11
+Philadelphia Phillies,WIN,7,1968-07-11,1968-07-15
+Philadelphia Phillies,LOSS,9,1968-07-19,1968-07-26
+Philadelphia Phillies,LOSS,6,1968-07-29,1968-08-02
+Philadelphia Phillies,LOSS,5,1968-08-26,1968-08-29
+Philadelphia Phillies,WIN,5,1968-08-30,1968-09-02
+Atlanta Braves,WIN,6,1968-07-11,1968-07-16
+Atlanta Braves,LOSS,5,1968-07-19,1968-07-23
+Atlanta Braves,LOSS,5,1968-07-27,1968-07-30
+Atlanta Braves,LOSS,5,1968-08-18,1968-08-21
+Chicago White Sox,LOSS,10,1968-04-10,1968-04-25
+Chicago White Sox,LOSS,6,1968-05-22,1968-05-28
+Chicago White Sox,LOSS,5,1968-06-03,1968-06-07
+Chicago White Sox,LOSS,5,1968-08-10,1968-08-13
+Chicago White Sox,LOSS,5,1968-09-07,1968-09-11
+New York Yankees,WIN,5,1968-05-24,1968-05-30
+New York Yankees,LOSS,5,1968-08-07,1968-08-11
+New York Yankees,WIN,10,1968-09-07,1968-09-15
+New York Yankees,LOSS,6,1968-09-16,1968-09-22

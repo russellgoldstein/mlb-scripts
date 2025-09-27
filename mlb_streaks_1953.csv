@@ -1,0 +1,107 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,9,1953-05-16,1953-05-26
+St. Louis Browns,WIN,5,1953-05-27,1953-05-30
+St. Louis Browns,LOSS,14,1953-06-03,1953-06-14
+St. Louis Browns,LOSS,6,1953-06-17,1953-06-21
+St. Louis Browns,LOSS,7,1953-07-01,1953-07-07
+St. Louis Browns,LOSS,7,1953-07-19,1953-07-26
+St. Louis Browns,LOSS,5,1953-08-21,1953-08-23
+Boston Red Sox,WIN,6,1953-04-25,1953-05-03
+Boston Red Sox,WIN,5,1953-06-09,1953-06-12
+Boston Red Sox,WIN,5,1953-06-17,1953-06-21
+Boston Red Sox,LOSS,5,1953-06-24,1953-06-28
+Boston Red Sox,WIN,5,1953-07-16,1953-07-19
+Boston Red Sox,WIN,5,1953-07-23,1953-07-26
+Boston Red Sox,LOSS,8,1953-07-26,1953-08-02
+Chicago Cubs,LOSS,8,1953-04-29,1953-05-08
+Chicago Cubs,LOSS,6,1953-05-31,1953-06-06
+Chicago Cubs,LOSS,6,1953-06-08,1953-06-14
+Chicago Cubs,LOSS,5,1953-07-19,1953-07-22
+Chicago Cubs,WIN,10,1953-09-05,1953-09-14
+Cincinnati Reds,LOSS,8,1953-04-22,1953-05-04
+Cincinnati Reds,LOSS,5,1953-05-24,1953-05-27
+Cincinnati Reds,WIN,5,1953-06-05,1953-06-08
+Cincinnati Reds,LOSS,5,1953-06-17,1953-06-21
+Cincinnati Reds,WIN,6,1953-06-26,1953-06-30
+Cincinnati Reds,LOSS,7,1953-08-04,1953-08-11
+Cincinnati Reds,LOSS,5,1953-08-16,1953-08-22
+Cincinnati Reds,LOSS,6,1953-09-05,1953-09-09
+Cleveland Indians,WIN,5,1953-04-21,1953-04-26
+Cleveland Indians,LOSS,5,1953-05-11,1953-05-16
+Cleveland Indians,WIN,7,1953-06-04,1953-06-10
+Cleveland Indians,LOSS,6,1953-06-11,1953-06-16
+Cleveland Indians,WIN,6,1953-06-24,1953-06-30
+Cleveland Indians,WIN,6,1953-07-30,1953-08-04
+Cleveland Indians,WIN,6,1953-08-20,1953-08-23
+Cleveland Indians,WIN,6,1953-08-26,1953-08-30
+Cleveland Indians,WIN,5,1953-09-05,1953-09-09
+Cleveland Indians,LOSS,5,1953-09-10,1953-09-14
+Cleveland Indians,WIN,5,1953-09-20,1953-09-26
+Detroit Tigers,LOSS,5,1953-04-18,1953-04-22
+Detroit Tigers,LOSS,6,1953-04-24,1953-04-29
+Detroit Tigers,LOSS,6,1953-06-03,1953-06-07
+Detroit Tigers,LOSS,5,1953-07-07,1953-07-11
+Detroit Tigers,LOSS,6,1953-08-04,1953-08-09
+Detroit Tigers,LOSS,7,1953-08-23,1953-08-29
+Brooklyn Dodgers,WIN,6,1953-04-26,1953-05-03
+Brooklyn Dodgers,WIN,10,1953-05-23,1953-05-31
+Brooklyn Dodgers,WIN,5,1953-06-09,1953-06-14
+Brooklyn Dodgers,WIN,5,1953-07-12,1953-07-18
+Brooklyn Dodgers,WIN,5,1953-07-19,1953-07-22
+Brooklyn Dodgers,WIN,5,1953-07-25,1953-07-29
+Brooklyn Dodgers,WIN,13,1953-08-07,1953-08-20
+Brooklyn Dodgers,WIN,6,1953-08-27,1953-09-01
+Brooklyn Dodgers,WIN,6,1953-09-04,1953-09-09
+Philadelphia Athletics,LOSS,7,1953-05-05,1953-05-12
+Philadelphia Athletics,LOSS,5,1953-06-05,1953-06-09
+Philadelphia Athletics,WIN,7,1953-06-10,1953-06-16
+Philadelphia Athletics,LOSS,8,1953-06-30,1953-07-06
+Philadelphia Athletics,LOSS,5,1953-07-08,1953-07-12
+Philadelphia Athletics,WIN,5,1953-07-22,1953-07-26
+Philadelphia Athletics,LOSS,7,1953-07-31,1953-08-06
+Philadelphia Athletics,LOSS,7,1953-08-16,1953-08-21
+Philadelphia Athletics,LOSS,6,1953-08-27,1953-08-31
+Philadelphia Athletics,LOSS,8,1953-09-01,1953-09-09
+Pittsburgh Pirates,LOSS,5,1953-04-24,1953-04-28
+Pittsburgh Pirates,WIN,5,1953-04-29,1953-05-03
+Pittsburgh Pirates,LOSS,5,1953-05-09,1953-05-15
+Pittsburgh Pirates,LOSS,6,1953-05-28,1953-05-31
+Pittsburgh Pirates,LOSS,5,1953-06-05,1953-06-08
+Pittsburgh Pirates,LOSS,5,1953-06-16,1953-06-20
+Pittsburgh Pirates,LOSS,5,1953-06-26,1953-06-28
+Pittsburgh Pirates,LOSS,9,1953-07-06,1953-07-12
+Pittsburgh Pirates,LOSS,5,1953-08-15,1953-08-18
+Pittsburgh Pirates,LOSS,9,1953-08-22,1953-08-30
+New York Giants,WIN,6,1953-05-17,1953-05-22
+New York Giants,LOSS,5,1953-06-07,1953-06-10
+New York Giants,WIN,8,1953-07-05,1953-07-11
+New York Giants,LOSS,6,1953-08-01,1953-08-05
+New York Giants,LOSS,6,1953-08-07,1953-08-13
+New York Giants,LOSS,7,1953-08-18,1953-08-23
+New York Giants,LOSS,6,1953-09-03,1953-09-07
+St. Louis Cardinals,LOSS,5,1953-06-03,1953-06-07
+St. Louis Cardinals,WIN,5,1953-06-10,1953-06-14
+St. Louis Cardinals,WIN,5,1953-06-16,1953-06-20
+St. Louis Cardinals,LOSS,6,1953-07-12,1953-07-18
+Washington Senators,WIN,6,1953-05-08,1953-05-14
+Washington Senators,LOSS,6,1953-06-22,1953-06-26
+Washington Senators,LOSS,8,1953-07-10,1953-07-19
+Philadelphia Phillies,WIN,8,1953-04-20,1953-04-26
+Philadelphia Phillies,LOSS,5,1953-05-20,1953-05-25
+Philadelphia Phillies,LOSS,5,1953-07-05,1953-07-08
+Philadelphia Phillies,WIN,7,1953-07-09,1953-07-16
+Philadelphia Phillies,WIN,5,1953-08-21,1953-08-25
+Milwaukee Braves,WIN,6,1953-05-10,1953-05-15
+Milwaukee Braves,WIN,5,1953-06-07,1953-06-10
+Milwaukee Braves,LOSS,7,1953-06-23,1953-06-30
+Milwaukee Braves,WIN,6,1953-08-06,1953-08-10
+Milwaukee Braves,WIN,8,1953-08-15,1953-08-23
+Chicago White Sox,LOSS,6,1953-05-31,1953-06-07
+Chicago White Sox,WIN,7,1953-06-21,1953-06-28
+Chicago White Sox,WIN,8,1953-07-10,1953-07-18
+Chicago White Sox,LOSS,6,1953-09-05,1953-09-10
+New York Yankees,WIN,5,1953-04-21,1953-04-25
+New York Yankees,WIN,18,1953-05-27,1953-06-14
+New York Yankees,LOSS,9,1953-06-21,1953-07-01
+New York Yankees,WIN,5,1953-07-16,1953-07-19
+New York Yankees,WIN,7,1953-08-03,1953-08-08

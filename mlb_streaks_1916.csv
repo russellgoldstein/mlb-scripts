@@ -1,0 +1,95 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,7,1916-04-23,1916-05-02
+St. Louis Browns,LOSS,5,1916-05-10,1916-05-15
+St. Louis Browns,LOSS,5,1916-05-24,1916-05-28
+St. Louis Browns,WIN,6,1916-06-01,1916-06-09
+St. Louis Browns,LOSS,5,1916-07-15,1916-07-19
+St. Louis Browns,WIN,14,1916-07-23,1916-08-04
+St. Louis Browns,WIN,8,1916-08-07,1916-08-12
+St. Louis Browns,LOSS,5,1916-09-02,1916-09-06
+Boston Red Sox,WIN,5,1916-05-29,1916-06-01
+Boston Red Sox,WIN,5,1916-06-21,1916-06-24
+Boston Red Sox,WIN,5,1916-07-03,1916-07-07
+Boston Red Sox,WIN,5,1916-07-15,1916-07-19
+Boston Red Sox,WIN,5,1916-08-19,1916-08-24
+Boston Red Sox,WIN,7,1916-09-17,1916-09-23
+Chicago Cubs,WIN,7,1916-04-17,1916-04-28
+Chicago Cubs,LOSS,5,1916-07-08,1916-07-12
+Chicago Cubs,LOSS,8,1916-08-05,1916-08-14
+Cincinnati Reds,LOSS,5,1916-05-13,1916-05-17
+Cincinnati Reds,LOSS,6,1916-07-02,1916-07-08
+Cincinnati Reds,LOSS,5,1916-07-29,1916-08-02
+Cincinnati Reds,LOSS,8,1916-08-03,1916-08-09
+Cincinnati Reds,LOSS,6,1916-08-16,1916-08-22
+Cincinnati Reds,LOSS,5,1916-09-12,1916-09-16
+Cleveland Indians,WIN,8,1916-04-30,1916-05-08
+Cleveland Indians,WIN,5,1916-05-12,1916-05-19
+Cleveland Indians,WIN,5,1916-06-10,1916-06-15
+Cleveland Indians,LOSS,5,1916-06-17,1916-06-21
+Cleveland Indians,WIN,6,1916-08-01,1916-08-06
+Cleveland Indians,LOSS,8,1916-08-16,1916-08-24
+Cleveland Indians,LOSS,7,1916-09-03,1916-09-09
+Detroit Tigers,LOSS,5,1916-04-30,1916-05-05
+Detroit Tigers,WIN,7,1916-06-03,1916-06-12
+Detroit Tigers,WIN,7,1916-06-14,1916-06-21
+Detroit Tigers,LOSS,6,1916-06-28,1916-07-03
+Detroit Tigers,WIN,6,1916-07-25,1916-07-29
+Detroit Tigers,WIN,6,1916-08-31,1916-09-06
+Brooklyn Robins,WIN,5,1916-04-21,1916-05-01
+Brooklyn Robins,WIN,5,1916-05-03,1916-05-10
+Brooklyn Robins,WIN,5,1916-06-12,1916-06-17
+Brooklyn Robins,WIN,5,1916-07-03,1916-07-08
+Brooklyn Robins,WIN,8,1916-07-29,1916-08-05
+Brooklyn Robins,LOSS,5,1916-09-01,1916-09-04
+Philadelphia Athletics,LOSS,6,1916-04-12,1916-04-20
+Philadelphia Athletics,LOSS,11,1916-06-03,1916-06-20
+Philadelphia Athletics,LOSS,12,1916-06-27,1916-07-11
+Philadelphia Athletics,LOSS,9,1916-07-12,1916-07-20
+Philadelphia Athletics,LOSS,20,1916-07-21,1916-08-08
+Philadelphia Athletics,LOSS,7,1916-09-09,1916-09-17
+Pittsburgh Pirates,LOSS,6,1916-07-27,1916-07-31
+Pittsburgh Pirates,WIN,5,1916-09-04,1916-09-07
+Pittsburgh Pirates,LOSS,5,1916-09-14,1916-09-18
+Pittsburgh Pirates,LOSS,8,1916-09-25,1916-10-01
+New York Giants,LOSS,8,1916-04-15,1916-05-01
+New York Giants,WIN,17,1916-05-09,1916-05-29
+New York Giants,WIN,6,1916-07-27,1916-07-31
+New York Giants,LOSS,5,1916-08-12,1916-08-17
+New York Giants,LOSS,6,1916-08-18,1916-08-24
+New York Giants,WIN,12,1916-09-07,1916-09-18
+New York Giants,WIN,14,1916-09-19,1916-09-30
+St. Louis Cardinals,LOSS,6,1916-05-17,1916-05-22
+St. Louis Cardinals,LOSS,5,1916-06-12,1916-06-18
+St. Louis Cardinals,LOSS,5,1916-07-26,1916-07-29
+St. Louis Cardinals,WIN,5,1916-08-18,1916-08-22
+St. Louis Cardinals,LOSS,7,1916-09-02,1916-09-06
+St. Louis Cardinals,LOSS,14,1916-09-16,1916-10-01
+Washington Senators,WIN,6,1916-04-27,1916-05-04
+Washington Senators,WIN,7,1916-05-10,1916-05-17
+Washington Senators,LOSS,7,1916-05-30,1916-06-05
+Washington Senators,LOSS,5,1916-07-25,1916-07-29
+Washington Senators,LOSS,6,1916-08-07,1916-08-12
+Washington Senators,WIN,5,1916-09-02,1916-09-07
+Philadelphia Phillies,WIN,5,1916-04-15,1916-04-21
+Philadelphia Phillies,LOSS,5,1916-05-04,1916-05-11
+Philadelphia Phillies,WIN,6,1916-05-12,1916-05-18
+Philadelphia Phillies,LOSS,5,1916-06-24,1916-06-28
+Philadelphia Phillies,WIN,6,1916-08-12,1916-08-19
+Philadelphia Phillies,WIN,6,1916-09-01,1916-09-05
+Philadelphia Phillies,WIN,7,1916-09-22,1916-09-30
+Boston Braves,LOSS,6,1916-05-23,1916-05-29
+Boston Braves,WIN,6,1916-08-03,1916-08-07
+Boston Braves,WIN,6,1916-08-20,1916-08-26
+Boston Braves,LOSS,5,1916-09-07,1916-09-09
+Boston Braves,WIN,5,1916-09-25,1916-09-27
+Chicago White Sox,LOSS,5,1916-05-11,1916-05-19
+Chicago White Sox,WIN,7,1916-06-27,1916-07-03
+Chicago White Sox,WIN,5,1916-07-15,1916-07-19
+Chicago White Sox,WIN,9,1916-07-29,1916-08-04
+Chicago White Sox,LOSS,5,1916-08-21,1916-08-25
+Chicago White Sox,WIN,7,1916-09-03,1916-09-09
+New York Yankees,WIN,5,1916-05-24,1916-05-27
+New York Yankees,WIN,7,1916-06-27,1916-07-04
+New York Yankees,LOSS,9,1916-07-29,1916-08-05
+New York Yankees,LOSS,5,1916-08-08,1916-08-12
+New York Yankees,WIN,5,1916-08-14,1916-08-18

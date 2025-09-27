@@ -1,0 +1,66 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2020-09-03,2020-09-06
+Arizona Diamondbacks,WIN,6,2020-08-12,2020-08-18
+Arizona Diamondbacks,LOSS,8,2020-08-19,2020-08-26
+Arizona Diamondbacks,LOSS,5,2020-08-29,2020-09-03
+Arizona Diamondbacks,LOSS,5,2020-09-05,2020-09-09
+Baltimore Orioles,WIN,7,2020-08-07,2020-08-09
+Baltimore Orioles,LOSS,6,2020-08-16,2020-08-21
+Boston Red Sox,LOSS,9,2020-08-10,2020-08-18
+Boston Red Sox,LOSS,5,2020-08-31,2020-09-04
+Chicago Cubs,WIN,6,2020-07-31,2020-08-05
+Chicago Cubs,WIN,5,2020-09-12,2020-09-18
+Cincinnati Reds,WIN,6,2020-09-13,2020-09-18
+Cleveland Guardians,WIN,6,2020-08-14,2020-08-20
+Cleveland Guardians,LOSS,8,2020-09-08,2020-09-16
+Cleveland Guardians,WIN,6,2020-09-20,2020-09-25
+Colorado Rockies,LOSS,7,2020-08-17,2020-08-23
+Detroit Tigers,LOSS,7,2020-08-14,2020-08-20
+Detroit Tigers,LOSS,5,2020-09-20,2020-09-25
+Houston Astros,LOSS,5,2020-08-05,2020-08-09
+Houston Astros,WIN,8,2020-08-12,2020-08-20
+Houston Astros,LOSS,6,2020-09-04,2020-09-08
+Kansas City Royals,LOSS,6,2020-07-31,2020-08-05
+Kansas City Royals,LOSS,7,2020-09-01,2020-09-07
+Kansas City Royals,WIN,6,2020-09-08,2020-09-13
+Los Angeles Dodgers,WIN,7,2020-08-12,2020-08-18
+Los Angeles Dodgers,WIN,6,2020-08-29,2020-09-04
+Los Angeles Dodgers,WIN,5,2020-09-15,2020-09-19
+Washington Nationals,LOSS,7,2020-08-29,2020-09-04
+New York Mets,LOSS,5,2020-07-29,2020-08-02
+New York Mets,LOSS,5,2020-08-29,2020-09-01
+Oakland Athletics,WIN,9,2020-08-01,2020-08-09
+Pittsburgh Pirates,LOSS,7,2020-07-29,2020-08-05
+Pittsburgh Pirates,LOSS,8,2020-09-09,2020-09-16
+Pittsburgh Pirates,LOSS,5,2020-09-18,2020-09-21
+San Diego Padres,LOSS,5,2020-08-12,2020-08-16
+San Diego Padres,WIN,7,2020-08-17,2020-08-23
+San Diego Padres,WIN,5,2020-09-06,2020-09-10
+Seattle Mariners,LOSS,7,2020-08-11,2020-08-18
+San Francisco Giants,LOSS,5,2020-08-12,2020-08-17
+San Francisco Giants,WIN,7,2020-08-18,2020-08-25
+San Francisco Giants,WIN,5,2020-09-05,2020-09-09
+St. Louis Cardinals,LOSS,17,2020-09-16,2020-08-15
+Tampa Bay Rays,LOSS,5,2020-07-29,2020-08-02
+Tampa Bay Rays,WIN,6,2020-08-08,2020-08-13
+Tampa Bay Rays,WIN,6,2020-08-15,2020-08-20
+Texas Rangers,LOSS,8,2020-08-16,2020-08-23
+Texas Rangers,LOSS,6,2020-09-02,2020-09-07
+Toronto Blue Jays,WIN,6,2020-08-17,2020-08-21
+Toronto Blue Jays,LOSS,6,2020-09-15,2020-09-19
+Minnesota Twins,WIN,6,2020-07-31,2020-08-05
+Minnesota Twins,WIN,5,2020-09-01,2020-09-05
+Philadelphia Phillies,LOSS,7,2020-08-05,2020-09-18
+Philadelphia Phillies,LOSS,5,2020-08-19,2020-08-22
+Philadelphia Phillies,WIN,5,2020-08-31,2020-09-04
+Atlanta Braves,WIN,5,2020-07-29,2020-08-02
+Atlanta Braves,WIN,5,2020-08-30,2020-09-04
+Chicago White Sox,WIN,6,2020-07-29,2020-08-04
+Chicago White Sox,WIN,7,2020-08-16,2020-08-22
+Chicago White Sox,WIN,6,2020-09-09,2020-09-15
+Chicago White Sox,LOSS,6,2020-09-20,2020-09-25
+Miami Marlins,LOSS,7,2020-08-05,2020-09-20
+Miami Marlins,LOSS,5,2020-08-15,2020-08-19
+New York Yankees,WIN,6,2020-08-11,2020-08-17
+New York Yankees,LOSS,5,2020-09-04,2020-09-08
+New York Yankees,WIN,9,2020-09-11,2020-09-19

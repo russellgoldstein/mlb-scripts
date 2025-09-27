@@ -1,0 +1,84 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1911-04-14,1911-04-19
+St. Louis Browns,LOSS,5,1911-04-21,1911-04-27
+St. Louis Browns,LOSS,6,1911-04-30,1911-05-07
+St. Louis Browns,LOSS,5,1911-05-30,1911-06-07
+St. Louis Browns,LOSS,14,1911-06-10,1911-06-28
+St. Louis Browns,LOSS,6,1911-08-13,1911-08-20
+St. Louis Browns,LOSS,7,1911-09-07,1911-09-12
+St. Louis Browns,LOSS,8,1911-09-18,1911-09-28
+Boston Red Sox,LOSS,7,1911-09-04,1911-09-08
+Chicago Cubs,WIN,6,1911-04-17,1911-04-23
+Chicago Cubs,LOSS,5,1911-05-05,1911-05-10
+Chicago Cubs,WIN,8,1911-05-18,1911-05-29
+Chicago Cubs,WIN,10,1911-07-17,1911-07-28
+Chicago Cubs,WIN,6,1911-09-04,1911-09-08
+Cincinnati Reds,WIN,7,1911-05-05,1911-05-12
+Cincinnati Reds,WIN,7,1911-07-31,1911-08-09
+Cincinnati Reds,LOSS,5,1911-08-13,1911-08-19
+Cincinnati Reds,WIN,6,1911-08-19,1911-08-25
+Cleveland Naps,WIN,5,1911-05-16,1911-05-21
+Cleveland Naps,LOSS,5,1911-05-30,1911-06-03
+Cleveland Naps,LOSS,5,1911-06-10,1911-06-15
+Cleveland Naps,WIN,5,1911-06-25,1911-06-29
+Cleveland Naps,WIN,9,1911-07-09,1911-07-18
+Cleveland Naps,WIN,10,1911-08-30,1911-09-09
+Detroit Tigers,WIN,6,1911-04-13,1911-04-20
+Detroit Tigers,WIN,6,1911-04-23,1911-04-28
+Detroit Tigers,WIN,9,1911-04-30,1911-05-09
+Detroit Tigers,WIN,5,1911-05-14,1911-05-19
+Detroit Tigers,WIN,9,1911-07-10,1911-07-18
+Brooklyn Dodgers,LOSS,6,1911-04-15,1911-04-24
+Brooklyn Dodgers,LOSS,5,1911-07-18,1911-07-21
+Brooklyn Dodgers,LOSS,5,1911-07-24,1911-07-28
+Brooklyn Dodgers,WIN,5,1911-09-23,1911-09-28
+Philadelphia Athletics,LOSS,6,1911-05-14,1911-05-19
+Philadelphia Athletics,WIN,7,1911-05-20,1911-05-27
+Philadelphia Athletics,WIN,7,1911-05-29,1911-06-07
+Philadelphia Athletics,WIN,6,1911-06-09,1911-06-16
+Philadelphia Athletics,WIN,6,1911-06-30,1911-07-04
+Philadelphia Athletics,LOSS,5,1911-07-09,1911-07-14
+Philadelphia Athletics,WIN,5,1911-09-05,1911-09-08
+Philadelphia Athletics,WIN,6,1911-09-19,1911-09-24
+Pittsburgh Pirates,WIN,5,1911-05-13,1911-05-18
+Pittsburgh Pirates,LOSS,5,1911-05-19,1911-05-24
+Pittsburgh Pirates,LOSS,6,1911-07-12,1911-07-19
+Pittsburgh Pirates,WIN,13,1911-07-20,1911-08-01
+Pittsburgh Pirates,WIN,5,1911-08-04,1911-08-09
+Pittsburgh Pirates,LOSS,6,1911-09-22,1911-09-29
+New York Giants,WIN,5,1911-05-19,1911-05-24
+New York Giants,WIN,5,1911-06-24,1911-06-29
+New York Giants,WIN,6,1911-08-14,1911-08-19
+New York Giants,WIN,9,1911-08-24,1911-09-04
+New York Giants,WIN,10,1911-09-12,1911-09-21
+New York Giants,WIN,6,1911-09-30,1911-10-05
+St. Louis Cardinals,LOSS,6,1911-04-25,1911-05-06
+St. Louis Cardinals,WIN,8,1911-05-16,1911-05-24
+St. Louis Cardinals,LOSS,5,1911-09-04,1911-09-09
+Washington Senators,LOSS,8,1911-05-14,1911-05-21
+Washington Senators,LOSS,8,1911-06-19,1911-06-26
+Washington Senators,LOSS,7,1911-07-10,1911-07-16
+Washington Senators,WIN,5,1911-07-28,1911-08-02
+Washington Senators,WIN,5,1911-08-08,1911-08-11
+Washington Senators,LOSS,5,1911-09-20,1911-09-25
+Philadelphia Phillies,WIN,6,1911-04-17,1911-04-24
+Philadelphia Phillies,WIN,5,1911-05-10,1911-05-15
+Philadelphia Phillies,LOSS,6,1911-05-18,1911-05-24
+Philadelphia Phillies,WIN,5,1911-07-01,1911-07-05
+Philadelphia Phillies,WIN,6,1911-07-13,1911-07-19
+Philadelphia Phillies,LOSS,7,1911-07-31,1911-08-09
+Philadelphia Phillies,LOSS,5,1911-09-01,1911-09-04
+Philadelphia Phillies,WIN,5,1911-09-05,1911-09-11
+Boston Rustlers,LOSS,14,1911-05-09,1911-05-24
+Boston Rustlers,LOSS,7,1911-06-08,1911-06-14
+Boston Rustlers,LOSS,6,1911-06-23,1911-06-29
+Boston Rustlers,LOSS,16,1911-07-17,1911-08-01
+Boston Rustlers,LOSS,6,1911-09-07,1911-09-14
+Chicago White Sox,WIN,5,1911-05-14,1911-05-18
+Chicago White Sox,WIN,5,1911-06-20,1911-06-25
+Chicago White Sox,LOSS,6,1911-09-01,1911-09-04
+New York Highlanders,WIN,7,1911-06-09,1911-06-17
+New York Highlanders,WIN,5,1911-06-22,1911-06-26
+New York Highlanders,LOSS,6,1911-07-13,1911-07-18
+New York Highlanders,WIN,5,1911-07-20,1911-07-25
+New York Highlanders,WIN,5,1911-08-26,1911-09-01

@@ -1,0 +1,87 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1952-05-02,1952-05-05
+St. Louis Browns,LOSS,9,1952-07-01,1952-07-10
+St. Louis Browns,LOSS,7,1952-07-17,1952-07-23
+Boston Red Sox,WIN,5,1952-04-17,1952-04-20
+Boston Red Sox,LOSS,6,1952-05-08,1952-05-14
+Boston Red Sox,WIN,5,1952-07-11,1952-07-13
+Boston Red Sox,WIN,5,1952-08-23,1952-08-27
+Boston Red Sox,LOSS,7,1952-08-31,1952-09-05
+Chicago Cubs,WIN,5,1952-06-04,1952-06-08
+Chicago Cubs,WIN,5,1952-06-10,1952-06-14
+Chicago Cubs,LOSS,9,1952-06-15,1952-06-24
+Chicago Cubs,LOSS,5,1952-07-11,1952-07-15
+Cincinnati Reds,LOSS,5,1952-06-22,1952-06-27
+Cincinnati Reds,LOSS,6,1952-07-13,1952-07-19
+Cleveland Indians,WIN,7,1952-04-15,1952-04-20
+Cleveland Indians,WIN,5,1952-05-04,1952-05-08
+Cleveland Indians,LOSS,6,1952-06-14,1952-06-19
+Cleveland Indians,WIN,5,1952-07-01,1952-07-05
+Cleveland Indians,WIN,5,1952-08-13,1952-08-17
+Cleveland Indians,WIN,9,1952-09-04,1952-09-12
+Cleveland Indians,WIN,6,1952-09-16,1952-09-22
+Detroit Tigers,LOSS,8,1952-04-15,1952-04-22
+Detroit Tigers,LOSS,7,1952-06-07,1952-06-12
+Detroit Tigers,LOSS,5,1952-07-11,1952-07-13
+Detroit Tigers,LOSS,5,1952-07-30,1952-08-02
+Detroit Tigers,LOSS,5,1952-08-05,1952-08-08
+Detroit Tigers,LOSS,5,1952-08-29,1952-09-02
+Detroit Tigers,LOSS,8,1952-09-16,1952-09-24
+Brooklyn Dodgers,WIN,5,1952-04-15,1952-04-19
+Brooklyn Dodgers,WIN,8,1952-06-03,1952-06-09
+Brooklyn Dodgers,WIN,6,1952-06-17,1952-06-24
+Brooklyn Dodgers,WIN,9,1952-07-11,1952-07-22
+Brooklyn Dodgers,LOSS,5,1952-07-25,1952-07-29
+Brooklyn Dodgers,WIN,5,1952-08-23,1952-08-26
+Philadelphia Athletics,LOSS,7,1952-04-18,1952-04-29
+Philadelphia Athletics,WIN,5,1952-05-30,1952-06-04
+Philadelphia Athletics,WIN,6,1952-08-17,1952-08-22
+Philadelphia Athletics,LOSS,6,1952-09-06,1952-09-11
+Philadelphia Athletics,WIN,5,1952-09-12,1952-09-16
+Pittsburgh Pirates,LOSS,10,1952-04-19,1952-04-29
+Pittsburgh Pirates,LOSS,6,1952-05-01,1952-05-06
+Pittsburgh Pirates,LOSS,8,1952-05-13,1952-05-22
+Pittsburgh Pirates,LOSS,7,1952-06-20,1952-06-28
+Pittsburgh Pirates,LOSS,5,1952-07-12,1952-07-16
+Pittsburgh Pirates,LOSS,6,1952-07-18,1952-07-23
+Pittsburgh Pirates,LOSS,5,1952-07-30,1952-08-02
+Pittsburgh Pirates,LOSS,5,1952-08-24,1952-08-30
+Pittsburgh Pirates,LOSS,8,1952-09-03,1952-09-11
+Pittsburgh Pirates,LOSS,5,1952-09-12,1952-09-16
+New York Giants,WIN,7,1952-04-29,1952-05-05
+New York Giants,WIN,5,1952-05-07,1952-05-14
+New York Giants,WIN,7,1952-05-21,1952-05-28
+New York Giants,WIN,6,1952-06-20,1952-06-26
+New York Giants,WIN,5,1952-07-20,1952-07-26
+New York Giants,LOSS,6,1952-08-07,1952-08-13
+New York Giants,WIN,5,1952-09-03,1952-09-06
+New York Giants,WIN,5,1952-09-08,1952-09-12
+St. Louis Cardinals,WIN,10,1952-06-30,1952-07-10
+St. Louis Cardinals,WIN,5,1952-07-25,1952-07-29
+St. Louis Cardinals,WIN,8,1952-08-15,1952-08-23
+St. Louis Cardinals,LOSS,6,1952-08-24,1952-08-28
+St. Louis Cardinals,WIN,6,1952-09-03,1952-09-09
+Washington Senators,WIN,6,1952-05-03,1952-05-07
+Washington Senators,LOSS,5,1952-06-03,1952-06-10
+Washington Senators,WIN,5,1952-06-23,1952-06-28
+Washington Senators,WIN,5,1952-07-17,1952-07-20
+Washington Senators,WIN,6,1952-09-01,1952-09-05
+Washington Senators,LOSS,5,1952-09-06,1952-09-10
+Philadelphia Phillies,LOSS,5,1952-06-01,1952-06-06
+Philadelphia Phillies,WIN,6,1952-07-26,1952-07-30
+Philadelphia Phillies,WIN,7,1952-09-14,1952-09-21
+Boston Braves,LOSS,5,1952-05-27,1952-06-01
+Boston Braves,LOSS,6,1952-06-27,1952-07-01
+Boston Braves,WIN,5,1952-07-11,1952-07-15
+Boston Braves,LOSS,10,1952-09-14,1952-09-26
+Chicago White Sox,WIN,6,1952-04-26,1952-05-01
+Chicago White Sox,LOSS,6,1952-05-02,1952-05-07
+Chicago White Sox,WIN,5,1952-05-25,1952-05-27
+Chicago White Sox,LOSS,5,1952-06-01,1952-06-05
+Chicago White Sox,WIN,5,1952-07-02,1952-07-04
+Chicago White Sox,LOSS,6,1952-07-14,1952-07-19
+New York Yankees,WIN,6,1952-06-07,1952-06-12
+New York Yankees,LOSS,5,1952-07-23,1952-07-27
+New York Yankees,WIN,5,1952-08-30,1952-09-02
+New York Yankees,WIN,6,1952-09-10,1952-09-17
+New York Yankees,WIN,7,1952-09-20,1952-09-27

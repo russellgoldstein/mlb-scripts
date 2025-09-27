@@ -1,0 +1,83 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,6,1925-07-13,1925-07-18
+St. Louis Browns,LOSS,6,1925-07-23,1925-07-30
+St. Louis Browns,WIN,6,1925-08-23,1925-08-28
+Boston Red Sox,LOSS,5,1925-04-18,1925-04-24
+Boston Red Sox,LOSS,6,1925-05-12,1925-05-17
+Boston Red Sox,LOSS,9,1925-06-18,1925-06-27
+Boston Red Sox,LOSS,5,1925-06-30,1925-07-03
+Boston Red Sox,LOSS,5,1925-07-04,1925-07-10
+Boston Red Sox,LOSS,6,1925-07-14,1925-07-20
+Boston Red Sox,LOSS,8,1925-07-21,1925-07-30
+Boston Red Sox,LOSS,5,1925-08-01,1925-08-07
+Boston Red Sox,LOSS,5,1925-08-23,1925-08-27
+Boston Red Sox,LOSS,6,1925-08-29,1925-09-05
+Chicago Cubs,WIN,5,1925-04-23,1925-04-27
+Chicago Cubs,LOSS,6,1925-05-03,1925-05-13
+Chicago Cubs,WIN,5,1925-06-11,1925-06-15
+Cincinnati Reds,LOSS,5,1925-05-13,1925-05-18
+Cincinnati Reds,WIN,8,1925-06-04,1925-06-12
+Cincinnati Reds,LOSS,5,1925-06-21,1925-06-27
+Cincinnati Reds,WIN,9,1925-07-26,1925-08-02
+Cleveland Indians,WIN,5,1925-04-14,1925-04-20
+Cleveland Indians,LOSS,6,1925-06-15,1925-06-20
+Cleveland Indians,LOSS,8,1925-06-22,1925-06-29
+Cleveland Indians,WIN,6,1925-07-23,1925-07-30
+Cleveland Indians,WIN,6,1925-08-21,1925-08-26
+Detroit Tigers,LOSS,7,1925-04-22,1925-04-28
+Detroit Tigers,LOSS,6,1925-05-11,1925-05-16
+Detroit Tigers,WIN,9,1925-06-16,1925-06-27
+Detroit Tigers,WIN,5,1925-07-08,1925-07-11
+Detroit Tigers,WIN,10,1925-08-24,1925-09-07
+Brooklyn Robins,LOSS,5,1925-04-16,1925-04-23
+Brooklyn Robins,WIN,6,1925-05-23,1925-05-30
+Brooklyn Robins,WIN,5,1925-07-01,1925-07-04
+Brooklyn Robins,LOSS,6,1925-08-03,1925-08-08
+Brooklyn Robins,LOSS,12,1925-09-13,1925-09-25
+Brooklyn Robins,LOSS,5,1925-09-28,1925-10-03
+Philadelphia Athletics,WIN,9,1925-05-06,1925-05-17
+Philadelphia Athletics,WIN,5,1925-05-28,1925-05-30
+Philadelphia Athletics,WIN,6,1925-06-15,1925-06-20
+Philadelphia Athletics,WIN,7,1925-07-12,1925-07-17
+Philadelphia Athletics,WIN,5,1925-08-07,1925-08-12
+Philadelphia Athletics,LOSS,5,1925-08-15,1925-08-21
+Philadelphia Athletics,LOSS,12,1925-08-24,1925-09-07
+Pittsburgh Pirates,WIN,5,1925-05-12,1925-05-17
+Pittsburgh Pirates,WIN,7,1925-05-25,1925-05-30
+Pittsburgh Pirates,WIN,6,1925-06-11,1925-06-17
+Pittsburgh Pirates,WIN,9,1925-08-26,1925-09-03
+Pittsburgh Pirates,WIN,9,1925-09-14,1925-09-23
+New York Giants,WIN,6,1925-04-16,1925-04-23
+New York Giants,WIN,8,1925-05-10,1925-05-18
+New York Giants,LOSS,6,1925-06-11,1925-06-17
+New York Giants,LOSS,6,1925-08-02,1925-08-08
+St. Louis Cardinals,WIN,5,1925-04-17,1925-04-22
+St. Louis Cardinals,LOSS,7,1925-04-23,1925-05-02
+St. Louis Cardinals,LOSS,5,1925-05-27,1925-05-30
+St. Louis Cardinals,WIN,7,1925-06-12,1925-06-19
+St. Louis Cardinals,LOSS,6,1925-08-25,1925-08-30
+St. Louis Cardinals,WIN,7,1925-09-16,1925-09-27
+Washington Senators,WIN,5,1925-05-13,1925-05-17
+Washington Senators,WIN,5,1925-06-12,1925-06-17
+Washington Senators,WIN,6,1925-06-28,1925-07-03
+Washington Senators,WIN,7,1925-08-28,1925-09-05
+Philadelphia Phillies,LOSS,11,1925-06-06,1925-06-17
+Philadelphia Phillies,LOSS,5,1925-08-28,1925-09-01
+Philadelphia Phillies,LOSS,5,1925-09-02,1925-09-08
+Philadelphia Phillies,WIN,5,1925-09-29,1925-10-03
+Boston Braves,LOSS,5,1925-04-16,1925-04-23
+Boston Braves,WIN,5,1925-05-07,1925-05-12
+Boston Braves,LOSS,5,1925-06-03,1925-06-08
+Boston Braves,LOSS,5,1925-06-11,1925-06-15
+Boston Braves,LOSS,5,1925-07-01,1925-07-04
+Boston Braves,WIN,5,1925-07-05,1925-07-07
+Boston Braves,WIN,5,1925-08-18,1925-08-22
+Chicago White Sox,WIN,7,1925-06-21,1925-06-28
+Chicago White Sox,WIN,5,1925-08-17,1925-08-21
+Chicago White Sox,LOSS,5,1925-09-08,1925-09-12
+Chicago White Sox,WIN,5,1925-09-26,1925-10-04
+New York Yankees,LOSS,5,1925-04-27,1925-05-04
+New York Yankees,LOSS,5,1925-05-29,1925-06-01
+New York Yankees,LOSS,5,1925-08-07,1925-08-11
+New York Yankees,LOSS,5,1925-08-19,1925-08-24
+New York Yankees,WIN,5,1925-09-14,1925-09-18

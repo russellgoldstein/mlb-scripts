@@ -1,0 +1,154 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2005-05-01,2005-05-06
+Los Angeles Angels,WIN,8,2005-06-20,2005-06-28
+Los Angeles Angels,LOSS,5,2005-08-25,2005-08-30
+Los Angeles Angels,WIN,8,2005-09-16,2005-09-24
+Arizona Diamondbacks,WIN,6,2005-04-22,2005-04-27
+Arizona Diamondbacks,LOSS,5,2005-06-15,2005-06-20
+Arizona Diamondbacks,LOSS,6,2005-08-21,2005-08-26
+Arizona Diamondbacks,LOSS,5,2005-08-30,2005-09-04
+Arizona Diamondbacks,WIN,7,2005-09-24,2005-10-01
+Baltimore Orioles,WIN,5,2005-04-22,2005-04-26
+Baltimore Orioles,LOSS,6,2005-06-22,2005-06-27
+Baltimore Orioles,LOSS,6,2005-07-19,2005-07-25
+Baltimore Orioles,LOSS,8,2005-07-27,2005-08-03
+Baltimore Orioles,LOSS,5,2005-08-19,2005-08-24
+Baltimore Orioles,LOSS,5,2005-08-26,2005-08-30
+Baltimore Orioles,LOSS,9,2005-09-18,2005-09-26
+Boston Red Sox,WIN,5,2005-04-14,2005-04-18
+Boston Red Sox,WIN,5,2005-06-12,2005-06-17
+Boston Red Sox,WIN,7,2005-06-19,2005-06-26
+Boston Red Sox,WIN,8,2005-07-26,2005-08-04
+Boston Red Sox,WIN,6,2005-08-07,2005-08-13
+Boston Red Sox,WIN,5,2005-08-28,2005-09-01
+Chicago Cubs,LOSS,7,2005-04-30,2005-05-07
+Chicago Cubs,WIN,7,2005-05-27,2005-06-02
+Chicago Cubs,LOSS,6,2005-06-30,2005-07-05
+Chicago Cubs,WIN,5,2005-07-08,2005-07-15
+Chicago Cubs,LOSS,8,2005-08-03,2005-08-10
+Cincinnati Reds,LOSS,8,2005-04-27,2005-05-06
+Cincinnati Reds,LOSS,5,2005-05-31,2005-06-05
+Cincinnati Reds,LOSS,6,2005-06-13,2005-06-18
+Cincinnati Reds,WIN,5,2005-07-27,2005-07-31
+Cincinnati Reds,WIN,5,2005-08-08,2005-08-13
+Cincinnati Reds,LOSS,5,2005-08-30,2005-09-03
+Cleveland Guardians,WIN,9,2005-06-10,2005-06-19
+Cleveland Guardians,LOSS,5,2005-07-10,2005-07-17
+Cleveland Guardians,WIN,6,2005-08-05,2005-08-11
+Cleveland Guardians,WIN,6,2005-08-18,2005-08-23
+Cleveland Guardians,WIN,7,2005-09-05,2005-09-11
+Cleveland Guardians,WIN,6,2005-09-13,2005-09-19
+Colorado Rockies,LOSS,8,2005-04-06,2005-04-15
+Colorado Rockies,LOSS,8,2005-04-29,2005-05-07
+Colorado Rockies,LOSS,5,2005-06-18,2005-06-22
+Detroit Tigers,LOSS,5,2005-04-10,2005-04-15
+Detroit Tigers,LOSS,5,2005-07-27,2005-08-02
+Detroit Tigers,WIN,5,2005-08-17,2005-08-23
+Detroit Tigers,LOSS,9,2005-09-01,2005-09-09
+Detroit Tigers,LOSS,8,2005-09-16,2005-09-23
+Detroit Tigers,LOSS,5,2005-09-28,2005-10-02
+Houston Astros,LOSS,6,2005-05-03,2005-05-08
+Houston Astros,LOSS,7,2005-05-18,2005-05-24
+Houston Astros,WIN,5,2005-06-08,2005-06-12
+Houston Astros,WIN,6,2005-07-18,2005-07-22
+Houston Astros,WIN,7,2005-07-24,2005-07-30
+Houston Astros,WIN,5,2005-09-14,2005-09-18
+Kansas City Royals,LOSS,9,2005-04-20,2005-04-29
+Kansas City Royals,LOSS,5,2005-05-03,2005-05-07
+Kansas City Royals,LOSS,6,2005-05-24,2005-05-29
+Kansas City Royals,WIN,5,2005-06-11,2005-06-16
+Kansas City Royals,LOSS,8,2005-06-20,2005-06-28
+Kansas City Royals,LOSS,13,2005-07-28,2005-08-11
+Kansas City Royals,LOSS,6,2005-08-14,2005-08-19
+Kansas City Royals,LOSS,5,2005-08-26,2005-08-30
+Los Angeles Dodgers,WIN,8,2005-04-12,2005-04-20
+Los Angeles Dodgers,LOSS,8,2005-06-14,2005-06-21
+Los Angeles Dodgers,LOSS,6,2005-07-07,2005-07-15
+Los Angeles Dodgers,LOSS,6,2005-09-16,2005-09-22
+Washington Nationals,WIN,5,2005-04-12,2005-04-17
+Washington Nationals,LOSS,5,2005-05-23,2005-05-28
+Washington Nationals,WIN,10,2005-06-02,2005-06-12
+Washington Nationals,WIN,6,2005-06-28,2005-07-03
+Washington Nationals,LOSS,6,2005-07-24,2005-07-30
+New York Mets,LOSS,5,2005-04-04,2005-04-09
+New York Mets,WIN,6,2005-04-10,2005-04-16
+New York Mets,WIN,5,2005-08-22,2005-08-26
+New York Mets,LOSS,6,2005-09-05,2005-09-10
+New York Mets,WIN,5,2005-09-23,2005-09-27
+Oakland Athletics,LOSS,8,2005-05-07,2005-05-15
+Oakland Athletics,LOSS,8,2005-05-21,2005-05-29
+Oakland Athletics,WIN,8,2005-06-23,2005-07-01
+Oakland Athletics,WIN,5,2005-07-08,2005-07-15
+Oakland Athletics,WIN,7,2005-07-19,2005-07-25
+Oakland Athletics,WIN,6,2005-07-27,2005-08-02
+Oakland Athletics,WIN,7,2005-08-24,2005-08-30
+Pittsburgh Pirates,LOSS,5,2005-04-16,2005-04-20
+Pittsburgh Pirates,LOSS,5,2005-06-12,2005-06-17
+Pittsburgh Pirates,LOSS,5,2005-06-28,2005-07-02
+Pittsburgh Pirates,LOSS,5,2005-07-17,2005-07-20
+Pittsburgh Pirates,LOSS,5,2005-07-27,2005-07-31
+Pittsburgh Pirates,LOSS,5,2005-08-24,2005-08-28
+Pittsburgh Pirates,LOSS,6,2005-08-31,2005-09-07
+San Diego Padres,WIN,6,2005-05-02,2005-05-07
+San Diego Padres,WIN,8,2005-05-11,2005-05-20
+San Diego Padres,WIN,6,2005-05-26,2005-05-31
+San Diego Padres,LOSS,5,2005-06-12,2005-06-17
+San Diego Padres,LOSS,8,2005-07-17,2005-07-26
+San Diego Padres,WIN,5,2005-08-04,2005-08-09
+Seattle Mariners,LOSS,6,2005-04-30,2005-05-06
+Seattle Mariners,LOSS,7,2005-06-25,2005-07-02
+San Francisco Giants,WIN,6,2005-04-26,2005-05-02
+San Francisco Giants,LOSS,7,2005-05-26,2005-06-02
+San Francisco Giants,WIN,6,2005-08-30,2005-09-05
+San Francisco Giants,WIN,5,2005-09-16,2005-09-21
+San Francisco Giants,LOSS,5,2005-09-27,2005-10-01
+St. Louis Cardinals,WIN,5,2005-04-15,2005-04-19
+St. Louis Cardinals,WIN,5,2005-05-23,2005-05-28
+St. Louis Cardinals,WIN,5,2005-07-10,2005-07-18
+Tampa Bay Rays,LOSS,8,2005-04-24,2005-05-02
+Tampa Bay Rays,LOSS,5,2005-05-28,2005-06-01
+Tampa Bay Rays,LOSS,7,2005-06-04,2005-06-11
+Tampa Bay Rays,LOSS,10,2005-06-28,2005-07-08
+Tampa Bay Rays,WIN,6,2005-07-28,2005-08-03
+Tampa Bay Rays,WIN,5,2005-08-16,2005-08-21
+Tampa Bay Rays,LOSS,5,2005-08-29,2005-09-02
+Texas Rangers,WIN,7,2005-05-20,2005-05-27
+Texas Rangers,LOSS,5,2005-06-07,2005-06-11
+Texas Rangers,LOSS,5,2005-06-19,2005-06-24
+Texas Rangers,LOSS,5,2005-07-20,2005-07-24
+Texas Rangers,LOSS,8,2005-08-08,2005-08-16
+Texas Rangers,WIN,5,2005-09-14,2005-09-18
+Toronto Blue Jays,LOSS,5,2005-04-20,2005-04-24
+Toronto Blue Jays,LOSS,5,2005-08-19,2005-08-23
+Minnesota Twins,WIN,6,2005-04-10,2005-04-16
+Minnesota Twins,WIN,5,2005-04-26,2005-04-30
+Minnesota Twins,LOSS,6,2005-07-28,2005-08-02
+Minnesota Twins,WIN,6,2005-08-14,2005-08-19
+Philadelphia Phillies,WIN,6,2005-06-07,2005-06-12
+Philadelphia Phillies,LOSS,5,2005-06-23,2005-06-28
+Philadelphia Phillies,LOSS,5,2005-09-03,2005-09-07
+Atlanta Braves,WIN,5,2005-05-04,2005-05-08
+Atlanta Braves,WIN,5,2005-06-24,2005-06-28
+Atlanta Braves,WIN,6,2005-07-26,2005-07-31
+Chicago White Sox,WIN,8,2005-04-18,2005-04-25
+Chicago White Sox,WIN,8,2005-04-30,2005-05-08
+Chicago White Sox,WIN,8,2005-06-15,2005-06-24
+Chicago White Sox,WIN,5,2005-07-14,2005-07-18
+Chicago White Sox,LOSS,5,2005-08-15,2005-08-20
+Chicago White Sox,WIN,7,2005-09-01,2005-09-07
+Chicago White Sox,WIN,5,2005-09-28,2005-10-02
+Miami Marlins,WIN,6,2005-05-18,2005-05-24
+Miami Marlins,LOSS,6,2005-09-23,2005-09-28
+New York Yankees,WIN,10,2005-05-07,2005-05-17
+New York Yankees,WIN,5,2005-05-22,2005-05-27
+New York Yankees,LOSS,6,2005-05-28,2005-06-03
+New York Yankees,WIN,6,2005-06-14,2005-06-19
+New York Yankees,WIN,6,2005-07-02,2005-07-08
+New York Yankees,WIN,5,2005-08-11,2005-08-15
+New York Yankees,WIN,5,2005-08-25,2005-08-29
+New York Yankees,WIN,6,2005-09-11,2005-09-17
+New York Yankees,WIN,5,2005-09-19,2005-09-23
+Milwaukee Brewers,LOSS,7,2005-04-15,2005-04-21
+Milwaukee Brewers,WIN,7,2005-04-28,2005-05-05
+Milwaukee Brewers,LOSS,5,2005-06-08,2005-06-13
+Milwaukee Brewers,LOSS,5,2005-08-08,2005-08-13

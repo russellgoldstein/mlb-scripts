@@ -1,0 +1,140 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,WIN,8,1982-04-13,1982-04-19
+California Angels,WIN,6,1982-05-13,1982-05-19
+California Angels,LOSS,7,1982-05-30,1982-06-06
+California Angels,LOSS,8,1982-06-30,1982-07-07
+California Angels,WIN,6,1982-07-08,1982-07-16
+California Angels,WIN,5,1982-09-10,1982-09-14
+California Angels,WIN,5,1982-09-18,1982-09-22
+Baltimore Orioles,LOSS,9,1982-04-11,1982-04-23
+Baltimore Orioles,WIN,5,1982-06-05,1982-06-09
+Baltimore Orioles,WIN,7,1982-07-21,1982-07-28
+Baltimore Orioles,LOSS,5,1982-07-29,1982-08-02
+Baltimore Orioles,WIN,7,1982-08-20,1982-08-27
+Baltimore Orioles,WIN,10,1982-08-28,1982-09-07
+Baltimore Orioles,WIN,5,1982-09-13,1982-09-16
+Boston Red Sox,WIN,8,1982-04-20,1982-04-27
+Boston Red Sox,WIN,5,1982-04-30,1982-05-04
+Boston Red Sox,WIN,5,1982-05-19,1982-05-23
+Boston Red Sox,WIN,5,1982-06-04,1982-06-09
+Boston Red Sox,WIN,6,1982-08-28,1982-09-03
+Chicago Cubs,LOSS,13,1982-05-30,1982-06-13
+Chicago Cubs,LOSS,5,1982-06-18,1982-06-22
+Chicago Cubs,LOSS,8,1982-07-24,1982-07-31
+Chicago Cubs,WIN,6,1982-08-05,1982-08-10
+Chicago Cubs,LOSS,5,1982-09-07,1982-09-12
+Chicago Cubs,WIN,6,1982-09-15,1982-09-21
+Cincinnati Reds,LOSS,6,1982-04-10,1982-04-16
+Cincinnati Reds,LOSS,6,1982-05-18,1982-05-24
+Cincinnati Reds,LOSS,9,1982-06-27,1982-07-06
+Cincinnati Reds,LOSS,7,1982-07-16,1982-07-23
+Cincinnati Reds,LOSS,5,1982-08-06,1982-08-10
+Cincinnati Reds,LOSS,7,1982-09-04,1982-09-10
+Cleveland Indians,WIN,11,1982-05-23,1982-06-04
+Cleveland Indians,LOSS,6,1982-06-07,1982-06-12
+Cleveland Indians,LOSS,5,1982-07-02,1982-07-06
+Cleveland Indians,LOSS,6,1982-08-08,1982-08-14
+Cleveland Indians,LOSS,8,1982-08-25,1982-09-02
+Detroit Tigers,WIN,8,1982-04-17,1982-04-24
+Detroit Tigers,WIN,8,1982-05-10,1982-05-20
+Detroit Tigers,LOSS,10,1982-06-13,1982-06-23
+Detroit Tigers,LOSS,5,1982-07-07,1982-07-10
+Detroit Tigers,WIN,5,1982-07-10,1982-07-17
+Houston Astros,LOSS,5,1982-05-22,1982-05-26
+Houston Astros,LOSS,6,1982-08-04,1982-08-08
+Houston Astros,LOSS,5,1982-09-01,1982-09-06
+Kansas City Royals,WIN,8,1982-05-31,1982-06-09
+Kansas City Royals,LOSS,7,1982-07-08,1982-07-17
+Kansas City Royals,WIN,6,1982-07-29,1982-08-03
+Kansas City Royals,WIN,7,1982-08-24,1982-08-30
+Kansas City Royals,WIN,5,1982-09-11,1982-09-15
+Kansas City Royals,LOSS,7,1982-09-16,1982-09-22
+Kansas City Royals,WIN,5,1982-09-28,1982-10-02
+Los Angeles Dodgers,LOSS,6,1982-04-14,1982-04-19
+Los Angeles Dodgers,WIN,5,1982-05-04,1982-05-09
+Los Angeles Dodgers,WIN,6,1982-06-14,1982-06-20
+Los Angeles Dodgers,WIN,8,1982-08-03,1982-08-10
+Los Angeles Dodgers,WIN,7,1982-09-10,1982-09-17
+Los Angeles Dodgers,LOSS,8,1982-09-21,1982-09-29
+Montreal Expos,LOSS,5,1982-05-04,1982-05-09
+Montreal Expos,WIN,8,1982-05-21,1982-05-29
+Montreal Expos,WIN,6,1982-06-18,1982-06-23
+Montreal Expos,WIN,5,1982-09-10,1982-09-15
+Montreal Expos,LOSS,5,1982-09-16,1982-09-21
+New York Mets,LOSS,5,1982-06-25,1982-06-27
+New York Mets,LOSS,7,1982-07-04,1982-07-09
+New York Mets,LOSS,5,1982-07-25,1982-07-30
+New York Mets,LOSS,15,1982-08-15,1982-08-31
+New York Mets,LOSS,5,1982-09-17,1982-09-19
+Oakland Athletics,WIN,7,1982-04-29,1982-05-06
+Oakland Athletics,LOSS,6,1982-05-18,1982-05-23
+Oakland Athletics,LOSS,5,1982-06-04,1982-06-08
+Oakland Athletics,LOSS,6,1982-06-15,1982-06-20
+Oakland Athletics,LOSS,6,1982-07-11,1982-07-19
+Oakland Athletics,WIN,5,1982-08-04,1982-08-09
+Oakland Athletics,LOSS,5,1982-08-29,1982-09-03
+Oakland Athletics,LOSS,6,1982-09-05,1982-09-11
+Pittsburgh Pirates,WIN,6,1982-06-29,1982-07-03
+San Diego Padres,WIN,11,1982-04-14,1982-04-27
+San Diego Padres,WIN,6,1982-07-04,1982-07-09
+San Diego Padres,LOSS,5,1982-07-15,1982-07-19
+San Diego Padres,LOSS,5,1982-07-27,1982-07-30
+San Diego Padres,LOSS,6,1982-09-10,1982-09-16
+Seattle Mariners,LOSS,5,1982-04-11,1982-04-15
+Seattle Mariners,WIN,5,1982-05-22,1982-05-27
+Seattle Mariners,LOSS,5,1982-08-04,1982-08-09
+Seattle Mariners,LOSS,7,1982-08-17,1982-08-24
+Seattle Mariners,LOSS,6,1982-09-27,1982-10-03
+San Francisco Giants,LOSS,5,1982-04-19,1982-04-24
+San Francisco Giants,WIN,5,1982-04-28,1982-05-02
+San Francisco Giants,WIN,10,1982-08-03,1982-08-11
+San Francisco Giants,LOSS,6,1982-08-21,1982-08-27
+San Francisco Giants,WIN,5,1982-09-03,1982-09-07
+San Francisco Giants,WIN,5,1982-09-22,1982-09-26
+St. Louis Cardinals,WIN,12,1982-04-11,1982-04-24
+St. Louis Cardinals,WIN,6,1982-07-21,1982-07-28
+St. Louis Cardinals,WIN,5,1982-08-14,1982-08-18
+St. Louis Cardinals,WIN,8,1982-09-14,1982-09-20
+Texas Rangers,LOSS,12,1982-04-22,1982-05-06
+Texas Rangers,LOSS,7,1982-07-10,1982-07-19
+Toronto Blue Jays,LOSS,5,1982-04-21,1982-04-25
+Toronto Blue Jays,WIN,6,1982-07-15,1982-07-20
+Toronto Blue Jays,LOSS,5,1982-08-03,1982-08-06
+Toronto Blue Jays,WIN,6,1982-08-07,1982-08-11
+Toronto Blue Jays,LOSS,5,1982-08-22,1982-08-26
+Toronto Blue Jays,LOSS,6,1982-08-29,1982-09-04
+Minnesota Twins,LOSS,5,1982-05-06,1982-05-10
+Minnesota Twins,LOSS,5,1982-05-12,1982-05-16
+Minnesota Twins,LOSS,14,1982-05-19,1982-06-02
+Minnesota Twins,LOSS,5,1982-06-05,1982-06-09
+Minnesota Twins,LOSS,5,1982-07-27,1982-07-31
+Minnesota Twins,LOSS,5,1982-09-03,1982-09-06
+Philadelphia Phillies,WIN,6,1982-05-02,1982-05-08
+Philadelphia Phillies,WIN,7,1982-05-10,1982-05-16
+Philadelphia Phillies,LOSS,5,1982-06-11,1982-06-16
+Philadelphia Phillies,WIN,8,1982-06-23,1982-06-28
+Philadelphia Phillies,WIN,5,1982-07-10,1982-07-17
+Atlanta Braves,WIN,13,1982-04-06,1982-04-21
+Atlanta Braves,LOSS,5,1982-04-22,1982-04-27
+Atlanta Braves,WIN,5,1982-06-07,1982-06-12
+Atlanta Braves,WIN,6,1982-06-29,1982-07-05
+Atlanta Braves,LOSS,11,1982-08-03,1982-08-13
+Atlanta Braves,WIN,6,1982-08-19,1982-08-24
+Chicago White Sox,WIN,8,1982-04-11,1982-04-18
+Chicago White Sox,WIN,7,1982-05-02,1982-05-10
+Chicago White Sox,WIN,6,1982-05-16,1982-05-22
+Chicago White Sox,LOSS,7,1982-05-28,1982-06-04
+Chicago White Sox,LOSS,5,1982-07-15,1982-07-18
+Chicago White Sox,WIN,5,1982-07-30,1982-08-03
+Chicago White Sox,LOSS,5,1982-08-17,1982-08-21
+Chicago White Sox,WIN,6,1982-08-30,1982-09-04
+New York Yankees,WIN,6,1982-05-18,1982-05-25
+New York Yankees,LOSS,5,1982-06-03,1982-06-09
+New York Yankees,WIN,5,1982-07-15,1982-07-19
+New York Yankees,LOSS,9,1982-09-13,1982-09-21
+Milwaukee Brewers,LOSS,5,1982-04-14,1982-04-18
+Milwaukee Brewers,WIN,5,1982-04-21,1982-04-25
+Milwaukee Brewers,WIN,5,1982-06-01,1982-06-06
+Milwaukee Brewers,WIN,6,1982-06-17,1982-06-22
+Milwaukee Brewers,WIN,8,1982-07-09,1982-07-18
+Milwaukee Brewers,WIN,6,1982-09-14,1982-09-20

@@ -1,0 +1,88 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,8,1921-07-16,1921-07-23
+St. Louis Browns,WIN,6,1921-08-09,1921-08-15
+St. Louis Browns,WIN,6,1921-08-24,1921-08-30
+Boston Red Sox,LOSS,6,1921-05-19,1921-05-25
+Boston Red Sox,LOSS,8,1921-06-29,1921-07-05
+Boston Red Sox,WIN,5,1921-08-05,1921-08-09
+Boston Red Sox,WIN,5,1921-09-16,1921-09-20
+Chicago Cubs,LOSS,5,1921-04-26,1921-05-02
+Chicago Cubs,LOSS,7,1921-05-24,1921-05-30
+Chicago Cubs,LOSS,5,1921-07-24,1921-07-29
+Chicago Cubs,LOSS,6,1921-08-11,1921-08-16
+Chicago Cubs,LOSS,6,1921-09-04,1921-09-07
+Cincinnati Reds,LOSS,6,1921-05-14,1921-05-19
+Cincinnati Reds,LOSS,6,1921-06-18,1921-06-26
+Cincinnati Reds,LOSS,5,1921-06-28,1921-07-02
+Cincinnati Reds,LOSS,5,1921-07-04,1921-07-11
+Cincinnati Reds,WIN,5,1921-07-18,1921-07-22
+Cleveland Indians,WIN,6,1921-04-21,1921-04-26
+Cleveland Indians,LOSS,5,1921-05-12,1921-05-16
+Cleveland Indians,WIN,8,1921-05-22,1921-05-30
+Cleveland Indians,LOSS,5,1921-06-03,1921-06-08
+Cleveland Indians,WIN,5,1921-07-10,1921-07-13
+Cleveland Indians,LOSS,5,1921-07-31,1921-08-05
+Cleveland Indians,WIN,5,1921-08-25,1921-08-31
+Cleveland Indians,WIN,8,1921-09-10,1921-09-17
+Detroit Tigers,LOSS,9,1921-06-11,1921-06-19
+Detroit Tigers,LOSS,6,1921-07-14,1921-07-19
+Detroit Tigers,WIN,6,1921-08-19,1921-08-24
+Detroit Tigers,LOSS,7,1921-09-20,1921-10-02
+Brooklyn Robins,LOSS,5,1921-04-14,1921-04-19
+Brooklyn Robins,WIN,11,1921-04-20,1921-05-02
+Brooklyn Robins,LOSS,5,1921-05-18,1921-05-22
+Brooklyn Robins,LOSS,6,1921-06-07,1921-06-12
+Brooklyn Robins,WIN,5,1921-06-27,1921-07-03
+Brooklyn Robins,LOSS,5,1921-09-14,1921-09-18
+Philadelphia Athletics,LOSS,5,1921-04-16,1921-04-21
+Philadelphia Athletics,LOSS,8,1921-05-13,1921-05-20
+Philadelphia Athletics,LOSS,7,1921-07-16,1921-07-21
+Philadelphia Athletics,LOSS,6,1921-07-28,1921-08-04
+Philadelphia Athletics,LOSS,5,1921-08-24,1921-08-28
+Philadelphia Athletics,LOSS,10,1921-09-09,1921-09-19
+Philadelphia Athletics,LOSS,6,1921-09-27,1921-10-02
+Pittsburgh Pirates,WIN,9,1921-04-24,1921-05-07
+Pittsburgh Pirates,WIN,6,1921-05-17,1921-05-22
+Pittsburgh Pirates,WIN,5,1921-06-29,1921-07-02
+Pittsburgh Pirates,WIN,5,1921-08-11,1921-08-14
+Pittsburgh Pirates,LOSS,6,1921-08-23,1921-08-27
+New York Giants,WIN,6,1921-04-30,1921-05-07
+New York Giants,WIN,8,1921-05-11,1921-05-18
+New York Giants,WIN,5,1921-06-01,1921-06-04
+New York Giants,LOSS,6,1921-06-06,1921-06-13
+New York Giants,WIN,8,1921-08-24,1921-08-30
+New York Giants,WIN,10,1921-09-07,1921-09-17
+St. Louis Cardinals,LOSS,6,1921-04-20,1921-04-29
+St. Louis Cardinals,WIN,6,1921-05-27,1921-05-30
+St. Louis Cardinals,WIN,10,1921-06-04,1921-06-13
+St. Louis Cardinals,LOSS,5,1921-06-14,1921-06-18
+St. Louis Cardinals,WIN,5,1921-07-27,1921-07-31
+St. Louis Cardinals,WIN,8,1921-08-22,1921-08-27
+St. Louis Cardinals,WIN,5,1921-08-30,1921-09-02
+St. Louis Cardinals,WIN,5,1921-09-04,1921-09-06
+St. Louis Cardinals,WIN,7,1921-09-14,1921-09-20
+Washington Senators,WIN,5,1921-06-04,1921-06-08
+Washington Senators,WIN,5,1921-06-14,1921-06-18
+Washington Senators,LOSS,5,1921-07-18,1921-07-23
+Washington Senators,WIN,11,1921-07-24,1921-08-05
+Washington Senators,LOSS,10,1921-08-26,1921-09-05
+Washington Senators,WIN,7,1921-09-18,1921-09-25
+Philadelphia Phillies,LOSS,6,1921-04-30,1921-05-09
+Philadelphia Phillies,LOSS,7,1921-06-09,1921-06-17
+Philadelphia Phillies,LOSS,7,1921-06-20,1921-06-25
+Philadelphia Phillies,LOSS,6,1921-06-29,1921-07-04
+Boston Braves,LOSS,6,1921-04-19,1921-04-25
+Boston Braves,LOSS,5,1921-04-28,1921-05-03
+Boston Braves,WIN,5,1921-06-14,1921-06-18
+Boston Braves,WIN,8,1921-07-06,1921-07-14
+Boston Braves,LOSS,7,1921-08-24,1921-08-29
+Chicago White Sox,WIN,5,1921-05-14,1921-05-18
+Chicago White Sox,LOSS,6,1921-06-24,1921-06-30
+Chicago White Sox,LOSS,5,1921-07-23,1921-07-28
+Chicago White Sox,LOSS,11,1921-09-14,1921-09-24
+New York Yankees,LOSS,5,1921-04-22,1921-04-27
+New York Yankees,WIN,5,1921-05-12,1921-05-16
+New York Yankees,WIN,5,1921-05-27,1921-05-30
+New York Yankees,WIN,8,1921-06-26,1921-07-05
+New York Yankees,WIN,9,1921-07-11,1921-07-20
+New York Yankees,WIN,7,1921-08-30,1921-09-05

@@ -1,0 +1,85 @@
+Team,StreakType,Length,StartDate,EndDate
+Baltimore Orioles,LOSS,5,1957-05-11,1957-05-17
+Baltimore Orioles,WIN,5,1957-06-23,1957-06-28
+Baltimore Orioles,WIN,5,1957-08-02,1957-08-06
+Baltimore Orioles,LOSS,5,1957-09-05,1957-09-11
+Boston Red Sox,WIN,5,1957-04-23,1957-04-27
+Boston Red Sox,WIN,6,1957-06-19,1957-06-23
+Boston Red Sox,WIN,5,1957-06-27,1957-06-30
+Boston Red Sox,LOSS,5,1957-08-15,1957-08-20
+Boston Red Sox,WIN,5,1957-08-26,1957-08-30
+Chicago Cubs,LOSS,9,1957-04-24,1957-05-04
+Chicago Cubs,LOSS,5,1957-05-11,1957-05-16
+Chicago Cubs,LOSS,5,1957-07-13,1957-07-16
+Chicago Cubs,WIN,6,1957-08-02,1957-08-08
+Chicago Cubs,WIN,6,1957-08-13,1957-08-18
+Chicago Cubs,LOSS,7,1957-08-28,1957-09-03
+Chicago Cubs,WIN,5,1957-09-14,1957-09-18
+Chicago Cubs,LOSS,5,1957-09-20,1957-09-24
+Cincinnati Redlegs,WIN,12,1957-04-30,1957-05-12
+Cincinnati Redlegs,LOSS,7,1957-07-04,1957-07-12
+Cincinnati Redlegs,LOSS,10,1957-08-13,1957-08-22
+Cleveland Indians,WIN,5,1957-05-12,1957-05-18
+Cleveland Indians,LOSS,5,1957-06-02,1957-06-07
+Cleveland Indians,LOSS,7,1957-07-04,1957-07-11
+Cleveland Indians,WIN,5,1957-07-12,1957-07-16
+Cleveland Indians,LOSS,6,1957-08-09,1957-08-14
+Detroit Tigers,WIN,5,1957-06-12,1957-06-16
+Detroit Tigers,LOSS,6,1957-09-17,1957-09-23
+Brooklyn Dodgers,WIN,5,1957-05-15,1957-05-21
+Brooklyn Dodgers,WIN,5,1957-06-03,1957-06-08
+Brooklyn Dodgers,WIN,5,1957-07-11,1957-07-16
+Kansas City Athletics,LOSS,11,1957-06-20,1957-06-30
+Kansas City Athletics,LOSS,5,1957-07-23,1957-07-27
+Kansas City Athletics,LOSS,7,1957-07-30,1957-08-04
+Kansas City Athletics,LOSS,6,1957-08-31,1957-09-07
+Kansas City Athletics,LOSS,6,1957-09-11,1957-09-17
+Kansas City Athletics,WIN,5,1957-09-18,1957-09-23
+Pittsburgh Pirates,LOSS,7,1957-05-05,1957-05-12
+Pittsburgh Pirates,LOSS,5,1957-05-18,1957-05-25
+Pittsburgh Pirates,WIN,5,1957-06-09,1957-06-13
+Pittsburgh Pirates,LOSS,5,1957-06-28,1957-07-01
+Pittsburgh Pirates,LOSS,5,1957-07-11,1957-07-14
+Pittsburgh Pirates,LOSS,8,1957-07-28,1957-08-04
+Pittsburgh Pirates,LOSS,5,1957-09-14,1957-09-18
+New York Giants,LOSS,5,1957-05-01,1957-05-05
+New York Giants,WIN,5,1957-06-26,1957-06-30
+New York Giants,LOSS,5,1957-06-30,1957-07-04
+New York Giants,LOSS,6,1957-07-28,1957-08-02
+New York Giants,WIN,5,1957-08-06,1957-08-11
+New York Giants,LOSS,6,1957-09-14,1957-09-21
+St. Louis Cardinals,WIN,5,1957-04-28,1957-05-02
+St. Louis Cardinals,LOSS,5,1957-05-17,1957-05-23
+St. Louis Cardinals,WIN,8,1957-06-05,1957-06-12
+St. Louis Cardinals,WIN,5,1957-07-04,1957-07-07
+St. Louis Cardinals,WIN,8,1957-07-28,1957-08-03
+St. Louis Cardinals,LOSS,9,1957-08-06,1957-08-15
+Washington Senators,LOSS,10,1957-04-28,1957-05-08
+Washington Senators,LOSS,5,1957-05-15,1957-05-19
+Washington Senators,LOSS,5,1957-06-22,1957-06-26
+Washington Senators,LOSS,6,1957-07-02,1957-07-07
+Washington Senators,LOSS,5,1957-08-10,1957-08-14
+Washington Senators,LOSS,5,1957-09-07,1957-09-12
+Washington Senators,LOSS,5,1957-09-15,1957-09-20
+Washington Senators,LOSS,7,1957-09-22,1957-09-29
+Philadelphia Phillies,WIN,5,1957-05-07,1957-05-12
+Philadelphia Phillies,LOSS,5,1957-06-27,1957-06-30
+Philadelphia Phillies,WIN,5,1957-07-06,1957-07-11
+Milwaukee Braves,WIN,5,1957-04-16,1957-04-22
+Milwaukee Braves,WIN,6,1957-06-26,1957-06-30
+Milwaukee Braves,WIN,5,1957-07-16,1957-07-20
+Milwaukee Braves,WIN,5,1957-07-28,1957-08-02
+Milwaukee Braves,WIN,10,1957-08-04,1957-08-15
+Milwaukee Braves,WIN,8,1957-09-16,1957-09-24
+Chicago White Sox,WIN,5,1957-04-28,1957-05-03
+Chicago White Sox,LOSS,5,1957-05-04,1957-05-08
+Chicago White Sox,WIN,6,1957-05-09,1957-05-17
+Chicago White Sox,WIN,5,1957-07-04,1957-07-07
+Chicago White Sox,WIN,6,1957-08-20,1957-08-25
+New York Yankees,WIN,6,1957-05-01,1957-05-05
+New York Yankees,WIN,10,1957-06-13,1957-06-23
+New York Yankees,WIN,7,1957-06-28,1957-07-03
+New York Yankees,WIN,6,1957-07-04,1957-07-12
+New York Yankees,WIN,5,1957-07-14,1957-07-19
+New York Yankees,WIN,8,1957-07-28,1957-08-04
+New York Yankees,WIN,5,1957-09-15,1957-09-20

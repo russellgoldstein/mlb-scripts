@@ -1,0 +1,93 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1904-07-04,1904-07-10
+St. Louis Browns,LOSS,7,1904-07-25,1904-08-03
+St. Louis Browns,LOSS,6,1904-08-22,1904-08-26
+St. Louis Browns,LOSS,5,1904-10-01,1904-10-05
+Boston Americans,WIN,7,1904-04-15,1904-04-23
+Boston Americans,WIN,5,1904-05-27,1904-06-01
+Boston Americans,WIN,8,1904-07-02,1904-07-09
+Boston Americans,LOSS,6,1904-07-19,1904-07-23
+Boston Americans,WIN,5,1904-08-26,1904-08-31
+Boston Americans,WIN,6,1904-09-20,1904-09-26
+Boston Americans,WIN,5,1904-10-01,1904-10-05
+Chicago Cubs,WIN,8,1904-05-12,1904-05-20
+Chicago Cubs,LOSS,5,1904-07-01,1904-07-04
+Chicago Cubs,WIN,8,1904-07-06,1904-07-14
+Chicago Cubs,WIN,6,1904-08-06,1904-08-13
+Chicago Cubs,WIN,8,1904-09-01,1904-09-07
+Chicago Cubs,LOSS,6,1904-09-07,1904-09-12
+Cincinnati Reds,WIN,8,1904-05-02,1904-05-10
+Cincinnati Reds,WIN,5,1904-05-20,1904-05-26
+Cleveland Naps,LOSS,5,1904-04-23,1904-05-02
+Cleveland Naps,WIN,6,1904-05-23,1904-05-28
+Cleveland Naps,WIN,5,1904-07-04,1904-07-08
+Cleveland Naps,WIN,7,1904-07-19,1904-07-23
+Cleveland Naps,WIN,8,1904-09-26,1904-10-01
+Detroit Tigers,LOSS,8,1904-05-05,1904-05-14
+Detroit Tigers,LOSS,5,1904-06-26,1904-07-02
+Detroit Tigers,WIN,6,1904-08-08,1904-08-13
+Detroit Tigers,LOSS,11,1904-08-26,1904-09-06
+Detroit Tigers,LOSS,7,1904-09-18,1904-09-27
+Brooklyn Superbas,WIN,5,1904-04-26,1904-05-05
+Brooklyn Superbas,LOSS,7,1904-05-16,1904-05-22
+Brooklyn Superbas,LOSS,5,1904-05-25,1904-05-29
+Brooklyn Superbas,LOSS,6,1904-06-17,1904-06-22
+Brooklyn Superbas,LOSS,7,1904-07-08,1904-07-14
+Brooklyn Superbas,LOSS,8,1904-07-29,1904-08-11
+Brooklyn Superbas,WIN,5,1904-08-12,1904-08-16
+Brooklyn Superbas,LOSS,5,1904-08-17,1904-08-22
+Brooklyn Superbas,LOSS,7,1904-09-24,1904-09-29
+Philadelphia Athletics,WIN,5,1904-05-06,1904-05-12
+Philadelphia Athletics,LOSS,5,1904-07-02,1904-07-06
+Philadelphia Athletics,WIN,7,1904-07-11,1904-07-18
+Philadelphia Athletics,LOSS,5,1904-07-21,1904-07-26
+Philadelphia Athletics,WIN,8,1904-07-27,1904-08-05
+Philadelphia Athletics,LOSS,5,1904-09-20,1904-09-25
+Pittsburgh Pirates,LOSS,5,1904-05-02,1904-05-07
+Pittsburgh Pirates,WIN,6,1904-05-19,1904-05-25
+Pittsburgh Pirates,WIN,7,1904-06-10,1904-06-17
+Pittsburgh Pirates,WIN,6,1904-06-27,1904-07-04
+Pittsburgh Pirates,WIN,5,1904-07-09,1904-07-15
+Pittsburgh Pirates,WIN,6,1904-07-30,1904-08-04
+Pittsburgh Pirates,WIN,5,1904-09-09,1904-09-12
+Pittsburgh Pirates,LOSS,8,1904-09-24,1904-09-30
+New York Giants,WIN,6,1904-05-25,1904-05-30
+New York Giants,WIN,18,1904-06-16,1904-07-04
+New York Giants,WIN,6,1904-08-04,1904-08-12
+New York Giants,WIN,12,1904-08-27,1904-09-07
+New York Giants,WIN,6,1904-09-13,1904-09-17
+New York Giants,LOSS,6,1904-09-28,1904-10-01
+St. Louis Cardinals,LOSS,6,1904-05-02,1904-05-09
+St. Louis Cardinals,WIN,5,1904-05-18,1904-05-22
+St. Louis Cardinals,LOSS,5,1904-05-23,1904-05-29
+St. Louis Cardinals,WIN,8,1904-08-16,1904-08-22
+St. Louis Cardinals,LOSS,5,1904-08-27,1904-08-30
+St. Louis Cardinals,LOSS,7,1904-09-02,1904-09-07
+Washington Senators,LOSS,12,1904-04-16,1904-05-04
+Washington Senators,LOSS,10,1904-05-24,1904-06-03
+Washington Senators,LOSS,9,1904-06-17,1904-06-27
+Washington Senators,LOSS,7,1904-07-02,1904-07-09
+Washington Senators,LOSS,5,1904-07-15,1904-07-20
+Washington Senators,LOSS,7,1904-07-29,1904-08-05
+Washington Senators,LOSS,6,1904-08-15,1904-08-20
+Washington Senators,LOSS,7,1904-09-27,1904-10-03
+Philadelphia Phillies,LOSS,9,1904-04-22,1904-05-05
+Philadelphia Phillies,LOSS,12,1904-05-12,1904-05-30
+Philadelphia Phillies,LOSS,6,1904-06-23,1904-06-29
+Philadelphia Phillies,LOSS,7,1904-07-10,1904-07-19
+Philadelphia Phillies,LOSS,5,1904-08-09,1904-08-13
+Philadelphia Phillies,LOSS,8,1904-08-15,1904-08-21
+Philadelphia Phillies,WIN,5,1904-09-17,1904-09-21
+Boston Beaneaters,LOSS,5,1904-05-20,1904-05-25
+Boston Beaneaters,LOSS,5,1904-07-09,1904-07-14
+Boston Beaneaters,LOSS,8,1904-08-31,1904-09-08
+Boston Beaneaters,LOSS,7,1904-09-13,1904-09-20
+Boston Beaneaters,WIN,7,1904-09-26,1904-10-01
+Chicago White Sox,WIN,7,1904-07-16,1904-07-23
+Chicago White Sox,WIN,6,1904-07-29,1904-08-04
+Chicago White Sox,WIN,5,1904-09-18,1904-09-25
+New York Highlanders,WIN,6,1904-06-21,1904-06-27
+New York Highlanders,WIN,5,1904-07-02,1904-07-06
+New York Highlanders,WIN,5,1904-08-02,1904-08-06
+New York Highlanders,WIN,5,1904-08-22,1904-08-26
+New York Highlanders,WIN,6,1904-08-30,1904-09-05

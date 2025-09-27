@@ -1,0 +1,142 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,5,1997-05-06,1997-05-11
+Los Angeles Angels,WIN,7,1997-05-12,1997-05-18
+Los Angeles Angels,LOSS,5,1997-06-13,1997-06-18
+Los Angeles Angels,WIN,6,1997-06-19,1997-06-24
+Los Angeles Angels,WIN,10,1997-07-05,1997-07-17
+Los Angeles Angels,LOSS,5,1997-09-01,1997-09-06
+Baltimore Orioles,WIN,5,1997-04-09,1997-04-15
+Baltimore Orioles,WIN,5,1997-05-16,1997-05-21
+Baltimore Orioles,WIN,7,1997-05-26,1997-06-04
+Baltimore Orioles,WIN,5,1997-06-30,1997-07-04
+Baltimore Orioles,LOSS,6,1997-07-04,1997-07-13
+Baltimore Orioles,WIN,6,1997-07-26,1997-07-31
+Baltimore Orioles,WIN,5,1997-08-20,1997-08-24
+Baltimore Orioles,LOSS,5,1997-08-30,1997-09-03
+Boston Red Sox,LOSS,7,1997-05-08,1997-05-16
+Boston Red Sox,LOSS,5,1997-05-31,1997-06-04
+Boston Red Sox,WIN,5,1997-08-04,1997-08-08
+Boston Red Sox,WIN,6,1997-08-14,1997-08-20
+Boston Red Sox,LOSS,7,1997-08-29,1997-09-05
+Chicago Cubs,LOSS,15,1997-04-01,1997-04-20
+Chicago Cubs,LOSS,6,1997-06-05,1997-06-10
+Chicago Cubs,LOSS,5,1997-06-17,1997-06-22
+Chicago Cubs,WIN,5,1997-06-30,1997-07-04
+Chicago Cubs,LOSS,9,1997-07-24,1997-08-01
+Cincinnati Reds,LOSS,5,1997-04-05,1997-04-11
+Cincinnati Reds,LOSS,5,1997-04-19,1997-04-25
+Cincinnati Reds,LOSS,5,1997-05-10,1997-05-15
+Cincinnati Reds,WIN,5,1997-06-30,1997-07-04
+Cleveland Guardians,WIN,6,1997-05-17,1997-05-23
+Cleveland Guardians,LOSS,5,1997-08-05,1997-08-09
+Cleveland Guardians,WIN,5,1997-09-03,1997-09-08
+Colorado Rockies,WIN,7,1997-04-03,1997-04-12
+Colorado Rockies,WIN,5,1997-04-20,1997-04-26
+Colorado Rockies,LOSS,5,1997-05-07,1997-05-11
+Colorado Rockies,LOSS,7,1997-07-01,1997-07-10
+Colorado Rockies,LOSS,8,1997-07-12,1997-07-19
+Colorado Rockies,WIN,5,1997-07-22,1997-07-27
+Colorado Rockies,WIN,9,1997-08-26,1997-09-05
+Colorado Rockies,WIN,5,1997-09-10,1997-09-15
+Detroit Tigers,LOSS,5,1997-06-13,1997-06-17
+Detroit Tigers,LOSS,5,1997-09-24,1997-09-28
+Houston Astros,WIN,5,1997-04-19,1997-04-25
+Houston Astros,WIN,9,1997-07-18,1997-07-27
+Houston Astros,LOSS,5,1997-08-04,1997-08-08
+Houston Astros,LOSS,6,1997-08-28,1997-09-02
+Kansas City Royals,LOSS,7,1997-05-16,1997-05-23
+Kansas City Royals,LOSS,12,1997-06-28,1997-07-13
+Kansas City Royals,LOSS,5,1997-08-20,1997-08-24
+Los Angeles Dodgers,LOSS,6,1997-05-18,1997-05-23
+Los Angeles Dodgers,WIN,8,1997-07-01,1997-07-11
+Los Angeles Dodgers,WIN,7,1997-07-25,1997-08-01
+Los Angeles Dodgers,WIN,5,1997-08-21,1997-08-25
+Los Angeles Dodgers,WIN,5,1997-08-26,1997-08-30
+Los Angeles Dodgers,LOSS,5,1997-09-08,1997-09-13
+Los Angeles Dodgers,LOSS,5,1997-09-17,1997-09-21
+Washington Nationals,LOSS,5,1997-04-04,1997-04-12
+Washington Nationals,WIN,6,1997-04-20,1997-04-26
+Washington Nationals,WIN,5,1997-05-11,1997-05-16
+Washington Nationals,WIN,10,1997-06-06,1997-06-16
+Washington Nationals,LOSS,5,1997-07-22,1997-07-27
+New York Mets,WIN,6,1997-06-19,1997-06-24
+New York Mets,WIN,5,1997-07-04,1997-07-11
+New York Mets,WIN,5,1997-07-17,1997-07-21
+New York Mets,WIN,5,1997-08-30,1997-09-03
+New York Mets,LOSS,5,1997-09-15,1997-09-19
+Oakland Athletics,LOSS,7,1997-05-07,1997-05-13
+Oakland Athletics,LOSS,5,1997-06-19,1997-06-23
+Oakland Athletics,LOSS,5,1997-07-10,1997-07-14
+Oakland Athletics,LOSS,6,1997-07-26,1997-07-31
+Oakland Athletics,LOSS,5,1997-08-28,1997-09-01
+Pittsburgh Pirates,LOSS,6,1997-06-17,1997-06-22
+Pittsburgh Pirates,WIN,7,1997-06-30,1997-07-06
+San Diego Padres,LOSS,8,1997-04-22,1997-04-30
+San Diego Padres,WIN,5,1997-05-19,1997-05-23
+San Diego Padres,LOSS,5,1997-05-24,1997-05-29
+San Diego Padres,WIN,6,1997-05-30,1997-06-04
+San Diego Padres,LOSS,5,1997-06-14,1997-06-19
+San Diego Padres,WIN,5,1997-07-20,1997-07-24
+Seattle Mariners,WIN,5,1997-06-01,1997-06-06
+Seattle Mariners,WIN,5,1997-06-11,1997-06-15
+Seattle Mariners,WIN,5,1997-06-19,1997-06-23
+Seattle Mariners,WIN,5,1997-07-23,1997-07-27
+San Francisco Giants,WIN,9,1997-04-09,1997-04-20
+San Francisco Giants,WIN,5,1997-06-14,1997-06-19
+St. Louis Cardinals,LOSS,6,1997-04-01,1997-04-06
+St. Louis Cardinals,WIN,5,1997-04-27,1997-05-01
+St. Louis Cardinals,LOSS,5,1997-06-15,1997-06-20
+St. Louis Cardinals,WIN,5,1997-06-28,1997-07-02
+St. Louis Cardinals,LOSS,5,1997-08-03,1997-08-07
+St. Louis Cardinals,LOSS,7,1997-09-20,1997-09-26
+Texas Rangers,WIN,5,1997-04-23,1997-04-27
+Texas Rangers,LOSS,7,1997-06-18,1997-06-24
+Texas Rangers,LOSS,5,1997-07-28,1997-08-02
+Texas Rangers,LOSS,5,1997-09-05,1997-09-09
+Toronto Blue Jays,LOSS,5,1997-06-21,1997-06-25
+Toronto Blue Jays,WIN,5,1997-07-22,1997-07-26
+Toronto Blue Jays,LOSS,6,1997-07-27,1997-07-31
+Toronto Blue Jays,LOSS,7,1997-08-29,1997-09-04
+Toronto Blue Jays,WIN,5,1997-09-05,1997-09-09
+Toronto Blue Jays,LOSS,5,1997-09-20,1997-09-24
+Minnesota Twins,LOSS,8,1997-04-23,1997-05-01
+Minnesota Twins,WIN,5,1997-07-17,1997-07-22
+Minnesota Twins,LOSS,10,1997-08-09,1997-08-19
+Minnesota Twins,LOSS,5,1997-09-02,1997-09-06
+Minnesota Twins,WIN,5,1997-09-20,1997-09-24
+Philadelphia Phillies,LOSS,5,1997-04-09,1997-04-16
+Philadelphia Phillies,LOSS,6,1997-05-28,1997-06-04
+Philadelphia Phillies,LOSS,8,1997-06-14,1997-06-22
+Philadelphia Phillies,LOSS,11,1997-06-24,1997-07-04
+Philadelphia Phillies,WIN,6,1997-08-09,1997-08-16
+Atlanta Braves,WIN,7,1997-04-03,1997-04-09
+Atlanta Braves,WIN,7,1997-04-12,1997-04-19
+Atlanta Braves,WIN,7,1997-05-16,1997-05-23
+Atlanta Braves,WIN,5,1997-06-25,1997-06-29
+Atlanta Braves,WIN,5,1997-07-01,1997-07-05
+Atlanta Braves,WIN,6,1997-09-15,1997-09-20
+Chicago White Sox,WIN,6,1997-05-15,1997-05-21
+Chicago White Sox,WIN,7,1997-06-21,1997-06-27
+Chicago White Sox,WIN,7,1997-07-04,1997-07-13
+Chicago White Sox,LOSS,6,1997-09-02,1997-09-08
+Miami Marlins,WIN,5,1997-04-05,1997-04-11
+Miami Marlins,LOSS,5,1997-04-18,1997-04-23
+Miami Marlins,WIN,5,1997-04-25,1997-04-29
+Miami Marlins,WIN,8,1997-05-11,1997-05-20
+Miami Marlins,WIN,6,1997-08-29,1997-09-03
+New York Yankees,LOSS,5,1997-04-13,1997-04-17
+New York Yankees,WIN,5,1997-05-10,1997-05-15
+New York Yankees,LOSS,5,1997-05-18,1997-05-23
+New York Yankees,WIN,5,1997-06-06,1997-06-11
+New York Yankees,LOSS,6,1997-09-01,1997-09-06
+New York Yankees,WIN,5,1997-09-14,1997-09-17
+New York Yankees,WIN,5,1997-09-24,1997-09-28
+Milwaukee Brewers,LOSS,6,1997-04-19,1997-04-25
+Milwaukee Brewers,WIN,5,1997-05-07,1997-05-12
+Milwaukee Brewers,LOSS,7,1997-05-13,1997-05-20
+Milwaukee Brewers,LOSS,6,1997-06-05,1997-06-11
+Milwaukee Brewers,LOSS,5,1997-06-30,1997-07-04
+Milwaukee Brewers,WIN,5,1997-07-05,1997-07-13
+Milwaukee Brewers,WIN,9,1997-07-25,1997-08-01
+Milwaukee Brewers,LOSS,5,1997-08-05,1997-08-10
+Milwaukee Brewers,LOSS,5,1997-09-09,1997-09-14

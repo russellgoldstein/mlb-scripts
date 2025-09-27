@@ -1,0 +1,88 @@
+Team,StreakType,Length,StartDate,EndDate
+Baltimore Orioles,LOSS,5,1956-06-03,1956-06-06
+Baltimore Orioles,LOSS,5,1956-06-26,1956-06-30
+Baltimore Orioles,WIN,6,1956-07-14,1956-07-18
+Baltimore Orioles,LOSS,5,1956-07-19,1956-07-24
+Baltimore Orioles,LOSS,5,1956-09-03,1956-09-07
+Boston Red Sox,LOSS,5,1956-04-20,1956-04-27
+Boston Red Sox,WIN,6,1956-07-07,1956-07-14
+Boston Red Sox,WIN,5,1956-08-01,1956-08-05
+Boston Red Sox,LOSS,5,1956-08-17,1956-08-22
+Chicago Cubs,LOSS,7,1956-04-25,1956-05-02
+Chicago Cubs,LOSS,6,1956-07-24,1956-07-29
+Chicago Cubs,LOSS,5,1956-08-07,1956-08-11
+Chicago Cubs,LOSS,7,1956-08-23,1956-08-28
+Cincinnati Redlegs,WIN,6,1956-04-27,1956-05-02
+Cincinnati Redlegs,WIN,5,1956-06-04,1956-06-08
+Cincinnati Redlegs,WIN,5,1956-06-24,1956-06-28
+Cincinnati Redlegs,WIN,5,1956-07-27,1956-07-30
+Cincinnati Redlegs,WIN,5,1956-08-28,1956-09-02
+Cincinnati Redlegs,WIN,6,1956-09-19,1956-09-23
+Cleveland Indians,WIN,9,1956-06-19,1956-06-29
+Cleveland Indians,WIN,5,1956-07-01,1956-07-04
+Cleveland Indians,WIN,7,1956-07-21,1956-07-27
+Cleveland Indians,WIN,6,1956-09-16,1956-09-22
+Detroit Tigers,WIN,7,1956-05-28,1956-06-05
+Detroit Tigers,LOSS,9,1956-06-16,1956-06-25
+Detroit Tigers,LOSS,5,1956-07-01,1956-07-04
+Detroit Tigers,WIN,7,1956-09-06,1956-09-13
+Detroit Tigers,WIN,5,1956-09-15,1956-09-19
+Brooklyn Dodgers,WIN,5,1956-04-22,1956-04-28
+Brooklyn Dodgers,WIN,6,1956-05-08,1956-05-16
+Brooklyn Dodgers,WIN,6,1956-06-09,1956-06-16
+Brooklyn Dodgers,LOSS,5,1956-07-08,1956-07-14
+Brooklyn Dodgers,WIN,8,1956-07-22,1956-07-29
+Brooklyn Dodgers,WIN,6,1956-08-18,1956-08-24
+Kansas City Athletics,LOSS,5,1956-04-22,1956-04-27
+Kansas City Athletics,LOSS,5,1956-05-13,1956-05-18
+Kansas City Athletics,LOSS,5,1956-06-06,1956-06-09
+Kansas City Athletics,LOSS,6,1956-06-25,1956-06-30
+Kansas City Athletics,LOSS,6,1956-07-26,1956-07-31
+Kansas City Athletics,LOSS,6,1956-08-03,1956-08-08
+Kansas City Athletics,LOSS,6,1956-08-10,1956-08-16
+Kansas City Athletics,LOSS,5,1956-08-28,1956-09-02
+Kansas City Athletics,LOSS,5,1956-09-06,1956-09-11
+Pittsburgh Pirates,LOSS,8,1956-06-17,1956-06-24
+Pittsburgh Pirates,LOSS,6,1956-07-13,1956-07-16
+Pittsburgh Pirates,LOSS,8,1956-07-27,1956-08-02
+Pittsburgh Pirates,LOSS,8,1956-08-19,1956-08-25
+New York Giants,LOSS,7,1956-07-08,1956-07-16
+New York Giants,LOSS,8,1956-07-18,1956-07-26
+New York Giants,WIN,5,1956-08-22,1956-08-25
+New York Giants,LOSS,5,1956-08-28,1956-09-01
+New York Giants,WIN,5,1956-09-18,1956-09-22
+St. Louis Cardinals,WIN,6,1956-07-28,1956-08-03
+St. Louis Cardinals,WIN,5,1956-08-23,1956-08-26
+St. Louis Cardinals,LOSS,7,1956-08-26,1956-09-02
+St. Louis Cardinals,WIN,6,1956-09-05,1956-09-13
+St. Louis Cardinals,LOSS,5,1956-09-19,1956-09-23
+Washington Senators,LOSS,5,1956-05-19,1956-05-23
+Washington Senators,LOSS,6,1956-06-11,1956-06-17
+Washington Senators,LOSS,5,1956-07-04,1956-07-12
+Washington Senators,LOSS,5,1956-07-22,1956-07-27
+Washington Senators,LOSS,5,1956-09-08,1956-09-13
+Washington Senators,LOSS,11,1956-09-15,1956-09-26
+Philadelphia Phillies,LOSS,10,1956-04-29,1956-05-13
+Philadelphia Phillies,LOSS,5,1956-06-04,1956-06-08
+Philadelphia Phillies,WIN,6,1956-08-01,1956-08-08
+Philadelphia Phillies,LOSS,6,1956-08-18,1956-08-24
+Milwaukee Braves,WIN,5,1956-05-01,1956-05-11
+Milwaukee Braves,WIN,11,1956-06-17,1956-06-25
+Milwaukee Braves,WIN,7,1956-07-12,1956-07-16
+Milwaukee Braves,WIN,5,1956-07-22,1956-07-26
+Milwaukee Braves,WIN,5,1956-08-31,1956-09-03
+Milwaukee Braves,LOSS,5,1956-09-03,1956-09-08
+Chicago White Sox,LOSS,5,1956-05-05,1956-05-09
+Chicago White Sox,WIN,6,1956-05-10,1956-05-16
+Chicago White Sox,LOSS,5,1956-05-17,1956-05-20
+Chicago White Sox,WIN,9,1956-06-18,1956-06-26
+Chicago White Sox,LOSS,11,1956-07-07,1956-07-18
+Chicago White Sox,WIN,5,1956-08-07,1956-08-10
+Chicago White Sox,WIN,5,1956-08-14,1956-08-18
+New York Yankees,WIN,5,1956-04-20,1956-04-25
+New York Yankees,WIN,5,1956-05-04,1956-05-08
+New York Yankees,WIN,6,1956-05-16,1956-05-21
+New York Yankees,WIN,7,1956-06-14,1956-06-20
+New York Yankees,WIN,11,1956-07-04,1956-07-17
+New York Yankees,WIN,6,1956-07-25,1956-07-30
+New York Yankees,LOSS,6,1956-07-31,1956-08-05

@@ -1,0 +1,86 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,5,1926-04-13,1926-04-18
+St. Louis Browns,LOSS,7,1926-05-06,1926-05-13
+St. Louis Browns,LOSS,6,1926-05-18,1926-05-23
+St. Louis Browns,WIN,5,1926-07-04,1926-07-09
+St. Louis Browns,LOSS,7,1926-07-10,1926-07-17
+St. Louis Browns,WIN,5,1926-07-20,1926-07-23
+St. Louis Browns,LOSS,6,1926-07-25,1926-07-31
+St. Louis Browns,LOSS,6,1926-08-16,1926-08-21
+St. Louis Browns,LOSS,6,1926-09-20,1926-09-25
+Boston Red Sox,LOSS,5,1926-04-26,1926-04-30
+Boston Red Sox,LOSS,7,1926-05-23,1926-05-30
+Boston Red Sox,LOSS,6,1926-07-02,1926-07-07
+Boston Red Sox,LOSS,6,1926-07-19,1926-07-23
+Boston Red Sox,WIN,5,1926-08-16,1926-08-19
+Boston Red Sox,LOSS,17,1926-08-20,1926-09-07
+Boston Red Sox,LOSS,6,1926-09-12,1926-09-19
+Chicago Cubs,LOSS,5,1926-07-27,1926-08-01
+Chicago Cubs,WIN,5,1926-08-03,1926-08-07
+Chicago Cubs,WIN,8,1926-08-22,1926-08-29
+Chicago Cubs,LOSS,5,1926-09-14,1926-09-18
+Cincinnati Reds,WIN,6,1926-05-11,1926-05-16
+Cincinnati Reds,LOSS,6,1926-05-31,1926-06-09
+Cincinnati Reds,WIN,6,1926-06-25,1926-06-30
+Cincinnati Reds,LOSS,5,1926-07-07,1926-07-11
+Cincinnati Reds,WIN,6,1926-08-11,1926-08-20
+Cincinnati Reds,WIN,8,1926-09-10,1926-09-16
+Cincinnati Reds,LOSS,5,1926-09-17,1926-09-21
+Cleveland Indians,WIN,5,1926-04-19,1926-04-24
+Cleveland Indians,LOSS,6,1926-05-26,1926-05-31
+Cleveland Indians,LOSS,6,1926-06-22,1926-06-27
+Cleveland Indians,WIN,7,1926-07-25,1926-08-01
+Cleveland Indians,WIN,9,1926-08-25,1926-09-05
+Detroit Tigers,LOSS,5,1926-04-21,1926-04-26
+Detroit Tigers,WIN,7,1926-06-19,1926-06-27
+Detroit Tigers,LOSS,6,1926-07-03,1926-07-08
+Detroit Tigers,WIN,5,1926-07-17,1926-07-21
+Detroit Tigers,WIN,5,1926-08-20,1926-08-25
+Brooklyn Robins,WIN,6,1926-04-24,1926-04-30
+Brooklyn Robins,WIN,5,1926-06-21,1926-06-25
+Brooklyn Robins,LOSS,9,1926-08-02,1926-08-10
+Brooklyn Robins,LOSS,5,1926-09-12,1926-09-15
+Philadelphia Athletics,WIN,9,1926-05-03,1926-05-12
+Philadelphia Athletics,WIN,6,1926-05-25,1926-05-29
+Philadelphia Athletics,WIN,6,1926-07-02,1926-07-07
+Philadelphia Athletics,LOSS,7,1926-07-17,1926-07-23
+Philadelphia Athletics,WIN,5,1926-08-08,1926-08-12
+Philadelphia Athletics,WIN,5,1926-09-21,1926-09-26
+Pittsburgh Pirates,WIN,5,1926-06-18,1926-06-22
+Pittsburgh Pirates,LOSS,6,1926-06-25,1926-06-30
+New York Giants,WIN,7,1926-04-14,1926-04-23
+New York Giants,LOSS,5,1926-05-07,1926-05-11
+New York Giants,WIN,5,1926-07-31,1926-08-03
+New York Giants,LOSS,6,1926-08-19,1926-08-24
+St. Louis Cardinals,LOSS,5,1926-04-29,1926-05-03
+St. Louis Cardinals,WIN,6,1926-06-02,1926-06-11
+St. Louis Cardinals,WIN,6,1926-06-15,1926-06-20
+St. Louis Cardinals,LOSS,5,1926-07-01,1926-07-05
+St. Louis Cardinals,WIN,6,1926-08-04,1926-08-08
+St. Louis Cardinals,WIN,8,1926-08-15,1926-08-22
+St. Louis Cardinals,WIN,6,1926-08-30,1926-09-02
+St. Louis Cardinals,WIN,5,1926-09-15,1926-09-18
+Washington Senators,WIN,6,1926-05-02,1926-05-07
+Washington Senators,WIN,10,1926-08-28,1926-09-06
+Washington Senators,LOSS,5,1926-09-11,1926-09-15
+Philadelphia Phillies,LOSS,5,1926-06-16,1926-06-21
+Philadelphia Phillies,WIN,5,1926-06-25,1926-06-28
+Philadelphia Phillies,LOSS,5,1926-07-09,1926-07-14
+Philadelphia Phillies,LOSS,5,1926-08-03,1926-08-07
+Philadelphia Phillies,LOSS,6,1926-08-19,1926-08-25
+Philadelphia Phillies,LOSS,5,1926-09-15,1926-09-18
+Boston Braves,LOSS,6,1926-05-11,1926-05-17
+Boston Braves,WIN,8,1926-06-02,1926-06-10
+Boston Braves,LOSS,5,1926-06-16,1926-06-19
+Boston Braves,LOSS,8,1926-06-21,1926-06-28
+Boston Braves,LOSS,6,1926-07-05,1926-07-11
+Boston Braves,WIN,7,1926-07-23,1926-07-31
+Boston Braves,LOSS,9,1926-08-24,1926-09-03
+Boston Braves,WIN,6,1926-09-11,1926-09-18
+Chicago White Sox,WIN,5,1926-04-28,1926-05-02
+Chicago White Sox,LOSS,6,1926-07-21,1926-07-27
+Chicago White Sox,WIN,6,1926-09-05,1926-09-09
+Chicago White Sox,WIN,8,1926-09-13,1926-09-20
+New York Yankees,WIN,8,1926-04-23,1926-05-01
+New York Yankees,WIN,16,1926-05-10,1926-05-26
+New York Yankees,WIN,11,1926-07-21,1926-08-01

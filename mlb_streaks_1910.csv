@@ -1,0 +1,85 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,LOSS,6,1910-04-27,1910-05-02
+St. Louis Browns,LOSS,6,1910-05-05,1910-05-11
+St. Louis Browns,LOSS,6,1910-05-13,1910-05-19
+St. Louis Browns,LOSS,6,1910-05-29,1910-06-04
+St. Louis Browns,LOSS,6,1910-07-25,1910-07-31
+St. Louis Browns,LOSS,7,1910-08-16,1910-08-24
+St. Louis Browns,LOSS,5,1910-08-31,1910-09-05
+Boston Red Sox,WIN,5,1910-06-21,1910-06-24
+Boston Red Sox,WIN,5,1910-07-06,1910-07-09
+Boston Red Sox,WIN,9,1910-07-12,1910-07-19
+Boston Red Sox,LOSS,6,1910-08-08,1910-08-13
+Boston Red Sox,WIN,8,1910-08-22,1910-08-30
+Boston Red Sox,LOSS,5,1910-09-13,1910-09-19
+Chicago Cubs,WIN,6,1910-04-16,1910-04-28
+Chicago Cubs,WIN,11,1910-05-15,1910-05-30
+Chicago Cubs,WIN,5,1910-06-08,1910-06-14
+Chicago Cubs,WIN,6,1910-06-17,1910-06-23
+Chicago Cubs,WIN,5,1910-07-14,1910-07-18
+Chicago Cubs,WIN,5,1910-07-20,1910-07-24
+Chicago Cubs,WIN,8,1910-07-28,1910-08-04
+Chicago Cubs,WIN,5,1910-08-09,1910-08-15
+Chicago Cubs,WIN,10,1910-08-17,1910-08-26
+Chicago Cubs,LOSS,5,1910-09-22,1910-09-28
+Cincinnati Reds,LOSS,5,1910-05-29,1910-06-02
+Cincinnati Reds,LOSS,6,1910-09-05,1910-09-11
+Cincinnati Reds,LOSS,5,1910-09-27,1910-10-02
+Cleveland Naps,LOSS,6,1910-05-18,1910-05-26
+Cleveland Naps,WIN,5,1910-07-26,1910-07-31
+Cleveland Naps,LOSS,7,1910-08-22,1910-08-30
+Detroit Tigers,WIN,5,1910-04-16,1910-04-23
+Detroit Tigers,WIN,11,1910-05-28,1910-06-08
+Detroit Tigers,LOSS,5,1910-07-06,1910-07-12
+Detroit Tigers,WIN,7,1910-07-23,1910-07-31
+Detroit Tigers,WIN,5,1910-08-04,1910-08-08
+Detroit Tigers,WIN,6,1910-08-31,1910-09-06
+Brooklyn Superbas,LOSS,6,1910-05-14,1910-05-21
+Brooklyn Superbas,WIN,7,1910-05-28,1910-06-04
+Brooklyn Superbas,LOSS,5,1910-07-16,1910-07-18
+Brooklyn Superbas,LOSS,6,1910-07-20,1910-07-26
+Brooklyn Superbas,WIN,6,1910-08-02,1910-08-06
+Brooklyn Superbas,LOSS,5,1910-08-09,1910-08-13
+Brooklyn Superbas,LOSS,5,1910-08-17,1910-08-21
+Brooklyn Superbas,LOSS,7,1910-08-23,1910-08-30
+Philadelphia Athletics,WIN,7,1910-04-30,1910-05-09
+Philadelphia Athletics,WIN,6,1910-05-12,1910-05-18
+Philadelphia Athletics,WIN,5,1910-05-25,1910-05-30
+Philadelphia Athletics,WIN,5,1910-07-08,1910-07-13
+Philadelphia Athletics,WIN,5,1910-07-15,1910-07-20
+Philadelphia Athletics,WIN,6,1910-08-05,1910-08-10
+Philadelphia Athletics,WIN,6,1910-08-18,1910-08-24
+Philadelphia Athletics,WIN,8,1910-09-07,1910-09-16
+Pittsburgh Pirates,LOSS,6,1910-05-23,1910-05-29
+Pittsburgh Pirates,WIN,7,1910-08-06,1910-08-13
+Pittsburgh Pirates,LOSS,5,1910-08-29,1910-09-02
+Pittsburgh Pirates,WIN,5,1910-09-04,1910-09-07
+New York Giants,WIN,7,1910-04-23,1910-05-02
+New York Giants,WIN,9,1910-05-23,1910-06-02
+New York Giants,LOSS,5,1910-07-11,1910-07-16
+New York Giants,WIN,5,1910-08-05,1910-08-11
+New York Giants,WIN,7,1910-09-27,1910-10-04
+St. Louis Cardinals,LOSS,6,1910-04-17,1910-04-24
+St. Louis Cardinals,WIN,8,1910-05-12,1910-05-19
+St. Louis Cardinals,LOSS,13,1910-07-28,1910-08-11
+St. Louis Cardinals,WIN,5,1910-09-08,1910-09-15
+Washington Senators,LOSS,6,1910-05-04,1910-05-10
+Washington Senators,LOSS,7,1910-06-21,1910-06-27
+Washington Senators,LOSS,5,1910-07-02,1910-07-06
+Washington Senators,LOSS,8,1910-09-08,1910-09-17
+Philadelphia Phillies,WIN,6,1910-04-15,1910-04-23
+Philadelphia Phillies,LOSS,10,1910-05-22,1910-06-02
+Philadelphia Phillies,WIN,5,1910-06-20,1910-06-23
+Philadelphia Phillies,WIN,5,1910-07-28,1910-08-02
+Boston Doves,LOSS,5,1910-04-16,1910-04-23
+Boston Doves,LOSS,7,1910-05-28,1910-06-03
+Boston Doves,LOSS,7,1910-06-18,1910-06-23
+Boston Doves,LOSS,6,1910-07-28,1910-08-02
+Boston Doves,LOSS,7,1910-08-06,1910-08-13
+Boston Doves,LOSS,6,1910-09-28,1910-10-04
+Chicago White Sox,LOSS,7,1910-05-13,1910-05-20
+Chicago White Sox,LOSS,11,1910-07-09,1910-07-20
+Chicago White Sox,LOSS,5,1910-08-16,1910-08-22
+Chicago White Sox,WIN,9,1910-09-14,1910-09-24
+New York Highlanders,WIN,7,1910-05-14,1910-05-21
+New York Highlanders,LOSS,7,1910-08-03,1910-08-09

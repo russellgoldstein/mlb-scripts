@@ -1,0 +1,149 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,LOSS,6,2016-05-06,2016-05-12
+Los Angeles Angels,LOSS,5,2016-06-06,2016-06-10
+Los Angeles Angels,LOSS,6,2016-06-20,2016-06-25
+Los Angeles Angels,WIN,6,2016-07-15,2016-07-20
+Los Angeles Angels,LOSS,11,2016-08-04,2016-08-15
+Los Angeles Angels,WIN,5,2016-08-27,2016-08-31
+Los Angeles Angels,LOSS,5,2016-09-12,2016-09-16
+Arizona Diamondbacks,WIN,5,2016-04-17,2016-04-21
+Arizona Diamondbacks,LOSS,6,2016-04-29,2016-05-05
+Arizona Diamondbacks,WIN,5,2016-05-06,2016-05-10
+Arizona Diamondbacks,LOSS,5,2016-05-11,2016-05-15
+Arizona Diamondbacks,WIN,5,2016-06-17,2016-06-21
+Arizona Diamondbacks,LOSS,6,2016-06-25,2016-07-01
+Arizona Diamondbacks,LOSS,5,2016-07-06,2016-07-15
+Arizona Diamondbacks,LOSS,6,2016-09-05,2016-09-11
+Baltimore Orioles,WIN,5,2016-05-10,2016-05-14
+Baltimore Orioles,WIN,5,2016-06-05,2016-06-09
+Baltimore Orioles,WIN,7,2016-06-22,2016-06-29
+Baltimore Orioles,LOSS,5,2016-06-30,2016-07-04
+Baltimore Orioles,WIN,5,2016-07-21,2016-07-25
+Baltimore Orioles,LOSS,5,2016-07-26,2016-07-30
+Boston Red Sox,WIN,5,2016-05-08,2016-05-12
+Boston Red Sox,WIN,6,2016-07-06,2016-07-16
+Boston Red Sox,WIN,6,2016-08-12,2016-08-17
+Boston Red Sox,WIN,11,2016-09-15,2016-09-25
+Chicago Cubs,WIN,5,2016-04-09,2016-04-14
+Chicago Cubs,WIN,7,2016-05-02,2016-05-08
+Chicago Cubs,WIN,6,2016-05-24,2016-05-30
+Chicago Cubs,LOSS,5,2016-07-05,2016-07-09
+Chicago Cubs,WIN,11,2016-07-31,2016-08-12
+Chicago Cubs,WIN,5,2016-08-29,2016-09-02
+Cincinnati Reds,LOSS,6,2016-04-24,2016-04-30
+Cincinnati Reds,LOSS,11,2016-05-16,2016-05-27
+Cincinnati Reds,LOSS,5,2016-06-27,2016-07-01
+Cincinnati Reds,WIN,5,2016-08-16,2016-08-20
+Cincinnati Reds,LOSS,5,2016-09-04,2016-09-08
+Cincinnati Reds,WIN,5,2016-09-09,2016-09-13
+Cleveland Indians,WIN,5,2016-05-16,2016-05-20
+Cleveland Indians,WIN,6,2016-06-01,2016-06-06
+Cleveland Indians,WIN,14,2016-06-17,2016-07-01
+Cleveland Indians,WIN,6,2016-08-29,2016-09-04
+Colorado Rockies,LOSS,5,2016-04-23,2016-04-27
+Colorado Rockies,WIN,5,2016-05-11,2016-05-17
+Colorado Rockies,LOSS,6,2016-06-28,2016-07-04
+Colorado Rockies,WIN,5,2016-07-26,2016-07-30
+Colorado Rockies,LOSS,5,2016-09-22,2016-09-27
+Detroit Tigers,WIN,5,2016-04-27,2016-05-01
+Detroit Tigers,LOSS,7,2016-05-03,2016-05-09
+Detroit Tigers,WIN,5,2016-06-03,2016-06-07
+Detroit Tigers,WIN,6,2016-06-28,2016-07-03
+Detroit Tigers,WIN,8,2016-07-25,2016-08-03
+Detroit Tigers,LOSS,5,2016-08-07,2016-08-12
+Detroit Tigers,WIN,5,2016-08-21,2016-08-26
+Houston Astros,WIN,5,2016-05-28,2016-06-01
+Houston Astros,WIN,7,2016-06-18,2016-06-25
+Houston Astros,LOSS,5,2016-08-13,2016-08-18
+Kansas City Royals,LOSS,5,2016-04-25,2016-04-30
+Kansas City Royals,WIN,6,2016-05-27,2016-06-01
+Kansas City Royals,LOSS,8,2016-06-02,2016-06-10
+Kansas City Royals,WIN,5,2016-06-11,2016-06-15
+Kansas City Royals,WIN,9,2016-08-14,2016-08-23
+Kansas City Royals,LOSS,5,2016-09-12,2016-09-16
+Los Angeles Dodgers,LOSS,6,2016-04-25,2016-04-30
+Los Angeles Dodgers,WIN,6,2016-06-17,2016-06-22
+Los Angeles Dodgers,WIN,5,2016-06-30,2016-07-04
+Los Angeles Dodgers,WIN,5,2016-09-03,2016-09-07
+Los Angeles Dodgers,WIN,5,2016-09-21,2016-09-25
+Washington Nationals,WIN,7,2016-04-10,2016-04-16
+Washington Nationals,LOSS,7,2016-06-18,2016-06-25
+Washington Nationals,WIN,6,2016-06-26,2016-07-01
+Washington Nationals,WIN,5,2016-07-08,2016-07-16
+New York Mets,WIN,8,2016-04-22,2016-04-30
+New York Mets,WIN,5,2016-06-30,2016-07-04
+New York Mets,WIN,6,2016-09-03,2016-09-09
+Oakland Athletics,WIN,6,2016-04-16,2016-04-22
+Oakland Athletics,LOSS,5,2016-05-07,2016-05-11
+Oakland Athletics,WIN,5,2016-05-28,2016-06-01
+Oakland Athletics,LOSS,7,2016-06-03,2016-06-11
+Oakland Athletics,LOSS,5,2016-07-29,2016-08-03
+Oakland Athletics,LOSS,5,2016-08-13,2016-08-17
+Oakland Athletics,LOSS,5,2016-08-29,2016-09-03
+Oakland Athletics,LOSS,5,2016-09-19,2016-09-24
+Oakland Athletics,LOSS,5,2016-09-26,2016-09-30
+Pittsburgh Pirates,WIN,5,2016-05-23,2016-05-27
+Pittsburgh Pirates,LOSS,5,2016-06-08,2016-06-12
+Pittsburgh Pirates,LOSS,5,2016-06-15,2016-06-19
+Pittsburgh Pirates,WIN,7,2016-06-29,2016-07-06
+Pittsburgh Pirates,LOSS,8,2016-08-29,2016-09-06
+San Diego Padres,LOSS,5,2016-04-23,2016-04-27
+San Diego Padres,LOSS,5,2016-08-13,2016-08-17
+Seattle Mariners,LOSS,5,2016-04-08,2016-04-12
+Seattle Mariners,LOSS,6,2016-06-18,2016-06-23
+Seattle Mariners,WIN,6,2016-08-05,2016-08-10
+Seattle Mariners,LOSS,5,2016-08-27,2016-08-31
+Seattle Mariners,WIN,8,2016-09-07,2016-09-14
+San Francisco Giants,LOSS,5,2016-04-17,2016-04-21
+San Francisco Giants,WIN,8,2016-05-11,2016-05-19
+San Francisco Giants,WIN,5,2016-05-21,2016-05-25
+San Francisco Giants,WIN,8,2016-06-11,2016-06-19
+San Francisco Giants,LOSS,6,2016-07-15,2016-07-22
+St. Louis Cardinals,WIN,5,2016-06-08,2016-06-12
+St. Louis Cardinals,LOSS,5,2016-06-14,2016-06-19
+St. Louis Cardinals,WIN,5,2016-08-13,2016-08-19
+Tampa Bay Rays,LOSS,5,2016-05-29,2016-06-02
+Tampa Bay Rays,LOSS,11,2016-06-16,2016-06-26
+Tampa Bay Rays,LOSS,8,2016-07-05,2016-07-16
+Tampa Bay Rays,LOSS,6,2016-09-23,2016-09-28
+Texas Rangers,WIN,5,2016-06-03,2016-06-07
+Texas Rangers,WIN,7,2016-06-14,2016-06-20
+Texas Rangers,WIN,5,2016-08-06,2016-08-10
+Texas Rangers,WIN,7,2016-08-27,2016-09-03
+Toronto Blue Jays,LOSS,5,2016-05-14,2016-05-18
+Toronto Blue Jays,WIN,7,2016-07-02,2016-07-08
+Minnesota Twins,LOSS,9,2016-04-04,2016-04-14
+Minnesota Twins,LOSS,5,2016-05-03,2016-05-08
+Minnesota Twins,LOSS,5,2016-05-16,2016-05-20
+Minnesota Twins,LOSS,5,2016-06-14,2016-06-18
+Minnesota Twins,LOSS,13,2016-08-18,2016-08-31
+Philadelphia Phillies,WIN,6,2016-04-26,2016-05-01
+Philadelphia Phillies,LOSS,7,2016-05-27,2016-06-02
+Philadelphia Phillies,LOSS,9,2016-06-14,2016-06-22
+Philadelphia Phillies,LOSS,6,2016-08-29,2016-09-04
+Philadelphia Phillies,LOSS,6,2016-09-25,2016-10-01
+Atlanta Braves,LOSS,9,2016-04-04,2016-04-14
+Atlanta Braves,LOSS,8,2016-04-20,2016-04-27
+Atlanta Braves,LOSS,5,2016-05-04,2016-05-10
+Atlanta Braves,LOSS,6,2016-06-02,2016-06-07
+Atlanta Braves,WIN,6,2016-06-15,2016-06-21
+Atlanta Braves,LOSS,5,2016-07-20,2016-07-24
+Atlanta Braves,LOSS,7,2016-08-13,2016-08-20
+Atlanta Braves,WIN,6,2016-08-30,2016-09-04
+Atlanta Braves,WIN,7,2016-09-17,2016-09-23
+Chicago White Sox,WIN,6,2016-04-22,2016-04-27
+Chicago White Sox,LOSS,5,2016-06-03,2016-06-08
+Chicago White Sox,LOSS,5,2016-07-10,2016-07-18
+Chicago White Sox,WIN,5,2016-07-23,2016-07-26
+Chicago White Sox,LOSS,6,2016-09-17,2016-09-23
+Chicago White Sox,WIN,5,2016-09-24,2016-09-28
+Miami Marlins,WIN,7,2016-04-24,2016-04-30
+Miami Marlins,LOSS,5,2016-08-27,2016-08-31
+Miami Marlins,LOSS,5,2016-09-02,2016-09-06
+New York Yankees,LOSS,6,2016-04-26,2016-05-03
+New York Yankees,WIN,6,2016-05-18,2016-05-24
+New York Yankees,WIN,5,2016-06-06,2016-06-10
+New York Yankees,WIN,7,2016-09-04,2016-09-10
+New York Yankees,LOSS,5,2016-09-14,2016-09-18
+Milwaukee Brewers,LOSS,6,2016-08-16,2016-08-20
+Milwaukee Brewers,LOSS,6,2016-08-25,2016-08-30

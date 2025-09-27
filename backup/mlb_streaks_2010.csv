@@ -1,0 +1,154 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,2010-04-16,2010-04-20
+Los Angeles Angels,LOSS,7,2010-04-30,2010-05-06
+Los Angeles Angels,WIN,6,2010-06-02,2010-06-07
+Arizona Diamondbacks,LOSS,5,2010-04-15,2010-04-19
+Arizona Diamondbacks,LOSS,7,2010-05-07,2010-05-14
+Arizona Diamondbacks,LOSS,10,2010-05-23,2010-06-02
+Arizona Diamondbacks,LOSS,5,2010-07-03,2010-07-07
+Arizona Diamondbacks,LOSS,7,2010-07-22,2010-07-29
+Baltimore Orioles,LOSS,9,2010-04-09,2010-04-17
+Baltimore Orioles,LOSS,5,2010-04-19,2010-04-24
+Baltimore Orioles,LOSS,10,2010-05-26,2010-06-05
+Baltimore Orioles,LOSS,5,2010-07-24,2010-07-28
+Boston Red Sox,LOSS,6,2010-04-15,2010-04-19
+Boston Red Sox,WIN,5,2010-05-22,2010-05-26
+Boston Red Sox,WIN,6,2010-06-15,2010-06-20
+Chicago Cubs,LOSS,7,2010-07-27,2010-08-03
+Chicago Cubs,LOSS,5,2010-08-16,2010-08-20
+Chicago Cubs,WIN,6,2010-09-13,2010-09-19
+Cincinnati Reds,LOSS,5,2010-04-14,2010-04-18
+Cincinnati Reds,WIN,5,2010-04-25,2010-04-30
+Cincinnati Reds,WIN,5,2010-05-08,2010-05-12
+Cincinnati Reds,WIN,5,2010-06-21,2010-06-26
+Cincinnati Reds,WIN,7,2010-08-13,2010-08-20
+Cincinnati Reds,LOSS,5,2010-09-05,2010-09-09
+Cleveland Guardians,LOSS,5,2010-04-09,2010-04-14
+Cleveland Guardians,LOSS,6,2010-05-17,2010-05-22
+Cleveland Guardians,LOSS,7,2010-06-19,2010-06-26
+Cleveland Guardians,WIN,5,2010-06-27,2010-07-01
+Cleveland Guardians,WIN,6,2010-07-16,2010-07-20
+Cleveland Guardians,LOSS,5,2010-08-20,2010-08-25
+Cleveland Guardians,LOSS,5,2010-09-19,2010-09-23
+Colorado Rockies,WIN,5,2010-05-22,2010-05-27
+Colorado Rockies,WIN,6,2010-07-04,2010-07-10
+Colorado Rockies,LOSS,8,2010-07-21,2010-07-28
+Colorado Rockies,WIN,10,2010-09-03,2010-09-12
+Colorado Rockies,LOSS,5,2010-09-19,2010-09-24
+Colorado Rockies,LOSS,8,2010-09-26,2010-10-03
+Detroit Tigers,WIN,5,2010-04-28,2010-05-02
+Detroit Tigers,WIN,7,2010-06-11,2010-06-18
+Detroit Tigers,WIN,5,2010-07-05,2010-07-10
+Detroit Tigers,LOSS,7,2010-07-11,2010-07-20
+Detroit Tigers,WIN,5,2010-08-20,2010-08-24
+Houston Astros,LOSS,8,2010-04-05,2010-04-14
+Houston Astros,LOSS,8,2010-04-27,2010-05-04
+Houston Astros,LOSS,5,2010-05-14,2010-05-18
+Houston Astros,LOSS,5,2010-06-17,2010-06-22
+Houston Astros,WIN,7,2010-07-27,2010-08-03
+Houston Astros,WIN,5,2010-08-22,2010-08-26
+Kansas City Royals,LOSS,7,2010-05-05,2010-05-12
+Kansas City Royals,LOSS,5,2010-06-18,2010-06-22
+Kansas City Royals,LOSS,6,2010-07-09,2010-07-18
+Kansas City Royals,LOSS,5,2010-07-25,2010-07-29
+Kansas City Royals,LOSS,5,2010-08-08,2010-08-12
+Los Angeles Dodgers,WIN,9,2010-05-09,2010-05-18
+Los Angeles Dodgers,LOSS,6,2010-06-17,2010-06-23
+Los Angeles Dodgers,LOSS,6,2010-07-15,2010-07-20
+Los Angeles Dodgers,LOSS,6,2010-07-28,2010-08-02
+Los Angeles Dodgers,LOSS,6,2010-09-04,2010-09-09
+Washington Nationals,LOSS,5,2010-05-15,2010-05-18
+Washington Nationals,LOSS,6,2010-06-15,2010-06-20
+Washington Nationals,LOSS,5,2010-06-23,2010-06-28
+Washington Nationals,LOSS,5,2010-08-07,2010-08-12
+Washington Nationals,LOSS,6,2010-09-07,2010-09-13
+New York Mets,LOSS,5,2010-05-12,2010-05-16
+New York Mets,WIN,5,2010-05-22,2010-05-27
+New York Mets,WIN,8,2010-06-10,2010-06-18
+New York Mets,LOSS,6,2010-09-17,2010-09-24
+Oakland Athletics,LOSS,5,2010-05-12,2010-05-16
+Oakland Athletics,WIN,5,2010-07-10,2010-07-18
+Oakland Athletics,LOSS,6,2010-09-24,2010-09-29
+Pittsburgh Pirates,LOSS,7,2010-04-20,2010-04-26
+Pittsburgh Pirates,LOSS,5,2010-05-26,2010-05-30
+Pittsburgh Pirates,LOSS,12,2010-06-06,2010-06-18
+Pittsburgh Pirates,LOSS,6,2010-06-22,2010-06-27
+Pittsburgh Pirates,LOSS,7,2010-07-06,2010-07-16
+Pittsburgh Pirates,LOSS,5,2010-07-29,2010-08-02
+Pittsburgh Pirates,LOSS,7,2010-08-08,2010-08-15
+Pittsburgh Pirates,LOSS,5,2010-08-17,2010-08-21
+Pittsburgh Pirates,WIN,5,2010-09-17,2010-09-22
+San Diego Padres,WIN,8,2010-04-16,2010-04-24
+San Diego Padres,WIN,5,2010-08-08,2010-08-13
+San Diego Padres,WIN,5,2010-08-15,2010-08-19
+San Diego Padres,LOSS,10,2010-08-26,2010-09-05
+Seattle Mariners,LOSS,8,2010-04-30,2010-05-08
+Seattle Mariners,LOSS,5,2010-05-15,2010-05-19
+Seattle Mariners,LOSS,5,2010-06-08,2010-06-12
+Seattle Mariners,WIN,6,2010-06-16,2010-06-23
+Seattle Mariners,LOSS,5,2010-07-05,2010-07-09
+Seattle Mariners,LOSS,7,2010-07-26,2010-08-01
+Seattle Mariners,LOSS,7,2010-09-08,2010-09-15
+Seattle Mariners,LOSS,5,2010-09-29,2010-10-03
+San Francisco Giants,LOSS,5,2010-05-19,2010-05-23
+San Francisco Giants,LOSS,7,2010-06-26,2010-07-02
+San Francisco Giants,WIN,5,2010-07-10,2010-07-17
+St. Louis Cardinals,WIN,5,2010-04-25,2010-04-29
+St. Louis Cardinals,WIN,8,2010-07-11,2010-07-21
+St. Louis Cardinals,LOSS,5,2010-08-14,2010-08-20
+St. Louis Cardinals,LOSS,5,2010-08-28,2010-09-01
+St. Louis Cardinals,WIN,5,2010-09-29,2010-10-03
+Tampa Bay Rays,WIN,8,2010-04-12,2010-04-19
+Tampa Bay Rays,WIN,5,2010-04-24,2010-04-29
+Tampa Bay Rays,WIN,5,2010-05-02,2010-05-07
+Tampa Bay Rays,WIN,6,2010-05-15,2010-05-20
+Tampa Bay Rays,WIN,6,2010-07-03,2010-07-08
+Tampa Bay Rays,WIN,7,2010-07-24,2010-07-30
+Tampa Bay Rays,LOSS,5,2010-08-04,2010-08-08
+Tampa Bay Rays,WIN,5,2010-08-14,2010-08-18
+Texas Rangers,LOSS,6,2010-04-15,2010-04-21
+Texas Rangers,WIN,5,2010-05-17,2010-05-21
+Texas Rangers,WIN,11,2010-06-12,2010-06-24
+Texas Rangers,LOSS,5,2010-09-03,2010-09-07
+Texas Rangers,WIN,7,2010-09-08,2010-09-15
+Toronto Blue Jays,WIN,5,2010-04-07,2010-04-11
+Toronto Blue Jays,LOSS,5,2010-04-24,2010-04-28
+Toronto Blue Jays,WIN,6,2010-05-02,2010-05-07
+Toronto Blue Jays,LOSS,5,2010-06-27,2010-07-01
+Toronto Blue Jays,WIN,5,2010-09-23,2010-09-27
+Minnesota Twins,WIN,5,2010-04-06,2010-04-10
+Minnesota Twins,WIN,5,2010-05-27,2010-05-31
+Minnesota Twins,WIN,8,2010-07-24,2010-08-01
+Minnesota Twins,WIN,6,2010-08-12,2010-08-18
+Minnesota Twins,WIN,6,2010-09-03,2010-09-08
+Minnesota Twins,WIN,5,2010-09-11,2010-09-16
+Minnesota Twins,LOSS,5,2010-09-24,2010-09-28
+Philadelphia Phillies,WIN,5,2010-04-09,2010-04-14
+Philadelphia Phillies,LOSS,5,2010-05-22,2010-05-27
+Philadelphia Phillies,WIN,8,2010-07-22,2010-07-29
+Philadelphia Phillies,WIN,5,2010-08-01,2010-08-06
+Philadelphia Phillies,WIN,5,2010-08-31,2010-09-04
+Philadelphia Phillies,WIN,11,2010-09-12,2010-09-24
+Atlanta Braves,LOSS,9,2010-04-21,2010-04-29
+Atlanta Braves,WIN,5,2010-05-18,2010-05-22
+Atlanta Braves,WIN,9,2010-05-26,2010-06-03
+Atlanta Braves,WIN,5,2010-06-16,2010-06-20
+Atlanta Braves,WIN,5,2010-08-28,2010-09-01
+Chicago White Sox,WIN,11,2010-06-15,2010-06-26
+Chicago White Sox,WIN,9,2010-07-04,2010-07-15
+Chicago White Sox,WIN,5,2010-07-26,2010-07-30
+Chicago White Sox,LOSS,8,2010-09-14,2010-09-21
+Miami Marlins,LOSS,5,2010-08-01,2010-08-06
+Miami Marlins,WIN,5,2010-08-17,2010-08-21
+Miami Marlins,LOSS,6,2010-09-13,2010-09-19
+New York Yankees,WIN,6,2010-04-15,2010-04-21
+New York Yankees,WIN,6,2010-05-02,2010-05-08
+New York Yankees,WIN,5,2010-05-30,2010-06-03
+New York Yankees,WIN,7,2010-07-03,2010-07-09
+New York Yankees,WIN,8,2010-08-28,2010-09-04
+Milwaukee Brewers,LOSS,9,2010-05-10,2010-05-19
+Milwaukee Brewers,WIN,5,2010-06-20,2010-06-25
+Milwaukee Brewers,LOSS,5,2010-07-04,2010-07-08
+Milwaukee Brewers,WIN,5,2010-07-22,2010-07-26
+Milwaukee Brewers,LOSS,5,2010-07-27,2010-08-01
+Milwaukee Brewers,LOSS,5,2010-08-30,2010-09-04

@@ -1,0 +1,135 @@
+Team,StreakType,Length,StartDate,EndDate
+California Angels,LOSS,9,1987-05-22,1987-05-31
+California Angels,WIN,8,1987-06-21,1987-06-29
+California Angels,WIN,5,1987-07-05,1987-07-09
+California Angels,LOSS,5,1987-09-17,1987-09-21
+Baltimore Orioles,WIN,6,1987-05-22,1987-05-28
+Baltimore Orioles,LOSS,10,1987-06-03,1987-06-13
+Baltimore Orioles,LOSS,5,1987-06-15,1987-06-19
+Baltimore Orioles,LOSS,7,1987-06-28,1987-07-05
+Baltimore Orioles,WIN,11,1987-07-12,1987-07-25
+Baltimore Orioles,LOSS,9,1987-09-07,1987-09-16
+Baltimore Orioles,LOSS,8,1987-09-18,1987-09-26
+Boston Red Sox,LOSS,5,1987-04-24,1987-04-28
+Boston Red Sox,WIN,5,1987-06-20,1987-06-24
+Boston Red Sox,LOSS,6,1987-07-04,1987-07-09
+Boston Red Sox,WIN,5,1987-09-08,1987-09-12
+Chicago Cubs,WIN,5,1987-05-13,1987-05-19
+Chicago Cubs,LOSS,5,1987-06-10,1987-06-15
+Chicago Cubs,LOSS,5,1987-06-24,1987-06-28
+Chicago Cubs,WIN,5,1987-07-06,1987-07-09
+Cincinnati Reds,LOSS,7,1987-08-21,1987-08-28
+Cincinnati Reds,WIN,6,1987-09-27,1987-10-02
+Cleveland Indians,LOSS,8,1987-04-10,1987-04-18
+Cleveland Indians,LOSS,6,1987-05-02,1987-05-09
+Cleveland Indians,LOSS,8,1987-06-21,1987-06-29
+Cleveland Indians,LOSS,5,1987-08-22,1987-08-27
+Cleveland Indians,LOSS,6,1987-09-27,1987-10-03
+Detroit Tigers,LOSS,5,1987-04-19,1987-04-24
+Detroit Tigers,WIN,6,1987-05-12,1987-05-18
+Detroit Tigers,WIN,5,1987-05-24,1987-05-29
+Detroit Tigers,WIN,5,1987-07-24,1987-07-28
+Detroit Tigers,WIN,5,1987-08-15,1987-08-20
+Detroit Tigers,WIN,6,1987-09-13,1987-09-19
+Houston Astros,WIN,6,1987-04-06,1987-04-12
+Houston Astros,LOSS,5,1987-05-19,1987-05-24
+Houston Astros,WIN,7,1987-08-14,1987-08-20
+Houston Astros,LOSS,7,1987-08-25,1987-09-01
+Houston Astros,LOSS,5,1987-09-15,1987-09-19
+Kansas City Royals,WIN,6,1987-05-02,1987-05-09
+Kansas City Royals,WIN,5,1987-05-15,1987-05-19
+Kansas City Royals,WIN,6,1987-07-01,1987-07-05
+Kansas City Royals,LOSS,5,1987-07-06,1987-07-10
+Kansas City Royals,LOSS,6,1987-07-12,1987-07-20
+Kansas City Royals,WIN,5,1987-09-29,1987-10-04
+Los Angeles Dodgers,LOSS,5,1987-04-06,1987-04-10
+Los Angeles Dodgers,LOSS,7,1987-05-13,1987-05-22
+Los Angeles Dodgers,LOSS,6,1987-07-07,1987-07-09
+Los Angeles Dodgers,LOSS,6,1987-07-18,1987-07-24
+Los Angeles Dodgers,LOSS,9,1987-08-26,1987-09-05
+Montreal Expos,LOSS,5,1987-04-06,1987-04-12
+Montreal Expos,WIN,8,1987-07-10,1987-07-20
+Montreal Expos,WIN,5,1987-08-13,1987-08-18
+Montreal Expos,WIN,5,1987-08-26,1987-08-30
+Montreal Expos,WIN,5,1987-09-05,1987-09-09
+New York Mets,WIN,5,1987-05-25,1987-05-30
+New York Mets,WIN,7,1987-08-01,1987-08-07
+New York Mets,WIN,6,1987-08-30,1987-09-05
+Oakland Athletics,LOSS,5,1987-04-07,1987-04-11
+Oakland Athletics,WIN,5,1987-06-08,1987-06-13
+Oakland Athletics,LOSS,5,1987-09-23,1987-09-27
+Pittsburgh Pirates,WIN,5,1987-05-19,1987-05-24
+Pittsburgh Pirates,LOSS,6,1987-05-25,1987-05-31
+Pittsburgh Pirates,LOSS,7,1987-07-26,1987-08-02
+Pittsburgh Pirates,WIN,7,1987-08-24,1987-08-31
+Pittsburgh Pirates,WIN,7,1987-09-06,1987-09-13
+San Diego Padres,LOSS,5,1987-04-06,1987-04-11
+San Diego Padres,LOSS,5,1987-04-29,1987-05-03
+San Diego Padres,LOSS,5,1987-05-05,1987-05-09
+San Diego Padres,LOSS,5,1987-05-12,1987-05-16
+San Diego Padres,LOSS,7,1987-05-23,1987-05-30
+San Diego Padres,WIN,6,1987-06-12,1987-06-18
+San Diego Padres,WIN,7,1987-08-05,1987-08-11
+San Diego Padres,LOSS,9,1987-09-24,1987-10-02
+Seattle Mariners,WIN,5,1987-06-14,1987-06-19
+Seattle Mariners,LOSS,6,1987-08-14,1987-08-19
+San Francisco Giants,WIN,5,1987-04-06,1987-04-10
+San Francisco Giants,LOSS,5,1987-05-25,1987-05-30
+San Francisco Giants,LOSS,6,1987-06-12,1987-06-18
+San Francisco Giants,WIN,5,1987-08-07,1987-08-10
+San Francisco Giants,WIN,7,1987-09-12,1987-09-19
+St. Louis Cardinals,WIN,5,1987-05-12,1987-05-17
+St. Louis Cardinals,WIN,5,1987-05-20,1987-05-24
+St. Louis Cardinals,WIN,9,1987-07-03,1987-07-10
+St. Louis Cardinals,LOSS,7,1987-07-24,1987-07-30
+St. Louis Cardinals,LOSS,5,1987-08-15,1987-08-20
+St. Louis Cardinals,WIN,6,1987-08-25,1987-08-31
+Texas Rangers,LOSS,9,1987-04-09,1987-04-19
+Texas Rangers,WIN,6,1987-04-23,1987-04-29
+Texas Rangers,WIN,5,1987-06-26,1987-06-29
+Texas Rangers,LOSS,7,1987-09-22,1987-09-28
+Toronto Blue Jays,WIN,6,1987-04-26,1987-05-03
+Toronto Blue Jays,WIN,11,1987-06-02,1987-06-13
+Toronto Blue Jays,LOSS,8,1987-06-28,1987-07-05
+Toronto Blue Jays,WIN,5,1987-07-06,1987-07-10
+Toronto Blue Jays,WIN,6,1987-09-01,1987-09-07
+Toronto Blue Jays,WIN,7,1987-09-20,1987-09-26
+Toronto Blue Jays,LOSS,7,1987-09-27,1987-10-04
+Minnesota Twins,WIN,7,1987-06-06,1987-06-12
+Minnesota Twins,LOSS,5,1987-06-26,1987-06-29
+Minnesota Twins,WIN,5,1987-08-06,1987-08-11
+Minnesota Twins,LOSS,6,1987-08-18,1987-08-23
+Minnesota Twins,WIN,6,1987-09-18,1987-09-24
+Minnesota Twins,LOSS,5,1987-09-29,1987-10-04
+Philadelphia Phillies,LOSS,6,1987-06-16,1987-06-21
+Philadelphia Phillies,WIN,5,1987-06-28,1987-07-01
+Philadelphia Phillies,WIN,5,1987-07-26,1987-07-31
+Philadelphia Phillies,LOSS,6,1987-08-01,1987-08-06
+Philadelphia Phillies,WIN,5,1987-08-09,1987-08-13
+Philadelphia Phillies,WIN,5,1987-08-19,1987-08-22
+Philadelphia Phillies,LOSS,5,1987-09-08,1987-09-13
+Atlanta Braves,LOSS,6,1987-04-18,1987-04-24
+Atlanta Braves,LOSS,6,1987-06-21,1987-06-27
+Atlanta Braves,LOSS,5,1987-07-03,1987-07-07
+Atlanta Braves,LOSS,5,1987-07-16,1987-07-20
+Atlanta Braves,LOSS,5,1987-08-13,1987-08-17
+Atlanta Braves,WIN,5,1987-08-20,1987-08-27
+Atlanta Braves,LOSS,5,1987-08-27,1987-08-31
+Chicago White Sox,LOSS,7,1987-05-06,1987-05-13
+Chicago White Sox,LOSS,5,1987-06-08,1987-06-12
+Chicago White Sox,LOSS,5,1987-06-14,1987-06-19
+Chicago White Sox,LOSS,5,1987-08-03,1987-08-08
+Chicago White Sox,WIN,5,1987-09-13,1987-09-17
+Chicago White Sox,WIN,7,1987-09-24,1987-10-01
+New York Yankees,WIN,10,1987-04-13,1987-04-23
+New York Yankees,WIN,5,1987-06-15,1987-06-19
+New York Yankees,WIN,5,1987-07-26,1987-07-31
+New York Yankees,LOSS,5,1987-08-09,1987-08-14
+Milwaukee Brewers,WIN,13,1987-04-06,1987-04-20
+Milwaukee Brewers,LOSS,12,1987-05-03,1987-05-19
+Milwaukee Brewers,LOSS,6,1987-05-23,1987-05-29
+Milwaukee Brewers,WIN,6,1987-05-30,1987-06-04
+Milwaukee Brewers,WIN,5,1987-08-04,1987-08-08
+Milwaukee Brewers,WIN,5,1987-08-23,1987-08-28
+Milwaukee Brewers,WIN,5,1987-09-08,1987-09-12
+Milwaukee Brewers,WIN,5,1987-09-26,1987-09-30

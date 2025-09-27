@@ -1,0 +1,92 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,9,1944-04-18,1944-04-28
+St. Louis Browns,WIN,5,1944-06-11,1944-06-17
+St. Louis Browns,WIN,10,1944-07-28,1944-08-10
+St. Louis Browns,WIN,7,1944-09-20,1944-09-26
+Boston Red Sox,WIN,5,1944-05-18,1944-05-21
+Boston Red Sox,WIN,9,1944-06-04,1944-06-15
+Boston Red Sox,LOSS,5,1944-08-21,1944-08-26
+Boston Red Sox,LOSS,10,1944-09-17,1944-09-26
+Chicago Cubs,LOSS,13,1944-04-19,1944-05-10
+Chicago Cubs,WIN,7,1944-05-19,1944-05-27
+Chicago Cubs,LOSS,6,1944-05-28,1944-06-01
+Chicago Cubs,WIN,11,1944-07-25,1944-08-05
+Chicago Cubs,LOSS,5,1944-08-06,1944-08-11
+Chicago Cubs,LOSS,7,1944-08-20,1944-08-26
+Chicago Cubs,WIN,6,1944-09-16,1944-09-22
+Cincinnati Reds,WIN,5,1944-04-19,1944-04-26
+Cincinnati Reds,WIN,5,1944-06-28,1944-07-02
+Cincinnati Reds,WIN,6,1944-08-11,1944-08-15
+Cincinnati Reds,WIN,5,1944-09-26,1944-09-29
+Cleveland Indians,LOSS,6,1944-05-12,1944-05-16
+Cleveland Indians,LOSS,6,1944-08-03,1944-08-06
+Cleveland Indians,LOSS,5,1944-08-11,1944-08-14
+Detroit Tigers,LOSS,5,1944-05-03,1944-05-07
+Detroit Tigers,WIN,6,1944-05-17,1944-05-21
+Detroit Tigers,WIN,7,1944-05-28,1944-06-02
+Detroit Tigers,LOSS,5,1944-06-23,1944-06-28
+Detroit Tigers,WIN,6,1944-07-16,1944-07-22
+Detroit Tigers,WIN,9,1944-07-30,1944-08-12
+Detroit Tigers,WIN,5,1944-09-05,1944-09-10
+Detroit Tigers,WIN,5,1944-09-15,1944-09-20
+Brooklyn Dodgers,WIN,5,1944-06-22,1944-06-25
+Brooklyn Dodgers,LOSS,16,1944-06-28,1944-07-16
+Brooklyn Dodgers,LOSS,5,1944-07-20,1944-07-23
+Brooklyn Dodgers,LOSS,5,1944-07-25,1944-07-29
+Brooklyn Dodgers,LOSS,5,1944-08-12,1944-08-15
+Brooklyn Dodgers,LOSS,6,1944-08-20,1944-08-25
+Brooklyn Dodgers,WIN,5,1944-08-29,1944-09-03
+Philadelphia Athletics,LOSS,5,1944-05-02,1944-05-07
+Philadelphia Athletics,WIN,6,1944-05-12,1944-05-16
+Philadelphia Athletics,LOSS,5,1944-05-17,1944-05-21
+Philadelphia Athletics,LOSS,6,1944-06-13,1944-06-17
+Philadelphia Athletics,WIN,6,1944-06-17,1944-06-21
+Philadelphia Athletics,LOSS,8,1944-07-15,1944-07-22
+Philadelphia Athletics,WIN,6,1944-08-20,1944-08-26
+Philadelphia Athletics,LOSS,5,1944-09-19,1944-09-24
+Pittsburgh Pirates,WIN,5,1944-05-17,1944-05-21
+Pittsburgh Pirates,WIN,6,1944-07-06,1944-07-13
+Pittsburgh Pirates,WIN,11,1944-08-09,1944-08-17
+Pittsburgh Pirates,WIN,6,1944-08-19,1944-08-22
+New York Giants,WIN,5,1944-04-18,1944-04-22
+New York Giants,LOSS,6,1944-04-30,1944-05-06
+New York Giants,WIN,7,1944-05-28,1944-06-02
+New York Giants,WIN,5,1944-06-07,1944-06-12
+New York Giants,LOSS,5,1944-07-20,1944-07-23
+New York Giants,LOSS,13,1944-08-09,1944-08-20
+New York Giants,LOSS,9,1944-09-15,1944-09-23
+St. Louis Cardinals,WIN,5,1944-04-18,1944-04-23
+St. Louis Cardinals,WIN,5,1944-05-12,1944-05-15
+St. Louis Cardinals,WIN,7,1944-06-10,1944-06-18
+St. Louis Cardinals,WIN,7,1944-06-30,1944-07-05
+St. Louis Cardinals,WIN,9,1944-07-23,1944-07-29
+St. Louis Cardinals,WIN,9,1944-08-13,1944-08-20
+St. Louis Cardinals,WIN,5,1944-08-22,1944-08-25
+St. Louis Cardinals,LOSS,5,1944-09-12,1944-09-15
+St. Louis Cardinals,WIN,5,1944-09-23,1944-09-26
+Washington Senators,LOSS,5,1944-05-28,1944-05-31
+Washington Senators,LOSS,11,1944-07-23,1944-08-01
+Washington Senators,LOSS,5,1944-08-06,1944-08-12
+Washington Senators,LOSS,6,1944-09-20,1944-09-25
+Philadelphia Phillies,LOSS,5,1944-06-08,1944-06-13
+Philadelphia Phillies,LOSS,5,1944-06-22,1944-06-25
+Philadelphia Phillies,LOSS,12,1944-07-23,1944-08-06
+Philadelphia Phillies,LOSS,7,1944-08-27,1944-09-03
+Philadelphia Phillies,WIN,6,1944-09-15,1944-09-20
+Philadelphia Phillies,LOSS,9,1944-09-20,1944-09-26
+Boston Braves,LOSS,6,1944-06-04,1944-06-11
+Boston Braves,LOSS,5,1944-06-25,1944-07-01
+Boston Braves,LOSS,8,1944-08-11,1944-08-16
+Boston Braves,WIN,5,1944-08-30,1944-09-03
+Chicago White Sox,LOSS,5,1944-04-21,1944-04-28
+Chicago White Sox,LOSS,5,1944-05-19,1944-05-26
+Chicago White Sox,WIN,8,1944-05-30,1944-06-11
+Chicago White Sox,LOSS,5,1944-08-05,1944-08-10
+Chicago White Sox,WIN,6,1944-09-17,1944-09-24
+New York Yankees,WIN,6,1944-04-30,1944-05-06
+New York Yankees,LOSS,5,1944-05-29,1944-06-01
+New York Yankees,LOSS,7,1944-06-04,1944-06-13
+New York Yankees,WIN,6,1944-06-22,1944-06-29
+New York Yankees,WIN,5,1944-08-21,1944-08-27
+New York Yankees,WIN,6,1944-09-02,1944-09-08
+New York Yankees,LOSS,5,1944-09-16,1944-09-20

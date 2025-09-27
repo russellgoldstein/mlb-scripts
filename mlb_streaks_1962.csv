@@ -1,0 +1,136 @@
+Team,StreakType,Length,StartDate,EndDate
+Los Angeles Angels,WIN,5,1962-06-08,1962-06-12
+Los Angeles Angels,WIN,5,1962-06-17,1962-06-21
+Los Angeles Angels,WIN,5,1962-07-17,1962-07-21
+Los Angeles Angels,LOSS,6,1962-09-12,1962-09-18
+Baltimore Orioles,WIN,5,1962-06-14,1962-06-19
+Baltimore Orioles,WIN,5,1962-07-13,1962-07-17
+Baltimore Orioles,LOSS,6,1962-08-11,1962-08-15
+Baltimore Orioles,WIN,5,1962-08-24,1962-08-26
+Baltimore Orioles,LOSS,6,1962-09-03,1962-09-08
+Boston Red Sox,LOSS,5,1962-04-27,1962-05-01
+Boston Red Sox,LOSS,8,1962-05-16,1962-05-22
+Boston Red Sox,LOSS,5,1962-07-25,1962-07-28
+Boston Red Sox,WIN,5,1962-08-08,1962-08-12
+Chicago Cubs,LOSS,7,1962-04-10,1962-04-17
+Chicago Cubs,LOSS,7,1962-04-26,1962-05-01
+Chicago Cubs,LOSS,5,1962-05-29,1962-06-02
+Chicago Cubs,WIN,5,1962-06-15,1962-06-19
+Chicago Cubs,LOSS,7,1962-07-17,1962-07-23
+Chicago Cubs,LOSS,10,1962-09-04,1962-09-15
+Cincinnati Reds,WIN,5,1962-04-29,1962-05-06
+Cincinnati Reds,WIN,6,1962-05-09,1962-05-16
+Cincinnati Reds,WIN,5,1962-05-24,1962-05-28
+Cincinnati Reds,LOSS,5,1962-06-03,1962-06-08
+Cincinnati Reds,WIN,9,1962-07-19,1962-07-26
+Cincinnati Reds,WIN,9,1962-08-05,1962-08-13
+Cincinnati Reds,WIN,6,1962-08-20,1962-08-25
+Cincinnati Reds,WIN,5,1962-09-03,1962-09-07
+Cleveland Indians,LOSS,5,1962-06-27,1962-07-01
+Cleveland Indians,WIN,6,1962-07-02,1962-07-07
+Cleveland Indians,LOSS,9,1962-07-13,1962-07-21
+Cleveland Indians,LOSS,5,1962-09-12,1962-09-18
+Detroit Tigers,LOSS,5,1962-05-02,1962-05-06
+Detroit Tigers,WIN,5,1962-05-20,1962-05-26
+Detroit Tigers,LOSS,7,1962-06-08,1962-06-16
+Detroit Tigers,LOSS,7,1962-07-12,1962-07-19
+Detroit Tigers,WIN,5,1962-09-13,1962-09-18
+Houston Colt 45's,LOSS,5,1962-05-12,1962-05-17
+Houston Colt 45's,LOSS,5,1962-06-23,1962-06-29
+Houston Colt 45's,LOSS,5,1962-07-01,1962-07-04
+Houston Colt 45's,LOSS,7,1962-07-07,1962-07-14
+Houston Colt 45's,LOSS,5,1962-07-15,1962-07-19
+Houston Colt 45's,LOSS,6,1962-07-22,1962-07-29
+Houston Colt 45's,LOSS,7,1962-08-05,1962-08-11
+Houston Colt 45's,LOSS,9,1962-08-18,1962-08-25
+Houston Colt 45's,WIN,6,1962-09-04,1962-09-08
+Los Angeles Dodgers,WIN,13,1962-05-21,1962-06-01
+Los Angeles Dodgers,WIN,5,1962-06-04,1962-06-06
+Los Angeles Dodgers,WIN,7,1962-06-30,1962-07-05
+Los Angeles Dodgers,WIN,5,1962-07-08,1962-07-15
+Los Angeles Dodgers,LOSS,5,1962-08-10,1962-08-15
+Los Angeles Dodgers,WIN,7,1962-09-08,1962-09-15
+Los Angeles Dodgers,LOSS,5,1962-09-27,1962-10-01
+New York Mets,LOSS,9,1962-04-11,1962-04-22
+New York Mets,LOSS,17,1962-05-21,1962-06-06
+New York Mets,LOSS,7,1962-06-12,1962-06-18
+New York Mets,LOSS,5,1962-07-07,1962-07-14
+New York Mets,LOSS,11,1962-07-15,1962-07-26
+New York Mets,LOSS,5,1962-07-29,1962-08-03
+New York Mets,LOSS,13,1962-08-09,1962-08-21
+New York Mets,LOSS,5,1962-08-28,1962-09-01
+New York Mets,LOSS,6,1962-09-03,1962-09-08
+Kansas City Athletics,LOSS,6,1962-06-06,1962-06-10
+Kansas City Athletics,WIN,6,1962-06-12,1962-06-17
+Kansas City Athletics,LOSS,7,1962-06-18,1962-06-24
+Kansas City Athletics,LOSS,7,1962-07-12,1962-07-17
+Kansas City Athletics,WIN,6,1962-08-04,1962-08-08
+Kansas City Athletics,WIN,5,1962-08-14,1962-08-18
+Kansas City Athletics,LOSS,5,1962-09-05,1962-09-10
+Kansas City Athletics,WIN,6,1962-09-12,1962-09-18
+Pittsburgh Pirates,WIN,10,1962-04-10,1962-04-22
+Pittsburgh Pirates,LOSS,6,1962-05-05,1962-05-13
+Pittsburgh Pirates,WIN,7,1962-05-27,1962-06-02
+Pittsburgh Pirates,LOSS,6,1962-06-03,1962-06-06
+Pittsburgh Pirates,WIN,7,1962-06-10,1962-06-15
+Pittsburgh Pirates,WIN,7,1962-06-30,1962-07-05
+Pittsburgh Pirates,LOSS,6,1962-07-22,1962-07-27
+Pittsburgh Pirates,LOSS,5,1962-08-04,1962-08-10
+San Francisco Giants,WIN,5,1962-04-10,1962-04-14
+San Francisco Giants,WIN,10,1962-04-25,1962-05-04
+San Francisco Giants,WIN,7,1962-05-24,1962-05-30
+San Francisco Giants,WIN,5,1962-06-01,1962-06-05
+San Francisco Giants,LOSS,6,1962-06-06,1962-06-10
+San Francisco Giants,WIN,5,1962-06-23,1962-06-27
+San Francisco Giants,WIN,5,1962-08-09,1962-08-14
+San Francisco Giants,WIN,5,1962-08-23,1962-08-28
+San Francisco Giants,WIN,7,1962-09-05,1962-09-11
+San Francisco Giants,LOSS,6,1962-09-12,1962-09-17
+St. Louis Cardinals,WIN,7,1962-04-11,1962-04-21
+St. Louis Cardinals,WIN,6,1962-05-17,1962-05-22
+St. Louis Cardinals,LOSS,8,1962-05-27,1962-06-03
+St. Louis Cardinals,WIN,7,1962-06-05,1962-06-10
+St. Louis Cardinals,WIN,5,1962-06-24,1962-06-27
+St. Louis Cardinals,LOSS,5,1962-08-11,1962-08-15
+St. Louis Cardinals,LOSS,8,1962-09-10,1962-09-19
+Washington Senators,LOSS,13,1962-04-14,1962-04-29
+Washington Senators,WIN,5,1962-06-08,1962-06-13
+Washington Senators,LOSS,7,1962-07-01,1962-07-08
+Washington Senators,WIN,5,1962-07-15,1962-07-18
+Washington Senators,LOSS,7,1962-08-05,1962-08-10
+Washington Senators,LOSS,5,1962-08-14,1962-08-17
+Minnesota Twins,LOSS,5,1962-04-14,1962-04-19
+Minnesota Twins,WIN,5,1962-05-12,1962-05-18
+Minnesota Twins,LOSS,5,1962-07-04,1962-07-12
+Minnesota Twins,WIN,6,1962-07-15,1962-07-21
+Minnesota Twins,WIN,5,1962-08-01,1962-08-05
+Philadelphia Phillies,WIN,5,1962-04-29,1962-05-05
+Philadelphia Phillies,LOSS,5,1962-05-12,1962-05-16
+Philadelphia Phillies,LOSS,7,1962-05-24,1962-05-30
+Philadelphia Phillies,LOSS,8,1962-06-29,1962-07-05
+Philadelphia Phillies,WIN,5,1962-07-15,1962-07-19
+Philadelphia Phillies,LOSS,8,1962-08-04,1962-08-10
+Philadelphia Phillies,WIN,6,1962-08-11,1962-08-15
+Philadelphia Phillies,WIN,5,1962-08-19,1962-08-22
+Philadelphia Phillies,LOSS,5,1962-08-23,1962-08-28
+Philadelphia Phillies,WIN,6,1962-09-13,1962-09-20
+Milwaukee Braves,LOSS,5,1962-04-10,1962-04-14
+Milwaukee Braves,WIN,5,1962-04-24,1962-04-28
+Milwaukee Braves,WIN,7,1962-07-21,1962-07-27
+Milwaukee Braves,WIN,5,1962-08-04,1962-08-07
+Milwaukee Braves,WIN,5,1962-08-19,1962-08-23
+Milwaukee Braves,LOSS,6,1962-08-30,1962-09-04
+Milwaukee Braves,WIN,5,1962-09-14,1962-09-18
+Milwaukee Braves,WIN,5,1962-09-21,1962-09-26
+Chicago White Sox,LOSS,5,1962-06-10,1962-06-14
+Chicago White Sox,WIN,5,1962-06-20,1962-06-24
+Chicago White Sox,WIN,6,1962-07-08,1962-07-15
+Chicago White Sox,WIN,6,1962-08-09,1962-08-15
+Chicago White Sox,WIN,5,1962-09-08,1962-09-12
+New York Yankees,WIN,7,1962-04-25,1962-05-02
+New York Yankees,WIN,5,1962-06-03,1962-06-09
+New York Yankees,LOSS,5,1962-06-15,1962-06-19
+New York Yankees,WIN,9,1962-07-14,1962-07-21
+New York Yankees,WIN,5,1962-07-25,1962-07-29
+New York Yankees,LOSS,6,1962-08-23,1962-08-26
+New York Yankees,WIN,5,1962-09-23,1962-09-29

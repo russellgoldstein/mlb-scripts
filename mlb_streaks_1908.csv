@@ -1,0 +1,87 @@
+Team,StreakType,Length,StartDate,EndDate
+St. Louis Browns,WIN,5,1908-05-26,1908-05-30
+St. Louis Browns,WIN,6,1908-06-07,1908-06-12
+St. Louis Browns,WIN,8,1908-06-18,1908-06-26
+St. Louis Browns,WIN,5,1908-07-22,1908-07-27
+Boston Red Sox,LOSS,7,1908-05-08,1908-05-16
+Boston Red Sox,WIN,5,1908-05-22,1908-05-27
+Boston Red Sox,LOSS,6,1908-08-21,1908-08-27
+Chicago Cubs,LOSS,5,1908-07-12,1908-07-16
+Chicago Cubs,WIN,5,1908-07-28,1908-07-31
+Chicago Cubs,LOSS,5,1908-08-04,1908-08-10
+Chicago Cubs,WIN,9,1908-08-23,1908-08-31
+Chicago Cubs,WIN,7,1908-09-07,1908-09-13
+Cincinnati Reds,WIN,6,1908-06-04,1908-06-10
+Cincinnati Reds,LOSS,5,1908-06-11,1908-06-17
+Cincinnati Reds,LOSS,6,1908-07-30,1908-08-04
+Cincinnati Reds,LOSS,5,1908-08-31,1908-09-03
+Cleveland Naps,LOSS,5,1908-05-26,1908-05-30
+Cleveland Naps,WIN,7,1908-07-30,1908-08-06
+Cleveland Naps,WIN,5,1908-08-11,1908-08-17
+Cleveland Naps,LOSS,5,1908-09-02,1908-09-06
+Cleveland Naps,WIN,5,1908-09-09,1908-09-13
+Cleveland Naps,WIN,9,1908-09-14,1908-09-23
+Cleveland Naps,WIN,5,1908-09-26,1908-10-02
+Detroit Tigers,WIN,6,1908-05-09,1908-05-15
+Detroit Tigers,WIN,6,1908-07-05,1908-07-10
+Detroit Tigers,WIN,9,1908-07-20,1908-07-30
+Detroit Tigers,LOSS,6,1908-08-28,1908-09-01
+Detroit Tigers,WIN,10,1908-09-25,1908-10-03
+Brooklyn Superbas,LOSS,5,1908-05-26,1908-06-01
+Brooklyn Superbas,LOSS,5,1908-06-04,1908-06-09
+Brooklyn Superbas,LOSS,5,1908-06-23,1908-06-27
+Brooklyn Superbas,LOSS,5,1908-07-17,1908-07-22
+Brooklyn Superbas,LOSS,7,1908-08-21,1908-08-26
+Brooklyn Superbas,LOSS,7,1908-09-01,1908-09-05
+Brooklyn Superbas,LOSS,9,1908-09-07,1908-09-15
+Brooklyn Superbas,LOSS,8,1908-09-22,1908-09-29
+Brooklyn Superbas,WIN,5,1908-09-30,1908-10-05
+Philadelphia Athletics,LOSS,7,1908-06-07,1908-06-13
+Philadelphia Athletics,WIN,7,1908-06-26,1908-07-04
+Philadelphia Athletics,WIN,5,1908-08-28,1908-08-31
+Philadelphia Athletics,LOSS,7,1908-09-25,1908-09-30
+Pittsburgh Pirates,WIN,5,1908-06-15,1908-06-18
+Pittsburgh Pirates,WIN,6,1908-06-24,1908-06-28
+Pittsburgh Pirates,WIN,6,1908-08-31,1908-09-04
+Pittsburgh Pirates,WIN,5,1908-09-19,1908-09-24
+Pittsburgh Pirates,WIN,8,1908-09-25,1908-10-03
+New York Giants,WIN,5,1908-04-17,1908-04-22
+New York Giants,WIN,5,1908-07-02,1908-07-06
+New York Giants,WIN,7,1908-07-29,1908-08-04
+New York Giants,WIN,8,1908-08-17,1908-08-26
+New York Giants,WIN,7,1908-09-01,1908-09-07
+New York Giants,WIN,11,1908-09-08,1908-09-18
+St. Louis Cardinals,LOSS,6,1908-06-24,1908-06-28
+St. Louis Cardinals,LOSS,7,1908-07-15,1908-07-21
+St. Louis Cardinals,LOSS,6,1908-07-29,1908-08-04
+St. Louis Cardinals,LOSS,5,1908-09-02,1908-09-06
+St. Louis Cardinals,LOSS,11,1908-09-07,1908-09-17
+St. Louis Cardinals,LOSS,5,1908-09-21,1908-09-25
+St. Louis Cardinals,LOSS,8,1908-09-27,1908-10-04
+Washington Senators,WIN,5,1908-05-26,1908-05-29
+Washington Senators,LOSS,11,1908-06-03,1908-06-15
+Washington Senators,LOSS,6,1908-07-21,1908-07-27
+Washington Senators,LOSS,6,1908-09-17,1908-09-23
+Washington Senators,LOSS,6,1908-09-26,1908-10-01
+Philadelphia Phillies,WIN,5,1908-05-08,1908-05-16
+Philadelphia Phillies,LOSS,7,1908-07-01,1908-07-06
+Philadelphia Phillies,WIN,8,1908-07-12,1908-07-18
+Philadelphia Phillies,WIN,6,1908-07-20,1908-07-28
+Philadelphia Phillies,WIN,6,1908-08-29,1908-09-03
+Boston Doves,LOSS,5,1908-06-05,1908-06-10
+Boston Doves,LOSS,5,1908-07-28,1908-07-31
+Boston Doves,LOSS,6,1908-08-29,1908-09-03
+Boston Doves,LOSS,5,1908-09-16,1908-09-21
+Boston Doves,LOSS,5,1908-09-30,1908-10-05
+Chicago White Sox,WIN,13,1908-06-04,1908-06-16
+Chicago White Sox,LOSS,7,1908-06-22,1908-06-28
+Chicago White Sox,WIN,6,1908-09-17,1908-09-23
+New York Highlanders,LOSS,5,1908-06-02,1908-06-05
+New York Highlanders,LOSS,7,1908-06-10,1908-06-16
+New York Highlanders,LOSS,5,1908-06-18,1908-06-23
+New York Highlanders,LOSS,6,1908-06-29,1908-07-03
+New York Highlanders,LOSS,7,1908-07-04,1908-07-10
+New York Highlanders,LOSS,12,1908-07-23,1908-08-06
+New York Highlanders,LOSS,7,1908-08-09,1908-08-18
+New York Highlanders,LOSS,5,1908-08-28,1908-08-31
+New York Highlanders,LOSS,5,1908-09-04,1908-09-08
