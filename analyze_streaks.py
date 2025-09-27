@@ -129,9 +129,12 @@ def build_distribution_chart(
         marker = ""
         if highlight_value is not None:
             marker = f" <-- {highlight_label} {_format_single(highlight_value, as_int)}"
-        return [
-            f"{_format_single(min_value, as_int):>12} | {bar} ({len(numeric_values)}){marker}"
-        ]
+        header = f"{'Value':>12} | Bar (count)"
+        line = (
+            f"{_format_single(min_value, as_int):>12} | {bar} "
+            f"({len(numeric_values)}){marker}"
+        )
+        return [header, line]
 
     discrete_mode = as_int and (prefer_discrete or unique_count <= max_bins)
 
@@ -155,10 +158,11 @@ def build_distribution_chart(
                     f" <-- {highlight_label} "
                     f"{_format_single(highlight_value, as_int)}"
                 )
-                if highlight_percentile is not None:
-                    marker += f" ({format_percentile(highlight_percentile)})"
+            if highlight_percentile is not None:
+                marker += f" ({format_percentile(highlight_percentile)})"
             lines.append(f"{value:>12.1f} | {bar} ({count}){marker}")
-        return lines
+        header = f"{'Value':>12} | Bar (count)"
+        return [header] + lines
 
     step = (max_value - min_value) / bin_count
     if step == 0:
@@ -209,7 +213,8 @@ def build_distribution_chart(
                 marker += f" ({format_percentile(highlight_percentile)})"
         lines.append(f"{range_label:>12} | {bar} ({count}){marker}")
 
-    return lines
+    header = f"{'Range':>12} | Bar (count)"
+    return [header] + lines
 
 
 def games_in_season(season: int) -> int:
