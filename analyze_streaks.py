@@ -24,41 +24,114 @@ SEASON_GAME_PHASES = (
     (1920, 154),
     (1962, 162),
 )
-
-
 def percentile_rank(value: float, data: List[float]) -> float | None:
-    if not data:
-        return None
-    if value is None:
+    if value is None or not data:
         return None
     count = sum(1 for item in data if item <= value)
     return (count / len(data)) * 100
 
 
-def ordinal(value: int) -> str:
-    remainder = value % 100
-    if 11 <= remainder <= 13:
-        suffix = "th"
-    else:
-        last_digit = value % 10
-        if last_digit == 1:
-            suffix = "st"
-        elif last_digit == 2:
-            suffix = "nd"
-        elif last_digit == 3:
-            suffix = "rd"
-        else:
-            suffix = "th"
-    return f"{value}{suffix}"
-
-
 def format_percentile(value: float | None) -> str:
     if value is None:
         return "percentile unavailable"
-    rounded = round(value, 1)
-    if rounded.is_integer():
-        return f"{ordinal(int(rounded))} percentile"
-    return f"{rounded:.1f} percentile"
+    return f"{value:.1f} percentile"
+
+
+def _is_effectively_int(value: float) -> bool:
+    return abs(value - round(value)) < 1e-9
+
+
+def _format_single(value: float, as_int: bool) -> str:
+    if as_int:
+        return str(int(round(value)))
+    return f"{value:.1f}"
+
+
+def _format_range(start: float, end: float) -> str:
+    return f"{start:.1f}-{end:.1f}"
+
+
+def build_distribution_chart(
+    values: List[float],
+    highlight: float | None,
+    highlight_label: str,
+    highlight_percentile: float | None = None,
+    width: int = 30,
+    max_bins: int = 10,
+) -> List[str]:
+    numeric_values = [float(value) for value in values]
+    if not numeric_values:
+        return []
+
+    min_value = min(numeric_values)
+    max_value = max(numeric_values)
+    highlight_value = float(highlight) if highlight is not None else None
+    as_int = all(_is_effectively_int(value) for value in numeric_values)
+
+    unique_count = len(set(numeric_values))
+    bin_count = min(max_bins, unique_count) if unique_count else 1
+    if bin_count <= 0:
+        bin_count = 1
+
+    if max_value == min_value:
+        bar = "#" * width
+        marker = ""
+        if highlight_value is not None:
+            marker = f" <-- {highlight_label} {_format_single(highlight_value, as_int)}"
+        return [
+            f"{_format_single(min_value, as_int):>12} | {bar} ({len(numeric_values)}){marker}"
+        ]
+
+    step = (max_value - min_value) / bin_count
+    if step == 0:
+        step = 1.0
+
+    bin_counts = [0] * bin_count
+    for value in numeric_values:
+        index = int((value - min_value) / step)
+        if index >= bin_count:
+            index = bin_count - 1
+        if index < 0:
+            index = 0
+        bin_counts[index] += 1
+
+    max_count = max(bin_counts) if bin_counts else 0
+    highlight_index: int | None = None
+    if highlight_value is not None:
+        index = int((highlight_value - min_value) / step)
+        if 0 <= index < bin_count:
+            highlight_index = index
+        elif highlight_value >= max_value:
+            highlight_index = bin_count - 1
+
+    lines: List[str] = []
+    for position in range(bin_count):
+        start = min_value + position * step
+        end = (
+            min_value + (position + 1) * step
+            if position < bin_count - 1
+            else max_value
+        )
+        range_label = _format_range(start, end)
+        count = bin_counts[position]
+        if max_count == 0:
+            bar_length = 0
+        else:
+            bar_length = int(round((count / max_count) * width))
+            if count > 0 and bar_length == 0:
+                bar_length = 1
+        bar = "#" * bar_length
+        marker = ""
+        if highlight_index == position and highlight_value is not None:
+            marker = (
+                f" <-- {highlight_label} "
+                f"{_format_single(highlight_value, as_int)}"
+            )
+            if highlight_percentile is not None:
+                marker += f" ({format_percentile(highlight_percentile)})"
+        lines.append(f"{range_label:>12} | {bar} ({count}){marker}")
+
+    return lines
 
 
 def games_in_season(season: int) -> int:
@@ -181,11 +254,19 @@ def main() -> None:
 
         current_count = counts.get(CURRENT_SEASON)
         if current_count is not None:
-            percentile = percentile_rank(current_count, list(counts.values()))
-            print(
-                f"    {CURRENT_SEASON}: {current_count} streaks "
-                f"({format_percentile(percentile)})"
+            print(f"    {CURRENT_SEASON}: {current_count} streaks")
+            distribution_values = [float(value) for value in counts.values()]
+            current_percentile = percentile_rank(float(current_count), distribution_values)
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(current_count),
+                f"{CURRENT_SEASON}",
+                current_percentile,
             )
+            if chart_lines:
+                print("    Distribution:")
+                for line in chart_lines:
+                    print(f"      {line}")
         else:
             print(f"    {CURRENT_SEASON}: No data")
 
@@ -198,7 +279,7 @@ def main() -> None:
     print("\nHighest percentage of games in long streaks:")
     print(
         "  Highlights the team-seasons that spent the largest share of their schedule "
-        "inside long streaks, alongside the current season leader."
+        "inside long streaks."
     )
     for threshold in THRESHOLDS:
         totals = team_streak_totals_by_threshold[threshold]
@@ -238,20 +319,28 @@ def main() -> None:
             )
             current_season_games = games_in_season(CURRENT_SEASON)
             current_percentage = (current_games / current_season_games) * 100
-            percentile = percentile_rank(current_percentage, percentage_values)
             print(
                 f"    {CURRENT_SEASON} leader: {current_team} with "
                 f"{current_games} of {current_season_games} games "
-                f"({current_percentage:.1f}%, {format_percentile(percentile)})"
+                f"({current_percentage:.1f}%)"
             )
+            chart_lines = build_distribution_chart(
+                percentage_values,
+                current_percentage,
+                f"{CURRENT_SEASON} %",
+                percentile_rank(current_percentage, percentage_values),
+            )
+            if chart_lines:
+                print("    Distribution:")
+                for line in chart_lines:
+                    print(f"      {line}")
         else:
             print(f"    {CURRENT_SEASON}: No data")
 
     print("\nBalanced win/loss streak counts:")
     print(
         "  Shows which team-seasons logged the most matched win and loss streaks of "
-        "each length; ties note how many seasons share the record and the "
-        f"{CURRENT_SEASON} snapshot."
+        "each length; ties note how many team-seasons share the record."
     )
     for threshold in THRESHOLDS:
         team_counts = team_win_loss_counts[threshold]
@@ -306,13 +395,22 @@ def main() -> None:
 
         if current_best_key and current_best_totals and current_best_pair > 0:
             current_team, current_season_value = current_best_key
-            percentile = percentile_rank(current_best_pair, pair_values)
             print(
                 f"    {CURRENT_SEASON}: {current_team} in {current_season_value} with "
                 f"{current_best_pair} matched streaks (wins={current_best_totals['WIN']}, "
-                f"losses={current_best_totals['LOSS']}) "
-                f"({format_percentile(percentile)})"
+                f"losses={current_best_totals['LOSS']})"
             )
+            distribution_values = [float(value) for value in pair_values]
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(current_best_pair),
+                f"{CURRENT_SEASON}",
+                percentile_rank(float(current_best_pair), distribution_values),
+            )
+            if chart_lines:
+                print("    Distribution:")
+                for line in chart_lines:
+                    print(f"      {line}")
         else:
             print(f"    {CURRENT_SEASON}: No matched win/loss streaks")
 
@@ -364,11 +462,20 @@ def main() -> None:
         if current_max_wins > 0 and current_leaders:
             current_leaders.sort(key=lambda item: item[0])
             current_text = ", ".join(team for team, _ in current_leaders)
-            percentile = percentile_rank(current_max_wins, win_values)
             print(
-                f"    {CURRENT_SEASON}: {current_text} ({current_max_wins} win streaks, "
-                f"{format_percentile(percentile)})"
+                f"    {CURRENT_SEASON}: {current_text} ({current_max_wins} win streaks)"
             )
+            distribution_values = [float(value) for value in win_values]
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(current_max_wins),
+                f"{CURRENT_SEASON}",
+                percentile_rank(float(current_max_wins), distribution_values),
+            )
+            if chart_lines:
+                print("    Distribution:")
+                for line in chart_lines:
+                    print(f"      {line}")
         else:
             print(f"    {CURRENT_SEASON}: No win streaks recorded")
 
@@ -433,12 +540,21 @@ def main() -> None:
             diff, total, (team, season), counts = max(
                 current_positive, key=lambda item: (item[0], item[1], item[2][0])
             )
-            percentile = percentile_rank(diff, positive_diffs)
             print(
                 f"  {CURRENT_SEASON} win-heavy: {team} (wins={counts['WIN']}, "
-                f"losses={counts['LOSS']}, diff=+{diff}) "
-                f"({format_percentile(percentile)})"
+                f"losses={counts['LOSS']}, diff=+{diff})"
             )
+            distribution_values = [float(value) for value in positive_diffs]
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(diff),
+                f"{CURRENT_SEASON} diff",
+                percentile_rank(float(diff), distribution_values),
+            )
+            if chart_lines:
+                print("  Distribution (win-heavy):")
+                for line in chart_lines:
+                    print(f"    {line}")
         else:
             print(f"  {CURRENT_SEASON} win-heavy: None")
 
@@ -446,12 +562,21 @@ def main() -> None:
             diff, total, (team, season), counts = min(
                 current_negative, key=lambda item: (item[0], -item[1], item[2][0])
             )
-            percentile = percentile_rank(-diff, negative_magnitudes)
             print(
                 f"  {CURRENT_SEASON} loss-heavy: {team} (wins={counts['WIN']}, "
-                f"losses={counts['LOSS']}, diff={diff}) "
-                f"({format_percentile(percentile)})"
+                f"losses={counts['LOSS']}, diff={diff})"
             )
+            distribution_values = [float(value) for value in negative_magnitudes]
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(-diff),
+                f"{CURRENT_SEASON} |diff|",
+                percentile_rank(float(-diff), distribution_values),
+            )
+            if chart_lines:
+                print("  Distribution (loss-heavy):")
+                for line in chart_lines:
+                    print(f"    {line}")
         else:
             print(f"  {CURRENT_SEASON} loss-heavy: None")
 
@@ -486,11 +611,20 @@ def main() -> None:
                 current_candidates, key=lambda item: (item[1], item[0][0])
             )
             current_team, _ = current_key
-            percentile = percentile_rank(current_value, swing_values)
             print(
-                f"    {CURRENT_SEASON}: {current_team} with {current_value} swings "
-                f"({format_percentile(percentile)})"
+                f"    {CURRENT_SEASON}: {current_team} with {current_value} swings"
             )
+            distribution_values = [float(value) for value in swing_values]
+            chart_lines = build_distribution_chart(
+                distribution_values,
+                float(current_value),
+                f"{CURRENT_SEASON}",
+                percentile_rank(float(current_value), distribution_values),
+            )
+            if chart_lines:
+                print("    Distribution:")
+                for line in chart_lines:
+                    print(f"      {line}")
         else:
             print(f"    {CURRENT_SEASON}: No swings recorded")
 
