@@ -8,7 +8,6 @@ import glob
 import os
 import re
 from collections import defaultdict
-from datetime import datetime
 from typing import Dict, List, Tuple
 
 CSV_PATTERN = "mlb_streaks_*.csv"
@@ -169,9 +168,6 @@ def main() -> None:
     team_streak_totals_by_threshold: Dict[
         int, defaultdict[Tuple[str, int], int]
     ] = {threshold: defaultdict(int) for threshold in THRESHOLDS}
-    team_sequences: Dict[int, Dict[str, List[Tuple[datetime, str, int]]]] = defaultdict(
-        lambda: defaultdict(list)
-    )
 
     for path in files:
         season = extract_season(path)
@@ -205,36 +201,6 @@ def main() -> None:
                 for threshold in THRESHOLDS:
                     if length >= threshold:
                         team_win_loss_counts[threshold][team_key][streak_type] += 1
-
-                if length >= 5:
-                    start_date_str = row.get("StartDate", "")
-                    if start_date_str:
-                        try:
-                            start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
-                        except ValueError:
-                            pass
-                        else:
-                            team_sequences[season][team_name].append(
-                                (start_date, streak_type, length)
-                            )
-
-    swing_counts: Dict[int, Dict[Tuple[str, int], int]] = {
-        threshold: defaultdict(int) for threshold in THRESHOLDS
-    }
-
-    for season, team_data in team_sequences.items():
-        for team_name, entries in team_data.items():
-            entries.sort(key=lambda item: item[0])
-            for idx in range(len(entries) - 1):
-                current_date, current_type, current_length = entries[idx]
-                next_date, next_type, next_length = entries[idx + 1]
-
-                if current_type == next_type:
-                    continue
-
-                for threshold in THRESHOLDS:
-                    if current_length >= threshold and next_length >= threshold:
-                        swing_counts[threshold][(team_name, season)] += 1
 
     print("Yearly streak counts:")
     print(
@@ -579,54 +545,6 @@ def main() -> None:
                     print(f"    {line}")
         else:
             print(f"  {CURRENT_SEASON} loss-heavy: None")
-
-    print("\nRoller-coaster streak swings:")
-    print(
-        "  Counts back-to-back swings between long win and loss streaks for each "
-        "threshold, spotlighting the most volatile seasons and the current year."
-    )
-    for threshold in THRESHOLDS:
-        counts = swing_counts[threshold]
-        if not counts:
-            print(f"  {threshold}+: No swings recorded")
-            continue
-
-        swing_values = list(counts.values())
-
-        best_key, best_value = max(
-            counts.items(), key=lambda item: (item[1], item[0][1], item[0][0])
-        )
-        best_team, best_season = best_key
-        print(
-            f"  {threshold}+: {best_team} in {best_season} with {best_value} swings"
-        )
-
-        current_candidates = [
-            (key, value)
-            for key, value in counts.items()
-            if key[1] == CURRENT_SEASON
-        ]
-        if current_candidates:
-            current_key, current_value = max(
-                current_candidates, key=lambda item: (item[1], item[0][0])
-            )
-            current_team, _ = current_key
-            print(
-                f"    {CURRENT_SEASON}: {current_team} with {current_value} swings"
-            )
-            distribution_values = [float(value) for value in swing_values]
-            chart_lines = build_distribution_chart(
-                distribution_values,
-                float(current_value),
-                f"{CURRENT_SEASON}",
-                percentile_rank(float(current_value), distribution_values),
-            )
-            if chart_lines:
-                print("    Distribution:")
-                for line in chart_lines:
-                    print(f"      {line}")
-        else:
-            print(f"    {CURRENT_SEASON}: No swings recorded")
 
 
 if __name__ == "__main__":
