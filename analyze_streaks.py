@@ -7,7 +7,7 @@ import csv
 import glob
 import os
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from typing import Dict, List, Tuple
 
 CSV_PATTERN = "mlb_streaks_*.csv"
@@ -23,6 +23,57 @@ SEASON_GAME_PHASES = (
     (1920, 154),
     (1962, 162),
 )
+RANK_TOLERANCE = 1e-9
+
+
+def ordinal(value: int) -> str:
+    remainder = value % 100
+    if 10 <= remainder <= 20:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(value % 10, "th")
+    return f"{value}{suffix}"
+
+
+def compute_rank(
+    value: float,
+    values: List[float],
+    higher_is_better: bool = True,
+    tolerance: float = RANK_TOLERANCE,
+) -> tuple[int, int, int]:
+    if not values:
+        return 0, 0, 0
+
+    numeric_values = [float(item) for item in values]
+    target = float(value)
+
+    if higher_is_better:
+        better = sum(1 for item in numeric_values if item > target + tolerance)
+    else:
+        better = sum(1 for item in numeric_values if item < target - tolerance)
+
+    tied = sum(1 for item in numeric_values if abs(item - target) <= tolerance)
+    return better + 1, tied, len(numeric_values)
+
+
+def top_rank_annotation(
+    value: float | None,
+    values: List[float],
+    *,
+    higher_is_better: bool = True,
+    top_n: int = 10,
+    tolerance: float = RANK_TOLERANCE,
+) -> str | None:
+    if value is None or not values:
+        return None
+
+    rank, tie_count, _ = compute_rank(value, values, higher_is_better, tolerance)
+    if rank == 0 or rank > top_n:
+        return None
+
+    if tie_count > 1:
+        return f"tied for {ordinal(rank)} all-time"
+    return f"{ordinal(rank)} all-time"
 def percentile_rank(value: float, data: List[float]) -> float | None:
     if value is None or not data:
         return None
@@ -57,6 +108,7 @@ def build_distribution_chart(
     highlight_percentile: float | None = None,
     width: int = 30,
     max_bins: int = 10,
+    prefer_discrete: bool = False,
 ) -> List[str]:
     numeric_values = [float(value) for value in values]
     if not numeric_values:
@@ -80,6 +132,33 @@ def build_distribution_chart(
         return [
             f"{_format_single(min_value, as_int):>12} | {bar} ({len(numeric_values)}){marker}"
         ]
+
+    discrete_mode = as_int and (prefer_discrete or unique_count <= max_bins)
+
+    if discrete_mode:
+        value_counts = Counter(numeric_values)
+        sorted_values = sorted(value_counts.keys())
+        max_count = max(value_counts.values()) if value_counts else 0
+        lines = []
+        for value in sorted_values:
+            count = value_counts[value]
+            if max_count == 0:
+                bar_length = 0
+            else:
+                bar_length = int(round((count / max_count) * width))
+                if count > 0 and bar_length == 0:
+                    bar_length = 1
+            bar = "#" * bar_length
+            marker = ""
+            if highlight_value is not None and abs(highlight_value - value) < 1e-9:
+                marker = (
+                    f" <-- {highlight_label} "
+                    f"{_format_single(highlight_value, as_int)}"
+                )
+                if highlight_percentile is not None:
+                    marker += f" ({format_percentile(highlight_percentile)})"
+            lines.append(f"{value:>12.1f} | {bar} ({count}){marker}")
+        return lines
 
     step = (max_value - min_value) / bin_count
     if step == 0:
@@ -219,9 +298,11 @@ def main() -> None:
         print(f"  {threshold}+: {years_formatted} ({max_count} streaks)")
 
         current_count = counts.get(CURRENT_SEASON)
+        distribution_values = [float(value) for value in counts.values()]
         if current_count is not None:
-            print(f"    {CURRENT_SEASON}: {current_count} streaks")
-            distribution_values = [float(value) for value in counts.values()]
+            annotation = top_rank_annotation(float(current_count), distribution_values)
+            annotation_text = f" — {annotation}" if annotation else ""
+            print(f"    {CURRENT_SEASON}: {current_count} streaks{annotation_text}")
             current_percentile = percentile_rank(float(current_count), distribution_values)
             chart_lines = build_distribution_chart(
                 distribution_values,
@@ -285,10 +366,12 @@ def main() -> None:
             )
             current_season_games = games_in_season(CURRENT_SEASON)
             current_percentage = (current_games / current_season_games) * 100
+            annotation = top_rank_annotation(current_percentage, percentage_values)
+            annotation_text = f" — {annotation}" if annotation else ""
             print(
                 f"    {CURRENT_SEASON} leader: {current_team} with "
                 f"{current_games} of {current_season_games} games "
-                f"({current_percentage:.1f}%)"
+                f"({current_percentage:.1f}%){annotation_text}"
             )
             chart_lines = build_distribution_chart(
                 percentage_values,
@@ -359,19 +442,22 @@ def main() -> None:
                 current_best_key = key
                 current_best_totals = counts
 
+        distribution_values = [float(value) for value in pair_values]
         if current_best_key and current_best_totals and current_best_pair > 0:
             current_team, current_season_value = current_best_key
+            annotation = top_rank_annotation(float(current_best_pair), distribution_values)
+            annotation_text = f" — {annotation}" if annotation else ""
             print(
                 f"    {CURRENT_SEASON}: {current_team} in {current_season_value} with "
                 f"{current_best_pair} matched streaks (wins={current_best_totals['WIN']}, "
-                f"losses={current_best_totals['LOSS']})"
+                f"losses={current_best_totals['LOSS']}){annotation_text}"
             )
-            distribution_values = [float(value) for value in pair_values]
             chart_lines = build_distribution_chart(
                 distribution_values,
                 float(current_best_pair),
                 f"{CURRENT_SEASON}",
                 percentile_rank(float(current_best_pair), distribution_values),
+                prefer_discrete=True,
             )
             if chart_lines:
                 print("    Distribution:")
@@ -428,15 +514,18 @@ def main() -> None:
         if current_max_wins > 0 and current_leaders:
             current_leaders.sort(key=lambda item: item[0])
             current_text = ", ".join(team for team, _ in current_leaders)
-            print(
-                f"    {CURRENT_SEASON}: {current_text} ({current_max_wins} win streaks)"
-            )
             distribution_values = [float(value) for value in win_values]
+            annotation = top_rank_annotation(float(current_max_wins), distribution_values)
+            annotation_text = f" — {annotation}" if annotation else ""
+            print(
+                f"    {CURRENT_SEASON}: {current_text} ({current_max_wins} win streaks){annotation_text}"
+            )
             chart_lines = build_distribution_chart(
                 distribution_values,
                 float(current_max_wins),
                 f"{CURRENT_SEASON}",
                 percentile_rank(float(current_max_wins), distribution_values),
+                prefer_discrete=True,
             )
             if chart_lines:
                 print("    Distribution:")
@@ -445,24 +534,25 @@ def main() -> None:
         else:
             print(f"    {CURRENT_SEASON}: No win streaks recorded")
 
-    base_threshold = THRESHOLDS[0]
-    print(f"\nAsymmetry in {base_threshold}+ game streaks:")
-    print(
-        "  Measures how lopsided seasons were between long win and loss streaks, "
-        f"including the most skewed {CURRENT_SEASON} results."
-    )
-    base_counts = team_win_loss_counts[base_threshold]
-    if not base_counts:
-        print("  No streak data available")
-    else:
+    for threshold in THRESHOLDS:
+        print(f"\nAsymmetry in {threshold}+ game streaks:")
+        print(
+            "  Measures how lopsided seasons were between long win and loss streaks, "
+            f"including the most skewed {CURRENT_SEASON} results."
+        )
+        threshold_counts = team_win_loss_counts[threshold]
+        if not threshold_counts:
+            print("  No streak data available")
+            continue
+
         positive_entries = [
             (counts["WIN"] - counts["LOSS"], counts["WIN"] + counts["LOSS"], key, counts)
-            for key, counts in base_counts.items()
+            for key, counts in threshold_counts.items()
             if counts["WIN"] - counts["LOSS"] > 0
         ]
         negative_entries = [
             (counts["WIN"] - counts["LOSS"], counts["WIN"] + counts["LOSS"], key, counts)
-            for key, counts in base_counts.items()
+            for key, counts in threshold_counts.items()
             if counts["WIN"] - counts["LOSS"] < 0
         ]
 
@@ -493,12 +583,12 @@ def main() -> None:
 
         current_positive = [
             (counts["WIN"] - counts["LOSS"], counts["WIN"] + counts["LOSS"], key, counts)
-            for key, counts in base_counts.items()
+            for key, counts in threshold_counts.items()
             if key[1] == CURRENT_SEASON and counts["WIN"] - counts["LOSS"] > 0
         ]
         current_negative = [
             (counts["WIN"] - counts["LOSS"], counts["WIN"] + counts["LOSS"], key, counts)
-            for key, counts in base_counts.items()
+            for key, counts in threshold_counts.items()
             if key[1] == CURRENT_SEASON and counts["WIN"] - counts["LOSS"] < 0
         ]
 
@@ -506,16 +596,19 @@ def main() -> None:
             diff, total, (team, season), counts = max(
                 current_positive, key=lambda item: (item[0], item[1], item[2][0])
             )
+            distribution_values = [float(value) for value in positive_diffs]
+            annotation = top_rank_annotation(float(diff), distribution_values)
+            annotation_text = f" — {annotation}" if annotation else ""
             print(
                 f"  {CURRENT_SEASON} win-heavy: {team} (wins={counts['WIN']}, "
-                f"losses={counts['LOSS']}, diff=+{diff})"
+                f"losses={counts['LOSS']}, diff=+{diff}){annotation_text}"
             )
-            distribution_values = [float(value) for value in positive_diffs]
             chart_lines = build_distribution_chart(
                 distribution_values,
                 float(diff),
                 f"{CURRENT_SEASON} diff",
                 percentile_rank(float(diff), distribution_values),
+                prefer_discrete=True,
             )
             if chart_lines:
                 print("  Distribution (win-heavy):")
@@ -528,16 +621,19 @@ def main() -> None:
             diff, total, (team, season), counts = min(
                 current_negative, key=lambda item: (item[0], -item[1], item[2][0])
             )
+            distribution_values = [float(value) for value in negative_magnitudes]
+            annotation = top_rank_annotation(float(-diff), distribution_values)
+            annotation_text = f" — {annotation}" if annotation else ""
             print(
                 f"  {CURRENT_SEASON} loss-heavy: {team} (wins={counts['WIN']}, "
-                f"losses={counts['LOSS']}, diff={diff})"
+                f"losses={counts['LOSS']}, diff={diff}){annotation_text}"
             )
-            distribution_values = [float(value) for value in negative_magnitudes]
             chart_lines = build_distribution_chart(
                 distribution_values,
                 float(-diff),
                 f"{CURRENT_SEASON} |diff|",
                 percentile_rank(float(-diff), distribution_values),
+                prefer_discrete=True,
             )
             if chart_lines:
                 print("  Distribution (loss-heavy):")
