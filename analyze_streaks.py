@@ -283,7 +283,7 @@ def main() -> None:
 
     print("Yearly streak counts:")
     print(
-        "  Seasons with the most total streaks at or above each length, plus the "
+        "  Seasons with the most total streaks (win or loss) at or above each length, plus the "
         f"current {CURRENT_SEASON} tally for context."
     )
     for threshold in THRESHOLDS:
@@ -326,7 +326,7 @@ def main() -> None:
     print("\nHighest percentage of games in long streaks:")
     print(
         "  Highlights the team-seasons that spent the largest share of their schedule "
-        "inside long streaks."
+        "inside long streaks (win or loss)."
     )
     for threshold in THRESHOLDS:
         totals = team_streak_totals_by_threshold[threshold]
@@ -388,7 +388,7 @@ def main() -> None:
 
     print("\nBalanced win/loss streak counts:")
     print(
-        "  Shows which team-seasons logged the most matched win and loss streaks of "
+        "  Shows which team-seasons logged the most matched win AND loss streaks of "
         "each length; ties note how many team-seasons share the record."
     )
     for threshold in THRESHOLDS:
