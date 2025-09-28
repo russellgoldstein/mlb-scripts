@@ -26,7 +26,7 @@ def build_markdown(raw_text: str) -> str:
     last_was_heading = False
     section_type_lookup = {
         "yearly streak counts": "win/loss streaks",
-        "highest percentage of games in long streaks": "win/loss streaks",
+        "highest percentage of season's games in long streaks": "win/loss streaks",
         "balanced win/loss streak counts": "matched win/loss streaks",
         "win streak dominance across thresholds": "win streaks",
     }

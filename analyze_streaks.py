@@ -334,7 +334,7 @@ def main() -> None:
         print("\nNo team streak data available for 5+ game analysis.")
         return
 
-    print("\nHighest percentage of games in long streaks:")
+    print("\nHighest percentage of season's games in long streaks:")
     print(
         "  Highlights the team-seasons that spent the largest share of their schedule "
         "inside long streaks (win or loss)."

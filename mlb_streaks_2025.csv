@@ -44,6 +44,7 @@ Colorado Rockies,LOSS,5,2025-06-24,2025-06-28
 Colorado Rockies,LOSS,8,2025-08-03,2025-08-11
 Colorado Rockies,LOSS,6,2025-09-06,2025-09-11
 Colorado Rockies,LOSS,5,2025-09-13,2025-09-18
+Colorado Rockies,LOSS,6,2025-09-23,2025-09-28
 Detroit Tigers,WIN,5,2025-04-04,2025-04-08
 Detroit Tigers,WIN,5,2025-05-25,2025-05-30
 Detroit Tigers,WIN,5,2025-07-04,2025-07-08
@@ -66,6 +67,7 @@ Los Angeles Dodgers,WIN,5,2025-06-14,2025-06-18
 Los Angeles Dodgers,WIN,5,2025-06-22,2025-06-27
 Los Angeles Dodgers,LOSS,7,2025-07-04,2025-07-11
 Los Angeles Dodgers,LOSS,5,2025-09-02,2025-09-06
+Los Angeles Dodgers,WIN,5,2025-09-24,2025-09-28
 Washington Nationals,LOSS,7,2025-05-06,2025-05-13
 Washington Nationals,LOSS,11,2025-06-07,2025-06-18
 Washington Nationals,LOSS,5,2025-07-10,2025-07-18
@@ -172,7 +174,7 @@ New York Yankees,WIN,5,2025-07-06,2025-07-11
 New York Yankees,LOSS,5,2025-08-01,2025-08-05
 New York Yankees,WIN,5,2025-08-15,2025-08-20
 New York Yankees,WIN,7,2025-08-24,2025-08-30
-New York Yankees,WIN,6,2025-09-20,2025-09-26
+New York Yankees,WIN,8,2025-09-20,2025-09-28
 Milwaukee Brewers,WIN,8,2025-05-25,2025-06-02
 Milwaukee Brewers,WIN,11,2025-07-06,2025-07-21
 Milwaukee Brewers,WIN,14,2025-08-01,2025-08-16
